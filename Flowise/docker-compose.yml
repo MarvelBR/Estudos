@@ -29,10 +29,17 @@ services:
     ports:
       - "3000:3000"
     environment:
+      # login opcional
       - FLOWISE_USERNAME=admin
       - FLOWISE_PASSWORD=admin123
+
+      # conecta no Qdrant (via rede docker, use o hostname do serviço)
       - QDRANT_URL=http://qdrant:6333
+
+      # aponta pro Ollama
       - OLLAMA_BASE_URL=http://ollama:11434
+
+      # dados do Flowise
       - FLOWISE_FILE_STORAGE_PATH=/root/.flowise
     volumes:
       - flowise_data:/root/.flowise
