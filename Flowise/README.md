@@ -120,7 +120,7 @@
 
 ---
 
-11.  Verificar se tudo deu certo:
+11. Verificar se tudo deu certo:
     1. Abra o **$\textcolor{royalblue}{\textnormal{chat}}$** e pergunte algo sobre o que você o ensinou.
     2. Caso apareça o nome da base de dados que você criou e em seguida algum texto, significa que deu certo.
     3. Exemplo: 
