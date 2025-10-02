@@ -2,6 +2,12 @@
 
 ## Passo a passo para rodar
 
+## Para verificar se o <font size="5" color="gray">Ollama</font> está funcionando
+
+## Para verificar se o <span style="font-size:18px; color:gray;">Ollama</span> está funcionando
+
+## Para verificar se o $\textcolor{gray}{\textnormal{\Large Ollama}}$ está funcionando
+
 1. Criar um `docker-compose.yml`.
 2. Subir os serviços: 
     1. No terminal, dentro da pasta:
