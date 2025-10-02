@@ -15,12 +15,12 @@
     5. Teste rápido: `curl http://localhost:11434/api/tags`, se listar os modelos, tá tudo certo.
 
 4. Verificar se os serviços estão funcionando:
-    1. Acesse: **[$\textcolor{gray}{\textnormal{Ollama}}$](http://localhost:11434)**, para verificar ser o **$\textcolor{gray}{\textnormal{Ollama}}$** está funcionando.
+    1. Acesse: **[Ollama](http://localhost:11434)**, para verificar ser o <font size="5">**$\textcolor{gray}{\textnormal{Ollama}}$**</font> está funcionando.
         * Caso apareça uma página com **"Ollama is running"**, deu certo!
-    2. Acesse: **[$\textcolor{red}{\textnormal{Qdrant}}$](http://localhost:6333/dashboard)**, para verificar se o **$\textcolor{red}{\textnormal{Qdrant}}$** está funcionando.
+    2. Acesse: **[Qdrant](http://localhost:6333/dashboard)**, para verificar se o **$\textcolor{red}{\textnormal{Qdrant}}$** está funcionando.
         * Caso apareça uma tela semelhante a essa: ![Qdrant Home Page](qdrant.png)
         * Deu tudo certo!
-    3. Acesse: **[$\textcolor{cyan}{\textnormal{Flowise}}$](http://localhost:3000)**, para verificar se o **$\textcolor{cyan}{\textnormal{Flowise}}$** está funcionando.
+    3. Acesse: **[Flowise](http://localhost:3000)**, para verificar se o **$\textcolor{cyan}{\textnormal{Flowise}}$** está funcionando.
         * Caso apareça uma tela semelhante a essa: ![Flowise Login Page](flowise.png)
         * Deu tudo certo!
             * Caso você tenha setado um **username** e uma **password** no docker, coloque eles no `Existing Username` e `Existing Password` (caso não tenha colocado, esses campos nem irão aparecer).
