@@ -2,27 +2,27 @@
 
 ## Passo a passo para rodar
 
-1. Criar um `docker-compose.yml`.
+1. Crie um `docker-compose.yml`.
    1. (Vou usar o que está nesse repositório).
 
 ---
 
-2. Subir os serviços: 
+2. Suba os serviços: 
     1. No terminal, dentro da pasta:
         1. Use o comando `docker compose up -d` para rodar o docker.
 
 ---
 
-3. Baixar os modelos no **$\textcolor{gray}{\textnormal{Ollama}}$**:
+3. Baixe os modelos no **$\textcolor{gray}{\textnormal{Ollama}}$**:
     1. Entre no container do **Ollama** digitando: `docker exec -it ollama bash`.
     2. Escolha o **modelo de linguagem** (no meu caso testei o llama3.2:3b), então dentro do container: `ollama pull llama3.2:3b`.
     3. Escolha o **modelo de embedding** (no meu caso foi o nomic-embed-text), ainda dentro do container: `ollama pull nomic-embed-text`.
-    4. Dar um `exit` para sair do container.
+    4. Dê um `exit` para sair do container.
     5. Teste rápido: `curl http://localhost:11434/api/tags`, se listar os modelos, tá tudo certo.
 
 ---
 
-4. Verificar se os serviços estão funcionando:
+4. Verifique se os serviços estão funcionando:
     1. Acesse: **[Ollama](http://localhost:11434)**, para verificar ser o **$\textcolor{gray}{\textnormal{Ollama}}$** está funcionando.
         * Caso apareça uma página com **"Ollama is running"**, deu certo!
     2. Acesse: **[Qdrant](http://localhost:6333/dashboard)**, para verificar se o **$\textcolor{red}{\textnormal{Qdrant}}$** está funcionando.
@@ -59,7 +59,7 @@
 
 ---
 
-7. Voltando para a tela inicial do **$\textcolor{teal}{\textnormal{Flowise}}$**, vamos agora para a aba **Document Store** para podermos aplicar o **<ins>RAG</ins>**.
+7. Volte para a tela inicial do **$\textcolor{teal}{\textnormal{Flowise}}$**, e vá para a aba **Document Store** para aplicar o **<ins>RAG</ins>**.
     1. Clique em **$\textcolor{cyan}{\textnormal{+ Add New}}$** e dê um nome para esse armazenamento de documentos.
     2. Entrando nesse armazenamento clicamos em **$\textcolor{cyan}{\textnormal{+ Add Document Loader}}$**. 
         1. Agora selecione o **Document Loader** específico do tipo de arquivo que você quer utilizar.
@@ -75,21 +75,22 @@
 
 ---
 
-8. Agora vamos voltar para o **[Qdrant](http://localhost:6333/dashboard)**!  
+8. Agora volte para o **[Qdrant](http://localhost:6333/dashboard)**!  
     1. Em qualquer uma das abas é possível ver que no canto superior direito tem uma chave (🔑) com o nome de **API Key**.      
-        1. Clique nela, de um **nome para sua chave** e por fim de um `Apply`.
+        1. Clique nela, dê um **nome para sua chave** e por fim dê um `Apply`.
             * Precisamos dessa chave para conectar o **$\textcolor{red}{\textnormal{Qdrant}}$** no **$\textcolor{teal}{\textnormal{Flowise}}$**, 
     2. Indo para a aba **Collections** clique em **$\textcolor{cyan}{\textnormal{+ Create Collection}}$**. 
-        1. De um nome para a coleção e clique em **$\textcolor{lightgray}{\textnormal{Continue}}$**.
+        1. Dê um nome para a coleção e clique em **$\textcolor{lightgray}{\textnormal{Continue}}$**.
         2. Na pergunta **What's your use case?** Clique em `Global Search`.
         3. Na pergunta **What to use for search?** Clique em `Simple Single embedding`.
-        4. Em **Vector configuration** escreva **768** nas dimensões (pois é a quantidade que o nomic-embed-text usa) e a métrica use a `Cosine` (pois é a mais comum).
-        5. Por fim clique em **$\textcolor{lightgray}{\textnormal{Continue}}$** e **$\textcolor{lightgray}{\textnormal{Finish}}$**.
+        4. Em **Choose dimensions** escreva **768** (pois é a quantidade de dimensões que o nomic-embed-text usa)
+        5. E em **Choose metric** selecione `Cosine` (pois é a mais comum).
+        6. Por fim clique em **$\textcolor{lightgray}{\textnormal{Continue}}$** e **$\textcolor{lightgray}{\textnormal{Finish}}$**.
 
 ---
 
-9.  Voltamos para o **Document Loader** do **$\textcolor{teal}{\textnormal{Flowise}}$**:
-    1. Onde está o Loader do documento salvo, existe o campo `Actions` com um **$\textcolor{blue}{\textnormal{Options}}$** clicável.
+9.  Volte para o **Document Loader** do **$\textcolor{teal}{\textnormal{Flowise}}$**:
+    1. Onde está o Loader do documento salvo, existe o campo `Actions` com um **$\textcolor{blue}{\textnormal{Options}}$** clicável, clique nele.
     2. Depois clique em `Upsert Chunks`.
         1. Onde está escrito **$\textcolor{pink}{\textnormal{Select Embeddings}}$** selecione a opção escolhida no início (no meu caso foi o embedding do **$\textcolor{gray}{\textnormal{Ollama}}$**)
             * Após selecionar o `Ollama Embeddings` é necessário mudar o `Base URL` para `http://ollama:11434`.
@@ -99,13 +100,13 @@
                 * Aparecerá um modal que pede um **nome** e a **API key** que criamos lá no **$\textcolor{red}{\textnormal{Qdrant}}$**.
                 * Então em `Credential Name` basta dar um nome qualquer.
                 * Em `Qdrant API Key` você coloca o nome que você deu para sua **chave** do **$\textcolor{red}{\textnormal{Qdrant}}$**.
-                * Ai é só dar **$\textcolor{cyan}{\textnormal{Add}}$**
-            * Em `Qdrant Server URL` devemos colocar `http://qdrant:6333`.
-            * Em `Qdrant Collection Name` colocamos o nome que demos para a **coleção** do **$\textcolor{red}{\textnormal{Qdrant}}$**.
-            * Por últimos devemos confirmar se o `Vector Dimension` (no nosso caso 768) e o `Similarity` está como `Cosine` igual colocamos no **$\textcolor{red}{\textnormal{Qdrant}}$**.
-        3. Salvamos essa configuração clicando em `Save Config`, então as próximas vezes que formos salvar os embedding no **$\textcolor{red}{\textnormal{Qdrant}}$**, não será preciso fazer o que fizemos acima. 
-        4. Por fim clicamos em `Upsert` para mandar os embeddings para o **$\textcolor{red}{\textnormal{Qdrant}}$**.
-    3. Para testar se funcionou, volte ao **$\textcolor{red}{\textnormal{Qdrant}}$** e veja se sua coleção agora tem pontos, segmentos e fragmentos diferentes de 0.
+                * Ai é só clicar **$\textcolor{cyan}{\textnormal{Add}}$**
+            * Em `Qdrant Server URL` coloque `http://qdrant:6333`.
+            * Em `Qdrant Collection Name` coloque o nome dado para a **coleção** do **$\textcolor{red}{\textnormal{Qdrant}}$**.
+            * Por últimos confirme se o `Vector Dimension` está com `768` e o `Similarity` está como `Cosine`, igual estava no **$\textcolor{red}{\textnormal{Qdrant}}$**.
+        3. Salve essa configuração clicando em **$\textcolor{orchid}{\textnormal{Save Config}}$**, então as próximas vezes que for salvar os embedding no **$\textcolor{red}{\textnormal{Qdrant}}$**, não será preciso fazer o que foi feito acima. 
+        4. Por fim clique em **$\textcolor{teal}{\textnormal{Upsert}}$** para mandar os embeddings para o **$\textcolor{red}{\textnormal{Qdrant}}$**.
+    3. Para testar se funcionou, volte ao **$\textcolor{red}{\textnormal{Qdrant}}$** e veja se sua coleção agora têm pontos, segmentos e fragmentos diferentes de 0.
         1. Você consegue ver também como os pontos vetorias estão espalhados no banco clicando em no 3 pontos em `Actions`, depois em `Visualize` e por fim no código a direita em `Run`.
 
 ---
@@ -119,7 +120,7 @@
 
 ---
 
-1.  Verificar se tudo deu certo:
+11.  Verificar se tudo deu certo:
     1. Abra o **$\textcolor{royalblue}{\textnormal{chat}}$** e pergunte algo sobre o que você o ensinou.
     2. Caso apareça o nome da base de dados que você criou e em seguida algum texto, significa que deu certo.
     3. Exemplo: 
