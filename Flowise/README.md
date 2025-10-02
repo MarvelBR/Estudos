@@ -111,7 +111,7 @@
 
 ---
 
-10. Voltando para o **Agente** que havíamos criado:
+10. Volte para o **Agente** criado:
     1. Abrindo suas configurações novamente agora clicamos em `Knowledge (Document Stores)`
         1. Em `Document Store` haverá uma combobox que (se tudo deu certo) terá a opção do armazenamento de documentos que criamos anteriormente, então clicamos nela.
         2. Já em `Describe Knowledge` devemos descrever sobre o que é essa base de conhecimento, que é útil para IA saber quando e como procurar pela informação correta.
