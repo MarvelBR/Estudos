@@ -7,7 +7,7 @@
     1. No terminal, dentro da pasta:
         1. Use o comando `docker compose up -d` para rodar o docker.
 
-3. Baixar os modelos no Ollama:
+3. Baixar os modelos no  <span style="color:#dc244c">Ollama</span>:
     1. Entre no container do Ollama digitando: `docker exec -it ollama bash`.
     2. Escolha o modelo de linguagem (no meu caso testei o llama3.2:3b), então dentro do container: `ollama pull llama3.2:3b`.
     3. Escolha o modelo de embedding (no meu caso foi o nomic-embed-text), ainda dentro do container: `ollama pull nomic-embed-text`.
