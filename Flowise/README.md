@@ -17,7 +17,7 @@
 4. Verificar se os serviços estão funcionando:
     1. Acesse: [Ollama](http://localhost:11434), para verificar ser o Ollama está funcionando.
         * Caso apareça "Ollama is running", deu certo!
-    2. Acesse: <span style="color=#dc244c">[Qdrant](http://localhost:6333/dashboard)</span>, para verificar se o Qdrant está funcionando.
+    2. Acesse: <span style="color:#dc244c">[Qdrant](http://localhost:6333/dashboard)</span>, para verificar se o Qdrant está funcionando.
         * Caso apareça uma tela semelhante a essa: ![Qdrant Home Page](qdrant.png)
         * Deu tudo certo!
     3. Acesse: [Flowise](http://localhost:3000), para verificar se o Flowise está funcionando.
