@@ -2,12 +2,6 @@
 
 ## Passo a passo para rodar
 
-## Para verificar se o <font size="5" color="gray">Ollama</font> está funcionando
-
-## Para verificar se o <span style="font-size:18px; color:gray;">Ollama</span> está funcionando
-
-## Para verificar se o $\textcolor{gray}{\textnormal{\Large Ollama}}$ está funcionando
-
 1. Criar um `docker-compose.yml`.
 2. Subir os serviços: 
     1. No terminal, dentro da pasta:
@@ -21,7 +15,7 @@
     5. Teste rápido: `curl http://localhost:11434/api/tags`, se listar os modelos, tá tudo certo.
 
 4. Verificar se os serviços estão funcionando:
-    1. Acesse: **[Ollama](http://localhost:11434)**, para verificar ser o <font size="5">**$\textcolor{gray}{\textnormal{Ollama}}$**</font> está funcionando.
+    1. Acesse: **[Ollama](http://localhost:11434)**, para verificar ser o **$\textcolor{gray}{\textnormal{\Large Ollama}}$** está funcionando.
         * Caso apareça uma página com **"Ollama is running"**, deu certo!
     2. Acesse: **[Qdrant](http://localhost:6333/dashboard)**, para verificar se o **$\textcolor{red}{\textnormal{Qdrant}}$** está funcionando.
         * Caso apareça uma tela semelhante a essa: ![Qdrant Home Page](qdrant.png)
