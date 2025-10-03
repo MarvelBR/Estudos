@@ -92,7 +92,7 @@
 9.  Volte para o **Document Loader** do **$\textcolor{teal}{\textnormal{Flowise}}$**:
     1. Onde está o Loader do documento salvo, existe o campo `Actions` com um **$\textcolor{blue}{\textnormal{Options}}$** clicável, clique nele.
     2. Depois clique em `Upsert Chunks`.
-        1. Onde está escrito **$\textcolor{pink}{\textnormal{Select~Embeddings}}$** selecione a opção escolhida no início (no meu caso foi o embedding do **Ollama**)
+        1. Onde está escrito <b style="color:pink">Select Embeddings</b> selecione a opção escolhida no início (no meu caso foi o embedding do **Ollama**)
             * Após selecionar o `Ollama Embeddings` é necessário mudar o `Base URL` para `http://ollama:11434`.
             * Em `Model Name`, colocamos `nomic-embed-text`.
         2. Onde está escrito **$\textcolor{yellow}{\textnormal{Select~Vector~Store}}$** selecione o banco onde vai ser salvo o embedding dos dados (no meu caso será o **Qdrant**)
