@@ -92,10 +92,10 @@
 9.  Volte para o **Document Loader** do **$\textcolor{teal}{\textnormal{Flowise}}$**:
     1. Onde está o Loader do documento salvo, existe o campo `Actions` com um **$\textcolor{blue}{\textnormal{Options}}$** clicável, clique nele.
     2. Depois clique em `Upsert Chunks`.
-        1. Onde está escrito **$\textcolor{red}{{Select Embeddings}}$** selecione a opção escolhida no início (no meu caso foi o embedding do **$\textcolor{darkgray}{\textnormal{Ollama}}$**)
+        1. Onde está escrito **$\textcolor{pink}{{Select Embeddings}}$** selecione a opção escolhida no início (no meu caso foi o embedding do **Ollama**)
             * Após selecionar o `Ollama Embeddings` é necessário mudar o `Base URL` para `http://ollama:11434`.
             * Em `Model Name`, colocamos `nomic-embed-text`.
-        2. Onde está escrito **$\textcolor{red}{{Select Vector Store}}$** selecione o banco onde vai ser salvo o embedding dos dados (no meu caso será o Qdrant)
+        2. Onde está escrito **$\textcolor{yellow}{\textnormal{Select Vector Store}}$** selecione o banco onde vai ser salvo o embedding dos dados (no meu caso será o **Qdrant**)
             * Após selecionar o **$\textcolor{red}{\textnormal{Qdrant}}$** devemos criar uma credencial de conexão, então em `Connect Creditial` clique em `Create New`.
                 * Aparecerá um modal que pede um **nome** e a **API key** que criamos lá no **$\textcolor{red}{\textnormal{Qdrant}}$**.
                 * Então em `Credential Name` basta dar um nome qualquer.
