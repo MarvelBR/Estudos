@@ -13,8 +13,8 @@
 
 ---
 
-3. Baixe os modelos no **$\textcolor{darkgray}{\textnormal{Ollama}}$**:
-    1. Entre no container do **$\textcolor{darkgray}{\textnormal{Ollama}}$** digitando: `docker exec -it ollama bash`.
+3. Baixe os modelos no **$\textcolor{black}{\textnormal{Ollama}}$**:
+    1. Entre no container do **$\textcolor{black}{\textnormal{Ollama}}$** digitando: `docker exec -it ollama bash`.
     2. Escolha o **modelo de linguagem** (no meu caso testei o llama3.2:3b), então dentro do container: `ollama pull llama3.2:3b`.
     3. Escolha o **modelo de embedding** (no meu caso foi o nomic-embed-text), ainda dentro do container: `ollama pull nomic-embed-text`.
     4. Dê um `exit` para sair do container.
@@ -23,7 +23,7 @@
 ---
 
 4. Verifique se os serviços estão funcionando:
-    1. Acesse: **[Ollama](http://localhost:11434)**, para verificar ser o **$\textcolor{darkgray}{\textnormal{Ollama}}$** está funcionando.
+    1. Acesse: **[Ollama](http://localhost:11434)**, para verificar ser o **$\textcolor{black}{\textnormal{Ollama}}$** está funcionando.
         * Caso apareça uma página com **"Ollama is running"**, deu certo!
     2. Acesse: **[Qdrant](http://localhost:6333/dashboard)**, para verificar se o **$\textcolor{red}{\textnormal{Qdrant}}$** está funcionando.
         * Caso apareça uma tela semelhante a essa: ![Qdrant Home Page](qdrant.png)
@@ -80,22 +80,22 @@
         1. Clique nela, dê um **nome para sua chave** e por fim dê um `Apply`.
             * Precisamos dessa chave para conectar o **$\textcolor{red}{\textnormal{Qdrant}}$** no **$\textcolor{teal}{\textnormal{Flowise}}$**, 
     2. Indo para a aba **Collections** clique em **$\textcolor{turquoise}{\textnormal{+ Create Collection}}$**. 
-        1. Dê um nome para a coleção e clique em **$\textcolor{darkgray}{\textnormal{Continue}}$**.
+        1. Dê um nome para a coleção e clique em **$\textcolor{black}{\textnormal{Continue}}$**.
         2. Na pergunta **What's your use case?** Clique em `Global Search`.
         3. Na pergunta **What to use for search?** Clique em `Simple Single embedding`.
         4. Em **Choose dimensions** escreva **768** (pois é a quantidade de dimensões que o nomic-embed-text usa)
         5. E em **Choose metric** selecione `Cosine` (pois é a mais comum).
-        6. Por fim clique em **$\textcolor{darkgray}{\textnormal{Continue}}$** e **$\textcolor{darkgray}{\textnormal{Finish}}$**.
+        6. Por fim clique em **$\textcolor{black}{\textnormal{Continue}}$** e **$\textcolor{black}{\textnormal{Finish}}$**.
 
 ---
 
 9.  Volte para o **Document Loader** do **$\textcolor{teal}{\textnormal{Flowise}}$**:
     1. Onde está o Loader do documento salvo, existe o campo `Actions` com um **$\textcolor{blue}{\textnormal{Options}}$** clicável, clique nele.
     2. Depois clique em `Upsert Chunks`.
-        1. Onde está escrito **$\textcolor{pink}{\textnormal{Select Embeddings}}$** selecione a opção escolhida no início (no meu caso foi o embedding do **$\textcolor{darkgray}{\textnormal{Ollama}}$**)
+        1. Onde está escrito **$\textcolor{red}{\textnormal{Select Embeddings}}$** selecione a opção escolhida no início (no meu caso foi o embedding do **$\textcolor{black}{\textnormal{Ollama}}$**)
             * Após selecionar o `Ollama Embeddings` é necessário mudar o `Base URL` para `http://ollama:11434`.
             * Em `Model Name`, colocamos `nomic-embed-text`.
-        2. Onde está escrito **$\textcolor{yellow}{\textnormal{Select Vector Store}}$** selecione o banco onde vai ser salvo o embedding dos dados (no meu caso será o Qdrant)
+        2. Onde está escrito **$\textcolor{red}{\textnormal{Select Vector Store}}$** selecione o banco onde vai ser salvo o embedding dos dados (no meu caso será o Qdrant)
             * Após selecionar o **$\textcolor{red}{\textnormal{Qdrant}}$** devemos criar uma credencial de conexão, então em `Connect Creditial` clique em `Create New`.
                 * Aparecerá um modal que pede um **nome** e a **API key** que criamos lá no **$\textcolor{red}{\textnormal{Qdrant}}$**.
                 * Então em `Credential Name` basta dar um nome qualquer.
