@@ -26,10 +26,10 @@
     1. Acesse: **[Ollama](http://localhost:11434)**, para verificar ser o **$\textcolor{darkgray}{\textnormal{Ollama}}$** está funcionando.
         * Caso apareça uma página com **"Ollama is running"**, deu certo!
     2. Acesse: **[Qdrant](http://localhost:6333/dashboard)**, para verificar se o **$\textcolor{red}{\textnormal{Qdrant}}$** está funcionando.
-        * Caso apareça uma tela semelhante a essa: ![Qdrant Home Page](qdrant.png)
+        * Caso apareça uma tela semelhante a essa: ![Qdrant Home Page](imagens/qdrant.png)
         * Deu tudo certo!
     3. Acesse: **[Flowise](http://localhost:3000)**, para verificar se o **$\textcolor{teal}{\textnormal{Flowise}}$** está funcionando.
-        * Caso apareça uma tela semelhante a essa: ![Flowise Login Page](flowise.png)
+        * Caso apareça uma tela semelhante a essa: ![Flowise Login Page](imagens/flowise.png)
         * Deu tudo certo!
             * Caso você tenha setado um **username** e uma **password** no docker, coloque eles no `Existing Username` e `Existing Password` (caso não tenha colocado, esses campos nem irão aparecer).
             * O resto das informações preencha como é pedido.
@@ -64,14 +64,14 @@
     2. Entrando nesse armazenamento clicamos em **$\textcolor{royalblue}{\textnormal{+ Add Document Loader}}$**. 
         1. Agora selecione o **Document Loader** específico do tipo de arquivo que você quer utilizar.
         2. Exemplo, para um .txt, pegue o Loader `Text File`.
-        3. Você entrará em uma tela semelhante a essa: ![Text File Loader](txt.png)
+        3. Você entrará em uma tela semelhante a essa: ![Text File Loader](imagens/txt.png)
             * Pode dar um nome caso queira (mas não é obrigatório).
             * No `Upload File` você coloca o arquivo que será salvo.
             * E no campo `Select Text Splitter` depende que tipo de arquivo você está utilizando, mas para .txt e .pdf o recomendado é usar o `Recursive Character Text Splitter`.
                 * E dentro do `Recursive Character Text Splitter`, existem campos como `Chunk Size` e `Chunk Overlap`, que seriam respectivamente, o tamanho das chunks que serão salvas (em caracteres, que por padrão é 1000) e a quantidade de caracteres que serão sobrepostos entre as chunks (no caso os caracteres que irão repetir para dar contexto).
             * Pode clicar em **$\textcolor{orchid}{\textnormal{Preview Chunks}}$** para ter uma noção de como estão os chunks.
             * Por último clique em **$\textcolor{royalblue}{\textnormal{Process}}$** para salvar essa separação de chunks do arquivo escolhido.
-    3. Você verá algo como: ![Document Loader](document.png)
+    3. Você verá algo como: ![Document Loader](imagens/exemplo.png)
 
 ---
 
@@ -124,4 +124,4 @@
     1. Abra o **$\textcolor{royalblue}{\textnormal{chat}}$** e pergunte algo sobre o que você o ensinou.
     2. Caso apareça o nome da base de dados que você criou e em seguida algum texto, significa que deu certo.
     3. Exemplo: 
-       1. ![RAG](RAG.png)
+       1. ![RAG](imagens/RAG.png)
