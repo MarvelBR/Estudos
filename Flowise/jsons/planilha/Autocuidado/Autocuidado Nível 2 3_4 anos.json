@@ -1,0 +1,4941 @@
+[
+  {
+    "id": "autocuidado_3a4_01",
+    "conteudo": "Descrição: Use uma toalha com um desenho divertido (ex: um super-herói ou princesa). Diga que a toalha é mágica e que a criança precisa usá-la para \"limpar\" o rosto e as mãos para a magia acontecer.",
+    "metadata": {
+      "titulo": "Toalha Mágica",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_02",
+    "conteudo": "Descrição: Use uma toalha amarela. Diga que a toalha é o \"sol\" e que ela precisa \"secar\" as mãos e o rosto da criança para o sol \"brilhar\".",
+    "metadata": {
+      "titulo": "O Sol na Toalha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_03",
+    "conteudo": "Descrição: Use uma toalha com patinhos. Diga que os patinhos precisam \"secar\" as mãos e o rosto da criança para o banho.",
+    "metadata": {
+      "titulo": "O Jogo do Patinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_04",
+    "conteudo": "Descrição: Crie uma dança com a toalha. A criança pode segurar a toalha e fazer movimentos de \"secagem\" no ritmo da música.",
+    "metadata": {
+      "titulo": "A Dança da Toalha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_05",
+    "conteudo": "Descrição: Coloque um pequeno \"tesouro\" (um adesivo, uma bolinha) na toalha. Diga que a criança precisa \"enxugar\" o rosto e as mãos para encontrar o tesouro.",
+    "metadata": {
+      "titulo": "A Toalha do Tesouro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_06",
+    "conteudo": "Descrição: Use uma toalha colorida. Diga que a toalha é o \"rosto do palhaço\" e a criança precisa \"limpar\" o palhaço.",
+    "metadata": {
+      "titulo": "O Rosto do Palhaço",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_07",
+    "conteudo": "Descrição: Use uma toalha com manchas de tinta. Diga que a toalha é o \"pano de pintura\" e a criança precisa \"limpar\" as mãos e o rosto com ela.",
+    "metadata": {
+      "titulo": "A Toalha do Pintor",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_08",
+    "conteudo": "Descrição: Use uma lanterna para fazer sombras na parede. Diga que a sombra \"esconde\" a água. A criança precisa usar a toalha para \"fazer a sombra desaparecer\".",
+    "metadata": {
+      "titulo": "O Jogo da Sombra",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_09",
+    "conteudo": "Descrição: Use uma toalha com um leão de brinquedo na ponta. Diga que o leão precisa \"rugir\" e \"secar\" as mãos e o rosto da criança.",
+    "metadata": {
+      "titulo": "A Toalha do Leão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_10",
+    "conteudo": "Descrição: Use uma toalha com um macaco de brinquedo na ponta. Diga que o macaco precisa \"escalar\" o rosto e as mãos da criança para \"secar\".",
+    "metadata": {
+      "titulo": "A Toalha do Macaco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_11",
+    "conteudo": "Descrição: Use uma toalha com uma vaca de brinquedo na ponta. Diga que a vaca precisa \"mu-mu\" e \"secar\" as mãos e o rosto da criança.",
+    "metadata": {
+      "titulo": "A Toalha da Vaca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_12",
+    "conteudo": "Descrição: Use uma toalha com uma tartaruga de brinquedo na ponta. Diga que a tartaruga precisa \"andar devagar\" para \"secar\" as mãos e o rosto da criança.",
+    "metadata": {
+      "titulo": "A Toalha da Tartaruga",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_13",
+    "conteudo": "Descrição: Use uma toalha com um peixe de brinquedo na ponta. Diga que o peixe precisa \"nadar\" sobre o rosto e as mãos da criança.",
+    "metadata": {
+      "titulo": "A Toalha do Peixe",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_14",
+    "conteudo": "Descrição: Use uma toalha com um sapo de brinquedo na ponta. Diga que o sapo precisa \"pular\" sobre o rosto e as mãos da criança.",
+    "metadata": {
+      "titulo": "A Toalha do Sapo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_15",
+    "conteudo": "Descrição: Use uma toalha com um ursinho de pelúcia na ponta. Diga que o ursinho precisa \"abraçar\" o rosto e as mãos da criança para \"secar\".",
+    "metadata": {
+      "titulo": "A Toalha do Ursinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_16",
+    "conteudo": "Descrição: Use uma toalha com um pinguim de brinquedo na ponta. Diga que o pinguim precisa \"escorregar\" sobre o rosto e as mãos da criança.",
+    "metadata": {
+      "titulo": "A Toalha do Pinguim",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_17",
+    "conteudo": "Descrição: Use uma toalha com uma girafa de brinquedo na ponta. Diga que a girafa precisa \"comer\" a água do rosto e das mãos da criança.",
+    "metadata": {
+      "titulo": "A Toalha da Girafa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_18",
+    "conteudo": "Descrição: Use uma toalha com um robô de brinquedo na ponta. Diga que o robô precisa \"falar\" e \"secar\" as mãos e o rosto da criança.",
+    "metadata": {
+      "titulo": "A Toalha do Robô",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_19",
+    "conteudo": "Descrição: Use uma toalha com um palhaço de brinquedo na ponta. Diga que o palhaço precisa \"fazer graça\" e \"secar\" as mãos e o rosto da criança.",
+    "metadata": {
+      "titulo": "A Toalha do Palhaço",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_20",
+    "conteudo": "Descrição: Use uma toalha com um trem de brinquedo na ponta. Diga que o trem precisa \"viajar\" sobre o rosto e as mãos da criança.",
+    "metadata": {
+      "titulo": "A Toalha do Trem",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_21",
+    "conteudo": "Descrição: Use uma toalha com um avião de brinquedo na ponta. Diga que o avião precisa \"voar\" sobre o rosto e as mãos da criança.",
+    "metadata": {
+      "titulo": "A Toalha do Avião",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_22",
+    "conteudo": "Descrição: Use uma toalha com uma borboleta de brinquedo na ponta. Diga que a borboleta precisa \"voar\" sobre o rosto e as mãos da criança.",
+    "metadata": {
+      "titulo": "A Toalha da Borboleta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_23",
+    "conteudo": "Descrição: Use uma toalha com um coelhinho de brinquedo na ponta. Diga que o coelhinho precisa \"pular\" sobre o rosto e as mãos da criança.",
+    "metadata": {
+      "titulo": "A Toalha do Coelhinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_24",
+    "conteudo": "Descrição: Use uma toalha com um dinossauro de brinquedo na ponta. Diga que o dinossauro precisa \"rugir\" e \"secar\" as mãos e o rosto da criança.",
+    "metadata": {
+      "titulo": "A Toalha do Dinossauro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_25",
+    "conteudo": "Descrição: Use uma toalha com uma fada de brinquedo na ponta. Diga que a fada precisa \"voar\" sobre o rosto e as mãos da criança.",
+    "metadata": {
+      "titulo": "A Toalha da Fada",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_26",
+    "conteudo": "Descrição: Use uma toalha com uma sereia de brinquedo na ponta. Diga que a sereia precisa \"nadar\" sobre o rosto e as mãos da criança.",
+    "metadata": {
+      "titulo": "A Toalha da Sereia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_27",
+    "conteudo": "Descrição: Use uma toalha com um cavalo de brinquedo na ponta. Diga que o cavalo precisa \"galopar\" sobre o rosto e as mãos da criança.",
+    "metadata": {
+      "titulo": "A Toalha do Cavalo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_28",
+    "conteudo": "Descrição: Use uma toalha com uma vaca de brinquedo na ponta. Diga que a vaca precisa \"mu-mu\" e \"secar\" as mãos e o rosto da criança.",
+    "metadata": {
+      "titulo": "A Toalha da Vaca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_29",
+    "conteudo": "Descrição: Use uma toalha com um pato de borracha na ponta. Diga que o pato precisa \"quá-quá\" e \"secar\" as mãos e o rosto da criança.",
+    "metadata": {
+      "titulo": "A Toalha do Pato",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_30",
+    "conteudo": "Descrição: Use uma toalha com um porco de brinquedo na ponta. Diga que o porco precisa \"se sujar\" e \"secar\" as mãos e o rosto da criança.",
+    "metadata": {
+      "titulo": "A Toalha do Porco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_31",
+    "conteudo": "Descrição: Use uma toalha com uma galinha de brinquedo na ponta. Diga que a galinha precisa \"cantar\" e \"secar\" as mãos e o rosto da criança.",
+    "metadata": {
+      "titulo": "A Toalha da Galinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_32",
+    "conteudo": "Descrição: Use uma toalha com um cachorro de brinquedo na ponta. Diga que o cachorro precisa \"au-au\" e \"secar\" as mãos e o rosto da criança.",
+    "metadata": {
+      "titulo": "A Toalha do Cachorro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_33",
+    "conteudo": "Descrição: Use uma toalha com uma abelha de brinquedo na ponta. Diga que a abelha precisa \"bzz-bzz\" e \"secar\" as mãos e o rosto da criança.",
+    "metadata": {
+      "titulo": "A Toalha da Abelha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_34",
+    "conteudo": "Descrição: Use uma toalha com uma joaninha de brinquedo na ponta. Diga que a joaninha precisa \"voar\" sobre o rosto e as mãos da criança.",
+    "metadata": {
+      "titulo": "A Toalha da Joaninha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_35",
+    "conteudo": "Descrição: Use uma toalha com uma formiga de brinquedo na ponta. Diga que a formiga precisa \"andar\" sobre o rosto e as mãos da criança.",
+    "metadata": {
+      "titulo": "A Toalha da Formiga",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_36",
+    "conteudo": "Descrição: Use uma toalha com um verme de brinquedo na ponta. Diga que o verme precisa \"rastejar\" sobre o rosto e as mãos da criança.",
+    "metadata": {
+      "titulo": "A Toalha do Verme",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_37",
+    "conteudo": "Descrição: Use uma toalha com uma minhoca de brinquedo na ponta. Diga que a minhoca precisa \"rastejar\" sobre o rosto e as mãos da criança.",
+    "metadata": {
+      "titulo": "A Toalha da Minhoca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_38",
+    "conteudo": "Descrição: Use uma toalha com uma aranha de brinquedo na ponta. Diga que a aranha precisa \"tecer\" sobre o rosto e as mãos da criança.",
+    "metadata": {
+      "titulo": "A Toalha da Aranha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_39",
+    "conteudo": "Descrição: Use uma toalha com uma borboleta de brinquedo na ponta. Diga que a borboleta precisa \"voar\" sobre o rosto e as mãos da criança.",
+    "metadata": {
+      "titulo": "A Toalha da Borboleta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_40",
+    "conteudo": "Descrição: Use uma toalha com um gafanhoto de brinquedo na ponta. Diga que o gafanhoto precisa \"pular\" sobre o rosto e as mãos da criança.",
+    "metadata": {
+      "titulo": "A Toalha do Gafanhoto",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_41",
+    "conteudo": "Descrição: Use uma toalha com uma mosca de brinquedo na ponta. Diga que a mosca precisa \"voar\" sobre o rosto e as mãos da criança.",
+    "metadata": {
+      "titulo": "A Toalha da Mosca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_42",
+    "conteudo": "Descrição: Use uma toalha com um gato de brinquedo na ponta. Diga que o gato precisa \"ronronar\" e \"secar\" as mãos e o rosto da criança.",
+    "metadata": {
+      "titulo": "A Toalha do Gato",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_43",
+    "conteudo": "Descrição: Use uma toalha com um rato de brinquedo na ponta. Diga que o rato precisa \"correr\" e \"secar\" as mãos e o rosto da criança.",
+    "metadata": {
+      "titulo": "A Toalha do Rato",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_44",
+    "conteudo": "Descrição: Use uma toalha com um pato de brinquedo na ponta. Diga que o pato precisa \"quá-quá\" e \"secar\" as mãos e o rosto da criança.",
+    "metadata": {
+      "titulo": "A Toalha do Pato",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_45",
+    "conteudo": "Descrição: Use uma toalha com um elefante de brinquedo na ponta. Diga que o elefante precisa \"espirrar\" e \"secar\" as mãos e o rosto da criança.",
+    "metadata": {
+      "titulo": "A Toalha do Elefante",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_46",
+    "conteudo": "Descrição: Use uma toalha com um ursinho de pelúcia na ponta. Diga que o ursinho precisa \"abraçar\" e \"secar\" as mãos e o rosto da criança.",
+    "metadata": {
+      "titulo": "A Toalha do Ursinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_47",
+    "conteudo": "Descrição: Use uma toalha com um pinguim de brinquedo na ponta. Diga que o pinguim precisa \"escorregar\" e \"secar\" as mãos e o rosto da criança.",
+    "metadata": {
+      "titulo": "A Toalha do Pinguim",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_48",
+    "conteudo": "Descrição: Use uma toalha com um macaco de brinquedo na ponta. Diga que o macaco precisa \"escalar\" e \"secar\" as mãos e o rosto da criança.",
+    "metadata": {
+      "titulo": "A Toalha do Macaco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_49",
+    "conteudo": "Descrição: Use uma toalha com um robô de brinquedo na ponta. Diga que o robô precisa \"falar\" e \"secar\" as mãos e o rosto da criança.",
+    "metadata": {
+      "titulo": "A Toalha do Robô",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_50",
+    "conteudo": "Descrição: Use uma toalha com um palhaço de brinquedo na ponta. Diga que o palhaço precisa \"fazer graça\" e \"secar\" as mãos e o rosto da criança.",
+    "metadata": {
+      "titulo": "A Toalha do Palhaço",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_51",
+    "conteudo": "Descrição: Use um casaco com um desenho divertido (ex: um super-herói, um animal). Diga que o casaco é mágico e que a criança precisa vesti-lo para a magia acontecer.",
+    "metadata": {
+      "titulo": "O Casaco Mágico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_52",
+    "conteudo": "Descrição: Use uma camisa com um desenho de pássaro. Diga que as mangas são as \"asas\" e a criança precisa colocá-las para o pássaro \"voar\".",
+    "metadata": {
+      "titulo": "A Camisa do Pássaro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_53",
+    "conteudo": "Descrição: Use uma malha com um desenho de urso. Diga que a malha é a \"pele do urso\" e que a criança precisa vesti-la para \"abraçar\" o urso.",
+    "metadata": {
+      "titulo": "A Malha do Ursinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_54",
+    "conteudo": "Descrição: Use uma jaqueta com um desenho de foguete. Diga que as mangas são as \"asas do foguete\" e a criança precisa colocá-las para o foguete \"voar para o espaço\".",
+    "metadata": {
+      "titulo": "A Jaqueta do Foguete",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_55",
+    "conteudo": "Descrição: Use um colete com um desenho de robô. Diga que o colete é a \"armadura do robô\" e que a criança precisa vesti-lo para \"ligar\" o robô.",
+    "metadata": {
+      "titulo": "O Colete do Robô",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_56",
+    "conteudo": "Descrição: Coloque o casaco no chão e faça uma \"dança\" para a criança colocar os braços nas mangas e vestir o casaco.",
+    "metadata": {
+      "titulo": "O Casaco da Dança",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_57",
+    "conteudo": "Descrição: Coloque um pequeno \"tesouro\" (um adesivo, uma bolinha) em uma manga. A criança precisa vestir a camisa para encontrar o tesouro.",
+    "metadata": {
+      "titulo": "A Camisa do Tesouro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_58",
+    "conteudo": "Descrição: Use uma malha colorida e faça movimentos engraçados enquanto a criança a veste. Diga que a malha é a \"roupa de palhaço\".",
+    "metadata": {
+      "titulo": "A Malha do Palhaço",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_59",
+    "conteudo": "Descrição: Use uma jaqueta com um desenho de leão. Diga que a criança é um \"leão\" e precisa vestir a jaqueta para \"rugir\".",
+    "metadata": {
+      "titulo": "A Jaqueta do Leão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_60",
+    "conteudo": "Descrição: Use um colete com um desenho de macaco. Diga que o colete é a \"pele do macaco\" e que a criança precisa vesti-lo para \"escalar\".",
+    "metadata": {
+      "titulo": "O Colete do Macaco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_61",
+    "conteudo": "Descrição: Use um casaco com um desenho de tartaruga. Diga que o casaco é o \"casco\" e que a criança precisa vesti-lo para \"andar devagar\".",
+    "metadata": {
+      "titulo": "O Casaco da Tartaruga",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_62",
+    "conteudo": "Descrição: Use uma camisa com um desenho de peixe. Diga que a camisa é a \"pele do peixe\" e que a criança precisa vesti-la para \"nadar\".",
+    "metadata": {
+      "titulo": "A Camisa do Peixe",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_63",
+    "conteudo": "Descrição: Use uma malha com um desenho de sapo. Diga que a malha é a \"pele do sapo\" e que a criança precisa vesti-la para \"pular\".",
+    "metadata": {
+      "titulo": "A Malha do Sapo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_64",
+    "conteudo": "Descrição: Use uma jaqueta com um desenho de ursinho. Diga que a jaqueta é a \"pele do ursinho\" e que a criança precisa vesti-la para \"abraçar\".",
+    "metadata": {
+      "titulo": "A Jaqueta do Ursinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_65",
+    "conteudo": "Descrição: Use um colete com um desenho de pinguim. Diga que o colete é a \"pele do pinguim\" e que a criança precisa vesti-lo para \"escorregar\".",
+    "metadata": {
+      "titulo": "O Colete do Pinguim",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_66",
+    "conteudo": "Descrição: Use um casaco com um desenho de girafa. Diga que o casaco é a \"pele da girafa\" e que a criança precisa vesti-lo para \"andar com a cabeça para cima\".",
+    "metadata": {
+      "titulo": "O Casaco da Girafa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_67",
+    "conteudo": "Descrição: Use uma camisa com um desenho de robô. Diga que a camisa é a \"armadura do robô\" e que a criança precisa vesti-la para \"falar\".",
+    "metadata": {
+      "titulo": "A Camisa do Robô",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_68",
+    "conteudo": "Descrição: Use uma malha colorida. Diga que a malha é a \"roupa de palhaço\" e que a criança precisa vesti-la para \"fazer graça\".",
+    "metadata": {
+      "titulo": "A Malha do Palhaço",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_69",
+    "conteudo": "Descrição: Use uma jaqueta com um desenho de trem. Diga que a jaqueta é a \"locomotiva\" e que a criança precisa vesti-la para o trem \"viajar\".",
+    "metadata": {
+      "titulo": "A Jaqueta do Trem",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_70",
+    "conteudo": "Descrição: Use um colete com um desenho de avião. Diga que o colete é o \"avião\" e que a criança precisa vesti-lo para \"voar\".",
+    "metadata": {
+      "titulo": "O Colete do Avião",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_71",
+    "conteudo": "Descrição: Use um casaco com um desenho de borboleta. Diga que o casaco é a \"borboleta\" e que a criança precisa vesti-lo para \"voar\".",
+    "metadata": {
+      "titulo": "O Casaco da Borboleta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_72",
+    "conteudo": "Descrição: Use uma camisa com um desenho de coelhinho. Diga que a camisa é a \"pele do coelhinho\" e que a criança precisa vesti-la para \"pular\".",
+    "metadata": {
+      "titulo": "A Camisa do Coelhinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_73",
+    "conteudo": "Descrição: Use uma malha com um desenho de dinossauro. Diga que a malha é a \"pele do dinossauro\" e que a criança precisa vesti-la para \"rugir\".",
+    "metadata": {
+      "titulo": "A Malha do Dinossauro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_74",
+    "conteudo": "Descrição: Use uma jaqueta com um desenho de fada. Diga que a jaqueta é a \"capa de fada\" e que a criança precisa vesti-la para \"voar\".",
+    "metadata": {
+      "titulo": "A Jaqueta da Fada",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_75",
+    "conteudo": "Descrição: Use um colete com um desenho de sereia. Diga que o colete é a \"pele da sereia\" e que a criança precisa vesti-lo para \"nadar\".",
+    "metadata": {
+      "titulo": "O Colete da Sereia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_76",
+    "conteudo": "Descrição: Use um casaco com um desenho de cavalo. Diga que o casaco é a \"pele do cavalo\" e que a criança precisa vesti-lo para \"galopar\".",
+    "metadata": {
+      "titulo": "O Casaco do Cavalo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_77",
+    "conteudo": "Descrição: Use uma camisa com um desenho de vaca. Diga que a camisa é a \"pele da vaca\" e que a criança precisa vesti-la para \"mu-mu\".",
+    "metadata": {
+      "titulo": "A Camisa da Vaca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_78",
+    "conteudo": "Descrição: Use uma malha com um desenho de pato. Diga que a malha é a \"pele do pato\" e que a criança precisa vesti-la para \"nadar\".",
+    "metadata": {
+      "titulo": "A Malha do Pato",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_79",
+    "conteudo": "Descrição: Use uma jaqueta com um desenho de porco. Diga que a jaqueta é a \"pele do porco\" e que a criança precisa vesti-la para \"oinc-oinc\".",
+    "metadata": {
+      "titulo": "A Jaqueta do Porco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_80",
+    "conteudo": "Descrição: Use um colete com um desenho de galinha. Diga que o colete é a \"pele da galinha\" e que a criança precisa vesti-lo para \"có-có-có\".",
+    "metadata": {
+      "titulo": "O Colete da Galinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_81",
+    "conteudo": "Descrição: Use um casaco com um desenho de cachorro. Diga que o casaco é a \"pele do cachorro\" e que a criança precisa vesti-lo para \"au-au\".",
+    "metadata": {
+      "titulo": "O Casaco do Cachorro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_82",
+    "conteudo": "Descrição: Use uma camisa com um desenho de abelha. Diga que a camisa é a \"pele da abelha\" e que a criança precisa vesti-la para \"bzz-bzz\".",
+    "metadata": {
+      "titulo": "A Camisa da Abelha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_83",
+    "conteudo": "Descrição: Use uma malha com um desenho de joaninha. Diga que a malha é a \"pele da joaninha\" e que a criança precisa vesti-la para \"voar\".",
+    "metadata": {
+      "titulo": "A Malha da Joaninha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_84",
+    "conteudo": "Descrição: Use uma jaqueta com um desenho de formiga. Diga que a jaqueta é a \"pele da formiga\" e que a criança precisa vesti-la para \"andar\".",
+    "metadata": {
+      "titulo": "A Jaqueta da Formiga",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_85",
+    "conteudo": "Descrição: Use um colete com um desenho de verme. Diga que o colete é a \"pele do verme\" e que a criança precisa vesti-lo para \"rastejar\".",
+    "metadata": {
+      "titulo": "O Colete do Verme",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_86",
+    "conteudo": "Descrição: Use um casaco com um desenho de minhoca. Diga que o casaco é a \"pele da minhoca\" e que a criança precisa vesti-lo para \"rastejar\".",
+    "metadata": {
+      "titulo": "O Casaco da Minhoca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_87",
+    "conteudo": "Descrição: Use uma camisa com um desenho de aranha. Diga que a camisa é a \"pele da aranha\" e que a criança precisa vesti-la para \"tecer uma teia\".",
+    "metadata": {
+      "titulo": "A Camisa da Aranha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_88",
+    "conteudo": "Descrição: Use uma malha com um desenho de borboleta. Diga que a malha é a \"pele da borboleta\" e que a criança precisa vesti-la para \"voar\".",
+    "metadata": {
+      "titulo": "A Malha da Borboleta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_89",
+    "conteudo": "Descrição: Use uma jaqueta com um desenho de gafanhoto. Diga que a jaqueta é a \"pele do gafanhoto\" e que a criança precisa vesti-la para \"pular\".",
+    "metadata": {
+      "titulo": "A Jaqueta do Gafanhoto",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_90",
+    "conteudo": "Descrição: Use um colete com um desenho de mosca. Diga que o colete é a \"pele da mosca\" e que a criança precisa vesti-lo para \"voar\".",
+    "metadata": {
+      "titulo": "O Colete da Mosca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_91",
+    "conteudo": "Descrição: Use um casaco com um desenho de pinguim. Diga que o casaco é a \"pele do pinguim\" e que a criança precisa vesti-lo para \"escorregar\".",
+    "metadata": {
+      "titulo": "O Casaco do Pinguim",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_92",
+    "conteudo": "Descrição: Use uma camisa com um desenho de urso polar. Diga que a camisa é a \"pele do urso polar\" e que a criança precisa vesti-la para \"andar na neve\".",
+    "metadata": {
+      "titulo": "A Camisa do Urso Polar",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_93",
+    "conteudo": "Descrição: Use uma malha com um desenho de macaco. Diga que a malha é a \"pele do macaco\" e que a criança precisa vesti-la para \"escalar\".",
+    "metadata": {
+      "titulo": "A Malha do Macaco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_94",
+    "conteudo": "Descrição: Use uma jaqueta com um desenho de girafa. Diga que a jaqueta é a \"pele da girafa\" e que a criança precisa vesti-la para \"andar com a cabeça para cima\".",
+    "metadata": {
+      "titulo": "A Jaqueta da Girafa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_95",
+    "conteudo": "Descrição: Use um colete com um desenho de robô. Diga que o colete é a \"armadura do robô\" e que a criança precisa vesti-lo para \"falar\".",
+    "metadata": {
+      "titulo": "O Colete do Robô",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_96",
+    "conteudo": "Descrição: Use um casaco colorido. Diga que o casaco é a \"roupa de palhaço\" e que a criança precisa vesti-lo para \"fazer graça\".",
+    "metadata": {
+      "titulo": "O Casaco do Palhaço",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_97",
+    "conteudo": "Descrição: Use uma camisa com um desenho de trem. Diga que a camisa é a \"locomotiva\" e que a criança precisa vesti-la para o trem \"viajar\".",
+    "metadata": {
+      "titulo": "A Camisa do Trem",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_98",
+    "conteudo": "Descrição: Use uma malha com um desenho de avião. Diga que a malha é o \"avião\" e que a criança precisa vesti-la para \"voar\".",
+    "metadata": {
+      "titulo": "A Malha do Avião",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_99",
+    "conteudo": "Descrição: Use uma jaqueta com um desenho de borboleta. Diga que a jaqueta é a \"borboleta\" e que a criança precisa vesti-la para \"voar\".",
+    "metadata": {
+      "titulo": "A Jaqueta da Borboleta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_100",
+    "conteudo": "Descrição: Use um colete com um desenho de coelhinho. Diga que o colete é a \"pele do coelhinho\" e que a criança precisa vesti-lo para \"pular\".",
+    "metadata": {
+      "titulo": "O Colete do Coelhinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_101",
+    "conteudo": "Descrição: Use uma etiqueta com um desenho que a criança goste (ex: um carro, um dinossauro). Cole-a na parte da frente da camiseta e diga que é um \"tesouro\" que precisa ficar na frente para ser visto.",
+    "metadata": {
+      "titulo": "O Tesouro da Frente",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_102",
+    "conteudo": "Descrição: Cole uma seta colorida na parte da frente de uma peça de roupa. Diga que a seta é mágica e que precisa \"apontar\" para a frente do corpo da criança.",
+    "metadata": {
+      "titulo": "A Seta Mágica",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_103",
+    "conteudo": "Descrição: Desenhe um sol ou uma lua na parte da frente da roupa. Diga que é um \"desenho secreto\" que precisa ficar na frente para ser visto por você.",
+    "metadata": {
+      "titulo": "O Desenho Secreto",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_104",
+    "conteudo": "Descrição: Dê um nome para a frente e para a parte de trás da roupa. A criança pode \"conversar\" com a roupa, dizendo \"Olá, frente!\" ao vesti-la corretamente.",
+    "metadata": {
+      "titulo": "A Roupas que Fala",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_105",
+    "conteudo": "Descrição: Vista-se na frente de um espelho e mostre para a criança como a frente da sua roupa \"bate\" com a frente do seu corpo. Incentive-a a fazer o mesmo.",
+    "metadata": {
+      "titulo": "O Jogo do Espelho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_106",
+    "conteudo": "Descrição: Cole uma etiqueta com o desenho do amigo da criança na parte da frente da roupa. Diga que o amigo precisa ficar na frente para \"abraçar\" a criança.",
+    "metadata": {
+      "titulo": "A Etiqueta do Amigo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_107",
+    "conteudo": "Descrição: Use uma camisa com botões na frente. Diga que os botões são \"olhos\" e que precisam ficar na frente para \"ver\".",
+    "metadata": {
+      "titulo": "O Botão do Rosto",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_108",
+    "conteudo": "Descrição: Use uma camiseta com um desenho de pato. Diga que o pato precisa \"quá-quá\" na frente para a criança ouvir.",
+    "metadata": {
+      "titulo": "A Camiseta do Pato",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_109",
+    "conteudo": "Descrição: Use uma camisa com um desenho de robô. Diga que a camisa é a \"armadura do robô\" e que precisa ser colocada na frente para o robô \"falar\".",
+    "metadata": {
+      "titulo": "A Camisa do Robô",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_110",
+    "conteudo": "Descrição: Use um colete com um desenho de urso. Diga que o ursinho precisa ficar na frente para a criança poder \"abraçá-lo\".",
+    "metadata": {
+      "titulo": "O Colete do Ursinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_111",
+    "conteudo": "Descrição: Use uma jaqueta com um desenho de foguete. Diga que o foguete precisa ficar na frente para \"voar para o espaço\".",
+    "metadata": {
+      "titulo": "A Jaqueta do Foguete",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_112",
+    "conteudo": "Descrição: Coloque a camiseta no chão e peça para a criança \"dançar\" com a camiseta, colocando-a na frente do corpo.",
+    "metadata": {
+      "titulo": "A Camiseta da Dança",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_113",
+    "conteudo": "Descrição: Use uma malha com um desenho de palhaço. Diga que o palhaço precisa ficar na frente para \"fazer graça\".",
+    "metadata": {
+      "titulo": "A Malha do Palhaço",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_114",
+    "conteudo": "Descrição: Use uma jaqueta com um desenho de leão. Diga que o leão precisa ficar na frente para \"rugir\".",
+    "metadata": {
+      "titulo": "A Jaqueta do Leão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_115",
+    "conteudo": "Descrição: Use um colete com um desenho de macaco. Diga que o macaco precisa ficar na frente para \"escalar\".",
+    "metadata": {
+      "titulo": "O Colete do Macaco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_116",
+    "conteudo": "Descrição: Use uma camisa com um desenho de tartaruga. Diga que a tartaruga precisa ficar na frente para \"andar devagar\".",
+    "metadata": {
+      "titulo": "A Camisa da Tartaruga",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_117",
+    "conteudo": "Descrição: Use uma malha com um desenho de peixe. Diga que o peixe precisa ficar na frente para \"nadar\".",
+    "metadata": {
+      "titulo": "A Malha do Peixe",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_118",
+    "conteudo": "Descrição: Use uma jaqueta com um desenho de sapo. Diga que o sapo precisa ficar na frente para \"pular\".",
+    "metadata": {
+      "titulo": "A Jaqueta do Sapo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_119",
+    "conteudo": "Descrição: Use um colete com um desenho de ursinho. Diga que o ursinho precisa ficar na frente para \"abraçar\".",
+    "metadata": {
+      "titulo": "O Colete do Ursinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_120",
+    "conteudo": "Descrição: Use uma camiseta com um desenho de pinguim. Diga que o pinguim precisa ficar na frente para \"escorregar\".",
+    "metadata": {
+      "titulo": "A Camiseta do Pinguim",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_121",
+    "conteudo": "Descrição: Use uma malha com um desenho de girafa. Diga que a girafa precisa ficar na frente para \"andar com a cabeça para cima\".",
+    "metadata": {
+      "titulo": "A Malha da Girafa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_122",
+    "conteudo": "Descrição: Use uma jaqueta com um desenho de robô. Diga que o robô precisa ficar na frente para \"falar\".",
+    "metadata": {
+      "titulo": "A Jaqueta do Robô",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_123",
+    "conteudo": "Descrição: Use um colete com um desenho de palhaço. Diga que o palhaço precisa ficar na frente para \"fazer graça\".",
+    "metadata": {
+      "titulo": "O Colete do Palhaço",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_124",
+    "conteudo": "Descrição: Use uma camisa com um desenho de trem. Diga que o trem precisa ficar na frente para \"viajar\".",
+    "metadata": {
+      "titulo": "A Camisa do Trem",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_125",
+    "conteudo": "Descrição: Use uma malha com um desenho de avião. Diga que o avião precisa ficar na frente para \"voar\".",
+    "metadata": {
+      "titulo": "A Malha do Avião",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_126",
+    "conteudo": "Descrição: Use uma jaqueta com um desenho de borboleta. Diga que a borboleta precisa ficar na frente para \"voar\".",
+    "metadata": {
+      "titulo": "A Jaqueta da Borboleta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_127",
+    "conteudo": "Descrição: Use um colete com um desenho de coelhinho. Diga que o coelho precisa ficar na frente para \"pular\".",
+    "metadata": {
+      "titulo": "O Colete do Coelhinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_128",
+    "conteudo": "Descrição: Use uma camisa com um desenho de dinossauro. Diga que o dinossauro precisa ficar na frente para \"rugir\".",
+    "metadata": {
+      "titulo": "A Camisa do Dinossauro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_129",
+    "conteudo": "Descrição: Use uma malha com um desenho de fada. Diga que a fada precisa ficar na frente para \"voar\".",
+    "metadata": {
+      "titulo": "A Malha da Fada",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_130",
+    "conteudo": "Descrição: Use uma jaqueta com um desenho de sereia. Diga que a sereia precisa ficar na frente para \"nadar\".",
+    "metadata": {
+      "titulo": "A Jaqueta da Sereia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_131",
+    "conteudo": "Descrição: Use um colete com um desenho de cavalo. Diga que o cavalo precisa ficar na frente para \"galopar\".",
+    "metadata": {
+      "titulo": "O Colete do Cavalo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_132",
+    "conteudo": "Descrição: Use uma camisa com um desenho de vaca. Diga que a vaca precisa ficar na frente para \"mu-mu\".",
+    "metadata": {
+      "titulo": "A Camisa da Vaca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_133",
+    "conteudo": "Descrição: Use uma malha com um desenho de pato. Diga que o pato precisa ficar na frente para \"nadar\".",
+    "metadata": {
+      "titulo": "A Malha do Pato",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_134",
+    "conteudo": "Descrição: Use uma jaqueta com um desenho de porco. Diga que o porco precisa ficar na frente para \"oinc-oinc\".",
+    "metadata": {
+      "titulo": "A Jaqueta do Porco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_135",
+    "conteudo": "Descrição: Use um colete com um desenho de galinha. Diga que a galinha precisa ficar na frente para \"có-có-có\".",
+    "metadata": {
+      "titulo": "O Colete da Galinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_136",
+    "conteudo": "Descrição: Use uma camisa com um desenho de cachorro. Diga que o cachorro precisa ficar na frente para \"au-au\".",
+    "metadata": {
+      "titulo": "A Camisa do Cachorro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_137",
+    "conteudo": "Descrição: Use uma malha com um desenho de abelha. Diga que a abelha precisa ficar na frente para \"bzz-bzz\".",
+    "metadata": {
+      "titulo": "A Malha da Abelha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_138",
+    "conteudo": "Descrição: Use uma jaqueta com um desenho de joaninha. Diga que a joaninha precisa ficar na frente para \"voar\".",
+    "metadata": {
+      "titulo": "A Jaqueta da Joaninha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_139",
+    "conteudo": "Descrição: Use um colete com um desenho de formiga. Diga que a formiga precisa ficar na frente para \"andar\".",
+    "metadata": {
+      "titulo": "O Colete da Formiga",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_140",
+    "conteudo": "Descrição: Use uma camisa com um desenho de verme. Diga que o verme precisa ficar na frente para \"rastejar\".",
+    "metadata": {
+      "titulo": "A Camisa do Verme",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_141",
+    "conteudo": "Descrição: Use uma malha com um desenho de minhoca. Diga que a minhoca precisa ficar na frente para \"rastejar\".",
+    "metadata": {
+      "titulo": "A Malha da Minhoca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_142",
+    "conteudo": "Descrição: Use uma jaqueta com um desenho de aranha. Diga que a aranha precisa ficar na frente para \"tecer\".",
+    "metadata": {
+      "titulo": "A Jaqueta da Aranha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_143",
+    "conteudo": "Descrição: Use um colete com um desenho de borboleta. Diga que a borboleta precisa ficar na frente para \"voar\".",
+    "metadata": {
+      "titulo": "O Colete da Borboleta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_144",
+    "conteudo": "Descrição: Use uma camisa com um desenho de gafanhoto. Diga que o gafanhoto precisa ficar na frente para \"pular\".",
+    "metadata": {
+      "titulo": "A Camisa do Gafanhoto",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_145",
+    "conteudo": "Descrição: Use uma malha com um desenho de mosca. Diga que a mosca precisa ficar na frente para \"voar\".",
+    "metadata": {
+      "titulo": "A Malha da Mosca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_146",
+    "conteudo": "Descrição: Use uma jaqueta com um desenho de pinguim. Diga que o pinguim precisa ficar na frente para \"escorregar\".",
+    "metadata": {
+      "titulo": "A Jaqueta do Pinguim",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_147",
+    "conteudo": "Descrição: Use um colete com um desenho de urso polar. Diga que o urso polar precisa ficar na frente para \"andar na neve\".",
+    "metadata": {
+      "titulo": "O Colete do Urso Polar",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_148",
+    "conteudo": "Descrição: Use uma camisa com um desenho de macaco. Diga que o macaco precisa ficar na frente para \"escalar\".",
+    "metadata": {
+      "titulo": "A Camisa do Macaco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_149",
+    "conteudo": "Descrição: Use uma malha com um desenho de girafa. Diga que a girafa precisa ficar na frente para \"andar com a cabeça para cima\".",
+    "metadata": {
+      "titulo": "A Malha da Girafa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_150",
+    "conteudo": "Descrição: Use uma camiseta com um foguete estampado na frente. Diga que o foguete precisa ficar na frente para poder \"decolar\".",
+    "metadata": {
+      "titulo": "A Camiseta do Foguete",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_151",
+    "conteudo": "Descrição: Use a colher para \"voar\" com a comida (pedaços pequenos de fruta, por exemplo) em direção à boca da criança, fazendo o som de avião (\"vruum\"). Incentive a criança a fazer o mesmo.",
+    "metadata": {
+      "titulo": "A Colher de Avião",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_152",
+    "conteudo": "Descrição: Use um prato com divisórias e diga que cada divisória é um \"castelo\". A criança deve usar o talher para \"levar\" os alimentos para dentro de sua \"boca-castelo\".",
+    "metadata": {
+      "titulo": "A Comida no Castelo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_153",
+    "conteudo": "Descrição: Use um garfo com um cabo de dinossauro. O objetivo é que o \"dinossauro\" cace os alimentos no prato e os leve à \"caverna\" (a boca).",
+    "metadata": {
+      "titulo": "O Garfo do Dinossauro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_154",
+    "conteudo": "Descrição: Use uma colher. Incentive a criança a \"pescar\" os alimentos do prato, como se fossem peixes, e os leve à boca.",
+    "metadata": {
+      "titulo": "A Colher de Pesca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_155",
+    "conteudo": "Descrição: Use o talher como um \"trem\" que precisa \"viajar\" pela pista (o braço da criança) e chegar à \"estação\" (a boca).",
+    "metadata": {
+      "titulo": "A Comida no Trem",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_156",
+    "conteudo": "Descrição: Deixe a criança pegar o primeiro pedaço de comida sozinha. Elogie a iniciativa e incentive-a a continuar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Eu Primeiro\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_157",
+    "conteudo": "Descrição: Diga que a colher é \"mágica\" e que ela só funciona se for segurada corretamente.",
+    "metadata": {
+      "titulo": "A Colher Mágica",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_158",
+    "conteudo": "Descrição: Use um garfo com o tema de um super-herói. Diga que o garfo é um \"poder\" que a criança tem para se alimentar.",
+    "metadata": {
+      "titulo": "O Garfo do Super-Herói",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_159",
+    "conteudo": "Descrição: Use massinha para criar diferentes \"alimentos\" de brinquedo. A criança pode brincar de pegar a massinha com o talher e levá-la à boca.",
+    "metadata": {
+      "titulo": "A Comida de Massinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_160",
+    "conteudo": "Descrição: Diga que a criança é um \"rei\" ou uma \"rainha\" e que ela precisa \"conquistar\" todos os alimentos do prato.",
+    "metadata": {
+      "titulo": "O Jogo da Conquista",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_161",
+    "conteudo": "Descrição: Use a colher para \"pintar\" o prato com geleia, purê ou iogurte. Depois, a criança pode comer a \"pintura\".",
+    "metadata": {
+      "titulo": "A Colher de Pintura",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_162",
+    "conteudo": "Descrição: Use o garfo como uma \"escavadeira\" para \"escavar\" os alimentos no prato.",
+    "metadata": {
+      "titulo": "O Garfo de Escavação",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_163",
+    "conteudo": "Descrição: Faça um som divertido ao pegar a comida com o talher e leve-a à boca. Incentive a criança a imitar.",
+    "metadata": {
+      "titulo": "O Jogo do Som",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_164",
+    "conteudo": "Descrição: Use uma colher para \"dar de comer\" a um ursinho de pelúcia antes de a criança comer.",
+    "metadata": {
+      "titulo": "A Colher do Ursinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_165",
+    "conteudo": "Descrição: Escovem os dentes juntos em frente a um espelho. Incentive a criança a observar e imitar seus movimentos.",
+    "metadata": {
+      "titulo": "O Jogo do Espelho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_166",
+    "conteudo": "Descrição: Faça uma \"dança\" com a colher e a comida. A criança pode seguir os movimentos.",
+    "metadata": {
+      "titulo": "A Colher de Dança",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_167",
+    "conteudo": "Descrição: Desenhe um prato com uma \"floresta\". Os alimentos são \"animais\" que a criança deve \"caçar\" com o talher.",
+    "metadata": {
+      "titulo": "A Comida na Floresta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_168",
+    "conteudo": "Descrição: Use a colher para \"estourar\" bolhas de sabão (comestíveis). Incentive a criança a estourá-las e levá-las à boca.",
+    "metadata": {
+      "titulo": "A Colher de Bolha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_169",
+    "conteudo": "Descrição: Use um garfo com o tema de fada. Diga que é uma \"varinha mágica\" que transforma a comida em \"delícia\".",
+    "metadata": {
+      "titulo": "O Garfo de Fada",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_170",
+    "conteudo": "Descrição: Incentive a criança a fazer um sorriso sempre que levar a comida à boca.",
+    "metadata": {
+      "titulo": "O Jogo do Sorriso",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_171",
+    "conteudo": "Descrição: Use um túnel de brinquedo. Incentive a criança a \"passar\" a comida pelo túnel com o talher e levá-la à boca.",
+    "metadata": {
+      "titulo": "A Comida no Túnel",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_172",
+    "conteudo": "Descrição: Use uma colher. Diga que a colher é uma \"nave espacial\" que precisa \"explorar\" a comida.",
+    "metadata": {
+      "titulo": "A Colher de Nave Espacial",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_173",
+    "conteudo": "Descrição: Use o garfo para \"subir\" os alimentos, como se fossem uma escada, e levá-los à boca.",
+    "metadata": {
+      "titulo": "O Garfo de Escada",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_174",
+    "conteudo": "Descrição: Use um prato com arroz ou feijão para simular uma \"caixa de areia\". A criança deve \"escavar\" e pegar os alimentos.",
+    "metadata": {
+      "titulo": "A Comida na Caixa de Areia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_175",
+    "conteudo": "Descrição: Use um garfo com um nariz de palhaço. Diga que o garfo é um palhaço que quer \"comer a comida do circo\".",
+    "metadata": {
+      "titulo": "O Garfo de Palhaço",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_176",
+    "conteudo": "Descrição: Imite os sons de animais enquanto se alimenta. Incentive a criança a imitar os sons e a se alimentar.",
+    "metadata": {
+      "titulo": "O Jogo da Imitação",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_177",
+    "conteudo": "Descrição: Use uma colher. Incentive a criança a \"dar a pata\" com o talher para o \"cãozinho\" (a boca).",
+    "metadata": {
+      "titulo": "A Colher do Cãozinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_178",
+    "conteudo": "Descrição: Use um garfo com o tema de macaco. Diga que o macaco precisa \"escalar\" a comida para comê-la.",
+    "metadata": {
+      "titulo": "O Garfo de Macaco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_179",
+    "conteudo": "Descrição: Use um talher. Diga que a comida está em um \"avião\" e a criança precisa \"abrir a garagem\" (a boca) para o avião pousar.",
+    "metadata": {
+      "titulo": "A Comida no Avião",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_180",
+    "conteudo": "Descrição: Use uma colher. Diga que a colher é um \"trem\" que leva a comida de um lado para o outro.",
+    "metadata": {
+      "titulo": "A Colher de Trem",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_181",
+    "conteudo": "Descrição: Use um garfo com o tema de sapo. Diga que o sapo precisa \"pular\" para comer.",
+    "metadata": {
+      "titulo": "O Garfo de Sapo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_182",
+    "conteudo": "Descrição: Use um prato com um desenho de floresta. A criança deve usar o talher para \"explorar\" a floresta e encontrar os alimentos.",
+    "metadata": {
+      "titulo": "A Comida na Floresta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_183",
+    "conteudo": "Descrição: Use uma colher. Diga que a colher é um \"foguete\" que vai levar a comida para o espaço.",
+    "metadata": {
+      "titulo": "A Colher de Foguete",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_184",
+    "conteudo": "Descrição: Use um garfo com o tema de pássaro. Diga que o pássaro precisa \"picar\" a comida.",
+    "metadata": {
+      "titulo": "O Garfo de Pássaro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_185",
+    "conteudo": "Descrição: Use um prato com o desenho de uma casa. A criança deve usar o talher para \"levar\" a comida para a \"casa\".",
+    "metadata": {
+      "titulo": "A Comida na Casa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_186",
+    "conteudo": "Descrição: Use a colher como se fosse um lápis. Incentive a criança a \"desenhar\" com a comida no prato antes de comê-la.",
+    "metadata": {
+      "titulo": "A Colher de Lápis",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_187",
+    "conteudo": "Descrição: Use o garfo como um \"barco\" que navega na comida.",
+    "metadata": {
+      "titulo": "O Garfo de Barco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_188",
+    "conteudo": "Descrição: Use um prato com água. A criança deve usar o talher para \"pescar\" a comida na \"piscina\".",
+    "metadata": {
+      "titulo": "A Comida na Piscina",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_189",
+    "conteudo": "Descrição: Use a colher como uma \"tesoura\" para \"cortar\" os alimentos.",
+    "metadata": {
+      "titulo": "A Colher de Tesoura",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_190",
+    "conteudo": "Descrição: Use o garfo para \"massagear\" levemente a mão da criança antes de a refeição começar.",
+    "metadata": {
+      "titulo": "O Garfo de Massagem",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_191",
+    "conteudo": "Descrição: Use um talher. Diga que a criança é um \"robô\" e que a comida é o \"combustível\" do robô.",
+    "metadata": {
+      "titulo": "A Comida de Robô",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_192",
+    "conteudo": "Descrição: Use a colher para pegar palitos de queijo ou pepino.",
+    "metadata": {
+      "titulo": "A Colher de Palito",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_193",
+    "conteudo": "Descrição: Use um garfo com o tema de aranha. Diga que a aranha precisa \"tecer uma teia\" com a comida.",
+    "metadata": {
+      "titulo": "O Garfo de Aranha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_194",
+    "conteudo": "Descrição: Use um talher. Diga que a criança é um \"coelho\" e a comida é a \"cenoura\" que ela precisa comer.",
+    "metadata": {
+      "titulo": "A Comida de Coelho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_195",
+    "conteudo": "Descrição: Use uma colher com o tema de coruja. Diga que a coruja precisa \"piscar os olhos\" enquanto se alimenta.",
+    "metadata": {
+      "titulo": "A Colher de Coruja",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_196",
+    "conteudo": "Descrição: Use um garfo com o tema de leão. Diga que a criança é um \"leão\" e que precisa \"caçar\" a comida.",
+    "metadata": {
+      "titulo": "O Garfo de Leão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_197",
+    "conteudo": "Descrição: Use um talher. Diga que a criança é um \"sapo\" e a comida é a \"mosca\" que ela precisa comer.",
+    "metadata": {
+      "titulo": "A Comida de Sapo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_198",
+    "conteudo": "Descrição: Use uma colher com o tema de ursinho. Diga que o ursinho precisa \"abraçar\" a comida para comê-la.",
+    "metadata": {
+      "titulo": "A Colher de Ursinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_199",
+    "conteudo": "Descrição: Use um garfo com o tema de pinguim. Diga que o pinguim precisa \"escorregar\" para comer.",
+    "metadata": {
+      "titulo": "O Garfo de Pinguim",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_200",
+    "conteudo": "Descrição: Coloque pequenos pedaços de papel higiênico no vaso. Incentive a criança a mirar neles para \"afundar o alvo\".",
+    "metadata": {
+      "titulo": "O Jogo do Alvo Flutuante",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_201",
+    "conteudo": "Descrição: Use corante alimentício para colorir a água do vaso. Diga que a criança precisa urinar para \"pintar a água de outra cor\".",
+    "metadata": {
+      "titulo": "O Jogo do Alvo Colorido",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_202",
+    "conteudo": "Descrição: Use um sabonete líquido com espuma. Diga que a espuma é a \"sopa\" e a criança precisa \"colocar o ingrediente principal\" na sopa.",
+    "metadata": {
+      "titulo": "A Sopa do Vaso",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_203",
+    "conteudo": "Descrição: Use um pequeno aro de basquete de brinquedo. Incentive a criança a \"acertar a bola\" (a urina) dentro do aro.",
+    "metadata": {
+      "titulo": "O Jogo do Basquete",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_204",
+    "conteudo": "Descrição: Use um boneco de leão. Diga que o leão precisa \"rugir\" no vaso para fazer xixi. Incentive a criança a imitar.",
+    "metadata": {
+      "titulo": "O Banheiro do Leão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_205",
+    "conteudo": "Descrição: Diga que a urina é \"água\" e que ela precisa \"apagar o fogo\" no vaso.",
+    "metadata": {
+      "titulo": "O Jogo do Fogo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_206",
+    "conteudo": "Descrição: Coloque um sapo de brinquedo no vaso. Diga que o sapo precisa de um \"banho de chuva\". Incentive a criança a \"dar banho\" no sapo.",
+    "metadata": {
+      "titulo": "O Vaso do Sapo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_207",
+    "conteudo": "Descrição: Coloque um pequeno carrinho de brinquedo no vaso. Incentive a criança a \"acertar\" o carro com a urina.",
+    "metadata": {
+      "titulo": "O Jogo do Alvo do Carro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_208",
+    "conteudo": "Descrição: Coloque um pato de borracha no vaso. Diga que o pato precisa de um \"banho\".",
+    "metadata": {
+      "titulo": "O Jogo do Patinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_209",
+    "conteudo": "Descrição: Crie uma música curta e repetitiva sobre fazer xixi em pé. Cante-a enquanto a criança tenta urinar.",
+    "metadata": {
+      "titulo": "A Canção do Xixi",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_210",
+    "conteudo": "Descrição: Use uma lanterna para fazer sombras na parede. Diga que a sombra \"some\" quando a criança faz xixi.",
+    "metadata": {
+      "titulo": "O Jogo da Sombra",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_211",
+    "conteudo": "Descrição: Use um boneco de pássaro. Diga que o pássaro precisa \"voar\" para o vaso e fazer xixi.",
+    "metadata": {
+      "titulo": "O Jogo do Pássaro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_212",
+    "conteudo": "Descrição: Use um boneco de coelhinho. Diga que o coelhinho precisa \"pular\" para fazer xixi.",
+    "metadata": {
+      "titulo": "O Jogo do Coelhinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_213",
+    "conteudo": "Descrição: Use um boneco de robô. Diga que o robô precisa \"ligar\" o xixi no vaso.",
+    "metadata": {
+      "titulo": "O Vaso do Robô",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_214",
+    "conteudo": "Descrição: Use um boneco de palhaço. Diga que o palhaço precisa \"fazer graça\" para fazer xixi.",
+    "metadata": {
+      "titulo": "O Jogo do Palhaço",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_215",
+    "conteudo": "Descrição: Use um boneco de dinossauro. Diga que o dinossauro precisa \"rugir\" para fazer xixi.",
+    "metadata": {
+      "titulo": "O Vaso do Dinossauro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_216",
+    "conteudo": "Descrição: Use um avião de brinquedo. Diga que o avião precisa \"voar\" para o vaso e fazer xixi.",
+    "metadata": {
+      "titulo": "O Jogo do Avião",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_217",
+    "conteudo": "Descrição: Use um trem de brinquedo. Diga que o trem precisa \"viajar\" para o vaso e fazer xixi.",
+    "metadata": {
+      "titulo": "O Vaso do Trem",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_218",
+    "conteudo": "Descrição: Use um boneco de fada. Diga que a fada precisa \"voar\" para o vaso e fazer xixi.",
+    "metadata": {
+      "titulo": "O Jogo da Fada",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_219",
+    "conteudo": "Descrição: Use um boneco de sereia. Diga que a sereia precisa \"nadar\" para fazer xixi.",
+    "metadata": {
+      "titulo": "O Vaso da Sereia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_220",
+    "conteudo": "Descrição: Use um boneco de ursinho. Diga que o ursinho precisa \"abraçar\" o vaso para fazer xixi.",
+    "metadata": {
+      "titulo": "O Jogo do Ursinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_221",
+    "conteudo": "Descrição: Use um boneco de cavalo. Diga que o cavalo precisa \"galopar\" para fazer xixi.",
+    "metadata": {
+      "titulo": "O Vaso do Cavalo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_222",
+    "conteudo": "Descrição: Use um boneco de vaca. Diga que a vaca precisa \"mu-mu\" para fazer xixi.",
+    "metadata": {
+      "titulo": "O Jogo da Vaca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_223",
+    "conteudo": "Descrição: Use um boneco de porco. Diga que o porco precisa \"oinc-oinc\" para fazer xixi.",
+    "metadata": {
+      "titulo": "O Vaso do Porco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_224",
+    "conteudo": "Descrição: Use um boneco de galinha. Diga que a galinha precisa \"có-có-có\" para fazer xixi.",
+    "metadata": {
+      "titulo": "O Jogo da Galinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_225",
+    "conteudo": "Descrição: Use um boneco de cachorro. Diga que o cachorro precisa \"au-au\" para fazer xixi.",
+    "metadata": {
+      "titulo": "O Vaso do Cachorro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_226",
+    "conteudo": "Descrição: Use um boneco de abelha. Diga que a abelha precisa \"bzz-bzz\" para fazer xixi.",
+    "metadata": {
+      "titulo": "O Jogo da Abelha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_227",
+    "conteudo": "Descrição: Use um boneco de joaninha. Diga que a joaninha precisa \"voar\" para fazer xixi.",
+    "metadata": {
+      "titulo": "O Vaso da Joaninha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_228",
+    "conteudo": "Descrição: Use um boneco de formiga. Diga que a formiga precisa \"andar\" para fazer xixi.",
+    "metadata": {
+      "titulo": "O Jogo da Formiga",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_229",
+    "conteudo": "Descrição: Use um boneco de verme. Diga que o verme precisa \"rastejar\" para fazer xixi.",
+    "metadata": {
+      "titulo": "O Vaso do Verme",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_230",
+    "conteudo": "Descrição: Use um boneco de minhoca. Diga que a minhoca precisa \"rastejar\" para fazer xixi.",
+    "metadata": {
+      "titulo": "O Jogo da Minhoca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_231",
+    "conteudo": "Descrição: Use um boneco de aranha. Diga que a aranha precisa \"tecer\" para fazer xixi.",
+    "metadata": {
+      "titulo": "O Vaso da Aranha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_232",
+    "conteudo": "Descrição: Use um boneco de borboleta. Diga que a borboleta precisa \"voar\" para fazer xixi.",
+    "metadata": {
+      "titulo": "O Jogo da Borboleta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_233",
+    "conteudo": "Descrição: Use um boneco de gafanhoto. Diga que o gafanhoto precisa \"pular\" para fazer xixi.",
+    "metadata": {
+      "titulo": "O Vaso do Gafanhoto",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_234",
+    "conteudo": "Descrição: Use um boneco de mosca. Diga que a mosca precisa \"voar\" para fazer xixi.",
+    "metadata": {
+      "titulo": "O Jogo da Mosca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_235",
+    "conteudo": "Descrição: Use um boneco de pinguim. Diga que o pinguim precisa \"escorregar\" para fazer xixi.",
+    "metadata": {
+      "titulo": "O Vaso do Pinguim",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_236",
+    "conteudo": "Descrição: Use um boneco de urso polar. Diga que o urso precisa \"andar na neve\" para fazer xixi.",
+    "metadata": {
+      "titulo": "O Jogo do Urso Polar",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_237",
+    "conteudo": "Descrição: Use um boneco de macaco. Diga que o macaco precisa \"escalar\" para fazer xixi.",
+    "metadata": {
+      "titulo": "O Vaso do Macaco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_238",
+    "conteudo": "Descrição: Use um boneco de girafa. Diga que a girafa precisa \"andar com a cabeça para cima\" para fazer xixi.",
+    "metadata": {
+      "titulo": "O Jogo da Girafa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_239",
+    "conteudo": "Descrição: Use um boneco de robô. Diga que o robô precisa \"falar\" para fazer xixi.",
+    "metadata": {
+      "titulo": "O Vaso do Robô",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_240",
+    "conteudo": "Descrição: Use um boneco de palhaço. Diga que o palhaço precisa \"fazer graça\" para fazer xixi.",
+    "metadata": {
+      "titulo": "O Jogo do Palhaço",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_241",
+    "conteudo": "Descrição: Use um boneco de trem. Diga que o trem precisa \"viajar\" para fazer xixi.",
+    "metadata": {
+      "titulo": "O Vaso do Trem",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_242",
+    "conteudo": "Descrição: Use um boneco de avião. Diga que o avião precisa \"voar\" para fazer xixi.",
+    "metadata": {
+      "titulo": "O Jogo do Avião",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_243",
+    "conteudo": "Descrição: Use um boneco de borboleta. Diga que a borboleta precisa \"voar\" para fazer xixi.",
+    "metadata": {
+      "titulo": "O Vaso da Borboleta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_244",
+    "conteudo": "Descrição: Use um boneco de coelhinho. Diga que o coelhinho precisa \"pular\" para fazer xixi.",
+    "metadata": {
+      "titulo": "O Jogo do Coelhinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_245",
+    "conteudo": "Descrição: Use um boneco de dinossauro. Diga que o dinossauro precisa \"rugir\" para fazer xixi.",
+    "metadata": {
+      "titulo": "O Vaso do Dinossauro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_246",
+    "conteudo": "Descrição: Use um boneco de fada. Diga que a fada precisa \"voar\" para fazer xixi.",
+    "metadata": {
+      "titulo": "O Jogo da Fada",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_247",
+    "conteudo": "Descrição: Use um boneco de sereia. Diga que a sereia precisa \"nadar\" para fazer xixi.",
+    "metadata": {
+      "titulo": "O Vaso da Sereia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_248",
+    "conteudo": "Descrição: Use um boneco de cavalo. Diga que o cavalo precisa \"galopar\" para fazer xixi.",
+    "metadata": {
+      "titulo": "O Jogo do Cavalo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_249",
+    "conteudo": "Descrição: Use um boneco de vaca. Diga que a vaca precisa \"mu-mu\" para fazer xixi.",
+    "metadata": {
+      "titulo": "O Vaso da Vaca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_250",
+    "conteudo": "Descrição: Use um lenço de papel com um desenho de \"mágico\". Diga à criança que o lenço é mágico e que precisa ser usado para \"fazer o catarro desaparecer\".",
+    "metadata": {
+      "titulo": "O Lenço Mágico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_251",
+    "conteudo": "Descrição: Use um lenço de papel com um desenho de palhaço. Diga que a criança precisa \"limpar o nariz do palhaço\" para que ele possa \"fazer graça\".",
+    "metadata": {
+      "titulo": "O Nariz do Palhaço",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_252",
+    "conteudo": "Descrição: Use um lenço de papel para \"limpar a tinta\" (o catarro). Diga que o lenço é a \"tela\" e a criança é o \"pintor\".",
+    "metadata": {
+      "titulo": "A Tinta da Sujeira",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_253",
+    "conteudo": "Descrição: Use uma lanterna para fazer sombras na parede. Diga que a sombra \"esconde\" a sujeira. A criança precisa usar o lenço para \"fazer a sombra desaparecer\".",
+    "metadata": {
+      "titulo": "O Jogo da Sombra",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_254",
+    "conteudo": "Descrição: Crie uma música curta e repetitiva sobre limpar o nariz. Cante a música enquanto a criança limpa o nariz.",
+    "metadata": {
+      "titulo": "A Música do Nariz",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_255",
+    "conteudo": "Descrição: Diga que a criança é um \"robô\" e que precisa \"limpar o nariz do robô\" para que ele possa \"falar\".",
+    "metadata": {
+      "titulo": "O Nariz do Robô",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_256",
+    "conteudo": "Descrição: Use um cartão vermelho para alertar a criança sobre a necessidade de limpar o nariz. A criança deve segurar o cartão e dizer \"Alerta vermelho!\" quando sentir a necessidade.",
+    "metadata": {
+      "titulo": "O Jogo do \"Alerta Vermelho\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_257",
+    "conteudo": "Descrição: Crie uma história sobre um leão que precisa limpar o nariz para \"rugir\". Incentive a criança a imitar.",
+    "metadata": {
+      "titulo": "A História do Leão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_258",
+    "conteudo": "Descrição: Brinque de ser um \"gato\". Gatos limpam o nariz com a pata. Incentive a criança a imitar.",
+    "metadata": {
+      "titulo": "O Jogo do Gato",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_259",
+    "conteudo": "Descrição: Crie uma canção sobre a rotina de limpar o nariz. Cante-a sempre que a criança precisar ser lembrada de limpar o nariz.",
+    "metadata": {
+      "titulo": "A Canção do \"Limpa, Limpa\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_260",
+    "conteudo": "Descrição: Incentive a criança a \"voar\" como um pássaro e a \"limpar\" o nariz.",
+    "metadata": {
+      "titulo": "O Jogo do Voo do Pássaro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_261",
+    "conteudo": "Descrição: Use um espelho para mostrar à criança como ela deve se comportar em um ambiente limpo.",
+    "metadata": {
+      "titulo": "O Jogo do Espelho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_262",
+    "conteudo": "Descrição: Brinque de ser um \"coelhinho\". Coelhinhos limpam o nariz com a pata. Incentive a criança a imitar.",
+    "metadata": {
+      "titulo": "O Jogo do Coelhinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_263",
+    "conteudo": "Descrição: Use um robô de brinquedo. Quando o robô se aproximar de um obstáculo, faça-o parar e dizer \"Perigo!\".",
+    "metadata": {
+      "titulo": "O Jogo do Robô que Para",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_264",
+    "conteudo": "Descrição: Conte uma história sobre um elefante que precisa limpar a tromba para \"espirrar\".",
+    "metadata": {
+      "titulo": "A História do Elefante",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_265",
+    "conteudo": "Descrição: Use um lenço de papel para \"limpar\" a \"pista do trem\" (o nariz).",
+    "metadata": {
+      "titulo": "O Jogo do Trem",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_266",
+    "conteudo": "Descrição: Brinque de ser uma \"sereia\". Sereias nadam e limpam o nariz com as mãos.",
+    "metadata": {
+      "titulo": "O Jogo da Sereia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_267",
+    "conteudo": "Descrição: Brinque de ser uma \"fada\". Fadas voam e limpam o nariz.",
+    "metadata": {
+      "titulo": "O Jogo da Fada",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_268",
+    "conteudo": "Descrição: Conte uma história sobre um pássaro que precisa limpar o bico para comer.",
+    "metadata": {
+      "titulo": "A História do Pássaro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_269",
+    "conteudo": "Descrição: Use um lenço de papel para \"limpar\" o \"para-brisa do carro\" (o nariz).",
+    "metadata": {
+      "titulo": "O Jogo do Carro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_270",
+    "conteudo": "Descrição: Conte uma história sobre um coelhinho que precisa limpar o nariz para \"cheirar\" as flores.",
+    "metadata": {
+      "titulo": "A História do Coelhinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_271",
+    "conteudo": "Descrição: Use um lenço de papel para \"limpar a escada\" (o nariz).",
+    "metadata": {
+      "titulo": "O Jogo da Escada",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_272",
+    "conteudo": "Descrição: Conte uma história sobre um macaco que precisa limpar o nariz para \"escalar\".",
+    "metadata": {
+      "titulo": "A História do Macaco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_273",
+    "conteudo": "Descrição: Brinque de ser uma \"tartaruga\". Tartarugas andam devagar e limpam o nariz.",
+    "metadata": {
+      "titulo": "O Jogo da Tartaruga",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_274",
+    "conteudo": "Descrição: Conte uma história sobre um peixe que precisa nadar e limpar o nariz.",
+    "metadata": {
+      "titulo": "A História do Peixe",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_275",
+    "conteudo": "Descrição: Brinque de ser um \"dinossauro\". Dinossauros rugem e limpam o nariz.",
+    "metadata": {
+      "titulo": "O Jogo do Dinossauro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_276",
+    "conteudo": "Descrição: Conte uma história sobre uma sereia que precisa nadar e limpar o nariz.",
+    "metadata": {
+      "titulo": "A História da Sereia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_277",
+    "conteudo": "Descrição: Brinque de ser um \"cavalo\". Cavalos galopam e limpam o nariz.",
+    "metadata": {
+      "titulo": "O Jogo do Cavalo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_278",
+    "conteudo": "Descrição: Conte uma história sobre uma vaca que precisa comer e limpar o nariz.",
+    "metadata": {
+      "titulo": "A História da Vaca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_279",
+    "conteudo": "Descrição: Brinque de ser um \"pato\". Patos nadam e limpam o bico.",
+    "metadata": {
+      "titulo": "O Jogo do Pato",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_280",
+    "conteudo": "Descrição: Conte uma história sobre um porco que precisa se sujar e limpar o nariz.",
+    "metadata": {
+      "titulo": "A História do Porco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_281",
+    "conteudo": "Descrição: Brinque de ser uma \"galinha\". Galinhas ciscam e limpam o bico.",
+    "metadata": {
+      "titulo": "O Jogo da Galinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_282",
+    "conteudo": "Descrição: Conte uma história sobre um cachorro que precisa cheirar e limpar o nariz.",
+    "metadata": {
+      "titulo": "A História do Cachorro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_283",
+    "conteudo": "Descrição: Brinque de ser uma \"abelha\". Abelhas voam e limpam o nariz.",
+    "metadata": {
+      "titulo": "O Jogo da Abelha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_284",
+    "conteudo": "Descrição: Conte uma história sobre uma joaninha que precisa voar e limpar o nariz.",
+    "metadata": {
+      "titulo": "A História da Joaninha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_285",
+    "conteudo": "Descrição: Brinque de ser uma \"formiga\". Formigas andam e limpam o nariz.",
+    "metadata": {
+      "titulo": "O Jogo da Formiga",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_286",
+    "conteudo": "Descrição: Conte uma história sobre um verme que precisa rastejar e limpar o nariz.",
+    "metadata": {
+      "titulo": "A História do Verme",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_287",
+    "conteudo": "Descrição: Brinque de ser uma \"minhoca\". Minhocas rastejam e limpam o nariz.",
+    "metadata": {
+      "titulo": "O Jogo da Minhoca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_288",
+    "conteudo": "Descrição: Conte uma história sobre uma aranha que precisa tecer e limpar o nariz.",
+    "metadata": {
+      "titulo": "A História da Aranha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_289",
+    "conteudo": "Descrição: Brinque de ser uma \"borboleta\". Borboletas voam e limpam o nariz.",
+    "metadata": {
+      "titulo": "O Jogo da Borboleta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_290",
+    "conteudo": "Descrição: Conte uma história sobre um gafanhoto que precisa pular e limpar o nariz.",
+    "metadata": {
+      "titulo": "A História do Gafanhoto",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_291",
+    "conteudo": "Descrição: Brinque de ser uma \"mosca\". Moscas voam e limpam o nariz.",
+    "metadata": {
+      "titulo": "O Jogo da Mosca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_292",
+    "conteudo": "Descrição: Conte uma história sobre uma tartaruga que precisa andar devagar e limpar o nariz.",
+    "metadata": {
+      "titulo": "A História da Tartaruga",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_293",
+    "conteudo": "Descrição: Brinque de ser um \"urso\". Ursos andam e limpam o nariz.",
+    "metadata": {
+      "titulo": "O Jogo do Urso",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_294",
+    "conteudo": "Descrição: Conte uma história sobre um leão que precisa rugir e limpar o nariz.",
+    "metadata": {
+      "titulo": "A História do Leão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_295",
+    "conteudo": "Descrição: Brinque de ser um \"pássaro\". Pássaros voam e limpam o nariz.",
+    "metadata": {
+      "titulo": "O Jogo do Pássaro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_296",
+    "conteudo": "Descrição: Conte uma história sobre uma fada que precisa voar e limpar o nariz.",
+    "metadata": {
+      "titulo": "A História da Fada",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_297",
+    "conteudo": "Descrição: Brinque de ser um \"coelhinho\". Coelhinhos pulam e limpam o nariz.",
+    "metadata": {
+      "titulo": "O Jogo do Coelhinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_298",
+    "conteudo": "Descrição: Conte uma história sobre um robô que precisa andar e limpar o nariz.",
+    "metadata": {
+      "titulo": "A História do Robô",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_299",
+    "conteudo": "Descrição: Use um lenço de papel com um desenho de pássaro. Diga que o pássaro precisa de uma \"limpeza\" no nariz para poder voar e cantar.",
+    "metadata": {
+      "titulo": "O Lenço de Pássaro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_300",
+    "conteudo": "Descrição: Use um cabide com um desenho divertido (ex: um super-herói ou um animal). Diga que o cabide é mágico e que a criança precisa usá-lo para \"pendurar a roupa mágica\".",
+    "metadata": {
+      "titulo": "Cabide Mágico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_301",
+    "conteudo": "Descrição: Use um cabide. Diga que a roupa é a \"sopa do armário\" e que a criança precisa \"servir a sopa\" pendurando-a.",
+    "metadata": {
+      "titulo": "A Sopa do Armário",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_302",
+    "conteudo": "Descrição: Use um cabide e um navio de brinquedo. Diga que o navio precisa \"navegar\" para o armário. A criança deve pendurar a roupa para o navio \"passar\".",
+    "metadata": {
+      "titulo": "Jogo do Navio",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_303",
+    "conteudo": "Descrição: Use um cabide e um copo de urso de pelúcia. Diga que a roupa é o \"leite do urso\" e que a criança precisa \"servir o leite\" pendurando a roupa.",
+    "metadata": {
+      "titulo": "O Leite do Urso",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_304",
+    "conteudo": "Descrição: Use um cabide e um vaso de flores. Diga que a roupa é a \"água do vaso\" e que a criança precisa \"regar a flor\" pendurando-a.",
+    "metadata": {
+      "titulo": "A Água do Vaso",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_305",
+    "conteudo": "Descrição: Use um cabide e um copo de coelho. Diga que a roupa é o \"chá do coelho\" e que a criança precisa \"servir o chá\" pendurando-a.",
+    "metadata": {
+      "titulo": "O Chá do Coelho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_306",
+    "conteudo": "Descrição: Use um cabide e um copo de planta. Diga que a roupa é a \"água da planta\" e que a criança precisa \"regar a planta\" pendurando-a.",
+    "metadata": {
+      "titulo": "A Água da Planta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_307",
+    "conteudo": "Descrição: Use um cabide e um copo de macaco. Diga que a roupa é o \"suco do macaco\" e que a criança precisa \"servir o suco\" pendurando-a.",
+    "metadata": {
+      "titulo": "O Suco do Macaco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_308",
+    "conteudo": "Descrição: Use um cabide e um copo de gato. Diga que a roupa é o \"leite do gato\" e que a criança precisa \"servir o leite\" pendurando-a.",
+    "metadata": {
+      "titulo": "O Leite do Gato",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_309",
+    "conteudo": "Descrição: Use um cabide e um copo de cachorro. Diga que a roupa é a \"água do cachorro\" e que a criança precisa \"servir a água\" pendurando-a.",
+    "metadata": {
+      "titulo": "A Água do Cachorro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_310",
+    "conteudo": "Descrição: Use um cabide e um copo de abelha. Diga que a roupa é o \"suco da abelha\" e que a criança precisa \"servir o suco\" pendurando-a.",
+    "metadata": {
+      "titulo": "O Suco da Abelha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_311",
+    "conteudo": "Descrição: Use um cabide e um copo de elefante. Diga que a roupa é a \"água do elefante\" e que a criança precisa \"servir a água\" pendurando-a.",
+    "metadata": {
+      "titulo": "A Água do Elefante",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_312",
+    "conteudo": "Descrição: Use um cabide e um copo de girafa. Diga que a roupa é o \"suco da girafa\" e que a criança precisa \"servir o suco\" pendurando-a.",
+    "metadata": {
+      "titulo": "O Suco da Girafa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_313",
+    "conteudo": "Descrição: Use um cabide e um copo de leão. Diga que a roupa é a \"água do leão\" e que a criança precisa \"servir a água\" pendurando-a.",
+    "metadata": {
+      "titulo": "A Água do Leão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_314",
+    "conteudo": "Descrição: Use um cabide e um copo de tigre. Diga que a roupa é o \"suco do tigre\" e que a criança precisa \"servir o suco\" pendurando-a.",
+    "metadata": {
+      "titulo": "O Suco do Tigre",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_315",
+    "conteudo": "Descrição: Use um cabide e um copo de rato. Diga que a roupa é a \"água do rato\" e que a criança precisa \"servir a água\" pendurando-a.",
+    "metadata": {
+      "titulo": "A Água do Rato",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_316",
+    "conteudo": "Descrição: Use um cabide e um copo de porco. Diga que a roupa é o \"suco do porco\" e que a criança precisa \"servir o suco\" pendurando-a.",
+    "metadata": {
+      "titulo": "O Suco do Porco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_317",
+    "conteudo": "Descrição: Use um cabide e um copo de galinha. Diga que a roupa é a \"água da galinha\" e que a criança precisa \"servir a água\" pendurando-a.",
+    "metadata": {
+      "titulo": "A Água da Galinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_318",
+    "conteudo": "Descrição: Use um cabide e um copo de pássaro. Diga que a roupa é o \"suco do pássaro\" e que a criança precisa \"servir o suco\" pendurando-a.",
+    "metadata": {
+      "titulo": "O Suco do Pássaro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_319",
+    "conteudo": "Descrição: Use um cabide e um copo de borboleta. Diga que a roupa é a \"água da borboleta\" e que a criança precisa \"servir a água\" pendurando-a.",
+    "metadata": {
+      "titulo": "A Água da Borboleta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_320",
+    "conteudo": "Descrição: Use um cabide e um copo de abelha. Diga que a roupa é o \"suco da abelha\" e que a criança precisa \"servir o suco\" pendurando-a.",
+    "metadata": {
+      "titulo": "O Suco da Abelha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_321",
+    "conteudo": "Descrição: Use um cabide e um copo de sapo. Diga que a roupa é a \"água do sapo\" e que a criança precisa \"servir a água\" pendurando-a.",
+    "metadata": {
+      "titulo": "A Água do Sapo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_322",
+    "conteudo": "Descrição: Use um cabide e um copo de tartaruga. Diga que a roupa é o \"suco da tartaruga\" e que a criança precisa \"servir o suco\" pendurando-a.",
+    "metadata": {
+      "titulo": "O Suco da Tartaruga",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_323",
+    "conteudo": "Descrição: Use um cabide e um copo de peixe. Diga que a roupa é a \"água do peixe\" e que a criança precisa \"servir a água\" pendurando-a.",
+    "metadata": {
+      "titulo": "A Água do Peixe",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_324",
+    "conteudo": "Descrição: Use um cabide e um copo de cavalo. Diga que a roupa é o \"suco do cavalo\" e que a criança precisa \"servir o suco\" pendurando-a.",
+    "metadata": {
+      "titulo": "O Suco do Cavalo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_325",
+    "conteudo": "Descrição: Use um cabide e um copo de vaca. Diga que a roupa é a \"água da vaca\" e que a criança precisa \"servir a água\" pendurando-a.",
+    "metadata": {
+      "titulo": "A Água da Vaca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_326",
+    "conteudo": "Descrição: Use um cabide e um copo de pato. Diga que a roupa é o \"suco do pato\" e que a criança precisa \"servir o suco\" pendurando-a.",
+    "metadata": {
+      "titulo": "O Suco do Pato",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_327",
+    "conteudo": "Descrição: Use um cabide e um copo de pinguim. Diga que a roupa é a \"água do pinguim\" e que a criança precisa \"servir a água\" pendurando-a.",
+    "metadata": {
+      "titulo": "A Água do Pinguim",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_328",
+    "conteudo": "Descrição: Use um cabide e um copo de gato. Diga que a roupa é o \"suco do gato\" e que a criança precisa \"servir o suco\" pendurando-a.",
+    "metadata": {
+      "titulo": "O Suco do Gato",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_329",
+    "conteudo": "Descrição: Use um cabide e um copo de cachorro. Diga que a roupa é a \"água do cachorro\" e que a criança precisa \"servir a água\" pendurando-a.",
+    "metadata": {
+      "titulo": "A Água do Cachorro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_330",
+    "conteudo": "Descrição: Use um cabide e um copo de abelha. Diga que a roupa é o \"suco da abelha\" e que a criança precisa \"servir o suco\" pendurando-a.",
+    "metadata": {
+      "titulo": "O Suco da Abelha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_331",
+    "conteudo": "Descrição: Use um cabide e um copo de elefante. Diga que a roupa é a \"água do elefante\" e que a criança precisa \"servir a água\" pendurando-a.",
+    "metadata": {
+      "titulo": "A Água do Elefante",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_332",
+    "conteudo": "Descrição: Use um cabide e um copo de girafa. Diga que a roupa é o \"suco da girafa\" e que a criança precisa \"servir o suco\" pendurando-a.",
+    "metadata": {
+      "titulo": "O Suco da Girafa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_333",
+    "conteudo": "Descrição: Use um cabide e um copo de leão. Diga que a roupa é a \"água do leão\" e que a criança precisa \"servir a água\" pendurando-a.",
+    "metadata": {
+      "titulo": "A Água do Leão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_334",
+    "conteudo": "Descrição: Use um cabide e um copo de tigre. Diga que a roupa é o \"suco do tigre\" e que a criança precisa \"servir o suco\" pendurando-a.",
+    "metadata": {
+      "titulo": "O Suco do Tigre",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_335",
+    "conteudo": "Descrição: Use um cabide e um copo de rato. Diga que a roupa é a \"água do rato\" e que a criança precisa \"servir a água\" pendurando-a.",
+    "metadata": {
+      "titulo": "A Água do Rato",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_336",
+    "conteudo": "Descrição: Use um cabide e um copo de porco. Diga que a roupa é o \"suco do porco\" e que a criança precisa \"servir o suco\" pendurando-a.",
+    "metadata": {
+      "titulo": "O Suco do Porco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_337",
+    "conteudo": "Descrição: Use um cabide e um copo de galinha. Diga que a roupa é a \"água da galinha\" e que a criança precisa \"servir a água\" pendurando-a.",
+    "metadata": {
+      "titulo": "A Água da Galinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_338",
+    "conteudo": "Descrição: Use um cabide e um copo de pássaro. Diga que a roupa é o \"suco do pássaro\" e que a criança precisa \"servir o suco\" pendurando-a.",
+    "metadata": {
+      "titulo": "O Suco do Pássaro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_339",
+    "conteudo": "Descrição: Use um cabide e um copo de borboleta. Diga que a roupa é a \"água da borboleta\" e que a criança precisa \"servir a água\" pendurando-a.",
+    "metadata": {
+      "titulo": "A Água da Borboleta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_340",
+    "conteudo": "Descrição: Use um cabide e um copo de abelha. Diga que a roupa é o \"suco da abelha\" e que a criança precisa \"servir o suco\" pendurando-a.",
+    "metadata": {
+      "titulo": "O Suco da Abelha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_341",
+    "conteudo": "Descrição: Use um cabide e um copo de sapo. Diga que a roupa é a \"água do sapo\" e que a criança precisa \"servir a água\" pendurando-a.",
+    "metadata": {
+      "titulo": "A Água do Sapo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_342",
+    "conteudo": "Descrição: Use um cabide e um copo de tartaruga. Diga que a roupa é o \"suco da tartaruga\" e que a criança precisa \"servir o suco\" pendurando-a.",
+    "metadata": {
+      "titulo": "O Suco da Tartaruga",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_343",
+    "conteudo": "Descrição: Use um cabide e um copo de peixe. Diga que a roupa é a \"água do peixe\" e que a criança precisa \"servir a água\" pendurando-a.",
+    "metadata": {
+      "titulo": "A Água do Peixe",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_344",
+    "conteudo": "Descrição: Use um cabide e um copo de cavalo. Diga que a roupa é o \"suco do cavalo\" e que a criança precisa \"servir o suco\" pendurando-a.",
+    "metadata": {
+      "titulo": "O Suco do Cavalo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_345",
+    "conteudo": "Descrição: Use um cabide e um copo de vaca. Diga que a roupa é a \"água da vaca\" e que a criança precisa \"servir a água\" pendurando-a.",
+    "metadata": {
+      "titulo": "A Água da Vaca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_346",
+    "conteudo": "Descrição: Use um cabide e um copo de pato. Diga que a roupa é o \"suco do pato\" e que a criança precisa \"servir o suco\" pendurando-a.",
+    "metadata": {
+      "titulo": "O Suco do Pato",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_347",
+    "conteudo": "Descrição: Use um cabide e um copo de pinguim. Diga que a roupa é a \"água do pinguim\" e que a criança precisa \"servir a água\" pendurando-a.",
+    "metadata": {
+      "titulo": "A Água do Pinguim",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_348",
+    "conteudo": "Descrição: Use um cabide e um copo de gato. Diga que a roupa é o \"suco do gato\" e que a criança precisa \"servir o suco\" pendurando-a.",
+    "metadata": {
+      "titulo": "O Suco do Gato",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_349",
+    "conteudo": "Descrição: Use um cabide e um copo de cachorro. Diga que a roupa é a \"água do cachorro\" e que a criança precisa \"servir a água\" pendurando-a.",
+    "metadata": {
+      "titulo": "A Água do Cachorro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_350",
+    "conteudo": "Descrição: Use uma música curta e animada com instruções. Por exemplo, “Escove pra cima, escove pra baixo, a sujeira vai embora, tchau, tchau!”. Cante e demonstre os movimentos para a criança imitar.",
+    "metadata": {
+      "titulo": "A Música da Escovação",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_351",
+    "conteudo": "Descrição: Escovem os dentes juntos, lado a lado, em frente a um espelho. Diga \"faça como eu\" e demonstre cada movimento, como escovar os dentes de cima, os de baixo e a língua.",
+    "metadata": {
+      "titulo": "O Jogo do Espelho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_352",
+    "conteudo": "Descrição: Diga que a criança é um “robô” e a escova é sua ferramenta. Dê comandos simples e diretos como \"Robô, escove os dentes da frente\" ou \"Agora, os dentes do lado\", incentivando-a a seguir as instruções.",
+    "metadata": {
+      "titulo": "Escova do Robô",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_353",
+    "conteudo": "Descrição: Use uma escova de dentes colorida. Diga que é uma “varinha mágica” que faz a sujeira desaparecer. Dê instruções para cada movimento, como \"Use a varinha mágica para limpar os dentes de trás\".",
+    "metadata": {
+      "titulo": "A Escova Mágica",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_354",
+    "conteudo": "Descrição: Desenhe um “mapa da boca” com dentes em um papel. Peça para a criança “seguir a pista” com a escova, mostrando a ela qual dente ou área deve ser escovada a seguir.",
+    "metadata": {
+      "titulo": "Jogo da Pista",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_355",
+    "conteudo": "Descrição: Use um boneco de brinquedo com dentes grandes (ou um modelo de boca) e uma escova de dentes. Diga à criança para “ensinar o amigo” a escovar os dentes, dando instruções simples enquanto a ajuda a realizar a tarefa.",
+    "metadata": {
+      "titulo": "O Dente Amigo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_356",
+    "conteudo": "Descrição: Escovem os dentes em um ambiente com pouca luz e use uma lanterna para projetar as sombras dos movimentos da escova. Diga \"A sombra da escova vai para cima\" e incentive a criança a copiar o movimento da sombra.",
+    "metadata": {
+      "titulo": "O Jogo da Sombra",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_357",
+    "conteudo": "Descrição: Diga que a criança é um “chef” e que a escova é um batedor. Incentive-a a “bater” na sujeira dos dentes, como se estivesse preparando uma receita, seguindo suas instruções.",
+    "metadata": {
+      "titulo": "A Escova do Chef",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_358",
+    "conteudo": "Descrição: Use um monstro de brinquedo. Diga que o monstro está “escondido na boca” e que a criança precisa seguir suas instruções para “caçar o monstro da sujeira”.",
+    "metadata": {
+      "titulo": "O Monstro da Sujeira",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_359",
+    "conteudo": "Descrição: Crie uma canção com o nome da criança e a rotina da escovação. Por exemplo, “Escova, escova, [nome], a sujeira vai embora agora!”.",
+    "metadata": {
+      "titulo": "A Canção do “Escova, Escova”",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_360",
+    "conteudo": "Descrição: Cubra o espelho do banheiro com um pano. Diga que ele só revelará o reflexo da criança quando os dentes estiverem completamente limpos, seguindo as suas instruções.",
+    "metadata": {
+      "titulo": "O Jogo do Espelho Mágico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_361",
+    "conteudo": "Descrição: Use tinta lavável e um papel grande. Diga para a criança “pintar” as direções de escovação, como círculos e linhas, com a escova de dentes e as suas instruções.",
+    "metadata": {
+      "titulo": "Escova e Pintura",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_362",
+    "conteudo": "Descrição: Use um boneco de brinquedo com dentes grandes (ou um modelo de boca). Peça para a criança “dar um banho” nos dentes do boneco, seguindo suas instruções para cada movimento.",
+    "metadata": {
+      "titulo": "O Dente de Boneco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_363",
+    "conteudo": "Descrição: Use uma escova de dentes com um cabo de varinha de condão. Diga que a varinha tem o “poder de limpar” e dê instruções simples sobre onde a varinha deve ir para limpar os dentes.",
+    "metadata": {
+      "titulo": "A Escova da Varinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_364",
+    "conteudo": "Descrição: Diga que a escova é um “foguete” que precisa “decolar” nos dentes de baixo e “pousar” nos dentes de cima, seguindo suas instruções.",
+    "metadata": {
+      "titulo": "O Jogo do Foguete",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_365",
+    "conteudo": "Descrição: Use uma escova com um pássaro de brinquedo. Diga que o pássaro “vai voar para os dentes de cima” e “pousar nos de baixo”, seguindo suas instruções.",
+    "metadata": {
+      "titulo": "A Escova de Pássaro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_366",
+    "conteudo": "Descrição: Crie sons engraçados para cada movimento de escovação. Por exemplo, \"ssshhh, sssshhh\" para escovar para frente e para trás, e \"voooosh\" para escovar a língua.",
+    "metadata": {
+      "titulo": "O Jogo do Som",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_367",
+    "conteudo": "Descrição: Use uma escova com um leão de brinquedo. Diga que o leão precisa “rugir e escovar” os dentes, seguindo suas instruções para cada movimento.",
+    "metadata": {
+      "titulo": "A Escova de Leão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_368",
+    "conteudo": "Descrição: Use uma escova de dentes com um gato de brinquedo. Diga que o gato precisa “ronronar” e “acariciar” os dentes com a escova.",
+    "metadata": {
+      "titulo": "Escova do Gato",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_369",
+    "conteudo": "Descrição: Use uma escova com um pato de brinquedo. Diga que o pato precisa “quá-quá” e “nadar” sobre os dentes.",
+    "metadata": {
+      "titulo": "A Escova de Pato",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_370",
+    "conteudo": "Descrição: Use a escova de dentes como um “trem” que precisa “viajar” pelos trilhos (os dentes) seguindo suas instruções.",
+    "metadata": {
+      "titulo": "O Jogo do Trem",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_371",
+    "conteudo": "Descrição: Use uma escova de dentes com um coelho de brinquedo. Diga que o coelho precisa “pular” de dente em dente, seguindo suas instruções.",
+    "metadata": {
+      "titulo": "Escova de Coelho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_372",
+    "conteudo": "Descrição: Use uma escova de dentes com uma sereia de brinquedo. Diga que a sereia precisa “nadar” pelos dentes para limpá-los.",
+    "metadata": {
+      "titulo": "A Escova da Sereia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_373",
+    "conteudo": "Descrição: Use um ursinho de pelúcia com uma escova de dentes de brinquedo. Incentive a criança a “abraçar” os dentes do ursinho enquanto escova.",
+    "metadata": {
+      "titulo": "O Jogo do Ursinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_374",
+    "conteudo": "Descrição: Use uma escova de dentes com um pinguim de brinquedo. Diga que o pinguim precisa “escorregar” pelos dentes, seguindo suas instruções.",
+    "metadata": {
+      "titulo": "A Escova de Pinguim",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_375",
+    "conteudo": "Descrição: Use uma escova de dentes com um macaco de brinquedo. Diga que o macaco precisa “escalar” os dentes para limpá-los.",
+    "metadata": {
+      "titulo": "O Jogo do Macaco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_376",
+    "conteudo": "Descrição: Use uma escova de dentes com uma girafa de brinquedo. Diga que a girafa precisa “esticar o pescoço” para alcançar todos os dentes.",
+    "metadata": {
+      "titulo": "A Escova de Girafa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_377",
+    "conteudo": "Descrição: Use uma escova de dentes com um dinossauro de brinquedo. Diga que o dinossauro precisa “rugir” e “morder” a sujeira dos dentes.",
+    "metadata": {
+      "titulo": "O Jogo do Dinossauro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_378",
+    "conteudo": "Descrição: Use uma escova com uma joaninha de brinquedo. Diga que a joaninha precisa “voar” de dente em dente para limpá-los.",
+    "metadata": {
+      "titulo": "A Escova da Joaninha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_379",
+    "conteudo": "Descrição: Use a escova como um “carrinho” que precisa “dirigir” sobre a sujeira dos dentes.",
+    "metadata": {
+      "titulo": "O Jogo do Carro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_380",
+    "conteudo": "Descrição: Use uma escova com uma abelha de brinquedo. Diga que a abelha precisa “voar” e “colher o néctar” (a sujeira) dos dentes.",
+    "metadata": {
+      "titulo": "Escova de Abelha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_381",
+    "conteudo": "Descrição: Use uma luva de banho para a criança usar como fantoche. O fantoche pode “escovar” os dentes da criança.",
+    "metadata": {
+      "titulo": "A Escova de Fantoche",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_382",
+    "conteudo": "Descrição: Use uma lanterna para criar sombras na parede. Diga que a sombra da escova precisa “dançar” sobre os dentes.",
+    "metadata": {
+      "titulo": "O Jogo da Sombra",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_383",
+    "conteudo": "Descrição: Use uma escova com um cãozinho de brinquedo. Diga que o cãozinho precisa “dar a pata” nos dentes para limpá-los.",
+    "metadata": {
+      "titulo": "A Escova de Cãozinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_384",
+    "conteudo": "Descrição: Use uma escova com uma vaca de brinquedo. Diga que a vaca precisa “mascar” a sujeira dos dentes.",
+    "metadata": {
+      "titulo": "O Jogo da Vaca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_385",
+    "conteudo": "Descrição: Use uma escova com um porco de brinquedo. Diga que o porco precisa “se sujar” para depois se “limpar”.",
+    "metadata": {
+      "titulo": "Escova de Porco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_386",
+    "conteudo": "Descrição: Use uma escova com uma galinha de brinquedo. Diga que a galinha precisa “ciscar” a sujeira dos dentes.",
+    "metadata": {
+      "titulo": "A Escova de Galinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_387",
+    "conteudo": "Descrição: Use uma escova com uma abelha de brinquedo. Diga que a abelha precisa “voar” de dente em dente.",
+    "metadata": {
+      "titulo": "O Jogo da Abelha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_388",
+    "conteudo": "Descrição: Use uma escova com uma minhoca de brinquedo. Diga que a minhoca precisa “rastejar” sobre os dentes.",
+    "metadata": {
+      "titulo": "A Escova da Minhoca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_389",
+    "conteudo": "Descrição: Use uma escova com uma aranha de brinquedo. Diga que a aranha precisa “tecer” uma teia nos dentes.",
+    "metadata": {
+      "titulo": "O Jogo da Aranha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_390",
+    "conteudo": "Descrição: Use uma escova com uma borboleta de brinquedo. Diga que a borboleta precisa “voar” de dente em dente.",
+    "metadata": {
+      "titulo": "A Escova da Borboleta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_391",
+    "conteudo": "Descrição: Use uma escova com um gafanhoto de brinquedo. Diga que o gafanhoto precisa “pular” de dente em dente.",
+    "metadata": {
+      "titulo": "O Jogo do Gafanhoto",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_392",
+    "conteudo": "Descrição: Use uma escova com uma mosca de brinquedo. Diga que a mosca precisa “voar” de dente em dente.",
+    "metadata": {
+      "titulo": "A Escova da Mosca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_393",
+    "conteudo": "Descrição: Use uma escova com um urso polar de brinquedo. Diga que o urso precisa “andar na neve” dos dentes.",
+    "metadata": {
+      "titulo": "O Jogo do Urso Polar",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_394",
+    "conteudo": "Descrição: Use uma escova com uma girafa de brinquedo. Diga que a girafa precisa “comer as folhas” dos dentes.",
+    "metadata": {
+      "titulo": "A Escova de Girafa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_395",
+    "conteudo": "Descrição: Use uma escova com uma sereia de brinquedo. Diga que a sereia precisa “nadar” nos dentes.",
+    "metadata": {
+      "titulo": "O Jogo da Sereia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_396",
+    "conteudo": "Descrição: Use uma escova com um cavalo de brinquedo. Diga que o cavalo precisa “galopar” sobre os dentes.",
+    "metadata": {
+      "titulo": "A Escova do Cavalo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_397",
+    "conteudo": "Descrição: Use uma escova com uma vaca de brinquedo. Diga que a vaca precisa “mu-mu” e “mascar” a sujeira.",
+    "metadata": {
+      "titulo": "O Jogo da Vaca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_398",
+    "conteudo": "Descrição: Use uma escova com um porco de brinquedo. Diga que o porco precisa “se sujar” para depois “se limpar”.",
+    "metadata": {
+      "titulo": "A Escova de Porco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_399",
+    "conteudo": "Descrição: Use um modelo de boca com dentes grandes (pode ser de brinquedo ou feito de massinha branca). Diga que os dentes são “bonecos de neve” e que a criança precisa seguir suas instruções para “limpar” a neve de cada um.",
+    "metadata": {
+      "titulo": "O Dente de Boneco de Neve",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_400",
+    "conteudo": "Descrição: Use um pedaço de pano com botões grandes e coloridos. Diga que são \"botões mágicos\" que se abrem para revelar um segredo (um adesivo, por exemplo).",
+    "metadata": {
+      "titulo": "O Jogo do Botão Mágico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_401",
+    "conteudo": "Descrição: Use um babador com botões. Diga que a sopa está \"presa\" e a criança precisa desabotoar para a sopa \"sair\".",
+    "metadata": {
+      "titulo": "A Sopa do Botão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_402",
+    "conteudo": "Descrição: Use um painel de feltro com botões. Diga que os botões são \"portões de um castelo\" e a criança precisa abri-los para entrar no castelo.",
+    "metadata": {
+      "titulo": "O Castelo de Botões",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_403",
+    "conteudo": "Descrição: Use uma camisa de boneca com botões. Incentive a criança a desabotoar e abotoar a camisa do \"ursinho\".",
+    "metadata": {
+      "titulo": "A Camisa do Urso",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_404",
+    "conteudo": "Descrição: Desenhe uma pista de corrida em um pedaço de tecido com botões. Incentive a criança a \"correr\" com o dedo na pista e abotoar os botões no caminho.",
+    "metadata": {
+      "titulo": "O Jogo da Pista",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_405",
+    "conteudo": "Descrição: Use um casaco de brinquedo com botões. Diga que há um \"segredo\" dentro do casaco e a criança precisa desabotoar para encontrá-lo.",
+    "metadata": {
+      "titulo": "O Segredo do Casaco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_406",
+    "conteudo": "Descrição: Use um pedaço de tecido com botões. Diga que os botões são \"alarmes\" que a criança precisa \"desligar\" para que a \"música\" comece.",
+    "metadata": {
+      "titulo": "O Jogo do Alarme",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_407",
+    "conteudo": "Descrição: Use um pedaço de tecido com botões. Diga que o tecido é um \"carro\" e a criança precisa desabotoar os botões para o \"gato\" entrar e sair.",
+    "metadata": {
+      "titulo": "O Carro do Botão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_408",
+    "conteudo": "Descrição: Use um pedaço de tecido com botões. Diga que os botões são \"peixes\" e a criança precisa \"pescar\" os peixes, desabotoando-os.",
+    "metadata": {
+      "titulo": "A Pesca de Botões",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_409",
+    "conteudo": "Descrição: Crie uma história sobre um coelho que precisa desabotoar sua roupa para \"pular\". Incentive a criança a abotoar e desabotoar a roupa do coelho.",
+    "metadata": {
+      "titulo": "A História do Coelho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_410",
+    "conteudo": "Descrição: Desenhe um labirinto em um pedaço de tecido com botões. Incentive a criança a \"percorrer\" o labirinto, desabotoando os botões no caminho.",
+    "metadata": {
+      "titulo": "O Jogo do Labirinto",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_411",
+    "conteudo": "Descrição: Use um fantoche de dedo. Incentive a criança a desabotoar e abotoar a roupa do fantoche.",
+    "metadata": {
+      "titulo": "O Jogo do Fantoche",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_412",
+    "conteudo": "Descrição: Cante uma música sobre abotoar e desabotoar botões e incentive a criança a imitar.",
+    "metadata": {
+      "titulo": "O Jogo da Música",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_413",
+    "conteudo": "Descrição: Use um ursinho de pelúcia com roupas que tenham botões. Incentive a criança a desabotoar e abotoar os botões da roupa do ursinho.",
+    "metadata": {
+      "titulo": "A Roupas do Ursinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_414",
+    "conteudo": "Descrição: Use um pedaço de tecido com botões. Diga que os botões são as \"penas\" de um pássaro e a criança precisa desabotoá-los para o pássaro \"voar\".",
+    "metadata": {
+      "titulo": "O Jogo do Pássaro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_415",
+    "conteudo": "Descrição: Use um pedaço de tecido com botões. Diga que os botões são as \"garras\" de um leão e a criança precisa desabotoá-los para o leão \"rugir\".",
+    "metadata": {
+      "titulo": "O Jogo do Leão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_416",
+    "conteudo": "Descrição: Use um pedaço de tecido com botões. Diga que os botões são \"blocos de construção\" e a criança precisa desabotoá-los para \"construir\" uma casa.",
+    "metadata": {
+      "titulo": "A Casa de Botões",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_417",
+    "conteudo": "Descrição: Use um pedaço de tecido com botões. Diga que os botões são as \"escamas\" de uma sereia e a criança precisa desabotoá-los para a sereia \"nadar\".",
+    "metadata": {
+      "titulo": "O Jogo da Sereia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_418",
+    "conteudo": "Descrição: Use um pedaço de tecido com botões. Diga que os botões são os \"pneus\" de um carro e a criança precisa desabotoá-los para o carro \"correr\".",
+    "metadata": {
+      "titulo": "O Jogo do Carro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_419",
+    "conteudo": "Descrição: Crie uma história sobre um elefante que precisa desabotoar sua tromba para \"espirrar\".",
+    "metadata": {
+      "titulo": "A História do Elefante",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_420",
+    "conteudo": "Descrição: Use um pedaço de tecido com botões. Diga que os botões são os \"braços\" de um robô e a criança precisa desabotoá-los para o robô \"falar\".",
+    "metadata": {
+      "titulo": "O Jogo do Robô",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_421",
+    "conteudo": "Descrição: Use um pedaço de tecido com botões. Diga que os botões são os \"narizes\" de um palhaço e a criança precisa desabotoá-los para o palhaço \"fazer graça\".",
+    "metadata": {
+      "titulo": "O Jogo do Palhaço",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_422",
+    "conteudo": "Descrição: Crie uma história sobre um trem que precisa desabotoar os botões de seus vagões para \"viajar\".",
+    "metadata": {
+      "titulo": "A História do Trem",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_423",
+    "conteudo": "Descrição: Use um pedaço de tecido com botões. Diga que os botões são as \"asas\" de um avião e a criança precisa desabotoá-los para o avião \"voar\".",
+    "metadata": {
+      "titulo": "O Jogo do Avião",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_424",
+    "conteudo": "Descrição: Crie uma história sobre uma borboleta que precisa desabotoar os botões de suas asas para \"voar\".",
+    "metadata": {
+      "titulo": "A História da Borboleta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_425",
+    "conteudo": "Descrição: Use um pedaço de tecido com botões. Diga que os botões são as \"orelhas\" de um coelho e a criança precisa desabotoá-los para o coelho \"pular\".",
+    "metadata": {
+      "titulo": "O Jogo do Coelho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_426",
+    "conteudo": "Descrição: Use um pedaço de tecido com botões. Diga que os botões são as \"garras\" de um dinossauro e a criança precisa desabotoá-los para o dinossauro \"rugir\".",
+    "metadata": {
+      "titulo": "O Jogo do Dinossauro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_427",
+    "conteudo": "Descrição: Use um pedaço de tecido com botões. Diga que os botões são as \"escamas\" de uma sereia e a criança precisa desabotoá-los para a sereia \"nadar\".",
+    "metadata": {
+      "titulo": "O Jogo da Sereia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_428",
+    "conteudo": "Descrição: Use um pedaço de tecido com botões. Diga que os botões são as \"patas\" de um cavalo e a criança precisa desabotoá-los para o cavalo \"galopar\".",
+    "metadata": {
+      "titulo": "O Jogo do Cavalo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_429",
+    "conteudo": "Descrição: Crie uma história sobre uma vaca que precisa desabotoar os botões de sua roupa para \"mu-mu\".",
+    "metadata": {
+      "titulo": "A História da Vaca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_430",
+    "conteudo": "Descrição: Use um pedaço de tecido com botões. Diga que os botões são as \"asas\" de um pato e a criança precisa desabotoá-los para o pato \"nadar\".",
+    "metadata": {
+      "titulo": "O Jogo do Pato",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_431",
+    "conteudo": "Descrição: Crie uma história sobre um porco que precisa desabotoar os botões de sua roupa para \"oinc-oinc\".",
+    "metadata": {
+      "titulo": "A História do Porco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_432",
+    "conteudo": "Descrição: Use um pedaço de tecido com botões. Diga que os botões são as \"penas\" de uma galinha e a criança precisa desabotoá-los para a galinha \"có-có-có\".",
+    "metadata": {
+      "titulo": "O Jogo da Galinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_433",
+    "conteudo": "Descrição: Crie uma história sobre um cachorro que precisa desabotoar os botões de sua coleira para \"au-au\".",
+    "metadata": {
+      "titulo": "A História do Cachorro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_434",
+    "conteudo": "Descrição: Use um pedaço de tecido com botões. Diga que os botões são as \"asas\" de uma abelha e a criança precisa desabotoá-los para a abelha \"bzz-bzz\".",
+    "metadata": {
+      "titulo": "O Jogo da Abelha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_435",
+    "conteudo": "Descrição: Crie uma história sobre uma joaninha que precisa desabotoar os botões de suas asas para \"voar\".",
+    "metadata": {
+      "titulo": "A História da Joaninha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_436",
+    "conteudo": "Descrição: Use um pedaço de tecido com botões. Diga que os botões são as \"pernas\" de uma formiga e a criança precisa desabotoá-los para a formiga \"andar\".",
+    "metadata": {
+      "titulo": "O Jogo da Formiga",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_437",
+    "conteudo": "Descrição: Crie uma história sobre um verme que precisa desabotoar os botões de sua roupa para \"rastejar\".",
+    "metadata": {
+      "titulo": "A História do Verme",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_438",
+    "conteudo": "Descrição: Use um pedaço de tecido com botões. Diga que os botões são as \"costas\" de uma minhoca e a criança precisa desabotoá-los para a minhoca \"rastejar\".",
+    "metadata": {
+      "titulo": "O Jogo da Minhoca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_439",
+    "conteudo": "Descrição: Crie uma história sobre uma aranha que precisa desabotoar os botões de sua teia para \"tecer\".",
+    "metadata": {
+      "titulo": "A História da Aranha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_440",
+    "conteudo": "Descrição: Use um pedaço de tecido com botões. Diga que os botões são as \"asas\" de uma borboleta e a criança precisa desabotoá-los para a borboleta \"voar\".",
+    "metadata": {
+      "titulo": "O Jogo da Borboleta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_441",
+    "conteudo": "Descrição: Crie uma história sobre um gafanhoto que precisa desabotoar os botões de suas pernas para \"pular\".",
+    "metadata": {
+      "titulo": "A História do Gafanhoto",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_442",
+    "conteudo": "Descrição: Use um pedaço de tecido com botões. Diga que os botões são as \"asas\" de uma mosca e a criança precisa desabotoá-los para a mosca \"voar\".",
+    "metadata": {
+      "titulo": "O Jogo da Mosca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_443",
+    "conteudo": "Descrição: Crie uma história sobre um pinguim que precisa desabotoar os botões de sua roupa para \"escorregar\".",
+    "metadata": {
+      "titulo": "A História do Pinguim",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_444",
+    "conteudo": "Descrição: Use um pedaço de tecido com botões. Diga que os botões são as \"patas\" de um urso polar e a criança precisa desabotoá-los para o urso \"andar na neve\".",
+    "metadata": {
+      "titulo": "O Jogo do Urso Polar",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_445",
+    "conteudo": "Descrição: Crie uma história sobre um macaco que precisa desabotoar os botões de sua roupa para \"escalar\".",
+    "metadata": {
+      "titulo": "A História do Macaco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_446",
+    "conteudo": "Descrição: Use um pedaço de tecido com botões. Diga que os botões são as \"pernas\" de uma girafa e a criança precisa desabotoá-los para a girafa \"andar\".",
+    "metadata": {
+      "titulo": "O Jogo da Girafa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_447",
+    "conteudo": "Descrição: Crie uma história sobre um robô que precisa desabotoar os botões de sua roupa para \"falar\".",
+    "metadata": {
+      "titulo": "A História do Robô",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_448",
+    "conteudo": "Descrição: Use um pedaço de tecido com botões. Diga que os botões são os \"narizes\" de um palhaço e a criança precisa desabotoá-los para o palhaço \"fazer graça\".",
+    "metadata": {
+      "titulo": "O Jogo do Palhaço",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_449",
+    "conteudo": "Descrição: Use um casaco de brinquedo com botões. Diga que os botões são os \"olhos do sapo\" e a criança precisa desabotoar para o sapo \"piscar\".",
+    "metadata": {
+      "titulo": "A Jaqueta do Sapo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 2",
+      "idade": "3 a 4 anos"
+    }
+  }
+]

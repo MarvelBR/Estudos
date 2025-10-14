@@ -1,0 +1,4402 @@
+[
+  {
+    "id": "autocuidado_4a5_01",
+    "conteudo": "Descrição: Crie um \"Cantinho da Limpeza\" na sala, com um borrifador de água, panos coloridos, uma esponja de bichinho e uma pazinha. A criança precisa saber onde estão as ferramentas para poder usá-las.",
+    "metadata": {
+      "titulo": "A Estação de Limpeza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_02",
+    "conteudo": "Descrição: Em uma bandeja, derrame um pouco de água. Entregue uma esponja \"mágica\" para a criança e mostre como, ao pressioná-la sobre a água, ela \"magicamente\" desaparece (é absorvida).",
+    "metadata": {
+      "titulo": "O Mágico da Água",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_03",
+    "conteudo": "Descrição: Desenhe com giz em uma lousa pequena ou no chão (em área externa). A criança usa um borrifador de água e um pano para \"apagar\" os desenhos, praticando o borrifar e o esfregar.",
+    "metadata": {
+      "titulo": "O \"Apagador\" de Desenhos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_04",
+    "conteudo": "Descrição: Derrame algumas gotas de água colorida em uma superfície lisa. A criança usa um pedaço de papel toalha para \"capturar\" as gotas antes que elas \"fujam\".",
+    "metadata": {
+      "titulo": "A Corrida das Gotas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_05",
+    "conteudo": "Descrição: Crie um comando. Quando você disser \"Opa, derrubei!\", a criança deve correr para a Estação de Limpeza, pegar um pano e voltar, pronta para a ação. A brincadeira é na preparação, não no derramamento.",
+    "metadata": {
+      "titulo": "O Jogo do \"Opa, Derrubei!\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_06",
+    "conteudo": "Descrição: Coloque pequenos brinquedos de plástico em uma bacia e derrame um pouco de água. A missão da criança é \"resgatar\" os brinquedos, secando toda a água ao redor deles com uma esponja.",
+    "metadata": {
+      "titulo": "O Resgate dos Brinquedos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_07",
+    "conteudo": "Descrição: Decore uma lixeira pequena como um monstro com a boca aberta. Após limpar a sujeira com um papel toalha, a criança deve \"alimentar o monstro faminto\".",
+    "metadata": {
+      "titulo": "O Monstro Come-Sujeira",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_08",
+    "conteudo": "Descrição: Em um dia quente, no pátio, a criança pode \"pintar\" o chão com um pincel e um pote de água. Se derramar, ela mesma usa um pano para \"mudar o desenho\", secando a poça.",
+    "metadata": {
+      "titulo": "O Pintor de Água",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_09",
+    "conteudo": "Descrição: Derrame um pouco de água no chão liso. A criança usa um pano, empurrando-o com o pé, para secar a \"pista escorregadia\" e evitar que os carrinhos derrapem.",
+    "metadata": {
+      "titulo": "A Pista Escorregadia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_10",
+    "conteudo": "Descrição: Dê comandos claros e em etapas: \"O Chefe Mandou... pegar o papel toalha!\", \"O Chefe Mandou... colocar sobre a poça!\", \"O Chefe Mandou... jogar no lixo!\".",
+    "metadata": {
+      "titulo": "O \"Chefe Mandou\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_11",
+    "conteudo": "Descrição: Crie uma identidade de herói para a criança (ex: Capitão Limpeza). Quando algo cai, é um \"chamado para a missão\". A esponja pode ser seu \"escudo\" e o pano, sua \"capa\".",
+    "metadata": {
+      "titulo": "O Super-Herói da Limpeza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_12",
+    "conteudo": "Descrição: Pratique com sujeira seca. Derrame um punhado de arroz ou feijão no chão. A criança usa uma pazinha e uma escovinha de mão para juntar e colocar os grãos de volta no pote.",
+    "metadata": {
+      "titulo": "A Transferência de Grãos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_13",
+    "conteudo": "Descrição: Tire uma foto do \"acidente\" (o líquido derramado). Depois que a criança limpar, tire uma foto do local limpo. Comparem as fotos e celebrem a transformação.",
+    "metadata": {
+      "titulo": "O \"Antes e Depois\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_14",
+    "conteudo": "Descrição: Borrife água em alguns pontos de uma bandeja. A criança, de olhos fechados, usa as mãos para encontrar as \"poças secretas\" e depois as seca com um pano.",
+    "metadata": {
+      "titulo": "O Jogo do \"Onde Está Molhado?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_15",
+    "conteudo": "Descrição: Use um fantoche que é muito \"desastrado\" e sempre derruba coisas. A criança tem a missão de ensinar o fantoche como se limpa a bagunça.",
+    "metadata": {
+      "titulo": "O Fantoche Desastrado",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_16",
+    "conteudo": "Descrição: Derrame um fio de açúcar ou farinha na mesa. A criança usa um pano úmido para \"apagar\" o caminho da formiga, limpando a sujeira.",
+    "metadata": {
+      "titulo": "O \"Caminho\" da Formiga",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_17",
+    "conteudo": "Descrição: Coloque um papel toalha sobre uma pequena poça de água colorida e observem juntos o papel \"beber\" a cor. A visualização do processo de absorção é cativante.",
+    "metadata": {
+      "titulo": "A Mágica do Papel Toalha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_18",
+    "conteudo": "Descrição: Ensine a criança a colocar um \"círculo de segurança\" (um pano ou algumas folhas de papel toalha) ao redor da poça, para que ela não se espalhe, antes de limpar o meio.",
+    "metadata": {
+      "titulo": "O \"Círculo de Segurança\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_19",
+    "conteudo": "Descrição: Use esponjas com formatos de animais. A \"tartaruga\" vai \"nadar\" na poça para beber a água, o \"peixe\" vai limpar a mesa.",
+    "metadata": {
+      "titulo": "A Esponja de Bichinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_20",
+    "conteudo": "Descrição: Crie um quadro de rotina visual com pictogramas: 1. Olhar a sujeira, 2. Pegar o pano, 3. Limpar, 4. Jogar fora/Colocar para lavar, 5. Lavar as mãos.",
+    "metadata": {
+      "titulo": "A \"Receita\" da Limpeza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_21",
+    "conteudo": "Descrição: \"Suje\" brinquedos de plástico com tinta guache lavável. A criança os lava em uma bacia. Se a água espirrar para fora, ela mesma seca a área do \"lava-rápido\".",
+    "metadata": {
+      "titulo": "O \"Lava-Rápido\" de Brinquedos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_22",
+    "conteudo": "Descrição: Pingue uma única gota de água na mesa. O desafio é usar apenas um dedo, enrolado em um pedaço de papel, para secar a gota sem molhar o resto do papel.",
+    "metadata": {
+      "titulo": "O Desafio da Gota Única",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_23",
+    "conteudo": "Descrição: Se o líquido se espalhar, brinque que ele criou um \"mapa\". A criança deve \"apagar o mapa\" com a esponja, começando pelas \"bordas\".",
+    "metadata": {
+      "titulo": "O \"Mapa\" da Sujeira",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_24",
+    "conteudo": "Descrição: Derrame um pouco de água em duas bandejas. Você e a criança competem para ver quem seca sua bandeja primeiro.",
+    "metadata": {
+      "titulo": "O Jogo do \"Quem Limpa Mais Rápido?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_25",
+    "conteudo": "Descrição: Desenhe em um papel toalha com canetinhas. Depois, pingue gotas de água e veja as cores se expandirem. A atividade explora a absorção de forma artística.",
+    "metadata": {
+      "titulo": "A \"Absorção\" das Cores",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_26",
+    "conteudo": "Descrição: Quando algo cai, o chão fica \"dodói\". A criança é a \"médica\" que, com seus \"instrumentos\" (pano e pá), vai \"curar\" o chão.",
+    "metadata": {
+      "titulo": "O \"Doutor\" do Chão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_27",
+    "conteudo": "Descrição: Crie sons divertidos para cada ação: um \"shhh\" para o borrifador, um \"nhec-nhec\" para o esfregar e um \"ploft\" para jogar o lixo fora.",
+    "metadata": {
+      "titulo": "O Som da Limpeza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_28",
+    "conteudo": "Descrição: Derrame um pouco de pipoca no chão. A criança precisa usar uma pazinha para resgatar os \"sobreviventes\" da tempestade.",
+    "metadata": {
+      "titulo": "A \"Tempestade\" de Pipoca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_29",
+    "conteudo": "Descrição: Deixe \"nevar\" um pouco de farinha na mesa. A criança pode primeiro brincar de fazer desenhos com o dedo e depois limpar tudo com um pano úmido.",
+    "metadata": {
+      "titulo": "A \"Neve\" de Farinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_30",
+    "conteudo": "Descrição: A pazinha é o \"caminhão de lixo\" e a escovinha é a \"escavadeira\". A missão é encher o caminhão com a sujeira seca (farelos, papel picado) e levar para a \"usina de reciclagem\" (o lixo).",
+    "metadata": {
+      "titulo": "O \"Caminhão\" de Lixo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_31",
+    "conteudo": "Descrição: Crie um \"kit de limpeza\". Derrame água e depois farelos. Pergunte à criança: \"Para a água, qual é a melhor ferramenta? O pano ou a vassourinha?\".",
+    "metadata": {
+      "titulo": "A Escolha da Ferramenta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_32",
+    "conteudo": "Descrição: Em um dia de chuva, faça uma pegada de sapato molhado no chão. A criança usa um pano para \"apagar\" a pegada.",
+    "metadata": {
+      "titulo": "O \"Apagador\" de Pegadas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_33",
+    "conteudo": "Descrição: Use um borrifador com água e uma gota de essência de lavanda. O cheirinho bom que fica após a limpeza se torna um reforço sensorial positivo.",
+    "metadata": {
+      "titulo": "O \"Perfume\" da Limpeza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_34",
+    "conteudo": "Descrição: Após limpar uma poça grande, sempre fica um pinguinho. O desafio final é \"caçar\" e secar o \"pingo teimoso\".",
+    "metadata": {
+      "titulo": "O \"Desafio do Pingo Teimoso\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_35",
+    "conteudo": "Descrição: Após o lanche, a missão da criança é ser a \"guardiã\" da mesa, usando um pano úmido para limpar qualquer migalha que tenha caído.",
+    "metadata": {
+      "titulo": "O \"Guardião\" da Mesa Limpa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_36",
+    "conteudo": "Descrição: Ensine a criança a torcer o pano úmido sobre uma bacia, praticando a força e a coordenação das mãos.",
+    "metadata": {
+      "titulo": "O \"Enrola-Enrola\" do Pano",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_37",
+    "conteudo": "Descrição: Após usar as ferramentas, a brincadeira é levar cada item de volta para o seu lugar na Estação de Limpeza.",
+    "metadata": {
+      "titulo": "O Jogo do \"Onde Guardar?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_38",
+    "conteudo": "Descrição: Derrame água com sabão. A limpeza vira uma festa, onde a criança pode espalhar a espuma com as mãos antes de limpar com um pano.",
+    "metadata": {
+      "titulo": "A \"Festa\" da Espuma",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_39",
+    "conteudo": "Descrição: A criança é um robô que só funciona com seus comandos de voz. \"Robô, ativar modo limpeza. Pegar esponja. Absorver líquido\".",
+    "metadata": {
+      "titulo": "O \"Robô\" da Limpeza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_40",
+    "conteudo": "Descrição: Após limpar, o passo final é usar um pano seco para \"dar brilho\". A sensação de deixar a superfície completamente seca é recompensadora.",
+    "metadata": {
+      "titulo": "A \"Recompensa\" do Pano Seco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_41",
+    "conteudo": "Descrição: Pratique pegar pequenos objetos (como feijões que caíram) usando os dedos em movimento de pinça. Isso ajuda na limpeza de sólidos.",
+    "metadata": {
+      "titulo": "O \"Treino\" dos Dedos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_42",
+    "conteudo": "Descrição: Com um borrifador e um rodinho de pia, a criança pode \"limpar\" uma janela baixa ou um espelho, praticando o borrifar e o movimento de puxar.",
+    "metadata": {
+      "titulo": "O \"Limpador\" de Vidro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_43",
+    "conteudo": "Descrição: Use uma lupa de brinquedo para \"investigar\" a sujeira. \"Hum... parece que temos um caso de suco de uva derramado. Detetive, pegue suas ferramentas!\".",
+    "metadata": {
+      "titulo": "O \"Detetive\" da Sujeira",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_44",
+    "conteudo": "Descrição: Monte uma cabana de lençóis. A regra é: antes de entrar, é preciso verificar se não há \"lama\" (sujeira) nos pés e limpar qualquer bagunça ao redor.",
+    "metadata": {
+      "titulo": "O \"Acampamento\" Limpo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_45",
+    "conteudo": "Descrição: Após o uso, ensine a criança a estender os panos molhados em um pequeno varal para eles \"dormirem\" e secarem.",
+    "metadata": {
+      "titulo": "A \"Cama\" dos Panos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_46",
+    "conteudo": "Descrição: Assista a vídeos de personagens de desenhos animados que fazem uma bagunça e depois limpam tudo de forma divertida e rápida.",
+    "metadata": {
+      "titulo": "O Vídeo-Modelo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_47",
+    "conteudo": "Descrição: Derrame um pouco de água de propósito e diga \"Oh, não! O que eu faço agora?\". Peça para a criança ser a \"professora\" e te ensinar os passos da limpeza.",
+    "metadata": {
+      "titulo": "A Troca de Papéis",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_48",
+    "conteudo": "Descrição: Crie uma \"medalha\" de papelão que a criança pode usar pelo resto do dia toda vez que limpar uma sujeira de forma independente.",
+    "metadata": {
+      "titulo": "A \"Medalha\" da Limpeza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_49",
+    "conteudo": "Descrição: Estabeleça a rotina de que a área de uma brincadeira precisa estar limpa antes de começar a próxima. A limpeza se torna uma transição natural.",
+    "metadata": {
+      "titulo": "O \"Antes\" da Próxima Brincadeira",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_50",
+    "conteudo": "Descrição: Ao invés de focar no erro (o derramamento), celebre a solução. \"Opa, molhou! Que bom que você é um super ajudante e já sabe como resolver isso! Vamos lá!\".",
+    "metadata": {
+      "titulo": "A Celebração da Responsabilidade",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa sozinho(a) qualquer sujeira ou líquido que derramar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_51",
+    "conteudo": "Descrição: No final do lanche, nomeie a criança como a \"Chefe da Mesa\". A missão dela é levar o próprio prato e copo para a bandeja de recolhimento, seguindo sua orientação.",
+    "metadata": {
+      "titulo": "O Chefe da Mesa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_52",
+    "conteudo": "Descrição: Na hora de guardar os blocos, a missão do \"detetive\" é encontrar todos os blocos de uma cor específica (ex: \"Ache todos os blocos vermelhos!\") e guardá-los na caixa correspondente.",
+    "metadata": {
+      "titulo": "O Detetive das Cores",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_53",
+    "conteudo": "Descrição: Cole uma foto de cada tipo de brinquedo na sua respectiva caixa ou prateleira. A tarefa da criança é \"levar cada brinquedo para sua casa\" antes de dormir.",
+    "metadata": {
+      "titulo": "A Casa dos Brinquedos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_54",
+    "conteudo": "Descrição: Diga que a área de blocos é uma \"obra\" que precisa ser finalizada. A criança é o \"Construtor Mestre\" responsável por empilhar e guardar todos os blocos na caixa.",
+    "metadata": {
+      "titulo": "O Construtor Mestre",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_55",
+    "conteudo": "Descrição: Antes do lanche, a criança é o \"garçom\". Com sua orientação, ela ajuda a distribuir os jogos americanos ou os guardanapos para os colegas.",
+    "metadata": {
+      "titulo": "O Garçom do Lanche",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_56",
+    "conteudo": "Descrição: Após a hora da leitura, a criança é a \"carteira\" que precisa \"entregar\" cada livro de volta para seu \"endereço\" correto na estante.",
+    "metadata": {
+      "titulo": "O Carteiro dos Livros",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_57",
+    "conteudo": "Descrição: Tenha uma música específica de 2-3 minutos que só toca na \"hora da arrumação\". Quando a música começa, todos sabem que é hora de guardar",
+    "metadata": {
+      "titulo": "A Música da Arrumação",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_58",
+    "conteudo": "Descrição: Crie um quadro visual com 3 tarefas simples (ex: 1. Guardar carrinhos, 2. Limpar mesa, 3. Empurrar cadeira). A criança move um pregador para a tarefa que está realizando, seguindo sua instrução.",
+    "metadata": {
+      "titulo": "O Quadro de Missões",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_59",
+    "conteudo": "Descrição: Use um timer divertido. Quando o alarme tocar, é o \"sinal da limpeza!\". Dê uma instrução clara e curta: \"Alarme! Hora de guardar a massinha!\".",
+    "metadata": {
+      "titulo": "O \"Alarme\" da Limpeza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_60",
+    "conteudo": "Descrição: Coloque a caixa de brinquedos a uma pequena distância. A criança pode \"fazer uma cesta\" ao jogar os brinquedos de pelúcia ou bolas dentro da caixa.",
+    "metadata": {
+      "titulo": "O Basquete de Brinquedos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_61",
+    "conteudo": "Descrição: Dê uma prancheta com 2 ou 3 figuras das tarefas do dia. A cada tarefa que a criança ajuda a completar, ela pode fazer um \"check\" com um giz de cera.",
+    "metadata": {
+      "titulo": "O \"Check-list\" do Ajudante",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_62",
+    "conteudo": "Descrição: A criança é um \"trem de carga\". A tarefa é \"carregar\" um brinquedo por vez e \"viajar\" pela sala para \"descarregar\" na estação correta (a caixa).",
+    "metadata": {
+      "titulo": "O Trem de Carga",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_63",
+    "conteudo": "Descrição: Tire uma foto da mesa de artes \"antes\" (bagunçada) e \"depois\" (limpa). Compare as fotos com a criança e elogie a transformação que ela ajudou a fazer.",
+    "metadata": {
+      "titulo": "O \"Antes e Depois\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_64",
+    "conteudo": "Descrição: Segure um brinquedo e diga \"Eu vou guardar este!\". Incentive a criança a pegar outro e dizer \"Este quem guarda sou eu!\". Crie um ritmo de revezamento.",
+    "metadata": {
+      "titulo": "O Jogo do \"Quem Guarda Sou Eu!\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_65",
+    "conteudo": "Descrição: Após o círculo de histórias, a criança é a \"guardiã\" responsável por pegar todas as almofadas do chão e empilhá-las no canto da leitura.",
+    "metadata": {
+      "titulo": "O \"Guardião\" das Almofadas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_66",
+    "conteudo": "Descrição: Após uma atividade de recorte, a criança usa uma pazinha e uma escovinha de mão para ser o \"lixeiro ecológico\", recolhendo todos os pedaços de papel do chão.",
+    "metadata": {
+      "titulo": "O Lixeiro Ecológico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_67",
+    "conteudo": "Descrição: A missão da criança é ser o \"fechador oficial\". Ela deve verificar e fechar todas as tampas das canetinhas ou dos potes de tinta após o uso.",
+    "metadata": {
+      "titulo": "O \"Fecha-Tudo\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_68",
+    "conteudo": "Descrição: Após o lanche, a criança pode ajudar a empilhar os pratos de plástico um sobre o outro na bandeja de recolhimento.",
+    "metadata": {
+      "titulo": "O \"Empilhador\" de Pratos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_69",
+    "conteudo": "Descrição: Contorne o formato dos principais brinquedos com fita colorida na prateleira. A tarefa é encaixar cada brinquedo na sua \"sombra\" correta.",
+    "metadata": {
+      "titulo": "O Jogo da Sombra",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_70",
+    "conteudo": "Descrição: Dê um borrifador com água para a criança e fique com um pano. Dê a instrução: \"Você espirra a água e eu seco!\". A tarefa em dupla é mais divertida.",
+    "metadata": {
+      "titulo": "O \"Parceiro\" de Limpeza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_71",
+    "conteudo": "Descrição: Use uma ampulheta. Diga: \"Será que conseguimos guardar 3 livros antes de toda a areia cair?\". Mantenha o tom de brincadeira, não de pressão.",
+    "metadata": {
+      "titulo": "A \"Corrida\" contra o Tempo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_72",
+    "conteudo": "Descrição: Dê um crachá de \"Chefe da Biblioteca\". A responsabilidade dele é garantir que todos os livros fiquem \"em pé e arrumados\" na prateleira.",
+    "metadata": {
+      "titulo": "O \"Chefe\" da Biblioteca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_73",
+    "conteudo": "Descrição: Ao final do dia, o \"técnico\" tem a missão de \"consertar\" a sala, empurrando todas as cadeiras para debaixo das mesas.",
+    "metadata": {
+      "titulo": "O \"Técnico\" de Cadeiras",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_74",
+    "conteudo": "Descrição: A criança é a \"colecionadora\" que precisa encontrar todos os lápis de cor que estão fora do pote e reuni-los em sua coleção.",
+    "metadata": {
+      "titulo": "O \"Colecionador\" de Lápis",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_75",
+    "conteudo": "Descrição: Pegue um objeto que está fora do lugar e pergunte: \"De onde será que é este objeto? Qual é a casa dele?\". Ajude a criança a investigar e a guardá-lo.",
+    "metadata": {
+      "titulo": "O \"Mistério\" do Objeto Perdido",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_76",
+    "conteudo": "Descrição: A tarefa da criança é lavar os pincéis após a pintura. Ela é a \"guarda-costas\" que os protege da tinta seca.",
+    "metadata": {
+      "titulo": "O \"Guarda-Costas\" dos Pincéis",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_77",
+    "conteudo": "Descrição: Use uma prancha de madeira ou um tapete enrolado como uma \"ponte\" que leva até a caixa de brinquedos. A criança precisa atravessar a ponte para guardar cada objeto.",
+    "metadata": {
+      "titulo": "A \"Ponte\" para a Caixa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_78",
+    "conteudo": "Descrição: Coloque música e, a cada brinquedo que a criança guarda, ela deve fazer uma pose de estátua engraçada.",
+    "metadata": {
+      "titulo": "O \"Desfile\" da Arrumação",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_79",
+    "conteudo": "Descrição: Dê à criança um saco de pano (\"saco mágico\") para coletar vários brinquedos pequenos. Depois, o desafio é esvaziar o saco, guardando um por um.",
+    "metadata": {
+      "titulo": "O \"Saco\" Mágico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_80",
+    "conteudo": "Descrição: Após a arrumação, a criança vira o \"inspetor\". Com uma prancheta de brinquedo, ela verifica se tudo está no lugar e dá o \"selo de aprovação\".",
+    "metadata": {
+      "titulo": "O \"Inspetor\" de Qualidade",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_81",
+    "conteudo": "Descrição: A tarefa é guardar os potes de plástico da cozinha de brinquedo, encaixando os menores dentro dos maiores.",
+    "metadata": {
+      "titulo": "O \"Encaixe\" dos Potes",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_82",
+    "conteudo": "Descrição: Na caixa de fantasias, a missão é encontrar e juntar os pares: as duas luvas, os dois sapatos, o chapéu e a capa.",
+    "metadata": {
+      "titulo": "O \"Casamento\" dos Pares",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_83",
+    "conteudo": "Descrição: Diga que os brinquedos espalhados estão \"cansados\". A criança é o \"doutor\" que vai levá-los para \"descansar\" em suas \"camas\" (as caixas).",
+    "metadata": {
+      "titulo": "O \"Doutor\" de Brinquedos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_84",
+    "conteudo": "Descrição: Use uma caixa de sapatos com divisórias como uma \"garagem\". Cada carrinho precisa ser \"estacionado\" em sua vaga.",
+    "metadata": {
+      "titulo": "A \"Garagem\" de Carrinhos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_85",
+    "conteudo": "Descrição: A missão secreta da criança é guardar um objeto sem que ninguém perceba. Sussurre a instrução e ajam como espiões.",
+    "metadata": {
+      "titulo": "O \"Agente Secreto\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_86",
+    "conteudo": "Descrição: Forme um time com a criança. \"Nós somos o Time da Limpeza! Nossa missão é deixar esta mesa brilhando!\". O senso de equipe motiva.",
+    "metadata": {
+      "titulo": "O \"Time\" da Limpeza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_87",
+    "conteudo": "Descrição: A tarefa é empilhar as caixas de jogos de tabuleiro, uma sobre a outra, no lugar certo, alinhando as maiores embaixo e as menores em cima.",
+    "metadata": {
+      "titulo": "A \"Torre\" de Jogos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_88",
+    "conteudo": "Descrição: Dê uma vassourinha de mão e uma pá. A criança pode ajudar a varrer os farelos do chão para a pá após o lanche.",
+    "metadata": {
+      "titulo": "O \"Varredor\" de Farelos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_89",
+    "conteudo": "Descrição: Se usaram tapetes de atividade ou colchonetes, a tarefa da criança é te ajudar a enrolá-los e guardá-los.",
+    "metadata": {
+      "titulo": "O \"Enrola-Enrola\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_90",
+    "conteudo": "Descrição: Cole pegadas de papel no chão, mostrando o caminho: da mesa até a pia (para levar o prato), da estante até a caixa (para guardar o livro).",
+    "metadata": {
+      "titulo": "O \"Passo a Passo\" no Chão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_91",
+    "conteudo": "Descrição: Coloque um adesivo na prateleira, no local exato onde um brinquedo deve ser guardado. Ao colocar o brinquedo, a criança \"encontra\" o adesivo.",
+    "metadata": {
+      "titulo": "A \"Recompensa\" da Prateleira",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_92",
+    "conteudo": "Descrição: Dê a tarefa de ajudar a empurrar a caixa pesada de blocos de volta para o canto. O trabalho de \"força\" (propriocepção) pode ser muito organizador para a criança.",
+    "metadata": {
+      "titulo": "O \"Transportador\" de Carga Pesada",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_93",
+    "conteudo": "Descrição: Aponte para uma prateleira vazia e pergunte: \"Hum, está faltando algo aqui. O que será que mora neste lugar?\". Ajude a criança a encontrar o objeto correspondente.",
+    "metadata": {
+      "titulo": "O \"O que Falta Aqui?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_94",
+    "conteudo": "Descrição: Crie um ritual de, ao guardar os materiais de arte, dizer \"Obrigado, pincel. Obrigado, tinta\". A personificação torna a tarefa mais significativa.",
+    "metadata": {
+      "titulo": "O \"Obrigado\" aos Materiais",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_95",
+    "conteudo": "Descrição: Deixe claro que \"guardar as peças\" faz parte do jogo. O jogo só termina de verdade quando tudo estiver de volta na caixa.",
+    "metadata": {
+      "titulo": "O \"Fim\" do Jogo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_96",
+    "conteudo": "Descrição: Ofereça duas opções: \"Você prefere ajudar a guardar os lápis ou os livros?\". Dar uma escolha aumenta a probabilidade de cooperação.",
+    "metadata": {
+      "titulo": "A \"Escolha\" da Tarefa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_97",
+    "conteudo": "Descrição: Crie um pequeno calendário onde cada dia a criança pode colar um adesivo se ela foi a \"ajudante especial\" da sala.",
+    "metadata": {
+      "titulo": "O \"Calendário\" de Ajudantes",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_98",
+    "conteudo": "Descrição: Após a arrumação, a criança pode tirar uma \"foto\" (com uma câmera de brinquedo) da sala limpa e organizada.",
+    "metadata": {
+      "titulo": "O \"Fotógrafo\" da Organização",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_99",
+    "conteudo": "Descrição: Brinque que os brinquedos precisam \"dormir\" em silêncio. A tarefa de guardar deve ser feita na ponta dos pés, sem fazer barulho.",
+    "metadata": {
+      "titulo": "O \"Guardião\" do Silêncio",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_100",
+    "conteudo": "Descrição: A grande recompensa por ajudar na arrumação é uma \"dança da vitória\" com música alta e muita festa assim que a tarefa for concluída.",
+    "metadata": {
+      "titulo": "A Dança da Sala Limpa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Ajuda nas tarefas da sala, como organizar materiais, guardar objetos ou arrumar a mesa quando orientado pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_101",
+    "conteudo": "Descrição: Crie um quadro de rotina visual plastificado com pictogramas para cada passo (abrir torneira, molhar, sabão, esfregar, etc.) e cole ao lado da pia. A criança move um pregador a cada \"missão\" cumprida.",
+    "metadata": {
+      "titulo": "O Quadro de Missões do Herói",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_102",
+    "conteudo": "Descrição: Coloque um pouco de glitter com óleo de coco nas mãos da criança, dizendo que são \"germes brilhantes\". Mostre que só água não tira, mas com o sabão eles \"magicamente\" desaparecem.",
+    "metadata": {
+      "titulo": "A Mágica do Glitter-Germe",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_103",
+    "conteudo": "Descrição: Brinque que as mãos são carrinhos que passaram na lama. A pia é o lava-rápido com todas as estações: pré-lavagem (molhar), espuma (sabão), enxágue e secagem (toalha).",
+    "metadata": {
+      "titulo": "O Lava-Rápido das Mãos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_104",
+    "conteudo": "Descrição: A missão da criança é ser um \"cientista\" e criar a maior e mais borbulhante espuma possível. O foco na criação da espuma torna o ato de esfregar as mãos divertido.",
+    "metadata": {
+      "titulo": "O Cientista de Espuma",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_105",
+    "conteudo": "Descrição: Cante uma música conhecida que dure cerca de 20 segundos (como \"Parabéns a Você\", duas vezes). A regra é que as mãos devem ser esfregadas até a música acabar.",
+    "metadata": {
+      "titulo": "A Canção da Limpeza (20 segundos)",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_106",
+    "conteudo": "Descrição: Use um sabonete em barra de glicerina com um pequeno brinquedo dentro. A criança será motivada a usar o sabonete para gastá-lo e \"resgatar\" o prêmio.",
+    "metadata": {
+      "titulo": "O Sabonete com Surpresa Dentro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_107",
+    "conteudo": "Descrição: Use um sabonete líquido colorido (ou com corante alimentício). A criança se torna um \"pintor\" que precisa \"colorir\" todas as partes das mãos e fazer \"pintinhas\" no rosto antes de enxaguar.",
+    "metadata": {
+      "titulo": "O Pintor de Mãos e Rosto",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_108",
+    "conteudo": "Descrição: \"Suje\" um boneco lavável com tinta de canetinha. A primeira tarefa da criança é dar um banho completo no rosto e nas mãos do boneco, seguindo os passos. Depois, é a vez dela.",
+    "metadata": {
+      "titulo": "O Desafio do Boneco Sujo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_109",
+    "conteudo": "Descrição: Esfregue as mãos com sabão em barra e junte os polegares e indicadores para formar um círculo. Sopre devagar para tentar fazer uma bolha de sabão.",
+    "metadata": {
+      "titulo": "A Fábrica de Bolhas de Sabão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_110",
+    "conteudo": "Descrição: Fique ao lado da criança em frente ao espelho e jogue \"Siga o Mestre\". \"O Mestre mandou... esfregar as costas das mãos!\". A criança imita o seu reflexo.",
+    "metadata": {
+      "titulo": "O Jogo do Espelho \"Siga o Mestre\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_111",
+    "conteudo": "Descrição: Tenha sabonetes com diferentes cheiros (frutas, flores). A cada semana, introduza um \"cheirinho secreto\". A criança se motiva a lavar as mãos para sentir e adivinhar o aroma.",
+    "metadata": {
+      "titulo": "O \"Cheirinho\" Secreto da Semana",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_112",
+    "conteudo": "Descrição: Dê autonomia à criança. Pergunte: \"Você é o chefe da pia. Qual é o próximo passo agora?\". Incentive-a a lembrar da sequência em vez de apenas seguir ordens.",
+    "metadata": {
+      "titulo": "O \"Chefe\" da Pia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_113",
+    "conteudo": "Descrição: Após lavar e secar as mãos, a recompensa é fazer um carimbo de \"mão limpa\" em uma folha de papel. Compare com um \"carimbo de mão suja\" feito antes.",
+    "metadata": {
+      "titulo": "O Carimbo de Mão Limpa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_114",
+    "conteudo": "Descrição: Tenha uma toalha especial, do personagem favorito da criança, que só pode ser usada ao final do processo completo de lavagem.",
+    "metadata": {
+      "titulo": "A Toalha do Personagem",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_115",
+    "conteudo": "Descrição: Ensine a lavar o rosto com \"carinho de borboleta\" (pontas dos dedos) em vez de \"esfregar\". O toque suave pode ser mais aceitável sensorialmente.",
+    "metadata": {
+      "titulo": "O \"Carinho\" no Rosto",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_116",
+    "conteudo": "Descrição: Mostre como fazer uma concha com as mãos para pegar a água e jogar no rosto como uma \"cachoeirinha\", o que dá mais controle à criança.",
+    "metadata": {
+      "titulo": "A \"Cachoeira\" para Enxaguar",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_117",
+    "conteudo": "Descrição: Faça uma \"barba\" de espuma no rosto da criança (e no seu). A brincadeira é se olhar no espelho e depois limpar tudo, lavando o rosto no processo.",
+    "metadata": {
+      "titulo": "O \"Barbeiro\" de Espuma",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_118",
+    "conteudo": "Descrição: Use sabonetes infantis que saem do frasco com uma cor e, ao esfregar por tempo suficiente, mudam para branco, indicando que a lavagem foi eficaz.",
+    "metadata": {
+      "titulo": "A \"Tinta\" Mágica que Muda de Cor",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_119",
+    "conteudo": "Descrição: Após a criança lavar as mãos sozinha, ela se torna a \"inspetora\". Com um espelhinho de dentista de brinquedo, ela deve \"inspecionar\" as próprias mãos e unhas para ver se estão limpas.",
+    "metadata": {
+      "titulo": "O Inspetor de Qualidade",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_120",
+    "conteudo": "Descrição: Tente realizar toda a sequência de lavagem apenas com gestos e apontando para o quadro de rotina visual, sem comandos verbais. Isso incentiva a independência e a memória visual.",
+    "metadata": {
+      "titulo": "O Jogo do \"Silêncio\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_121",
+    "conteudo": "Descrição: Use um dispenser que já produz espuma. A textura leve e divertida pode ser mais convidativa e fácil de espalhar do que o sabonete líquido.",
+    "metadata": {
+      "titulo": "O Sabonete em Espuma",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_122",
+    "conteudo": "Descrição: Crie uma coreografia para as mãos: \"Palma com palma, agora as costas, os dedinhos entrelaçados, e o polegar abraçado!\".",
+    "metadata": {
+      "titulo": "A Dança dos Dedinhos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_123",
+    "conteudo": "Descrição: Antes de lavar, olhem para as mãos e deem \"tchau\" para a sujeira de forma lúdica. \"Tchau, marquinha de tinta! Tchau, restinho de massinha!\".",
+    "metadata": {
+      "titulo": "O \"Adeus\" à Sujeira",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_124",
+    "conteudo": "Descrição: Desenhe uma mão \"suja\" (triste) e uma \"limpa\" (feliz). Antes e depois de lavar, peça para a criança apontar para a figura que representa suas mãos.",
+    "metadata": {
+      "titulo": "O \"Termômetro\" da Limpeza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_125",
+    "conteudo": "Descrição: Dê a responsabilidade à criança de ser a \"guardiã da água\", lembrando de fechar a torneira enquanto ensaboa as mãos e ao final do processo.",
+    "metadata": {
+      "titulo": "O \"Guardião\" da Torneira",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_126",
+    "conteudo": "Descrição: Use uma pequena ampulheta de 1 ou 2 minutos. A tarefa de lavar as mãos e o rosto deve ser completada antes de toda a areia cair.",
+    "metadata": {
+      "titulo": "O Cronômetro de Areia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_127",
+    "conteudo": "Descrição: Explore a água morna e a fria. Deixe a criança sentir e escolher a temperatura. O controle sobre o ambiente aumenta a cooperação.",
+    "metadata": {
+      "titulo": "O Jogo das Temperaturas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_128",
+    "conteudo": "Descrição: Coloque brinquedos pequenos em uma bacia com água e sabão. A criança precisa \"resgatá-los\", lavando as mãos no processo.",
+    "metadata": {
+      "titulo": "O \"Resgate\" na Bacia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_129",
+    "conteudo": "Descrição: Chame o sabonete de \"creme mágico que espanta os monstros da sujeira\". A narrativa de fantasia pode ser muito motivadora.",
+    "metadata": {
+      "titulo": "O \"Creme\" Mágico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_130",
+    "conteudo": "Descrição: Dê um boneco de borracha que esguicha água para a criança. Ela pode usar o \"esguicho\" do boneco para ajudar a enxaguar as próprias mãos.",
+    "metadata": {
+      "titulo": "O \"Enxágue\" com o Esguicho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_131",
+    "conteudo": "Descrição: Faça um bigode de espuma em você e na criança. O primeiro a conseguir enxaguar o seu completamente, olhando no espelho, vence a brincadeira.",
+    "metadata": {
+      "titulo": "O \"Bigode\" de Espuma",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_132",
+    "conteudo": "Descrição: A tarefa é ensaboar e esfregar perfeitamente apenas a mão direita. Depois, a missão é fazer o mesmo com a mão esquerda. Dividir a tarefa a torna mais gerenciável.",
+    "metadata": {
+      "titulo": "O Desafio da Mão Única",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_133",
+    "conteudo": "Descrição: Tenha um carimbo de \"mão limpa\". Após a lavagem independente e bem-sucedida, a criança ganha o direito de carimbar a própria mão.",
+    "metadata": {
+      "titulo": "O \"Selo\" de Mão Limpa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_134",
+    "conteudo": "Descrição: Desenhe com o sabonete líquido uma \"teia de aranha\" na palma da mão. A criança precisa esfregar até que toda a teia desapareça.",
+    "metadata": {
+      "titulo": "A \"Teia de Aranha\" de Sabão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_135",
+    "conteudo": "Descrição: Congele um pequeno brinquedo em um cubo de gelo com um pouco de sabão. A criança precisa lavar as mãos com o cubo de gelo até ele derreter e o tesouro aparecer.",
+    "metadata": {
+      "titulo": "O \"Tesouro\" Congelado",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_136",
+    "conteudo": "Descrição: Use um pincel de maquiagem grande e macio para passar a espuma do sabonete no rosto da criança. É uma abordagem sensorial diferente e suave.",
+    "metadata": {
+      "titulo": "O Pincel de Espuma",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_137",
+    "conteudo": "Descrição: Faça um desenho com caneta de pintura facial lavável na mão da criança. A missão do dia é \"apagar\" a tatuagem usando apenas água e sabão.",
+    "metadata": {
+      "titulo": "A \"Tatuagem\" que Desaparece",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_138",
+    "conteudo": "Descrição: Ao final, cantem \"parabéns\" para as mãos, que fizeram um \"ótimo trabalho\" e agora estão \"felizes e cheirosas\".",
+    "metadata": {
+      "titulo": "O \"Parabéns\" para as Mãos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_139",
+    "conteudo": "Descrição: Após a lavagem, a criança se olha no espelho. Você, como \"repórter\", pergunta: \"Senhor Rosto, você está limpo? E vocês, Mãozinhas, estão brilhando?\".",
+    "metadata": {
+      "titulo": "A \"Entrevista\" com o Espelho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_140",
+    "conteudo": "Descrição: Use um copo com furos para criar um \"chuveirinho\" sobre as mãos da criança, tornando o enxágue uma brincadeira sensorial.",
+    "metadata": {
+      "titulo": "A \"Chuva\" na Pia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_141",
+    "conteudo": "Descrição: Use folhas de sabonete que se dissolvem. A \"mágica\" da folha desaparecendo e virando espuma pode ser muito cativante.",
+    "metadata": {
+      "titulo": "O Sabonete em Folhas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_142",
+    "conteudo": "Descrição: Veja quem consegue tirar toda a espuma das mãos primeiro, você ou a criança. A competição amigável acelera o processo.",
+    "metadata": {
+      "titulo": "A \"Corrida\" do Enxágue",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_143",
+    "conteudo": "Descrição: Antes de qualquer atividade culinária (mesmo que de brincadeira), reforce a regra de que \"todo chef precisa lavar as mãos de forma independente antes de cozinhar\".",
+    "metadata": {
+      "titulo": "O \"Chef\" de Cozinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_144",
+    "conteudo": "Descrição: Diga que a pia é uma \"passagem secreta\" para o mundo da limpeza, e só pode entrar quem seguir todos os passos.",
+    "metadata": {
+      "titulo": "A \"Passagem Secreta\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_145",
+    "conteudo": "Descrição: A última etapa da lavagem é a \"missão do detetive\": usar uma escovinha de unhas macia para \"procurar sujeira escondida\" debaixo das unhas.",
+    "metadata": {
+      "titulo": "O \"Detetive\" das Unhas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_146",
+    "conteudo": "Descrição: Lembre à criança que o \"poder\" de usar a toalha especial do personagem só é liberado após a lavagem completa e independente.",
+    "metadata": {
+      "titulo": "O Poder da Toalha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_147",
+    "conteudo": "Descrição: Em vez de dar instruções, pergunte: \"Você já esfregou a palma. Ok, qual é o próximo passo?\". Incentive a criança a liderar o processo.",
+    "metadata": {
+      "titulo": "O \"Ok, Próximo Passo\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_148",
+    "conteudo": "Descrição: A criança é a \"professora\" e precisa verificar se você está lavando as mãos e o rosto corretamente, seguindo todos os passos do quadro de rotina.",
+    "metadata": {
+      "titulo": "A Troca de Papéis",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_149",
+    "conteudo": "Descrição: Crie um \"diploma\" semanal de \"Mestre das Mãos Limpas\" para a criança que conseguir realizar a tarefa de forma independente durante a semana.",
+    "metadata": {
+      "titulo": "O \"Diploma\" de Mãos Limpas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_150",
+    "conteudo": "Descrição: Quando a criança realizar todo o processo sozinha pela primeira vez, faça uma grande festa. Conte para os pais, para os colegas. O reforço social é extremamente poderoso.",
+    "metadata": {
+      "titulo": "A Celebração da Autonomia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Lava mãos e rosto de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_151",
+    "conteudo": "Descrição: Durante o dia, explique de forma lúdica que a bexiga é um \"balão mágico\". A missão do super-herói (a criança) é \"esvaziar o balão\" no banheiro antes que ele fique cheio demais.",
+    "metadata": {
+      "titulo": "O Super-Herói da Bexiga",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_152",
+    "conteudo": "Descrição: Crie um caminho seguro e convidativo do quarto ao banheiro com luzes de presença (ativadas por movimento) ou fitas de LED no rodapé. Isso diminui o medo do escuro.",
+    "metadata": {
+      "titulo": "O Caminho de Luz",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_153",
+    "conteudo": "Descrição: Coloque uma pequena luz noturna específica para o vaso sanitário. O vaso se torna um \"trono mágico\" iluminado, um alvo claro e menos assustador no escuro.",
+    "metadata": {
+      "titulo": "O Trono que Brilha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_154",
+    "conteudo": "Descrição: Durante o dia, sempre que a criança for ao banheiro, celebre: \"Que legal! Seu corpo te avisou que precisava fazer xixi. Você é um ótimo ouvinte do seu corpo!\".",
+    "metadata": {
+      "titulo": "O Jogo do \"Corpo Avisou!\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_155",
+    "conteudo": "Descrição: Crie uma rotina noturna com duas idas ao banheiro: uma no início do ritual (antes da história) e a \"viagem final\" logo antes de deitar na cama.",
+    "metadata": {
+      "titulo": "A Dupla Viagem ao Banheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_156",
+    "conteudo": "Descrição: Estabeleça um horário para o último copo de líquido, cerca de 1 a 2 horas antes de dormir. Façam um ritual divertido de dar \"tchau\" para a garrafinha de água.",
+    "metadata": {
+      "titulo": "O \"Tchau\" para os Líquidos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_157",
+    "conteudo": "Descrição: Crie uma história social com fotos ou desenhos de um personagem (ou da própria criança) que acorda, sente vontade, vai ao banheiro e volta a dormir feliz.",
+    "metadata": {
+      "titulo": "O Livro do Desfralde Noturno",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_158",
+    "conteudo": "Descrição: Tenha um \"pijama da sorte\" ou de \"campeão\" que a criança usa nas noites de treino. Ele pode ter uma estampa que a motive.",
+    "metadata": {
+      "titulo": "O Pijama de Campeão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_159",
+    "conteudo": "Descrição: Cante uma canção de ninar para a \"bexiga\", pedindo para ela \"dormir bem a noite toda\" ou para \"acordar a criança com um cutucão se precisar de ajuda\".",
+    "metadata": {
+      "titulo": "A Canção da Bexiga Adormecida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_160",
+    "conteudo": "Descrição: (Para os pais) Antes de dormirem, acordem a criança de forma muito suave (um \"despertar do sonho\"), sem acender muitas luzes, e a levem ao banheiro para uma última tentativa.",
+    "metadata": {
+      "titulo": "O \"Despertar do Sussurro\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_161",
+    "conteudo": "Descrição: Crie um gráfico com adesivos. A criança ganha um adesivo de \"sol\" por ficar seca durante o cochilo da tarde e um adesivo de \"lua\" por uma noite seca.",
+    "metadata": {
+      "titulo": "O Quadro do Sol e da Lua",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_162",
+    "conteudo": "Descrição: A celebração por uma noite seca é a recompensa. Pode ser um café da manhã especial, 5 minutos extras de desenho ou uma \"dança da vitória\" pela manhã.",
+    "metadata": {
+      "titulo": "A Festa do Pijama Seco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_163",
+    "conteudo": "Descrição: Se um acidente acontecer, trate com naturalidade. Diga: \"Opa, o xixi escapou! Sem problemas! Vamos ativar o 'Time da Troca Rápida' e deixar tudo seco de novo!\". Isso remove a culpa.",
+    "metadata": {
+      "titulo": "O Time da Troca Rápida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_164",
+    "conteudo": "Descrição: Deixe pantufas fáceis de calçar e quentinhas ao lado da cama. A aversão ao chão frio pode ser um grande impeditivo para a criança levantar.",
+    "metadata": {
+      "titulo": "As Pantufas de Herói",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_165",
+    "conteudo": "Descrição: Brinquem de \"treinar para a noite\". Apaguem as luzes, finjam que estão dormindo, e depois encenem o ato de acordar e caminhar pelo \"caminho de luz\" até o banheiro.",
+    "metadata": {
+      "titulo": "O \"Treino\" Durante o Dia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_166",
+    "conteudo": "Descrição: Dê à criança a missão de ser a \"guardiã\" da cama. O trabalho dela é proteger a cama do \"vilão do xixi\", acordando para ir ao banheiro.",
+    "metadata": {
+      "titulo": "O \"Guardião\" da Cama Seca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_167",
+    "conteudo": "Descrição: A criança é um \"agente secreto\". Se ela sentir o \"sinal\" (a vontade), sua missão é levantar-se silenciosamente, ir ao banheiro e voltar para a cama sem \"acordar os vilões\".",
+    "metadata": {
+      "titulo": "O Agente Secreto Noturno",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_168",
+    "conteudo": "Descrição: Desenhe um mapa simples mostrando a cama, o caminho de luz e o banheiro. Revise o \"mapa da missão\" antes de dormir.",
+    "metadata": {
+      "titulo": "O \"Mapa\" do Quarto",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_169",
+    "conteudo": "Descrição: Antes de dormir, ajude a criança a colocar a mão na barriga e \"conversar\" com o corpo: \"Corpinho, se precisar de ajuda à noite, me acorde, por favor!\".",
+    "metadata": {
+      "titulo": "A Conversa com o Corpo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_170",
+    "conteudo": "Descrição: Brinque de ser o homem do tempo: \"A previsão para esta noite é de cama seca, com baixa probabilidade de chuva de xixi!\".",
+    "metadata": {
+      "titulo": "A \"Previsão do Tempo\" do Corpo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_171",
+    "conteudo": "Descrição: Ensine que, mesmo dormindo, o corpo tem um \"botão de pausa\" que a acorda se a bexiga estiver cheia.",
+    "metadata": {
+      "titulo": "O \"Botão\" de Pausa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_172",
+    "conteudo": "Descrição: Durante o dia, use uma garrafa de apertar para ilustrar. \"Olha como a garrafa está cheia! Vamos esvaziar?\". A associação visual ajuda a entender o conceito.",
+    "metadata": {
+      "titulo": "O Jogo do \"Cheio e Vazio\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_173",
+    "conteudo": "Descrição: Antes de dormir, a criança faz um \"check-up\" em um boneco, certificando-se de que ele foi ao banheiro pela última vez, assim como ela.",
+    "metadata": {
+      "titulo": "O \"Check-up\" do Boneco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_174",
+    "conteudo": "Descrição: Use um áudio de som de água correndo (riacho) durante o dia, associando o som à vontade de ir ao banheiro, para aumentar a consciência.",
+    "metadata": {
+      "titulo": "O Som da Natureza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_175",
+    "conteudo": "Descrição: Use um protetor de colchão impermeável. Explique que a cama é \"inteligente\" e que, se um acidente acontecer, o colchão ficará protegido e sequinho.",
+    "metadata": {
+      "titulo": "A Cama \"Inteligente\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_176",
+    "conteudo": "Descrição: Crie um diploma para ser entregue após 5 ou 7 noites secas consecutivas. A meta visual pode ser muito motivadora.",
+    "metadata": {
+      "titulo": "O \"Diploma\" de Noites Secas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_177",
+    "conteudo": "Descrição: Deixe uma lanterna pequena e de fácil manuseio na mesa de cabeceira. A criança pode usá-la para iluminar seu próprio caminho, sentindo-se no controle.",
+    "metadata": {
+      "titulo": "A \"Lanterna\" do Banheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_178",
+    "conteudo": "Descrição: Ao acordar, a primeira coisa é verificar a cama. Se estiver seca, peça \"Me mostra a cama seca!\" e faça uma grande festa.",
+    "metadata": {
+      "titulo": "O \"Me Mostra\" da Manhã",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_179",
+    "conteudo": "Descrição: A criança \"coloca o papai/mamãe para dormir\" e precisa lembrá-los de todas as regras: \"Você já foi ao banheiro pela última vez?\".",
+    "metadata": {
+      "titulo": "A Troca de Papéis",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_180",
+    "conteudo": "Descrição: (Sob orientação profissional) Para casos mais persistentes, existem alarmes de desfralde que vibram ou tocam ao primeiro sinal de umidade, ajudando o cérebro a aprender a acordar.",
+    "metadata": {
+      "titulo": "O \"Alarme\" Vestível",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_181",
+    "conteudo": "Descrição: Faça uma pequena cerimônia de \"despedida\" da fralda noturna quando sentirem que a criança está pronta para tentar sem.",
+    "metadata": {
+      "titulo": "O \"Tchau, Fralda Noturna!\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_182",
+    "conteudo": "Descrição: Durante o dia, quando a criança avisar que precisa ir, peça para ela \"segurar por 10 segundos\" (contem juntos). Isso ajuda a fortalecer o músculo da bexiga.",
+    "metadata": {
+      "titulo": "A \"Força\" da Bexiga",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_183",
+    "conteudo": "Descrição: Crie o hábito de, toda manhã, perguntar: \"E então, como foi a noite? Seu corpo te acordou ou ele dormiu a noite toda?\".",
+    "metadata": {
+      "titulo": "O \"Relatório\" da Manhã",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_184",
+    "conteudo": "Descrição: Deixe a criança escolher as cuecas/calcinhas que usará para dormir. A motivação para não molhar a roupa do personagem favorito é alta.",
+    "metadata": {
+      "titulo": "A \"Roupa de Baixo de Gente Grande\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_185",
+    "conteudo": "Descrição: Use pijamas que brilham no escuro. A diversão de ver o pijama brilhando pode tornar o ritual de ir para a cama e o potencial despertar noturno menos assustadores.",
+    "metadata": {
+      "titulo": "A \"Mágica\" do Pijama",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_186",
+    "conteudo": "Descrição: A recompensa por uma cama seca é a tarefa \"de gente grande\" de ajudar a arrumá-la pela manhã.",
+    "metadata": {
+      "titulo": "O \"Prêmio\" da Cama Arrumada",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_187",
+    "conteudo": "Descrição: Uma massagem suave nas pernas e costas antes de dormir pode ajudar a criança a ter um sono mais profundo e regulado, diminuindo a agitação que pode levar a acidentes.",
+    "metadata": {
+      "titulo": "A Massagem Relaxante",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_188",
+    "conteudo": "Descrição: (Para os pais) Se você ouvir a criança se mexendo muito à noite, pode se levantar e guiá-la silenciosamente até o banheiro, quase sem acordá-la.",
+    "metadata": {
+      "titulo": "O \"Guia\" Fantasma",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_189",
+    "conteudo": "Descrição: Conte uma história sobre um rio (xixi) e uma represa (bexiga). A represa segura a água, mas, quando fica cheia, o \"guarda da represa\" (o cérebro) precisa abrir a porta.",
+    "metadata": {
+      "titulo": "A História do \"Rio e da Represa\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_190",
+    "conteudo": "Descrição: Combine um sinal silencioso que a criança pode fazer se acordar e estiver com medo de ir sozinha, como piscar a luz do abajur.",
+    "metadata": {
+      "titulo": "O \"Sinal\" Silencioso",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_191",
+    "conteudo": "Descrição: Associe o sol nascendo com a vitória. \"Olha, o sol nasceu e sua cama está seca como o deserto! Eba!\".",
+    "metadata": {
+      "titulo": "A \"Festa\" do Sol",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_192",
+    "conteudo": "Descrição: Pratiquem a frase \"Não tem problema!\" durante o dia, quando algo pequeno der errado (um copo cai, um brinquedo quebra). Isso ajuda a criança a internalizar a calma para quando um acidente noturno ocorrer.",
+    "metadata": {
+      "titulo": "O \"Não Tem Problema\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_193",
+    "conteudo": "Descrição: Se acontecer um acidente, a criança que ajuda a tirar a roupa molhada e colocar uma seca é uma \"campeã da troca rápida\".",
+    "metadata": {
+      "titulo": "O \"Campeão\" do Pijama",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_194",
+    "conteudo": "Descrição: Ao final do dia, converse: \"Você bebeu bastante água hoje. Acho que sua bexiga vai trabalhar bastante esta noite. Lembre-se de ouvi-la!\".",
+    "metadata": {
+      "titulo": "A \"Previsão\" do Corpo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_195",
+    "conteudo": "Descrição: Use um diário com adesivos para marcar não só as noites secas, mas também as vezes em que a criança bebeu bastante água ou foi ao banheiro antes de dormir, valorizando todo o processo.",
+    "metadata": {
+      "titulo": "O \"Diário\" do Corpo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_196",
+    "conteudo": "Descrição: Antes de dormir, peça para a criança fechar os olhos e \"imaginar\" o caminho da cama ao banheiro, como um treino mental.",
+    "metadata": {
+      "titulo": "O \"Poder\" da Mente",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_197",
+    "conteudo": "Descrição: O primeiro abraço da manhã é o \"abraço da cama seca\", uma comemoração calorosa e conectiva pelo sucesso.",
+    "metadata": {
+      "titulo": "O \"Abraço\" da Manhã",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_198",
+    "conteudo": "Descrição: Diga à criança que você e ela são uma \"equipe\". O trabalho dela é tentar ouvir o corpo, e o seu trabalho é ajudá-la se ela chamar.",
+    "metadata": {
+      "titulo": "A \"Equipe\" da Noite",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_199",
+    "conteudo": "Descrição: Deite-se ao lado da criança por um minuto em silêncio antes de dormir e peça para ela \"ouvir o corpo\". \"Ele está calmo? A barriga está roncando? A bexiga está quieta?\".",
+    "metadata": {
+      "titulo": "O \"Barulho\" do Silêncio",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_200",
+    "conteudo": "Descrição: Verbalize sua confiança nela. \"Eu sei que você está aprendendo a ouvir seu corpo à noite. Você consegue! E se não conseguir hoje, tentamos amanhã\". A segurança emocional é a chave.",
+    "metadata": {
+      "titulo": "A Confiança Acima de Tudo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Levanta-se durante a noite para ir ao banheiro ou permanece seco(a) ao acordar.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_201",
+    "conteudo": "Descrição: Comece com uma atividade sensorial. A criança segura um pratinho ou uma bandeja pequena e usa uma pá para se servir de areia ou grãos em uma caixa sensorial.",
+    "metadata": {
+      "titulo": "O Construtor de Areia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_202",
+    "conteudo": "Descrição: Crie um \"buffet\" de brinquedos (blocos, pompons). A criança pega um prato e usa uma colher grande ou uma concha para se servir dos itens que quer para a brincadeira.",
+    "metadata": {
+      "titulo": "O \"Self-Service\" de Brinquedos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_203",
+    "conteudo": "Descrição: Brinque que a sala de aula é um restaurante. A criança é a \"cliente\" e precisa passar pela \"estação de buffet\" para se servir (com sua orientação) antes de sentar à mesa.",
+    "metadata": {
+      "titulo": "O Restaurante Chique",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_204",
+    "conteudo": "Descrição: Use um pegador de sorvete para servir alimentos como purê de batata, arroz ou cuscuz. A criança segura o prato enquanto \"tira uma bola de sorvete\".",
+    "metadata": {
+      "titulo": "A Sorveteria Divertida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_205",
+    "conteudo": "Descrição: Comece dividindo a tarefa. A única missão da criança é segurar o prato com as duas mãos embaixo da tigela de servir, enquanto você coloca a comida no prato dela.",
+    "metadata": {
+      "titulo": "O Segurador de Prato Profissional",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_206",
+    "conteudo": "Descrição: Inverta a tarefa. Você segura o prato da criança bem firme. A missão dela é apenas usar a colher de servir para pegar a comida e colocar no prato.",
+    "metadata": {
+      "titulo": "O Mestre da Colher",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_207",
+    "conteudo": "Descrição: Seja o primeiro da fila. Narre cada passo em voz alta: \"Primeiro, seguro meu prato. Agora, pego a colher. Pego um pouco de arroz. Coloco no meu prato\". A criança te segue e imita.",
+    "metadata": {
+      "titulo": "O Jogo do \"Siga o Chefe\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_208",
+    "conteudo": "Descrição: Com a criança segurando o prato, coloque sua mão sobre a mão dela que segura a colher de servir e façam o movimento juntos. Aos poucos, diminua a ajuda.",
+    "metadata": {
+      "titulo": "A Mão Guia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_209",
+    "conteudo": "Descrição: Use um prato com ventosa na base. No início, isso elimina a necessidade de segurar o prato, permitindo que a criança foque apenas no movimento de se servir.",
+    "metadata": {
+      "titulo": "O Prato que Gruda",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_210",
+    "conteudo": "Descrição: Ensine a criança a colocar o prato sobre uma bandeja com superfície antiderrapante. Carregar a bandeja é mais estável e seguro do que carregar apenas o prato.",
+    "metadata": {
+      "titulo": "A Bandeja Antiderrapante",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_211",
+    "conteudo": "Descrição: Crie uma música curta para a rotina: \"Pega o prato com cuidado, a colher está do lado. Um pouquinho pra você, para forte você ser!\".",
+    "metadata": {
+      "titulo": "A Canção do \"Self-Service\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_212",
+    "conteudo": "Descrição: Coloque uma fita colorida no chão, mostrando o caminho que a criança deve seguir do buffet até a mesa, ajudando na organização espacial.",
+    "metadata": {
+      "titulo": "A Linha Mágica",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_213",
+    "conteudo": "Descrição: Dê à criança a responsabilidade de ser o \"chefe do lanche\". Ela se serve primeiro e depois (com sua ajuda) pode ajudar a servir um boneco ou um amigo.",
+    "metadata": {
+      "titulo": "O \"Chefe\" do Lanche",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_214",
+    "conteudo": "Descrição: Prepare um piquenique para os bichos de pelúcia. A criança é responsável por segurar o pratinho de cada \"convidado\" e servi-los com comidinhas de brinquedo.",
+    "metadata": {
+      "titulo": "O Piquenique dos Bonecos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_215",
+    "conteudo": "Descrição: Para alimentos como feijão ou sopa (com supervisão), comece usando uma concha pequena. O formato dela evita que a comida caia e facilita o sucesso.",
+    "metadata": {
+      "titulo": "O Desafio da Concha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_216",
+    "conteudo": "Descrição: Coloque a tigela de servir levemente inclinada sobre um livro. A inclinação ajuda a comida a \"cair\" na colher da criança com mais facilidade.",
+    "metadata": {
+      "titulo": "O Prato Inclinado",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_217",
+    "conteudo": "Descrição: Use um prato com divisórias. A regra do jogo é colocar \"um pouquinho\" de cada comida em cada \"casinha\" do prato.",
+    "metadata": {
+      "titulo": "O \"Um Pouquinho de Cada\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_218",
+    "conteudo": "Descrição: Tenha um pictograma da sequência: 1. Pegar prato, 2. Servir comida, 3. Pegar talheres, 4. Sentar. Aponte para cada passo.",
+    "metadata": {
+      "titulo": "O Quadro de Rotina Visual",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_219",
+    "conteudo": "Descrição: Incentive a criança a fazer uma \"montanha\" de arroz no prato. A meta visual e lúdica torna a tarefa mais divertida do que apenas \"pegar comida\".",
+    "metadata": {
+      "titulo": "A \"Montanha\" de Comida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_220",
+    "conteudo": "Descrição: Brinque com uma balança de brinquedo, transferindo \"pesos\" (blocos) de um lado para o outro com uma colher. Isso treina o controle da força.",
+    "metadata": {
+      "titulo": "O Jogo da Balança",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_221",
+    "conteudo": "Descrição: A criança usa uma bandeja para \"servir\" os copos de água (de plástico e vazios ou com pouca água) para os bonecos, treinando o equilíbrio.",
+    "metadata": {
+      "titulo": "O \"Garçom\" dos Outros",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_222",
+    "conteudo": "Descrição: Use uma espátula pequena ou uma pá de brinquedo para servir alimentos mais firmes, como um pedaço de torta.",
+    "metadata": {
+      "titulo": "A \"Pá\" de Comida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_223",
+    "conteudo": "Descrição: Pratique com a criança segurando a bandeja com uma mão só (com itens leves) por alguns segundos. Depois, com a outra.",
+    "metadata": {
+      "titulo": "O Desafio da Mão Única",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_224",
+    "conteudo": "Descrição: A criança é a \"entregadora\" do iFood ou Rappi. Ela \"monta o pedido\" (se serve) e depois \"entrega\" na mesa para o \"cliente\" (ela mesma).",
+    "metadata": {
+      "titulo": "A \"Entrega\" Especial",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_225",
+    "conteudo": "Descrição: Sente-se em frente à criança com uma tigela de pompons entre vocês. Ambos com pratos, sirvam-se ao mesmo tempo, espelhando os movimentos um do outro.",
+    "metadata": {
+      "titulo": "O Jogo do Espelho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_226",
+    "conteudo": "Descrição: Marque o lugar de cada prato na mesa com um jogo americano ou fita colorida. Após se servir, a criança precisa \"estacionar\" o prato no alvo.",
+    "metadata": {
+      "titulo": "O \"Alvo\" na Mesa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_227",
+    "conteudo": "Descrição: Brinque de misturar ingredientes secos. A criança segura a tigela e se serve de \"ingredientes\" (farinha, arroz, macarrão) para criar uma \"receita mágica\".",
+    "metadata": {
+      "titulo": "A \"Cozinha Experimental\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_228",
+    "conteudo": "Descrição: Use utensílios um pouco mais pesados (de metal infantil). O peso extra pode dar mais feedback sensorial e ajudar no controle do movimento.",
+    "metadata": {
+      "titulo": "A Força do Gigante",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_229",
+    "conteudo": "Descrição: Combine um sinal visual. Coloque um adesivo verde no prato. A regra é servir a comida sem cobrir o adesivo, ensinando a noção de quantidade.",
+    "metadata": {
+      "titulo": "O \"Sinal\" de Cheio",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_230",
+    "conteudo": "Descrição: Organize a hora do lanche como uma \"fila de restaurante\". Cada criança espera sua vez, pega o prato e se serve, observando e aprendendo com os colegas.",
+    "metadata": {
+      "titulo": "A \"Fila\" do Lanche",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_231",
+    "conteudo": "Descrição: Peça para a criança levar o próprio prato (de plástico, vazio) da mesa para a pia, apenas para treinar o ato de carregar com segurança.",
+    "metadata": {
+      "titulo": "O \"Transportador\" de Carga Leve",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_232",
+    "conteudo": "Descrição: Deixe a criança (com supervisão e usando um medidor) ser responsável por se servir da ração do animal de estimação e colocar no potinho dele.",
+    "metadata": {
+      "titulo": "A \"Comida\" do Animal de Estimação",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_233",
+    "conteudo": "Descrição: Faça uma salada de frutas. A criança segura sua tigela e usa uma colher grande para se servir das frutas que mais gosta.",
+    "metadata": {
+      "titulo": "A \"Festa\" das Frutas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_234",
+    "conteudo": "Descrição: Grave um vídeo da própria criança realizando a tarefa com sucesso (mesmo que com ajuda). Assista ao vídeo antes da próxima refeição como um guia.",
+    "metadata": {
+      "titulo": "O \"Passo a Passo\" Filmado",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_235",
+    "conteudo": "Descrição: Em vez de \"parabéns\", diga \"Uau, você segurou o prato bem firme!\" ou \"Você pegou a colher do jeito certo, que campeão!\".",
+    "metadata": {
+      "titulo": "O \"Elogio\" Específico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_236",
+    "conteudo": "Descrição: Crie uma \"medalha\" de papelão que a criança usa durante o almoço quando ela consegue se servir sozinha.",
+    "metadata": {
+      "titulo": "A \"Medalha\" de Ajudante",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_237",
+    "conteudo": "Descrição: Crie uma pequena estação de salada com itens que a criança gosta (tomate cereja, cenoura ralada). Ela pode montar o próprio pratinho.",
+    "metadata": {
+      "titulo": "O \"Buffet\" de Salada",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_238",
+    "conteudo": "Descrição: Coloque uma música instrumental e peça para a criança se servir \"no ritmo da música\", de forma calma e controlada.",
+    "metadata": {
+      "titulo": "O \"Ritmo\" da Comida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_239",
+    "conteudo": "Descrição: Se a criança quiser repetir, a regra é clara: ela mesma precisa pegar o prato e ir até a travessa para se servir (com sua supervisão).",
+    "metadata": {
+      "titulo": "O \"Chefe\" da Repetição",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_240",
+    "conteudo": "Descrição: Na hora do banho, dê potes e uma concha. A criança pode treinar a transferência de água de um recipiente para o outro.",
+    "metadata": {
+      "titulo": "O \"Treino\" na Água",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_241",
+    "conteudo": "Descrição: Use uma pinça de salada para se servir de itens maiores, como pedaços de pão ou nuggets. É uma ótima prática de preensão.",
+    "metadata": {
+      "titulo": "O \"Desafio\" da Pinça",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_242",
+    "conteudo": "Descrição: No parquinho, a criança segura um pratinho e se serve de \"comida de passarinho\" (folhas secas, sementes) para deixar no chão.",
+    "metadata": {
+      "titulo": "A \"Comida\" dos Pássaros",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_243",
+    "conteudo": "Descrição: A missão da criança é carregar a bandeja com seu prato e copo, mantendo tudo em equilíbrio, como um \"guardião de um tesouro\".",
+    "metadata": {
+      "titulo": "O \"Guardião\" da Bandeja",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_244",
+    "conteudo": "Descrição: Diga: \"Eu coloco o arroz para você, e você se serve do feijão\". Dividir a tarefa torna-a menos intimidante.",
+    "metadata": {
+      "titulo": "A \"Troca\" de Tarefas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_245",
+    "conteudo": "Descrição: Combine um número. \"Hoje, vamos nos servir de 3 colheres de arroz\". Contar juntos ajuda a dar uma meta clara e a controlar a quantidade.",
+    "metadata": {
+      "titulo": "O \"Contador\" de Colheradas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_246",
+    "conteudo": "Descrição: Como um passo avançado, a criança pode ajudar a segurar o prato de um colega enquanto o colega se serve, treinando a cooperação.",
+    "metadata": {
+      "titulo": "A \"Ajuda\" para o Colega",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_247",
+    "conteudo": "Descrição: A regra é que a sobremesa só pode ser servida depois que a criança levar seu próprio prato sujo para a pia.",
+    "metadata": {
+      "titulo": "O \"Antes\" da Sobremesa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_248",
+    "conteudo": "Descrição: Após se servir, peça para a criança te dar um \"relatório\": \"Chefe, relatório da missão: peguei arroz, feijão e carne. Missão cumprida!\".",
+    "metadata": {
+      "titulo": "O \"Relatório\" do Chefe",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_249",
+    "conteudo": "Descrição: Se um pouco de comida cair para fora do prato, trate com naturalidade. \"Opa! Sem problemas, acontece. Vamos pegar com a colher e colocar de volta\".",
+    "metadata": {
+      "titulo": "O \"Sucesso\" sem Bagunça",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_250",
+    "conteudo": "Descrição: Quando a criança conseguir se servir completamente sozinha pela primeira vez, faça uma grande festa! O reforço positivo para um marco tão grande é fundamental.",
+    "metadata": {
+      "titulo": "A Celebração da Independência",
+      "dimensao": "Autocuidado",
+      "habilidade": "Serve-se sozinho(a), segurando o prato ou a bandeja.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_251",
+    "conteudo": "Descrição: Crie um quadro de rotina visual com pictogramas para CADA passo: baixar calça, sentar, usar papel, limpar, subir calça, dar descarga, lavar as mãos. A criança move um clipe a cada \"missão\" cumprida.",
+    "metadata": {
+      "titulo": "O Quadro de Missões do Banheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_252",
+    "conteudo": "Descrição: Encha dois balões e amarre-os juntos para simular o bumbum. Coloque um pouco de loção ou chocolate entre eles. A criança pratica o movimento de limpar o \"bumbum do balão\" com papel higiênico.",
+    "metadata": {
+      "titulo": "O Limpador de Balões (Prática de Limpeza)",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_253",
+    "conteudo": "Descrição: Fora do banheiro, brinque de \"corrida\" para ver quem consegue abaixar e levantar as calças (folgadas, de elástico) mais rápido. A prática motora sem a pressão da urgência ajuda a automatizar o movimento.",
+    "metadata": {
+      "titulo": "A Corrida das Calças",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_254",
+    "conteudo": "Descrição: Use um boneco grande e encenem a sequência completa. A criança leva o boneco ao banheiro, tira a roupa, senta no penico, \"limpa\", veste, dá descarga (de brinquedo) e lava as mãos dele.",
+    "metadata": {
+      "titulo": "O Desafio do Boneco Completo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_255",
+    "conteudo": "Descrição: Em vez de dar instruções, pergunte: \"Você já deu a descarga. Qual é o próximo passo, Chefe?\". Isso transfere a responsabilidade do planejamento para a criança.",
+    "metadata": {
+      "titulo": "O \"Chefe\" do Banheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_256",
+    "conteudo": "Descrição: Pratiquem, fora do banheiro, a habilidade de pegar 3-4 pedaços de papel higiênico e dobrá-los para criar um \"quadradinho mágico\" pronto para a limpeza.",
+    "metadata": {
+      "titulo": "A Dobra do Papel Mágico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_257",
+    "conteudo": "Descrição: Crie uma música que narre todos os passos na ordem correta. A melodia e o ritmo ajudam a memorizar a longa sequência de ações.",
+    "metadata": {
+      "titulo": "A Canção da Rotina Completa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_258",
+    "conteudo": "Descrição: Brinque que a criança é um piloto de corrida. A ida ao banheiro é um \"pit stop\" super rápido e eficiente, onde ela precisa completar todos os passos para voltar logo para a \"pista\" (a brincadeira).",
+    "metadata": {
+      "titulo": "O \"Pit Stop\" do Piloto de Corrida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_259",
+    "conteudo": "Descrição: Ensine a regra do \"cheque de limpeza\": após limpar, a criança deve olhar o papel. Se estiver sujo, pega mais papel",
+    "metadata": {
+      "titulo": "O \"Cheque\" do Papel",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_260",
+    "conteudo": "Descrição: Transforme a descarga no \"botão de poder\" ou na \"recompensa final\". A criança só pode apertar o botão mágico após completar todas as etapas anteriores.",
+    "metadata": {
+      "titulo": "O Poder da Descarga",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_261",
+    "conteudo": "Descrição: Use o boneco e faça a sequência errada (ex: dar descarga antes de se vestir). Peça para a criança ser a \"professora\" e corrigir o que está errado.",
+    "metadata": {
+      "titulo": "O Jogo do \"Certo ou Errado?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_262",
+    "conteudo": "Descrição: Organize o banheiro com tudo ao alcance: um suporte baixo para o papel, um banquinho firme, um cesto para roupas. A criança precisa saber onde pegar cada \"ferramenta\".",
+    "metadata": {
+      "titulo": "A \"Estação de Ferramentas\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_263",
+    "conteudo": "Descrição: A criança é um espião. A missão é ir ao banheiro e não deixar \"nenhuma pista\" para trás (papel no chão, descarga sem dar, roupa torta).",
+    "metadata": {
+      "titulo": "O \"Agente Secreto\" da Limpeza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_264",
+    "conteudo": "Descrição: Após se vestir, o último passo é se olhar no espelho para um \"cheque final\": \"A roupa está certinha? O zíper está para frente?\".",
+    "metadata": {
+      "titulo": "O \"Antes e Depois\" do Espelho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_265",
+    "conteudo": "Descrição: A lavagem das mãos no final não é uma tarefa, mas a \"festa da espuma\", a comemoração por ter completado toda a missão do banheiro com sucesso.",
+    "metadata": {
+      "titulo": "A \"Festa\" da Mão Limpa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_266",
+    "conteudo": "Descrição: Em um prato de papel, passe um pouco de pasta de chocolate. A criança deve usar o papel toalha para limpar o prato \"de frente para trás\", praticando o movimento direcional.",
+    "metadata": {
+      "titulo": "O \"Limpador\" de Pratos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_267",
+    "conteudo": "Descrição: Durante o dia, ajude a criança a nomear a sensação. \"Sua barriga está falando com você? Acho que é o 'alarme do cocô'!\". A consciência da sensação ajuda a ir a tempo.",
+    "metadata": {
+      "titulo": "O \"Alarme\" do Corpo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_268",
+    "conteudo": "Descrição: No início, use apenas calças com elástico frouxo e sem botões ou zíperes para facilitar a etapa de vestir/despir e aumentar a chance de independência.",
+    "metadata": {
+      "titulo": "A \"Calça de Elástico\" do Campeão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_269",
+    "conteudo": "Descrição: Grave um vídeo (com consentimento dos pais) da própria criança executando a sequência com sucesso (com ajuda). Assisti-lo antes reforça a memória motora.",
+    "metadata": {
+      "titulo": "O Vídeo-Modelo Pessoal",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_270",
+    "conteudo": "Descrição: Use um fantoche \"aprendiz\" que não sabe a ordem das coisas. A criança precisa dar as instruções corretas para o fantoche.",
+    "metadata": {
+      "titulo": "O \"Ensine o Fantoche\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_271",
+    "conteudo": "Descrição: Coloque uma marca de canetinha a cada 4 pedaços de papel higiênico. A instrução é \"puxar até a marquinha\" para pegar a quantidade certa.",
+    "metadata": {
+      "titulo": "O \"Contador\" de Papel",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_272",
+    "conteudo": "Descrição: Brinque de enrolar o papel higiênico na mão para criar um \"rolinho\" mais firme para a limpeza.",
+    "metadata": {
+      "titulo": "O \"Rolinho\" Mágico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_273",
+    "conteudo": "Descrição: Crie um ritual de dar \"tchau\" para o xixi/cocô na privada antes de dar a descarga. A personificação torna o processo mais concreto.",
+    "metadata": {
+      "titulo": "O \"Tchau\" para a Sujeira",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_274",
+    "conteudo": "Descrição: Tente guiar a criança por toda a sequência usando apenas gestos e apontando para o quadro de rotina visual, sem comandos verbais.",
+    "metadata": {
+      "titulo": "O \"Desafio Silencioso\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_275",
+    "conteudo": "Descrição: O banheiro é a \"nave espacial\". Cada etapa é um \"procedimento\" que o astronauta precisa seguir para a missão ser um sucesso. A descarga é a \"decolagem\".",
+    "metadata": {
+      "titulo": "O \"Banheiro do Astronauta\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_276",
+    "conteudo": "Descrição: O reforço não é um prêmio, mas a próxima atividade desejada. \"Assim que você terminar tudo no banheiro, podemos ir para o parquinho!\".",
+    "metadata": {
+      "titulo": "A \"Recompensa\" da Tarefa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_277",
+    "conteudo": "Descrição: A criança é a \"inspetora\" que precisa verificar se a própria roupa foi vestida corretamente (etiqueta para trás, calça não está torcida).",
+    "metadata": {
+      "titulo": "O \"Inspetor\" de Roupas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_278",
+    "conteudo": "Descrição: Narre a colocação da roupa como uma aventura: \"Agora o pé direito vai entrar no túnel da calça... Cuidado com a curva do joelho!\".",
+    "metadata": {
+      "titulo": "A \"Aventura\" de se Vestir",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_279",
+    "conteudo": "Descrição: Dê à criança a responsabilidade de ser a \"guardiã\" que verifica se todos (da família ou da sala) deram descarga após usar o banheiro.",
+    "metadata": {
+      "titulo": "O \"Guardião\" da Descarga",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_280",
+    "conteudo": "Descrição: Use um boneco. Periodicamente, o boneco \"sussurra\" para a criança: \"Você checou seu corpo? Não espere ficar muito apertado!\".",
+    "metadata": {
+      "titulo": "O \"Lembrete\" do Amigo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_281",
+    "conteudo": "Descrição: Crie cartas com os pictogramas da rotina. Vire-as para baixo. A criança precisa desvirá-las e colocá-las na ordem correta antes de ir ao banheiro.",
+    "metadata": {
+      "titulo": "O Jogo da Memória do Banheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_282",
+    "conteudo": "Descrição: Reforce que o papel higiênico, depois de usado, vai para a privada e \"desaparece\" com a descarga, ao contrário dos lenços umedecidos.",
+    "metadata": {
+      "titulo": "A \"Mágica\" do Papel que Some",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_283",
+    "conteudo": "Descrição: Brinque de cabo de guerra com um elástico ou tecido para fortalecer as mãos e os braços, ajudando na hora de puxar a calça.",
+    "metadata": {
+      "titulo": "A \"Força\" para Puxar",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_284",
+    "conteudo": "Descrição: Cole pegadas adesivas no chão, mostrando a posição correta para ficar em pé em frente ao vaso.",
+    "metadata": {
+      "titulo": "O \"Ponto de Encontro\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_285",
+    "conteudo": "Descrição: Brinque de \"treino de incêndio\", mas para o banheiro. Quando você der o sinal, a criança deve ir calmamente até o banheiro e simular os passos.",
+    "metadata": {
+      "titulo": "O \"Treino\" de Emergência",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_286",
+    "conteudo": "Descrição: Faça uma \"lista de compras\" com figuras (papel, sabão). A criança ajuda a verificar se o banheiro está \"abastecido\" para o uso.",
+    "metadata": {
+      "titulo": "A \"Lista\" de Compras do Banheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_287",
+    "conteudo": "Descrição: Reforce que a lavagem das mãos é a etapa final e comemorativa, onde a criança é a \"chefe\" que cria a maior montanha de espuma.",
+    "metadata": {
+      "titulo": "O \"Chefe\" da Espuma",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_288",
+    "conteudo": "Descrição: Se a criança vestir a calça ao contrário, brinque que a calça está \"disfarçada\" e que vocês precisam \"desmascará-la\" juntos.",
+    "metadata": {
+      "titulo": "O \"Disfarce\" da Roupa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_289",
+    "conteudo": "Descrição: Use uma ampulheta visual. A criança tem o tempo da areia para completar toda a sequência.",
+    "metadata": {
+      "titulo": "O \"Relógio\" do Banheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_290",
+    "conteudo": "Descrição: Crie um diploma de \"Mestre do Banheiro\" para ser entregue quando a criança conseguir completar a sequência toda sozinha por alguns dias seguidos.",
+    "metadata": {
+      "titulo": "O \"Diploma\" de Independência",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_291",
+    "conteudo": "Descrição: Desenhe uma seta (de frente para trás) em um pedaço de papel toalha para a criança visualizar a direção correta do movimento de limpeza.",
+    "metadata": {
+      "titulo": "O \"Caminho\" da Limpeza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_292",
+    "conteudo": "Descrição: Decore uma caixa onde ficam os \"itens de banheiro de gente grande\" (rolos de papel reserva, etc.). A criança pode ajudar a reabastecer a caixa.",
+    "metadata": {
+      "titulo": "A \"Caixa\" de Ferramentas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_293",
+    "conteudo": "Descrição: Incentive a criança a \"ouvir\" o corpo. \"Sua barriga está falando alguma coisa? Ela está calma ou está pedindo para ir ao banheiro?\".",
+    "metadata": {
+      "titulo": "A \"Conversa\" com o Corpo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_294",
+    "conteudo": "Descrição: Ensine a criança a juntar a frente da calça e segurá-la com as duas mãos antes de enfiar os pés, para evitar que a calça torça.",
+    "metadata": {
+      "titulo": "O \"Guia\" da Roupa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_295",
+    "conteudo": "Descrição: Personifique a vontade de não querer parar de brincar como a \"Preguicinha\". Diga: \"Vamos vencer a Preguicinha e ir rapidinho ao banheiro para voltar logo!\".",
+    "metadata": {
+      "titulo": "A \"Vitória\" sobre a Preguiça",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_296",
+    "conteudo": "Descrição: Ensine a importância de fechar a porta para ter privacidade, como parte da rotina de \"gente grande\".",
+    "metadata": {
+      "titulo": "O \"Segredo\" da Porta Fechada",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_297",
+    "conteudo": "Descrição: A última etapa é a autoinspeção. A criança cheira as próprias mãos para \"verificar se elas têm cheirinho de sabonete\".",
+    "metadata": {
+      "titulo": "O \"Inspetor\" de Mãos Limpas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_298",
+    "conteudo": "Descrição: Dê à criança a responsabilidade de te avisar quando o papel higiênico acabar e de ajudar a colocar o rolo novo no suporte.",
+    "metadata": {
+      "titulo": "A Troca de Papel",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_299",
+    "conteudo": "Descrição: Diga que você e a criança são um \"time\". No início, você ajuda muito. A cada dia, o objetivo do time é que ela consiga fazer mais um passo sozinha.",
+    "metadata": {
+      "titulo": "O \"Time\" do Banheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_300",
+    "conteudo": "Descrição: Quando ela conseguir pela primeira vez, faça uma grande festa! Ligue para um familiar, conte a novidade. O reforço social para essa conquista é imenso.",
+    "metadata": {
+      "titulo": "A Celebração da Autonomia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Vai ao banheiro a tempo, retira e veste a roupa, usa papel higiênico e dá descarga sem ajuda.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_301",
+    "conteudo": "Descrição: Crie um mapa visual simples da escola. A criança te ajuda a desenhar a rota da sua sala até um local-chave (ex: o parquinho). O destino é o \"tesouro\".",
+    "metadata": {
+      "titulo": "O Mapa do Tesouro da Escola",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_302",
+    "conteudo": "Descrição: Caminhe com a criança por uma rota e tire fotos de \"pontos de referência\" (o bebedouro, o mural de artes, a porta azul). Crie um álbum de fotos que conta a história do caminho.",
+    "metadata": {
+      "titulo": "O Safári Fotográfico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_303",
+    "conteudo": "Descrição: Dê uma \"carta\" (um desenho) para a criança entregar a outra professora em uma sala próxima. Comece com a sala ao lado e aumente a distância gradualmente.",
+    "metadata": {
+      "titulo": "O Carteiro Especial",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_304",
+    "conteudo": "Descrição: Você anda na frente e a criança te segue. Dê comandos claros: \"Agora, vamos virar à direita na planta grande\". Narre o caminho enquanto o percorre.",
+    "metadata": {
+      "titulo": "O Jogo do \"Siga o Mestre\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_305",
+    "conteudo": "Descrição: Cole adesivos de pegadas no chão, formando um caminho claro e seguro da sala até o banheiro. A regra é \"sempre pise nas pegadas\".",
+    "metadata": {
+      "titulo": "A Pista de Pegadas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_306",
+    "conteudo": "Descrição: Dê à criança uma \"missão de reportagem\": ir até a janela do corredor, ver como está o tempo e voltar para te contar. A tarefa dá um propósito claro ao trajeto.",
+    "metadata": {
+      "titulo": "O Repórter da Escola",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_307",
+    "conteudo": "Descrição: Brinque que no corredor só podemos andar como uma \"tartaruga\" (devagar e com cuidado), e na quadra podemos correr como uma \"lebre\". Pratique as duas velocidades.",
+    "metadata": {
+      "titulo": "A Caminhada da Tartaruga",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_308",
+    "conteudo": "Descrição: A missão é caminhar pelo corredor em total silêncio, como um espião, para não ser \"descoberto\". Isso ajuda a controlar o tom de voz em áreas comuns.",
+    "metadata": {
+      "titulo": "O Agente Secreto Silencioso",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_309",
+    "conteudo": "Descrição: Deixe a criança ir na frente. Você a segue a uma distância de 3-4 passos, como se fosse a \"sombra\" dela, dando segurança sem contato físico.",
+    "metadata": {
+      "titulo": "A Sombra do Professor",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_310",
+    "conteudo": "Descrição: Diga à criança para começar a andar na rota combinada. Conte até 10 antes de começar a segui-la. Aumente o tempo gradualmente à medida que a confiança dela crescer.",
+    "metadata": {
+      "titulo": "O Desafio dos 10 Segundos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_311",
+    "conteudo": "Descrição: Combine um ponto de referência visual no meio do caminho (ex: o banco vermelho). A criança anda até lá e espera por um \"joinha\" seu antes de continuar.",
+    "metadata": {
+      "titulo": "O Ponto de Encontro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_312",
+    "conteudo": "Descrição: Use walkie-talkies de brinquedo. A criança vai na frente e te passa \"relatórios\": \"Base, cheguei na porta da biblioteca. Câmbio.\".",
+    "metadata": {
+      "titulo": "O \"Walkie-Talkie\" da Missão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_313",
+    "conteudo": "Descrição: Use bonecos para encenar. \"O que o Bubu faz se não souber onde está? Ele para, abraça a si mesmo e procura um adulto com o crachá da escola\".",
+    "metadata": {
+      "titulo": "O Jogo do \"O Que Fazer Se...\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_314",
+    "conteudo": "Descrição: Crie um crachá para a criança com foto, nome e número da sala. Ensine-a a mostrar o crachá para outro professor se precisar de ajuda.",
+    "metadata": {
+      "titulo": "O Crachá de Identificação",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_315",
+    "conteudo": "Descrição: A criança é a \"guardiã\" responsável por pegar um livro na sala e levá-lo até a caixa de devolução da biblioteca.",
+    "metadata": {
+      "titulo": "O \"Guardião\" do Livro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_316",
+    "conteudo": "Descrição: A missão da criança é levar um instrumento musical pequeno (um chocalho) para a sala de música.",
+    "metadata": {
+      "titulo": "O Mensageiro Musical",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_317",
+    "conteudo": "Descrição: A criança é um robô que segue suas instruções: \"Andar 10 passos para frente. Virar à esquerda\". Isso ajuda a internalizar as direções.",
+    "metadata": {
+      "titulo": "O Jogo do Robô",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_318",
+    "conteudo": "Descrição: Peça para a criança levar a própria garrafinha de água para ser reabastecida no bebedouro e trazê-la de volta.",
+    "metadata": {
+      "titulo": "A \"Entrega\" da Garrafinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_319",
+    "conteudo": "Descrição: A criança leva seu boneco favorito para um \"tour\" pela escola, explicando (com sua ajuda) para onde estão indo.",
+    "metadata": {
+      "titulo": "O \"Tour\" para o Boneco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_320",
+    "conteudo": "Descrição: No corredor, coloque algumas almofadas. Brinquem de \"desviar dos meteoros\" sem correr, praticando a navegação em espaços com pessoas.",
+    "metadata": {
+      "titulo": "O Desvio de Obstáculos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_321",
+    "conteudo": "Descrição: Use um bambolê. A criança anda segurando o bambolê ao redor do corpo para entender e manter um espaço pessoal nos corredores.",
+    "metadata": {
+      "titulo": "A Bolha Pessoal",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_322",
+    "conteudo": "Descrição: Brinque de \"Sinal Verde\" (pode andar) e \"Sinal Vermelho\" (parar) nos corredores. O jogo ajuda a treinar o controle inibitório.",
+    "metadata": {
+      "titulo": "O \"Sinal Verde, Sinal Vermelho\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_323",
+    "conteudo": "Descrição: A missão é caminhar até o final do corredor e voltar, contando quantos objetos de uma cor específica (ex: \"quantas coisas vermelhas?\") ela consegue encontrar.",
+    "metadata": {
+      "titulo": "O Caçador de Cores",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_324",
+    "conteudo": "Descrição: Dê à criança a responsabilidade de ser o \"chefe da fila\", o primeiro a seguir o caminho quando a turma se desloca, servindo de modelo.",
+    "metadata": {
+      "titulo": "O \"Chefe\" da Fila",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_325",
+    "conteudo": "Descrição: Peça para a criança ser sua \"guia\" em um caminho que ela já conhece bem, como ir da sala para a secretaria.",
+    "metadata": {
+      "titulo": "O \"Guia\" Turístico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_326",
+    "conteudo": "Descrição: Após fazer um trajeto, peça para a criança desenhar ou contar o que ela viu no caminho (a planta, o quadro, etc.).",
+    "metadata": {
+      "titulo": "A \"Memória\" do Caminho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_327",
+    "conteudo": "Descrição: Ensine a criança a dar um \"olá\" silencioso (um aceno) para as salas vizinhas enquanto passa por elas, promovendo a interação social apropriada.",
+    "metadata": {
+      "titulo": "O \"Olá\" para os Vizinhos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_328",
+    "conteudo": "Descrição: Comecem a andar juntos. Diga \"Modo lebre!\" e dê uma corridinha (se for seguro). Diga \"Modo tartaruga!\" e andem bem devagar. Reforce que o corredor é sempre \"modo tartaruga\".",
+    "metadata": {
+      "titulo": "A \"Corrida\" da Tartaruga e da Lebre",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_329",
+    "conteudo": "Descrição: Dê um recado verbal simples para a criança entregar a um adulto em um local próximo. \"Por favor, diga para a Tia Maria que já vamos lanchar\".",
+    "metadata": {
+      "titulo": "A \"Entrega\" de Recados",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_330",
+    "conteudo": "Descrição: Aproveite o final do dia, quando a escola está mais vazia, para praticar as rotas com menos estímulos sensoriais.",
+    "metadata": {
+      "titulo": "O Treino de Fim de Dia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_331",
+    "conteudo": "Descrição: Esconda um objeto grande e chamativo no final de um corredor. A missão da criança é ir até lá, pegar o objeto e trazê-lo de volta.",
+    "metadata": {
+      "titulo": "O \"Achou!\" no Corredor",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_332",
+    "conteudo": "Descrição: Brinque que andar devagar no corredor \"carrega os poderes\" para poder correr \"super rápido\" quando chegar no parquinho.",
+    "metadata": {
+      "titulo": "O \"Zoom\" do Super-Herói",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_333",
+    "conteudo": "Descrição: Ensine a regra de sempre parar antes de uma porta para olhar para os dois lados antes de passar. A criança pode ser a \"guardiã\" que verifica a segurança.",
+    "metadata": {
+      "titulo": "O \"Guardião\" da Porta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_334",
+    "conteudo": "Descrição: A criança pode fazer o trajeto com um \"parceiro\" (um colega), ambos aprendendo a se apoiar e a seguir a rota juntos.",
+    "metadata": {
+      "titulo": "O \"Parceiro\" de Caminhada",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_335",
+    "conteudo": "Descrição: Tire fotos de 3 ou 4 pontos de referência do caminho. Entregue as fotos para a criança na ordem errada. Ela precisa colocá-las na ordem certa antes de fazer o trajeto.",
+    "metadata": {
+      "titulo": "O \"Quebra-Cabeça\" da Rota",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_336",
+    "conteudo": "Descrição: Ande de costas, de frente para a criança. Ela deve espelhar seus movimentos: se você anda devagar, ela anda devagar",
+    "metadata": {
+      "titulo": "O \"Espelho\" Andante",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_337",
+    "conteudo": "Descrição: A missão é ir até o armário de artes no corredor, pegar um item específico (ex: uma folha de papel azul) e trazer para a sala.",
+    "metadata": {
+      "titulo": "A \"Coleta\" de Materiais de Arte",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_338",
+    "conteudo": "Descrição: Combine que, quando a criança chegar ao destino, ela deve contar até 5 em voz alta antes de começar o caminho de volta.",
+    "metadata": {
+      "titulo": "O \"Relógio\" Humano",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_339",
+    "conteudo": "Descrição: Enquanto caminha, peça para a criança prestar atenção nos sons. \"Você ouviu o telefone da secretaria? E os passarinhos lá fora?\". Isso ajuda a criar mais pontos de referência.",
+    "metadata": {
+      "titulo": "O \"Detetive\" de Sons",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_340",
+    "conteudo": "Descrição: Nos cruzamentos de corredores, ensine a criança a parar e apontar com o braço a direção que ela vai seguir antes de continuar.",
+    "metadata": {
+      "titulo": "A \"Seta\" Humana",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_341",
+    "conteudo": "Descrição: Em uma área segura e com você ao lado, a criança te guia (ambos sem vendas). Depois, você a guia, descrevendo cada passo, para reforçar a linguagem direcional.",
+    "metadata": {
+      "titulo": "O \"Guia\" de Olhos Vendados",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_342",
+    "conteudo": "Descrição: Se encontrar outra turma no corredor, a regra é \"dançar\" para o lado, encostando na parede para dar passagem.",
+    "metadata": {
+      "titulo": "A \"Dança\" do Desvio",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_343",
+    "conteudo": "Descrição: Crie um \"cargo\" oficial na sala, o \"Ajudante do Dia\", cuja função principal é realizar essas pequenas tarefas de levar e trazer coisas pela escola.",
+    "metadata": {
+      "titulo": "O \"Ajudante\" do Dia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_344",
+    "conteudo": "Descrição: O reforço para uma viagem bem-sucedida é a sua verbalização de confiança: \"Uau, você foi e voltou sozinho! Estou tão orgulhoso! Você está crescendo!\".",
+    "metadata": {
+      "titulo": "O \"Prêmio\" da Confiança",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_345",
+    "conteudo": "Descrição: Estabeleça um \"ponto seguro\" universal (como a porta da secretaria). Ensine que, se um dia ela se sentir perdida, a missão é sempre encontrar aquele ponto.",
+    "metadata": {
+      "titulo": "O \"Ponto Seguro\" Universal",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_346",
+    "conteudo": "Descrição: Explique que os corredores são lugares de \"economia de bateria\", onde falamos baixo, e o parquinho é onde podemos \"gastar toda a energia\".",
+    "metadata": {
+      "titulo": "A \"Bateria\" Social",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_347",
+    "conteudo": "Descrição: Mostre fotos de funcionários-chave da escola (a diretora, a secretária, a inspetora). Ensine que eles são \"adultos seguros\" a quem ela pode pedir ajuda.",
+    "metadata": {
+      "titulo": "O \"Reconhecimento\" de Adultos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_348",
+    "conteudo": "Descrição: Ao retornar de uma \"missão\", a criança deve te dar um \"relatório\" completo: \"Missão cumprida! Entreguei o desenho para a Tia Ana\".",
+    "metadata": {
+      "titulo": "O \"Relatório\" da Missão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_349",
+    "conteudo": "Descrição: Narre o caminho usando a criança como referência: \"Agora, vire para o lado da sua mão que você desenha\".",
+    "metadata": {
+      "titulo": "O \"GPS\" Interno",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_350",
+    "conteudo": "Descrição: Quando a criança completar um trajeto inteiro de forma independente pela primeira vez, faça uma grande festa na sala. A celebração do grupo valida a conquista.",
+    "metadata": {
+      "titulo": "A Celebração da Autonomia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Caminha pela escola sem supervisão constante.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_351",
+    "conteudo": "Descrição: Crie um modelo de tênis grande em um papelão grosso com furos largos. A primeira tarefa é apenas praticar passar o cadarço (grosso) pelos buracos, sem se preocupar em amarrar.",
+    "metadata": {
+      "titulo": "O Tênis de Papelão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_352",
+    "conteudo": "Descrição: Use um cadarço ou barbante para a criança fazer um colar com macarrão do tipo penne. A atividade treina o movimento de pinça e a coordenação olho-mão necessários para passar o cadarço.",
+    "metadata": {
+      "titulo": "O Colar de Macarrão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_353",
+    "conteudo": "Descrição: Use dois cadarços de cores vibrantes diferentes amarrados no meio. As instruções ficam muito mais claras: \"Agora, o cadarço azul passa por baixo do vermelho\".",
+    "metadata": {
+      "titulo": "O Cadarço de Duas Cores",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_354",
+    "conteudo": "Descrição: Ensine a amarrar usando a história do coelho: \"Faça uma árvore (o primeiro nó), depois duas orelhas de coelho (dois laços), o coelho dá a volta na árvore e entra na toca\".",
+    "metadata": {
+      "titulo": "A História das Orelhas do Coelho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_355",
+    "conteudo": "Descrição: A primeira missão é apenas aprender a cruzar os dois cadarços para formar um \"X\" perfeito no início da amarração. Comemore apenas essa etapa.",
+    "metadata": {
+      "titulo": "O \"X\" Mágico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_356",
+    "conteudo": "Descrição: Após fazer o \"X\", a próxima etapa é fazer uma das pontas do cadarço (a \"cobra\") \"mergulhar por baixo da ponte\" para dar o primeiro nó.",
+    "metadata": {
+      "titulo": "A Cobra que Entra na Toca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_357",
+    "conteudo": "Descrição: Antes de usar cadarços finos, pratique todos os passos da amarração com duas cordas grossas e macias. O tamanho maior facilita a visualização e o manuseio.",
+    "metadata": {
+      "titulo": "A Prática com Cordas Grossas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_358",
+    "conteudo": "Descrição: Pegue uma caixa grande e uma fita larga. A brincadeira é dar um laço de presente na caixa, praticando o movimento do laço em uma escala maior.",
+    "metadata": {
+      "titulo": "O Laço de Presente Gigante",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_359",
+    "conteudo": "Descrição: Use um boneco grande que tenha sapatos de amarrar. A criança primeiro pratica no boneco, que é mais fácil de posicionar e manusear do que o próprio pé.",
+    "metadata": {
+      "titulo": "O Desafio do Boneco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_360",
+    "conteudo": "Descrição: Crie um quadro de atividades com várias fitas presas, onde a única tarefa é dar e desfazer laços.",
+    "metadata": {
+      "titulo": "O Quadro de Laços",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_361",
+    "conteudo": "Descrição: Ao fazer o laço final, segure o \"caminho\" aberto para a criança e a instrução é apenas \"empurrar a orelha do coelho para dentro da toca\" com o dedo indicador.",
+    "metadata": {
+      "titulo": "O \"Empurra\" com o Dedo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_362",
+    "conteudo": "Descrição: Faça todo o laço e deixe as duas \"orelhas\" prontas. A única tarefa da criança é fazer o movimento de pinça e puxar as duas ao mesmo tempo para apertar o nó.",
+    "metadata": {
+      "titulo": "O \"Puxa-Puxa\" Final",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_363",
+    "conteudo": "Descrição: Passe um pouco de cola branca ou esmalte incolor nas pontas dos cadarços de treino. As pontas duras e rígidas são muito mais fáceis de passar pelos buracos.",
+    "metadata": {
+      "titulo": "A \"Ponta Dura\" do Cadarço",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_364",
+    "conteudo": "Descrição: Sente-se ao lado da criança, cada um com um tênis de papelão. Você faz um passo e ela imita. \"O Mestre mandou... passar o cadarço no primeiro buraco!\".",
+    "metadata": {
+      "titulo": "O Jogo do \"Siga o Mestre\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_365",
+    "conteudo": "Descrição: Faça duas \"minhocas\" de massinha de modelar de cores diferentes. Pratique o primeiro nó com a massinha. Ela se move devagar e gruda, ajudando a visualizar a forma.",
+    "metadata": {
+      "titulo": "A Massinha que Vira Nó",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_366",
+    "conteudo": "Descrição: A criança é um \"alfaiate\" e sua oficina tem vários painéis de feltro com buracos. A tarefa é \"costurar\" (passar o cadarço) em todos eles.",
+    "metadata": {
+      "titulo": "O \"Alfaiate\" de Brinquedo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_367",
+    "conteudo": "Descrição: Mergulhe um laço feito com corda grossa em tinta guache e carimbe em uma folha, para a criança se familiarizar com o formato.",
+    "metadata": {
+      "titulo": "O \"Carimbo\" de Laço",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_368",
+    "conteudo": "Descrição: Use um rolo de papel toalha como a \"árvore\". A criança faz as \"orelhas de coelho\" e pratica dar a volta na árvore.",
+    "metadata": {
+      "titulo": "A \"Árvore\" e as \"Orelhas\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_369",
+    "conteudo": "Descrição: Use pratos de papelão com furos na borda. A criança pode \"costurar\" com um cadarço, criando padrões.",
+    "metadata": {
+      "titulo": "O \"Costureiro\" de Pratos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_370",
+    "conteudo": "Descrição: Crie um \"circuito\" em uma placa de madeira ou papelão com vários pinos. A criança deve passar o cadarço por todos os pinos, seguindo uma ordem.",
+    "metadata": {
+      "titulo": "O \"Circuito\" do Cadarço",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_371",
+    "conteudo": "Descrição: Sente-se em frente à criança. Ela deve espelhar seus movimentos. \"Minha mão faz uma orelha, sua mão faz uma orelha\".",
+    "metadata": {
+      "titulo": "O Jogo do Espelho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_372",
+    "conteudo": "Descrição: Dê um lápis grosso e um cadarço. A tarefa é enrolar o cadarço no lápis e depois tentar dar um laço em volta dele.",
+    "metadata": {
+      "titulo": "O \"Enrola-Enrola\" no Lápis",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_373",
+    "conteudo": "Descrição: Coloque suas mãos sobre as da criança, guiando os dedos dela para fazer cada movimento complexo do laço.",
+    "metadata": {
+      "titulo": "A Mão Guia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_374",
+    "conteudo": "Descrição: A brincadeira é apenas encontrar os buracos no tênis e apontar. Depois, o próximo passo é mirar a ponta do cadarço no buraco.",
+    "metadata": {
+      "titulo": "O \"Caçador\" de Buracos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_375",
+    "conteudo": "Descrição: Faça um ponto com canetinha na parte do cadarço que precisa ser empurrada pelo buraco. A instrução visual \"empurre o ponto mágico\" é mais clara.",
+    "metadata": {
+      "titulo": "O Ponto Mágico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_376",
+    "conteudo": "Descrição: Você faz uma \"orelha de coelho\" e a criança faz a outra. Juntos, vocês completam o laço. A tarefa cooperativa é menos intimidante.",
+    "metadata": {
+      "titulo": "A Ajuda de Quatro Mãos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_377",
+    "conteudo": "Descrição: Use um escorredor de macarrão. A criança pratica passar um cadarço por vários furos seguidos.",
+    "metadata": {
+      "titulo": "O Desafio do Macarrão Furadinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_378",
+    "conteudo": "Descrição: Use um cadarço como um cinto para um urso de pelúcia. A tarefa é amarrar o cinto com um laço na barriga do urso.",
+    "metadata": {
+      "titulo": "O \"Cinto\" do Boneco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_379",
+    "conteudo": "Descrição: Use uma cabeça de boneca de pentear. A criança pode amarrar fitas (cadarços) no cabelo da boneca, dando laços.",
+    "metadata": {
+      "titulo": "O \"Cabelo\" da Boneca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_380",
+    "conteudo": "Descrição: Grave um vídeo em câmera lenta de você amarrando o sapato. Assistir ao movimento de forma lenta pode ajudar a criança a processar a sequência.",
+    "metadata": {
+      "titulo": "O Vídeo em Câmera Lenta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_381",
+    "conteudo": "Descrição: Desenhe os passos de como dar um laço em uma lousa. A criança pode traçar por cima do seu desenho com o dedo antes de tentar com o cadarço real.",
+    "metadata": {
+      "titulo": "O \"Desenho\" do Laço",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_382",
+    "conteudo": "Descrição: Crie um pictograma com cada passo da amarração. Aponte para a figura correspondente antes de cada instrução verbal.",
+    "metadata": {
+      "titulo": "O Quadro de Rotina Visual",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_383",
+    "conteudo": "Descrição: Crie uma \"teia\" em uma caixa de papelão furada, passando lã de um lado para o outro. Pratica a passagem de fios.",
+    "metadata": {
+      "titulo": "A \"Teia de Aranha\" de Lã",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_384",
+    "conteudo": "Descrição: Pegue um rolo de papel toalha e faça furos alinhados. A criança pratica passar o cadarço como se estivesse no tênis.",
+    "metadata": {
+      "titulo": "O \"Passa-Passa\" no Rolo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_385",
+    "conteudo": "Descrição: Amarre uma fita larga no encosto da cadeira. A tarefa da criança é aprender a dar um laço ali.",
+    "metadata": {
+      "titulo": "O \"Laço\" na Cadeira",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_386",
+    "conteudo": "Descrição: Ensine apenas o primeiro nó. Repita várias vezes até que esteja dominado, antes de introduzir os laços. Celebre a conquista do \"nó de marinheiro\".",
+    "metadata": {
+      "titulo": "O \"Nó\" do Marinheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_387",
+    "conteudo": "Descrição: Faça uma pulseira de fita no pulso da criança e ajude-a a dar o laço. Praticar no próprio corpo em um local visível ajuda.",
+    "metadata": {
+      "titulo": "A \"Pulseira\" de Laço",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_388",
+    "conteudo": "Descrição: A criança é a \"chefe\" e precisa te dar as instruções. \"Professor, agora você faz as orelhas do coelho!\". Ensinar reforça o aprendizado.",
+    "metadata": {
+      "titulo": "O \"Chefe\" do Cadarço",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_389",
+    "conteudo": "Descrição: Tente fazer uma \"orelha de coelho\" usando apenas uma mão. Depois, com a outra. O jogo isola e fortalece os movimentos de cada mão.",
+    "metadata": {
+      "titulo": "O \"Desafio\" da Mão Única",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_390",
+    "conteudo": "Descrição: Coloque uma miçanga grande no cadarço. A criança precisa passar o cadarço todo pelo buraco para a miçanga chegar do outro lado.",
+    "metadata": {
+      "titulo": "O \"Prêmio\" no Cadarço",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_391",
+    "conteudo": "Descrição: Dê um nó frouxo e peça para a criança desfazê-lo. A ação de \"abrir\" é mais fácil e ajuda a entender a mecânica do nó.",
+    "metadata": {
+      "titulo": "O \"Desmancha-Nó\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_392",
+    "conteudo": "Descrição: Use um tênis de papelão e numere os buracos. A criança deve seguir a sequência numérica para passar o cadarço.",
+    "metadata": {
+      "titulo": "O \"Caminho\" do Cadarço",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_393",
+    "conteudo": "Descrição: A tarefa é fazer uma \"orelha de coelho\" e conseguir equilibrá-la, sem que ela se desfaça, por 5 segundos.",
+    "metadata": {
+      "titulo": "O \"Equilíbrio\" da Orelha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_394",
+    "conteudo": "Descrição: O buraco do tênis é a \"garagem\" e a ponta do cadarço é o \"carro\". O carro precisa entrar na garagem.",
+    "metadata": {
+      "titulo": "A \"Garagem\" do Cadarço",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_395",
+    "conteudo": "Descrição: Segure o primeiro nó e a primeira orelha já feitos. A tarefa da criança é apenas passar o outro cadarço por trás e puxar.",
+    "metadata": {
+      "titulo": "O Laço com Ajuda Parcial",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_396",
+    "conteudo": "Descrição: A criança tira uma \"foto\" (com uma câmera de brinquedo) de cada passo que você faz. Depois, ela tenta recriar a sequência olhando as \"fotos\".",
+    "metadata": {
+      "titulo": "O \"Fotógrafo\" do Laço",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_397",
+    "conteudo": "Descrição: Diga que os sapatos estão \"doentes\" porque estão desamarrados. A criança é a \"doutora\" que vai \"curá-los\" amarrando os cadarços.",
+    "metadata": {
+      "titulo": "O \"Doutor\" de Sapatos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_398",
+    "conteudo": "Descrição: Tenha um quadro com vários cadarços e veja quantos laços a criança consegue fazer (mesmo que imperfeitos) em um minuto.",
+    "metadata": {
+      "titulo": "O \"Contador\" de Laços",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_399",
+    "conteudo": "Descrição: Diga que o laço apertado dá \"super velocidade\" para correr. A motivação para correr no parque pode impulsionar a prática.",
+    "metadata": {
+      "titulo": "O \"Super-Herói\" do Laço Apertado",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "autocuidado_4a5_400",
+    "conteudo": "Descrição: Quando a criança conseguir fazer um laço sozinha pela primeira vez, faça uma grande festa! O reforço positivo e a sensação de conquista são fundamentais.",
+    "metadata": {
+      "titulo": "A Celebração do Sucesso",
+      "dimensao": "Autocuidado",
+      "habilidade": "Passa o cadarço e dá laços nos cordões dos sapatos de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "4 a 5 anos"
+    }
+  }
+]

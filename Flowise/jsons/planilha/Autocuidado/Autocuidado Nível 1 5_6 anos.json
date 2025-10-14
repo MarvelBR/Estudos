@@ -1,0 +1,4402 @@
+[
+  {
+    "id": "autocuidado_5a6_01",
+    "conteudo": "Descrição: Em frente ao espelho, faça caretas engraçadas abrindo bem a boca e mostrando os dentes. Incentive a criança a imitar, familiarizando-a com a visualização da própria boca.",
+    "metadata": {
+      "titulo": "Espelho, Espelho Meu",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_02",
+    "conteudo": "Descrição: Use uma caneta de lousa branca (atóxica) para fazer \"sujeirinhas\" em um boneco com dentes de plástico. Peça para a criança limpar com uma escova de dentes seca.",
+    "metadata": {
+      "titulo": "O Dente Sujinho de Mentira",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_03",
+    "conteudo": "Descrição: Esconda a pasta de dente em um local fácil e peça para a criança procurar. A brincadeira transforma o início da rotina em um momento divertido.",
+    "metadata": {
+      "titulo": "Caça à Pasta de Dente",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_04",
+    "conteudo": "Descrição: Crie ou utilize uma música curta (de 2 minutos) que sinalize o tempo de escovação. A criança deve escovar os dentes até a música acabar.",
+    "metadata": {
+      "titulo": "A Música da Escovação",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_05",
+    "conteudo": "Descrição: Tire fotos de cada passo da escovação (pegar a escova, colocar a pasta, etc.) e crie um varal de sequência. A criança deve seguir a ordem das fotos.",
+    "metadata": {
+      "titulo": "Sequência de Fotos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_06",
+    "conteudo": "Descrição: Em um dia de brincadeira com água, ofereça uma escova de dentes para a criança \"dar banho\" e escovar os dentes de seus bonecos e animais de plástico.",
+    "metadata": {
+      "titulo": "Escovando os Brinquedos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_07",
+    "conteudo": "Descrição: Apresente diferentes sabores de pastas de dente infantis (com segurança e em pequena quantidade) para a criança cheirar e, se confortável, experimentar na ponta do dedo, escolhendo a sua favorita.",
+    "metadata": {
+      "titulo": "Adivinhe o Sabor",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_08",
+    "conteudo": "Descrição: Crie um quadro com os dias da semana. A cada escovação bem-sucedida, a criança cola um adesivo de estrela ou dente feliz no dia correspondente.",
+    "metadata": {
+      "titulo": "Quadro de Recompensas dos Dentes Brilhantes",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_09",
+    "conteudo": "Descrição: Dê comandos relacionados à escovação: \"Simão mandou pegar a escova\", \"Simão mandou abrir a boca\", etc.",
+    "metadata": {
+      "titulo": "O Jogo do \"Simão Mandou\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_10",
+    "conteudo": "Descrição: Use fantoches para criar uma história sobre a importância de escovar os dentes, com personagens como a \"Fada do Dente\" e o \"Bichinho da Cárie\".",
+    "metadata": {
+      "titulo": "Teatrinho dos Dentes",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_11",
+    "conteudo": "Descrição: Forneça uma escova de dentes nova e tintas comestíveis (como iogurte com corante alimentar) para a criança pintar em um prato. Isso ajuda a familiarizar com a textura e o objeto.",
+    "metadata": {
+      "titulo": "Pintura com Escova",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_12",
+    "conteudo": "Descrição: Com um copinho de água, ensine a criança a fazer bochechos, primeiro sem a pasta e depois como parte final da escovação. Faça uma competição de quem faz o bochecho mais engraçado.",
+    "metadata": {
+      "titulo": "O Desafio do Bochecho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_13",
+    "conteudo": "Descrição: Use blocos de montar brancos (como LEGO) para construir \"dentes\". Depois, a criança pode usar uma escova de dentes para \"limpar\" os blocos.",
+    "metadata": {
+      "titulo": "Montando a Boca Gigante",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_14",
+    "conteudo": "Descrição: Desenhe uma boca grande em um papel e peça para a criança traçar o caminho que a escova deve fazer nos dentes usando o dedo ou uma canetinha.",
+    "metadata": {
+      "titulo": "O Caminho da Escova",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_15",
+    "conteudo": "Descrição: Ofereça diferentes tipos de escovas de dentes (com cerdas de diferentes maciezas, cores e formatos de cabo) para a criança explorar tátilmente.",
+    "metadata": {
+      "titulo": "Escova Sensorial",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_16",
+    "conteudo": "Descrição: Desenhe um pequeno círculo colorido nas cerdas da escova e peça para a criança colocar a pasta de dente exatamente em cima do \"alvo\".",
+    "metadata": {
+      "titulo": "Aplicando a Pasta no Alvo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_17",
+    "conteudo": "Descrição: Grave um vídeo da criança (ou de você mesmo) escovando os dentes corretamente e assistam juntos, como se fosse um tutorial.",
+    "metadata": {
+      "titulo": "Luz, Câmera, Escovação!",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_18",
+    "conteudo": "Descrição: Modele dentes com massinha de modelar branca e depois \"suje-os\" com pedacinhos de massinha preta. A criança deverá remover a \"sujeira\" com uma ferramenta de plástico ou uma escova.",
+    "metadata": {
+      "titulo": "Dentes de Massinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_19",
+    "conteudo": "Descrição: Coloque os itens de higiene bucal (escova, pasta, copo) dentro de uma caixa surpresa. A criança deve colocar a mão e adivinhar qual objeto pegou.",
+    "metadata": {
+      "titulo": "Qual é o Objeto?",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_20",
+    "conteudo": "Descrição: Use uma ampulheta ou um cronômetro digital com animações para marcar o tempo da escovação, tornando a espera mais visual e concreta.",
+    "metadata": {
+      "titulo": "O Cronômetro Divertido",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_21",
+    "conteudo": "Descrição: Crie uma pequena história social com imagens, narrando um personagem que precisa escovar os dentes para ficar saudável e feliz.",
+    "metadata": {
+      "titulo": "Histórias Sociais da Escovação",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_22",
+    "conteudo": "Descrição: Escove os seus dentes ao mesmo tempo que a criança. A imitação é uma ferramenta poderosa de aprendizado.",
+    "metadata": {
+      "titulo": "Escovação em Dupla",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_23",
+    "conteudo": "Descrição: Explore os sons que a escova faz ao passar nos dentes. Brinque de fazer \"chuva\" ou imitar um \"trenzinho\" com o som da escovação.",
+    "metadata": {
+      "titulo": "O Som da Escova",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_24",
+    "conteudo": "Descrição: Pratique o movimento de segurar a escova com outras atividades, como pintar com pincéis de cabos grossos ou segurar outros objetos com formato similar.",
+    "metadata": {
+      "titulo": "Treino de Pegada",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_25",
+    "conteudo": "Descrição: Faça uma competição de cuspir água na pia a uma certa distância ou acertar um alvo desenhado com caneta lavável no fundo da pia.",
+    "metadata": {
+      "titulo": "O Desafio do Cuspe",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_26",
+    "conteudo": "Descrição: Congele água com corante alimentar escuro em uma forma de gelo grande. Depois, dê uma escova para a criança \"limpar\" o gelo na pia.",
+    "metadata": {
+      "titulo": "Limpando o \"Gelo Sujo\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_27",
+    "conteudo": "Descrição: Pinte um pedaço grande de isopor com canetinha, simulando sujeira. A criança deve usar uma escova seca para \"limpar\" o isopor, observando as marcas saindo.",
+    "metadata": {
+      "titulo": "O Dente de Isopor",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_28",
+    "conteudo": "Descrição: Permita que a criança escolha sua própria escova de dentes na farmácia, de preferência com um personagem que ela goste muito.",
+    "metadata": {
+      "titulo": "A Escolha do Herói da Escovação",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_29",
+    "conteudo": "Descrição: Em vez de marcar o tempo, faça uma contagem regressiva de 10 a 0 para cada parte da boca (dentes de cima, de baixo, língua).",
+    "metadata": {
+      "titulo": "Contagem Regressiva",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_30",
+    "conteudo": "Descrição: Desenhe um mapa simples da boca e divida em \"regiões\" (como a \"Montanha dos Dentes de Cima\" e o \"Vale dos Dentes de Baixo\") que a criança precisa \"explorar\" com a escova.",
+    "metadata": {
+      "titulo": "O Mapa da Boca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_31",
+    "conteudo": "Descrição: Com uma pasta que faça bastante espuma, mostre como a escovação pode criar \"bolhas de sabão\" na boca.",
+    "metadata": {
+      "titulo": "Bolhas de Sabão Bucais",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_32",
+    "conteudo": "Descrição: Deixe um ovo cozido de molho em um líquido escuro (como refrigerante ou café) por algumas horas. Depois, peça para a criança escovar o ovo com pasta de dente para ver como ele clareia.",
+    "metadata": {
+      "titulo": "Experimento do Ovo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_33",
+    "conteudo": "Descrição: Imprima e recorte a imagem de uma boca sorrindo em várias peças. A cada passo da escovação completado, a criança ganha uma peça para montar o sorriso.",
+    "metadata": {
+      "titulo": "Quebra-cabeça da Escovação",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_34",
+    "conteudo": "Descrição: Crie um \"cantinho da higiene\" na pia, com um copo especial ou um suporte de escova divertido, onde a escova \"dorme\" após o uso.",
+    "metadata": {
+      "titulo": "O Guardião da Escova",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_35",
+    "conteudo": "Descrição: Brinque de apertar a bisnaga de pasta de dente em um prato para treinar a coordenação motora fina e a noção de quantidade.",
+    "metadata": {
+      "titulo": "A Força da Pasta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_36",
+    "conteudo": "Descrição: Use um fantoche que tenha uma boca grande e dentes. A criança deve ensinar o fantoche a escovar os dentes, demonstrando o processo.",
+    "metadata": {
+      "titulo": "Fantoche com Bocão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_37",
+    "conteudo": "Descrição: Desenhe dois dentes grandes em uma lousa: um feliz e brilhante, e outro triste e sujo. Explique que a escovação deixa o dente feliz.",
+    "metadata": {
+      "titulo": "O Dente Limpo vs. Dente Triste",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_38",
+    "conteudo": "Descrição: Antes de escovar, faça exercícios com a língua: colocar para fora, para cima, para os lados. Isso ajuda na propriocepção e a preparar para a limpeza da língua.",
+    "metadata": {
+      "titulo": "Ginástica da Língua",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_39",
+    "conteudo": "Descrição: Por um curto período e de forma lúdica, desafie a criança (e você) a tentar escovar os dentes com a mão não dominante, trabalhando a coordenação.",
+    "metadata": {
+      "titulo": "Escovando com a Mão Contrária",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_40",
+    "conteudo": "Descrição: Após a escovação, peça para a criança \"soprar um beijo\" na sua mão para que você possa sentir o \"cheirinho bom\" da pasta de dente.",
+    "metadata": {
+      "titulo": "O Cheirinho da Limpeza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_41",
+    "conteudo": "Descrição: Cole pequenos adesivos removíveis no espelho na altura da boca da criança. O objetivo é \"limpar\" o reflexo dos adesivos com a escovação.",
+    "metadata": {
+      "titulo": "Adesivos no Espelho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_42",
+    "conteudo": "Descrição: Use um prendedor de roupas grande para simular a boca de um jacaré. Cole \"dentes\" de papel e peça para a criança limpá-los com uma escova.",
+    "metadata": {
+      "titulo": "O Jacaré Bocudo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_43",
+    "conteudo": "Descrição: Depois de colocar a pasta, ensine a molhar a escova rapidamente na torneira, como se a escova estivesse em uma \"corrida\".",
+    "metadata": {
+      "titulo": "A Corrida da Água",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_44",
+    "conteudo": "Descrição: Proponha um desafio: durante um minuto da escovação, todos devem ficar em silêncio e apenas ouvir o som da escova nos dentes.",
+    "metadata": {
+      "titulo": "O Som do Silêncio",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_45",
+    "conteudo": "Descrição: Peça para a criança fechar os olhos e tentar desenhar uma boca com dentes. Depois, compare com o espelho. Isso aumenta a consciência corporal.",
+    "metadata": {
+      "titulo": "Desenho Cego da Boca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_46",
+    "conteudo": "Descrição: Crie um nome de super-herói para a criança (Ex: \"Capitão Dente Limpo\") e a escova pode ser sua \"arma secreta\" contra os vilões da cárie.",
+    "metadata": {
+      "titulo": "O Super-Herói dos Dentes",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_47",
+    "conteudo": "Descrição: A tarefa de enxaguar e guardar o copo após o bochecho também faz parte da rotina. Transforme em uma missão de deixar o copo \"brilhando\".",
+    "metadata": {
+      "titulo": "Enxaguando o Copo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_48",
+    "conteudo": "Descrição: Narre uma história como se a escova fosse uma exploradora viajando por todos os cantinhos da \"caverna da boca\".",
+    "metadata": {
+      "titulo": "A Escova Viajante",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_49",
+    "conteudo": "Descrição: Trate a escovação como um momento de cuidado especial, um \"spa\" para os dentes, com direito a uma toalhinha para secar a boca no final.",
+    "metadata": {
+      "titulo": "O Dia de Spa dos Dentes",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_50",
+    "conteudo": "Descrição: Use uma pequena lanterna para iluminar a boca da criança (e a sua) no espelho, mostrando todos os dentes que precisam ser limpos.",
+    "metadata": {
+      "titulo": "A Lanterna Mágica",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_51",
+    "conteudo": "Descrição: Ao chegar, o professor aponta para o gancho com a foto do aluno e diz \"Hora de estacionar a mochila\". A criança deve pendurar sua mochila no lugar correto.",
+    "metadata": {
+      "titulo": "Estacionamento da Mochila",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_52",
+    "conteudo": "Descrição: Após o lembrete \"Onde a lancheira descansa?\", a criança deve pegar sua lancheira da mochila e colocá-la no local designado (prateleira, caixa).",
+    "metadata": {
+      "titulo": "Guardião da Lancheira",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_53",
+    "conteudo": "Descrição: Ao ser chamado, o aluno pega seu crachá com foto de um painel e o coloca em uma \"caixa de presentes\" ou \"foguete\", indicando que chegou.",
+    "metadata": {
+      "titulo": "Checagem de Presença Divertida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_54",
+    "conteudo": "Descrição: O professor entrega a agenda e diz \"Missão do dia: entregar a agenda\". A criança deve levar a agenda até a caixa de agendas da professora.",
+    "metadata": {
+      "titulo": "Missão \"Agenda Secreta\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_55",
+    "conteudo": "Descrição: Com o lembrete \"Vamos dar bom dia?\", a criança é incentivada a entregar um cartão de \"bom dia\" para um colega ou para a professora.",
+    "metadata": {
+      "titulo": "O Mensageiro do Bom Dia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_56",
+    "conteudo": "Descrição: Antes de iniciar a atividade na mesa, o professor lembra: \"Sua cadeira precisa de você!\". A criança deve arrumar sua cadeira para sentar-se corretamente.",
+    "metadata": {
+      "titulo": "Patrulha da Cadeira",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_57",
+    "conteudo": "Descrição: O professor dá a pista: \"O detetive precisa encontrar... seu estojo!\". A criança deve localizar e colocar seu estojo sobre a mesa.",
+    "metadata": {
+      "titulo": "Detetive dos Materiais",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_58",
+    "conteudo": "Descrição: Ao ser lembrada com a ficha \"sede\", a criança pega sua garrafinha, bebe um pouco de água e a coloca de volta no local combinado.",
+    "metadata": {
+      "titulo": "Ritual da Água",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_59",
+    "conteudo": "Descrição: Após o lanche, o professor avisa \"Fiscal, hora da inspeção!\". A criança deve limpar seu lugar com um paninho ou papel toalha.",
+    "metadata": {
+      "titulo": "Fiscal da Mesa Limpa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_60",
+    "conteudo": "Descrição: Com o lembrete \"Para onde vão os restinhos?\", a criança é orientada a levar os restos do seu lanche até a lixeira correta.",
+    "metadata": {
+      "titulo": "Operação \"Restinhos no Lixo\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_61",
+    "conteudo": "Descrição: Antes do lanche, o professor mostra a figura de um sabonete e diz \"Vamos fazer a mágica das mãos limpas?\". A criança deve ir até o banheiro lavar as mãos.",
+    "metadata": {
+      "titulo": "Mãos Mágicas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_62",
+    "conteudo": "Descrição: Ao final da brincadeira, o professor designa \"Você é o organizador dos carrinhos\". A criança, ao ser lembrada, guarda aquele tipo específico de brinquedo.",
+    "metadata": {
+      "titulo": "O Organizador de Brinquedos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_63",
+    "conteudo": "Descrição: Após a leitura, o professor lembra \"O livro quer voltar para casa\". A criança deve levar o livro que usou de volta para a estante de livros.",
+    "metadata": {
+      "titulo": "O Bibliotecário Ajudante",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_64",
+    "conteudo": "Descrição: Após a aula de psicomotricidade, o professor aponta para os sapatos e diz \"Desafio: encontre os pares e calce\". A criança organiza e calça seus sapatos.",
+    "metadata": {
+      "titulo": "Desafio do Sapato Certo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_65",
+    "conteudo": "Descrição: Para a hora da história, o professor entrega uma \"ficha do silêncio\" e lembra \"Ativar modo história\". A criança senta-se no tapete e se prepara para ouvir.",
+    "metadata": {
+      "titulo": "O Guardião do Silêncio",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_66",
+    "conteudo": "Descrição: O professor mostra um cartão verde e diz \"Sinal verde para a fila!\". A criança deve se dirigir ao local de início da fila para ir ao pátio.",
+    "metadata": {
+      "titulo": "Sinal Verde para o Parque",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_67",
+    "conteudo": "Descrição: Ao sair de uma sala (ex: sala de vídeo), o professor lembra \"Quem será o ajudante da luz?\". A criança designada aperta o interruptor.",
+    "metadata": {
+      "titulo": "O Último a Sair, Apaga a Luz",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_68",
+    "conteudo": "Descrição: Após uma atividade com tinta, o professor avisa \"Equipe de limpeza, ativar!\". A criança é lembrada de lavar seus pincéis na pia.",
+    "metadata": {
+      "titulo": "Equipe de Limpeza Artística",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_69",
+    "conteudo": "Descrição: Ao ser lembrado \"Os blocos vão dormir agora\", a criança guarda os blocos de montar na caixa correspondente à cor ou forma.",
+    "metadata": {
+      "titulo": "Construtor Consciente",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_70",
+    "conteudo": "Descrição: No final do dia, o professor diz \"Vamos colocar os bonecos para dormir?\". A criança coloca os bonecos da casinha em suas caminhas ou caixa.",
+    "metadata": {
+      "titulo": "Hora do Pijama (dos bonecos)",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_71",
+    "conteudo": "Descrição: Uma vez por semana, o professor lembra ao \"jardineiro\" (aluno da vez) \"Sua plantinha está com sede\", e ele deve regar a planta da turma.",
+    "metadata": {
+      "titulo": "O Jardineiro da Semana",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_72",
+    "conteudo": "Descrição: Ao final da atividade, o professor avisa \"A loja de massinha vai fechar!\". A criança deve guardar cada cor de massinha em seu respectivo pote.",
+    "metadata": {
+      "titulo": "Fechando a Loja de Massinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_73",
+    "conteudo": "Descrição: Ao ser lembrado \"Temos uma entrega especial!\", a criança pega um trabalho ou recado e o entrega para um funcionário da escola (em local combinado).",
+    "metadata": {
+      "titulo": "O Carteiro do Dia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_74",
+    "conteudo": "Descrição: Antes de ir para uma área externa em um dia frio, o professor lembra \"Ativar modo proteção!\". A criança deve vestir seu casaco.",
+    "metadata": {
+      "titulo": "Missão \"Casaco no Corpo\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_75",
+    "conteudo": "Descrição: A criança é lembrada de tirar uma \"foto\" (com uma câmera de brinquedo) da sala organizada no final do dia, incentivando a arrumação.",
+    "metadata": {
+      "titulo": "Fotógrafo do Dia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_76",
+    "conteudo": "Descrição: O professor avisa \"DJ, solta o som da arrumação!\". Ao ouvir a música específica, a criança sabe que é hora de começar a guardar os materiais.",
+    "metadata": {
+      "titulo": "DJ da Limpeza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_77",
+    "conteudo": "Descrição: Com o comando \"Chefe, as peças precisam se encontrar\", a criança é lembrada de juntar todas as peças de um quebra-cabeça ou jogo de encaixe.",
+    "metadata": {
+      "titulo": "Chefe dos Jogos de Encaixe",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_78",
+    "conteudo": "Descrição: Após uma atividade de recorte, o professor lembra \"O especialista vai reciclar!\". A criança junta os papéis picados e os leva para o lixo de recicláveis.",
+    "metadata": {
+      "titulo": "Especialista em Papéis",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_79",
+    "conteudo": "Descrição: No início do dia, o professor pergunta \"Repórter, como está o tempo lá fora?\". A criança vai até a janela, observa e coloca o card de sol/chuva no painel.",
+    "metadata": {
+      "titulo": "Repórter do Tempo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_80",
+    "conteudo": "Descrição: No final do dia, o professor lembra \"Dê tchau para a sua cadeira\". A criança deve empurrar a cadeira para debaixo da mesa.",
+    "metadata": {
+      "titulo": "Despedida da Cadeira",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_81",
+    "conteudo": "Descrição: O professor dá a missão \"Caçador, encontre os lápis sem casa!\". A criança procura por lápis caídos no chão e os devolve para o pote.",
+    "metadata": {
+      "titulo": "Caçador de Lápis Perdidos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_82",
+    "conteudo": "Descrição: O professor aponta para o pote de giz de cera e diz \"Acho que a arte precisa de ajuda\". A criança organiza os gizes de volta na caixa.",
+    "metadata": {
+      "titulo": "Reabastecendo a Arte",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_83",
+    "conteudo": "Descrição: Para poder pegar o lanche, a criança precisa cumprir uma tarefa quando lembrada: \"Mostre seu passaporte: mãos limpinhas!\".",
+    "metadata": {
+      "titulo": "Passaporte para o Lanche",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_84",
+    "conteudo": "Descrição: Após o uso do cantinho da leitura, o professor pede \"Vamos deixar as almofadas confortáveis?\". A criança as arruma no lugar.",
+    "metadata": {
+      "titulo": "O Alinhador de Almofadas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_85",
+    "conteudo": "Descrição: No final do dia, o professor avisa \"Inspetor, verifique sua mochila!\". A criança abre a mochila para guardar a agenda ou trabalhos do dia.",
+    "metadata": {
+      "titulo": "Inspetor de Mochilas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_86",
+    "conteudo": "Descrição: Se a sala está barulhenta, o professor mostra uma figura de \"orelha\" para a criança e sussurra \"Modo silencioso\". A criança é incentivada a falar mais baixo.",
+    "metadata": {
+      "titulo": "Controlador de Volume",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_87",
+    "conteudo": "Descrição: O professor cria um caminho com fita colorida no chão. Ao ser lembrada \"Vamos para a ponte do banheiro?\", a criança segue o caminho para ir ao banheiro.",
+    "metadata": {
+      "titulo": "A Ponte para o Banheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_88",
+    "conteudo": "Descrição: Após secar as mãos, o professor lembra \"Faça a mágica da toalha pendurada\". A criança deve pendurar a toalha de volta no seu gancho.",
+    "metadata": {
+      "titulo": "O Mágico das Toalhas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_89",
+    "conteudo": "Descrição: No dia da biblioteca, o professor entrega o livro e diz \"Missão: devolver o livro para a bibliotecária\". A criança cumpre a tarefa semanal.",
+    "metadata": {
+      "titulo": "Entregador de Livros da Biblioteca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_90",
+    "conteudo": "Descrição: Ao ser lembrado \"Piloto, para a sua nave!\", a criança se posiciona em um local marcado no chão (com um pé ou foguete adesivo) para iniciar a fila.",
+    "metadata": {
+      "titulo": "Piloto de Fila",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_91",
+    "conteudo": "Descrição: Ao ser escolhido e lembrado, a criança recebe o apagador para \"limpar o céu\" (apagar uma parte do quadro) após uma atividade.",
+    "metadata": {
+      "titulo": "Guardião do Quadro Branco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_92",
+    "conteudo": "Descrição: Ao guardar os brinquedos, o professor pode lembrar: \"Colecionador, hoje vamos guardar tudo que for azul\". A criança foca em guardar apenas os itens daquela cor.",
+    "metadata": {
+      "titulo": "O Colecionador de Cores",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_93",
+    "conteudo": "Descrição: Com o lembrete \"Agente, prepare-se para a missão externa\", a criança é incentivada a tentar fechar o zíper do próprio casaco ou mochila.",
+    "metadata": {
+      "titulo": "Agente do Zíper",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_94",
+    "conteudo": "Descrição: Ao ser lembrado, o \"sentinela\" do dia tem a tarefa de fechar a porta da sala quando a professora pede.",
+    "metadata": {
+      "titulo": "Sentinela da Porta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_95",
+    "conteudo": "Descrição: Para ir de um lugar a outro, o professor lembra: \"Vamos contar 10 passos até a pia?\". A criança foca em seguir a rotina de forma lúdica.",
+    "metadata": {
+      "titulo": "O Contador de Passos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_96",
+    "conteudo": "Descrição: Ao ser lembrado \"O pátio precisa da nossa ajuda\", a criança joga no lixo algum papel ou folha que encontrar pelo caminho.",
+    "metadata": {
+      "titulo": "Amigo da Natureza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_97",
+    "conteudo": "Descrição: Na hora do lanche, o \"chefe\" é lembrado de distribuir os guardanapos para os colegas da sua mesa.",
+    "metadata": {
+      "titulo": "Chefe de Cozinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_98",
+    "conteudo": "Descrição: Após a pintura, o professor avisa \"Precisamos resgatar os pincéis da água!\". A criança os tira do pote de água e coloca para secar.",
+    "metadata": {
+      "titulo": "O Resgate dos Pincéis",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_99",
+    "conteudo": "Descrição: O professor dá o aviso \"Desativar em 3, 2, 1...\". Ao ser lembrada com a contagem, a criança para o que está fazendo e começa a rotina de guardar.",
+    "metadata": {
+      "titulo": "Desativando a Brincadeira",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_100",
+    "conteudo": "Descrição: Última tarefa do dia. O professor lembra: \"Guardião, vamos verificar se a sua mesa está dormindo?\". A criança verifica se não deixou nada sobre sua mesa.",
+    "metadata": {
+      "titulo": "O Guardião Final",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_101",
+    "conteudo": "Descrição: Dê um \"mapa\" simples (desenho da sala) para a criança, mostrando o caminho da sua mesa até a prateleira de lanches, onde ela encontrará seu \"tesouro\".",
+    "metadata": {
+      "titulo": "Caça ao Tesouro Nutritivo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_102",
+    "conteudo": "Descrição: Alinhe algumas lancheiras e dê uma pista sobre a do aluno (\"O detetive procura a lancheira azul com um foguete\"). A criança deve identificar e pegar a sua.",
+    "metadata": {
+      "titulo": "Detetive de Lancheiras",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_103",
+    "conteudo": "Descrição: A criança é o \"entregador\". Ao ouvir o chamado \"Entrega especial para [nome do aluno]!\", ela deve ir até a prateleira, pegar seu lanche e \"entregar\" em sua própria mesa.",
+    "metadata": {
+      "titulo": "Lanche-Express",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_104",
+    "conteudo": "Descrição: Crie um sinal visual (ex: levantar um cartão com uma maçã). Ao ver o sinal, a criança sabe que é a hora de iniciar a \"missão\" de buscar seu lanche.",
+    "metadata": {
+      "titulo": "O Sinal Secreto do Lanche",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_105",
+    "conteudo": "Descrição: Cada criança tem uma \"vaga\" na prateleira com sua foto ou nome. A tarefa é retirar a lancheira da sua vaga de estacionamento exclusiva.",
+    "metadata": {
+      "titulo": "Estacionamento de Lancheiras",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_106",
+    "conteudo": "Descrição: Fora do horário de lanche, use uma lancheira vazia para praticar a rotina completa: levantar, buscar, levar para a mesa e abrir, como um \"treinamento de piloto\".",
+    "metadata": {
+      "titulo": "Simulador de Lanche",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_107",
+    "conteudo": "Descrição: Dê comandos de voz simples, como um programador de robô: \"Andar para frente... Parar... Virar à direita... Pegar lanche... Retornar à base\".",
+    "metadata": {
+      "titulo": "O Robô do Lanche",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_108",
+    "conteudo": "Descrição: Coloque a lancheira da criança junto a outras duas que são bem diferentes. Pergunte \"Qual dessas é a sua lancheira?\" para que ela aponte e depois pegue.",
+    "metadata": {
+      "titulo": "Qual é a Minha?",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_109",
+    "conteudo": "Descrição: Brinque que a criança tem um \"ímã\" na mão que só atrai a lancheira dela. Ela deve passar a mão perto das outras até \"sentir a atração\" e pegar a correta.",
+    "metadata": {
+      "titulo": "O Ímã de Lancheira",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_110",
+    "conteudo": "Descrição: A prateleira é a \"Lua\" e a lancheira é uma \"rocha lunar\". Com uma contagem regressiva (5, 4, 3, 2, 1...), o \"astronauta\" decola para buscar sua rocha.",
+    "metadata": {
+      "titulo": "Missão Espacial",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_111",
+    "conteudo": "Descrição: Crie uma linha no chão com fita crepe. Após pegar o lanche, a criança deve andar sobre a \"ponte\" para voltar à mesa, treinando o equilíbrio ao carregar o objeto.",
+    "metadata": {
+      "titulo": "A Ponte do Equilíbrio",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_112",
+    "conteudo": "Descrição: Crie uma sequência de 3 fotos: 1) Criança levantando",
+    "metadata": {
+      "titulo": "Foto-Guia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_113",
+    "conteudo": "Descrição: Use um som específico (um sino, uma música curta) que significa \"hora de buscar o lanche\". O som é o gatilho para a criança iniciar a ação.",
+    "metadata": {
+      "titulo": "O Som da Fome",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_114",
+    "conteudo": "Descrição: A criança é um esquilo que guardou sua \"noz\" (lancheira) na \"árvore\" (prateleira). Na hora da fome, o esquilo deve buscar sua noz para comer.",
+    "metadata": {
+      "titulo": "O Esquilo Faminto",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_115",
+    "conteudo": "Descrição: Mostre rapidamente 3 lancheiras, incluindo a da criança, e depois as cubra. Pergunte \"Onde está a sua lancheira?\" e ela deve apontar e pegar.",
+    "metadata": {
+      "titulo": "Jogo da Memória de Lancheiras",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_116",
+    "conteudo": "Descrição: A tarefa é ir buscar o lanche andando bem devagarinho, como uma tartaruga, e voltar para a mesa sem derrubar. O foco é no controle do movimento.",
+    "metadata": {
+      "titulo": "Corrida de Tartarugas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_117",
+    "conteudo": "Descrição: A criança tem um \"crachá\" (cartão com sua foto). Para \"liberar\" o acesso à área de lanches, ela deve primeiro pegar seu crachá na mesa.",
+    "metadata": {
+      "titulo": "Crachá de Acesso",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_118",
+    "conteudo": "Descrição: O professor vai junto com a criança buscar o lanche, realizando as mesmas ações. A criança imita o professor como se fosse um espelho.",
+    "metadata": {
+      "titulo": "Espelho, Espelho Meu",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_119",
+    "conteudo": "Descrição: Chame as crianças para pegar o lanche pela cor da lancheira. \"Quem tem lancheira VERMELHA, pode buscar!\".",
+    "metadata": {
+      "titulo": "Chamada por Cores",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_120",
+    "conteudo": "Descrição: A criança é o \"chefe\" que precisa buscar seus \"ingredientes\" (o lanche) para preparar o prato em sua \"bancada\" (a mesa).",
+    "metadata": {
+      "titulo": "O Chefe de Cozinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_121",
+    "conteudo": "Descrição: Use uma lanterna para iluminar o caminho até a prateleira e, em seguida, foque a luz sobre a lancheira correta que a criança deve pegar.",
+    "metadata": {
+      "titulo": "Lanterna Mágica",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_122",
+    "conteudo": "Descrição: Empilhe 2 ou 3 lancheiras (com cuidado, se forem rígidas), sendo a da criança a de cima. A missão dela é retirar a sua sem derrubar as outras.",
+    "metadata": {
+      "titulo": "A Torre de Lanches",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_123",
+    "conteudo": "Descrição: Coloque objetos seguros de pesos variados dentro da lancheira vazia para a criança praticar o ato de carregar pesos diferentes até a mesa.",
+    "metadata": {
+      "titulo": "Treinamento de Peso",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_124",
+    "conteudo": "Descrição: Enquanto a criança se aproxima da prateleira de lanches, vá dizendo \"está frio... esquentando... está quente... pegou fogo!\" quando ela chegar na lancheira certa.",
+    "metadata": {
+      "titulo": "Jogo do \"Está Frio, Está Quente\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_125",
+    "conteudo": "Descrição: Crie uma pequena história onde a \"cidade\" (a barriguinha) precisa ser salva da fome pelo \"Herói do Lanche\", que deve buscar a \"super-comida\".",
+    "metadata": {
+      "titulo": "Herói do Lanche",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_126",
+    "conteudo": "Descrição: Dê à criança a primeira peça de um quebra-cabeça simples (2 peças). A segunda peça está colada em sua lancheira. Ela deve buscar a lancheira para completar a figura.",
+    "metadata": {
+      "titulo": "Quebra-cabeça do Lanche",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_127",
+    "conteudo": "Descrição: Em vez de prateleira, coloque as lancheiras em uma cesta de piquenique. A tarefa é abri-la e localizar o seu próprio lanche.",
+    "metadata": {
+      "titulo": "A Cesta de Piquenique",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_128",
+    "conteudo": "Descrição: Um colega é o \"mestre\" e vai na frente para pegar seu lanche. A criança deve observar e, em seguida, fazer o mesmo caminho para pegar o seu.",
+    "metadata": {
+      "titulo": "Siga o Mestre do Lanche",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_129",
+    "conteudo": "Descrição: Cole uma etiqueta com uma textura única (lixa fina, veludo, algodão) na lancheira da criança. Ela deve usar o tato para identificar a sua.",
+    "metadata": {
+      "titulo": "Etiqueta Tátil",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_130",
+    "conteudo": "Descrição: Cante uma música curta e específica: \"Meu lanchinho, vou buscar / Na prateleira ele está / Um, dois, três e já!\". Ao final, a criança vai.",
+    "metadata": {
+      "titulo": "Canção do Lanchinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_131",
+    "conteudo": "Descrição: Crie um pequeno circuito motor (passar por baixo de uma mesa, pular em bambolês) que termina na estação de lanches, onde a criança pega o seu.",
+    "metadata": {
+      "titulo": "Circuito do Lanche",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_132",
+    "conteudo": "Descrição: Com apenas duas opções (a lancheira dela e outra bem diferente), peça para a criança fechar os olhos e tentar identificar a sua pelo formato e textura.",
+    "metadata": {
+      "titulo": "Identificação às Cegas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_133",
+    "conteudo": "Descrição: Diga que a lancheira está \"sozinha\" e precisa de um vigia. A missão da criança é ir buscá-la para fazer companhia a ela na mesa.",
+    "metadata": {
+      "titulo": "O Vigia da Lancheira",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_134",
+    "conteudo": "Descrição: Separe as lancheiras em grupos (ex: as com rodinha de um lado, as de alça do outro). A criança deve ir ao grupo correto para achar a sua.",
+    "metadata": {
+      "titulo": "Classificação de Lancheiras",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_135",
+    "conteudo": "Descrição: Quem vai buscar o lanche primeiro é quem chegou primeiro na escola. A criança aprende a esperar sua vez e a associar a rotina à ordem dos eventos.",
+    "metadata": {
+      "titulo": "Ordem de Chegada",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_136",
+    "conteudo": "Descrição: Antes de buscar o lanche, entregue um estojo ou bolsinha para a criança abrir e fechar, aquecendo a habilidade motora que talvez precise para abrir a lancheira.",
+    "metadata": {
+      "titulo": "O Desafio do Zíper",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_137",
+    "conteudo": "Descrição: Cada dia, coloque a prateleira de lanches em um canto diferente (e seguro) da sala. A criança precisa primeiro localizar onde o lanche \"viajou\" hoje.",
+    "metadata": {
+      "titulo": "O Lanche Viajante",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_138",
+    "conteudo": "Descrição: Faça contato visual com a criança, aponte para a prateleira de lanches e levante o polegar. Este gesto combinado é o sinal para ela ir buscar.",
+    "metadata": {
+      "titulo": "Conexão Visual",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_139",
+    "conteudo": "Descrição: A tarefa do dia é: \"Você pode me ajudar? Preciso que você busque o seu lanche agora\". A posição de \"ajudante\" pode ser muito motivadora.",
+    "metadata": {
+      "titulo": "O Ajudante do Professor",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_140",
+    "conteudo": "Descrição: A criança só deve levantar para pegar o lanche quando ouvir o seu nome cantado em um ritmo específico.",
+    "metadata": {
+      "titulo": "O Som do Meu Nome",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_141",
+    "conteudo": "Descrição: Cole um adesivo pequeno na própria mão da criança. A missão é ir buscar o lanche e \"carimbar\" a lancheira com o adesivo ao chegar na mesa.",
+    "metadata": {
+      "titulo": "Adesivo Premiado",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_142",
+    "conteudo": "Descrição: A missão é buscar o lanche e carregá-lo abraçado, como se fosse um bebê, garantindo que ele chegue \"seguro\" à mesa.",
+    "metadata": {
+      "titulo": "Transporte Seguro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_143",
+    "conteudo": "Descrição: Após pegar a lancheira, a criança deve trazê-la até o professor para uma \"checagem dupla\" (apenas para confirmar que é a certa) antes de ir para a mesa.",
+    "metadata": {
+      "titulo": "Checagem Dupla",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_144",
+    "conteudo": "Descrição: Esconda a lancheira da criança em um lugar muito fácil e óbvio (ex: embaixo de uma cadeira próxima à prateleira) para transformar a busca em uma brincadeira.",
+    "metadata": {
+      "titulo": "O Lanche Escondido",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_145",
+    "conteudo": "Descrição: Divida a turma em times (ex: time azul e vermelho). O \"Time Azul\" é chamado para pegar o lanche. A criança responde ao chamado do seu grupo.",
+    "metadata": {
+      "titulo": "Time do Lanche",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_146",
+    "conteudo": "Descrição: Explique que a mesa está \"esperando\" pelo seu lanche. A missão da criança é não deixá-la esperando e buscar o lanche para ela.",
+    "metadata": {
+      "titulo": "O Guardião da Mesa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_147",
+    "conteudo": "Descrição: Crie um desafio de tempo lúdico, usando uma ampulheta. \"Vamos ver se você consegue pegar seu lanche antes da areia acabar?\".",
+    "metadata": {
+      "titulo": "O Lanche Mais Rápido (e cuidadoso) do Oeste",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_148",
+    "conteudo": "Descrição: Mostre um cartão com a primeira letra do nome da criança. Este é o \"código\" que a autoriza a iniciar a busca pelo lanche.",
+    "metadata": {
+      "titulo": "Decifre o Código",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_149",
+    "conteudo": "Descrição: Borrife um cheirinho seguro e gostoso (como lavanda) em um laço de fita preso à lancheira. A criança pode ser guiada também pelo olfato.",
+    "metadata": {
+      "titulo": "O Lanche Perfumado",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_150",
+    "conteudo": "Descrição: A própria ação de pegar o lanche é o passo final para a recompensa, que é comer. Reforce verbalmente: \"Você pegou! Agora, a melhor parte: vamos lanchar!\".",
+    "metadata": {
+      "titulo": "A Recompensa Final",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_151",
+    "conteudo": "Descrição: Ofereça massinha de modelar e uma faquinha de plástico. A criança deve primeiro fazer rolinhos (\"minhocas\") e depois cortá-los em pedaços pequenos.",
+    "metadata": {
+      "titulo": "O Escultor de Massinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_152",
+    "conteudo": "Descrição: Pegue uma caixa de gelatina ou outra embalagem de papel cartão e cole um adesivo na aba de abertura. A missão da criança é \"encontrar o prêmio\" abrindo a caixa pela aba.",
+    "metadata": {
+      "titulo": "Abertura Premiada",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_153",
+    "conteudo": "Descrição: Com uma banana descascada, incentive a criança a usar uma faca de plástico para fazer cortes, criando \"trilhos\" para um trenzinho de brinquedo.",
+    "metadata": {
+      "titulo": "Cortando a Banana-Trilho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_154",
+    "conteudo": "Descrição: Dobre uma pequena pontinha do selo de um pote de iogurte para facilitar. Incentive a criança a puxar a \"aba secreta\" para revelar o lanche.",
+    "metadata": {
+      "titulo": "O Segredo do Pote de Iogurte",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_155",
+    "conteudo": "Descrição: Use argila macia (não tóxica) e peça para a criança usar uma espátula de plástico para cortar um bloco de argila em vários pedacinhos.",
+    "metadata": {
+      "titulo": "Mestre do Picadinho de Argila",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_156",
+    "conteudo": "Descrição: Entregue um saquinho de pão de forma vazio ou similar e peça para a criança abri-lo rasgando na serrilha, fingindo ter a \"força de um gigante\".",
+    "metadata": {
+      "titulo": "O Rasgo do Gigante",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_157",
+    "conteudo": "Descrição: Coloque um pedaço de geleia sólida (de mocotó) em um prato. A criança deve usar uma faca de mesa para cortar a geleia em cubos mágicos e brilhantes.",
+    "metadata": {
+      "titulo": "Geleia Mágica",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_158",
+    "conteudo": "Descrição: Cole um pedaço de fita crepe em um pote de plástico. A criança deve encontrar a ponta da fita e puxá-la para \"abrir\" o pote.",
+    "metadata": {
+      "titulo": "Caça à Fita",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_159",
+    "conteudo": "Descrição: Dê pedaços de mamão ou melão e uma faca segura. A criança corta em cubos e depois pode empilhá-los para criar \"torres de frutas\".",
+    "metadata": {
+      "titulo": "O Construtor de Frutas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_160",
+    "conteudo": "Descrição: Use um pacote de biscoitos com aba \"abre-fácil\". Pinte a aba com uma canetinha para destacá-la e incentive a criança a puxar para \"libertar\" o lanche.",
+    "metadata": {
+      "titulo": "Libertando o Biscoito",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_161",
+    "conteudo": "Descrição: Em uma bandeja com areia cinética, modele \"bolos\" e \"pães\". A criança deve usar uma faquinha de plástico para fatiar as criações.",
+    "metadata": {
+      "titulo": "Cozinha de Areia Cinética",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_162",
+    "conteudo": "Descrição: Use uma caixinha de suco ou leite. Mostre como levantar as \"orelhinhas\" (abas) laterais e depois incentive a criança a fazer o mesmo movimento.",
+    "metadata": {
+      "titulo": "O Desafio da Caixinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_163",
+    "conteudo": "Descrição: A criança prepara um piquenique para seus bonecos, cortando fatias de pão de forma sem casca com um cortador de biscoitos e uma faquinha de mesa.",
+    "metadata": {
+      "titulo": "Piquenique dos Bichinhos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_164",
+    "conteudo": "Descrição: Use uma embalagem de queijo processado tipo polenguinho. Mostre a fita vermelha como uma \"janelinha\" que precisa ser puxada para abrir.",
+    "metadata": {
+      "titulo": "Abrindo a Janelinha do Queijo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_165",
+    "conteudo": "Descrição: Coloque marshmallows grandes em um prato. Com uma faquinha de plástico, a criança os corta ao meio, explorando a textura macia e elástica.",
+    "metadata": {
+      "titulo": "Cortando Nuvens de Marshmallow",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_166",
+    "conteudo": "Descrição: Dobre um guardanapo de papel e peça para a criança \"abrir o mapa\" desdobrando-o completamente, treinando a delicadeza no manuseio.",
+    "metadata": {
+      "titulo": "O Mapa do Tesouro (Guardanapo)",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_167",
+    "conteudo": "Descrição: Use um pedaço de pepino cozido e bem macio. A criança pode usar uma faca segura para cortar \"rodelas de sushi\".",
+    "metadata": {
+      "titulo": "O Sushiman de Pepino",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_168",
+    "conteudo": "Descrição: Use uma garrafa de água com a tampa já um pouco solta. A tarefa da criança é usar a força de torção para terminar de abri-la.",
+    "metadata": {
+      "titulo": "A Força para Abrir a Garrafa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_169",
+    "conteudo": "Descrição: Amasse uma batata cozida em formato de \"bolo\". A criança pode usar uma faca de mesa para \"cortar as fatias do bolo de aniversário\".",
+    "metadata": {
+      "titulo": "Fatiando o Bolo de Batata",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_170",
+    "conteudo": "Descrição: Entregue um envelope de papel e mostre como rasgá-lo na lateral para abri-lo. A criança é o \"carteiro\" que precisa ver o que tem dentro.",
+    "metadata": {
+      "titulo": "O Carteiro Chegou!",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_171",
+    "conteudo": "Descrição: Use uma esponja de louça nova e macia como se fosse um legume. A criança treina o movimento de serrar com uma faca de plástico.",
+    "metadata": {
+      "titulo": "Cortando o Jiló-Esponja",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_172",
+    "conteudo": "Descrição: Em caixinhas de suco com canudo, a tarefa é tirar o plástico do canudo e depois usar a ponta para furar o \"portal\" prateado da caixa.",
+    "metadata": {
+      "titulo": "O Portal do Suco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_173",
+    "conteudo": "Descrição: Dê um ovo cozido e descascado para a criança. Ela deve usar um cortador de ovos ou uma faca de mesa para fatiá-lo.",
+    "metadata": {
+      "titulo": "Ajudante de Cozinha: Ovos Cozidos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_174",
+    "conteudo": "Descrição: Embrulhe uma fruta em papel alumínio. A criança deve desembrulhá-la, praticando o ato de rasgar e abrir com cuidado.",
+    "metadata": {
+      "titulo": "Abrindo o Presente de Alumínio",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_175",
+    "conteudo": "Descrição: Dê uma folha de alface para a criança e uma faca de plástico. Ela pode \"cortar o cabelo\" da folha, fazendo vários picadinhos.",
+    "metadata": {
+      "titulo": "O Cabelereiro de Alface",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_176",
+    "conteudo": "Descrição: Faça um pequeno corte inicial na casca de uma mexerica. A criança deve usar os dedos para continuar o trabalho de \"abrir\" a fruta.",
+    "metadata": {
+      "titulo": "Descascando a Mexerica",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_177",
+    "conteudo": "Descrição: Faça uma \"pizza\" de pão sírio com queijo por cima. A criança pode usar um cortador de pizza de plástico (de brinquedo ou real, sem fio) para dividir.",
+    "metadata": {
+      "titulo": "O Cortador de Pizza de Brinquedo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_178",
+    "conteudo": "Descrição: Após abrir a mexerica, a próxima tarefa é usar a força dos dedos para separar os gomos uns dos outros.",
+    "metadata": {
+      "titulo": "Separando os Gomos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_179",
+    "conteudo": "Descrição: Cozinhe uma salsicha e a coloque em um prato. A criança deve cortá-la em rodelas para construir uma \"ponte\" ou \"estrada\".",
+    "metadata": {
+      "titulo": "A Ponte de Salsicha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_180",
+    "conteudo": "Descrição: Use saquinhos de congelação com fecho tipo \"zip\". A tarefa da criança é deslizar os dedos para abrir e fechar o \"zíper mágico\".",
+    "metadata": {
+      "titulo": "O Zíper Mágico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_181",
+    "conteudo": "Descrição: Dê uma fatia grande e macia de melancia. Com a ponta de uma faca de plástico, a criança pode \"desenhar\" linhas e formas na fruta antes de cortar.",
+    "metadata": {
+      "titulo": "Desenhando na Melancia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_182",
+    "conteudo": "Descrição: Faça um sanduíche de biscoito com recheio. A tarefa da criança é \"abrir a ostra\", torcendo as duas bandas do biscoito para separá-las.",
+    "metadata": {
+      "titulo": "Abrindo a Ostra de Biscoito",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_183",
+    "conteudo": "Descrição: A criança usa uma faca segura para cortar a pontinha de vargens cozidas, como se estivesse \"aparando as plantas\" de um jardim.",
+    "metadata": {
+      "titulo": "Jardinagem na Comida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_184",
+    "conteudo": "Descrição: Use um pote com tampa de rosca (já frouxa). Incentive a criança a segurar o pote com uma mão e girar a tampa com a outra.",
+    "metadata": {
+      "titulo": "O Desafio do Pote de Rosca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_185",
+    "conteudo": "Descrição: A tarefa é usar uma faca de plástico para cortar o \"cabelo verde\" (as folhas) dos morangos.",
+    "metadata": {
+      "titulo": "Monstrinhos de Morango",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_186",
+    "conteudo": "Descrição: Dê balas com embalagens de torcer (como as de caramelo). A criança deve praticar o movimento de torcer as pontas para abrir.",
+    "metadata": {
+      "titulo": "O Desembrulhador de Balas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_187",
+    "conteudo": "Descrição: Use cogumelos cozidos e macios. A textura é única e ótima para treinar o corte em fatias com uma faca de mesa.",
+    "metadata": {
+      "titulo": "O Picador de Cogumelos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_188",
+    "conteudo": "Descrição: Mostre como pressionar o centro do potinho de iogurte para ajudar a soltar a tampa nas bordas, facilitando a abertura.",
+    "metadata": {
+      "titulo": "Soltando a Tampa do Danoninho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_189",
+    "conteudo": "Descrição: Dê um pedaço de tofu macio. A criança é um \"lenhador\" que precisa cortar a \"madeira\" (tofu) em pedaços com seu \"machado\" (faca de plástico).",
+    "metadata": {
+      "titulo": "O Lenhador de Tofu",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_190",
+    "conteudo": "Descrição: Use uma caixa de cereal com saco plástico dentro. A primeira tarefa é rasgar o saco e a segunda é despejar o cereal na tigela.",
+    "metadata": {
+      "titulo": "A Cascata de Cereal",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_191",
+    "conteudo": "Descrição: Após o omelete ou uma panqueca estarem prontos, a criança pode usar uma espátula ou faca de mesa para cortá-los em tiras ou quadrados.",
+    "metadata": {
+      "titulo": "O Chef de Omelete",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_192",
+    "conteudo": "Descrição: Use um chocolate tipo \"Bis\" ou \"Kit Kat\". A criança deve primeiro abrir a embalagem externa e depois quebrar as unidades nos sulcos.",
+    "metadata": {
+      "titulo": "Quebrando a Casquinha do Chocolate",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_193",
+    "conteudo": "Descrição: Dê uma espiga de milho cozida. A criança pode usar uma faca segura para \"raspar\" os grãos, como se estivesse cortando o cabelo da espiga.",
+    "metadata": {
+      "titulo": "Cortando o Cabelo do Milho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_194",
+    "conteudo": "Descrição: Antes de lanchar, a criança pega uma folha de papel toalha e a desdobra completamente para usar como \"jogo americano\".",
+    "metadata": {
+      "titulo": "O Desdobrador de Papel Toalha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_195",
+    "conteudo": "Descrição: Rodelas de abobrinha bem cozida são extremamente macias e ótimas para treinar o corte sem necessidade de muita força.",
+    "metadata": {
+      "titulo": "Fatiando Abobrinha Cozida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_196",
+    "conteudo": "Descrição: Use potes com tampa de pressão (que não sejam muito difíceis). A criança aprende o movimento de encaixar e puxar a tampa para cima.",
+    "metadata": {
+      "titulo": "O Mágico dos Potes",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_197",
+    "conteudo": "Descrição: Dê metade de um abacate maduro. A criança usa a ponta de uma faca de mesa para fazer um quadriculado na polpa e depois retira os cubos com uma colher.",
+    "metadata": {
+      "titulo": "Escavando o Abacate",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_198",
+    "conteudo": "Descrição: Use um sachê de catchup ou maionese. Mostre o picote na lateral e ajude a criança a posicionar os dedos para rasgar e abrir.",
+    "metadata": {
+      "titulo": "Abrindo o Sachê",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_199",
+    "conteudo": "Descrição: Dê uma fatia de bolo macio. A criança deve usar um garfo e uma faquinha de sobremesa para cortar um pequeno pedaço, imitando os adultos.",
+    "metadata": {
+      "titulo": "O Confeiteiro Real",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_200",
+    "conteudo": "Descrição: Use uma bala do tipo \"fini tubes\" ou similar. A criança deve usar os dentes e os dedos para rasgar a ponta da embalagem plástica.",
+    "metadata": {
+      "titulo": "O Descascador de Fita Banana",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_201",
+    "conteudo": "Descrição: A criança primeiro arruma a mesa para o \"cliente\" (um boneco). Após a \"refeição\" de mentirinha, ela limpa tudo, executando o ciclo completo.",
+    "metadata": {
+      "titulo": "Restaurante Infantil",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_202",
+    "conteudo": "Descrição: Crie estações: 1) Pegar o kit, 2) Arrumar na mesa, 3) Realizar a atividade, 4) Limpar o lixo, 5) Guardar o kit. A criança segue o circuito.",
+    "metadata": {
+      "titulo": "Circuito da Autonomia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_203",
+    "conteudo": "Descrição: Tire uma foto da mesa perfeitamente arrumada. Após a atividade e a limpeza, a criança compara a mesa com a foto para ver se ficou igual.",
+    "metadata": {
+      "titulo": "O Desafio do Antes e Depois",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_204",
+    "conteudo": "Descrição: Crie uma música com duas partes: a primeira sobre como preparar a mesa, e a segunda sobre como limpar e guardar tudo.",
+    "metadata": {
+      "titulo": "Canção da Mesinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_205",
+    "conteudo": "Descrição: Use um mini painel com velcro. A criança move a figura \"arrumar\" para o campo \"feito\" antes de começar, e a figura \"limpar\" para \"feito\" ao terminar.",
+    "metadata": {
+      "titulo": "Painel de Tarefas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_206",
+    "conteudo": "Descrição: A mesa é a \"oficina\". Primeiro, a criança organiza as \"ferramentas\" (materiais). Depois do \"conserto\" (atividade), ela limpa e guarda tudo.",
+    "metadata": {
+      "titulo": "Oficina Mecânica",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_207",
+    "conteudo": "Descrição: O cientista (a criança) primeiro prepara sua bancada (mesa) com todos os \"instrumentos\". Após o \"experimento\", ele deve limpar toda a área de trabalho.",
+    "metadata": {
+      "titulo": "Laboratório do Cientista",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_208",
+    "conteudo": "Descrição: Antes de \"construir\" com blocos, o \"engenheiro\" limpa o terreno (mesa) e organiza os materiais. Ao final, o canteiro deve ser totalmente desocupado e limpo.",
+    "metadata": {
+      "titulo": "Canteiro de Obras",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_209",
+    "conteudo": "Descrição: A criança estende a toalha na mesa e arruma os itens para o piquenique. Ao final, ela recolhe tudo de volta para a cesta e limpa a mesa.",
+    "metadata": {
+      "titulo": "Piquenique na Sala",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_210",
+    "conteudo": "Descrição: No dia de ser o \"ajudante\", a criança é responsável por ser o modelo: ela arruma a própria mesa e depois ajuda um colega a arrumar ou limpar a dele.",
+    "metadata": {
+      "titulo": "O Dia do Ajudante",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_211",
+    "conteudo": "Descrição: Antes de guardar, espalhe os itens (cola, tesoura, pote). Você aponta para um e a criança deve lembrar e apontar onde ele deve ser guardado.",
+    "metadata": {
+      "titulo": "Jogo da Memória de Lugares",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_212",
+    "conteudo": "Descrição: Use um relógio de brinquedo. Mova o ponteiro para a figura \"arrumar\". Depois da atividade, mova para a figura \"limpar\". A criança segue o comando do relógio.",
+    "metadata": {
+      "titulo": "O Relógio da Rotina",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_213",
+    "conteudo": "Descrição: Aborde a tarefa com calma. O \"Mestre Zen\" primeiro prepara seu espaço de forma organizada para ter \"paz\". Ao final, ele deixa o espaço limpo para manter a \"harmonia\".",
+    "metadata": {
+      "titulo": "Mestre Zen",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_214",
+    "conteudo": "Descrição: Use a analogia do ciclo. A mesa \"limpa\" (antes) é o céu. A atividade é a \"chuva\". A limpeza (depois) é a \"evaporação\", deixando o céu limpo de novo.",
+    "metadata": {
+      "titulo": "O Ciclo da Água",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_215",
+    "conteudo": "Descrição: A criança ganha um crachá de \"Especialista\". Sua função é garantir que a superfície da mesa esteja perfeita antes e depois de cada missão (atividade).",
+    "metadata": {
+      "titulo": "O Especialista em Superfícies",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_216",
+    "conteudo": "Descrição: A preparação da mesa é \"montar o acampamento\". A limpeza final é a \"missão final\" para não deixar rastros para o \"inimigo\" (a bagunça).",
+    "metadata": {
+      "titulo": "Batalha Contra a Bagunça",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_217",
+    "conteudo": "Descrição: A criança recebe a tarefa de ser o \"Guardião da Ordem da Mesa\". Ela deve se certificar de que a regra (mesa limpa antes e depois) seja sempre cumprida.",
+    "metadata": {
+      "titulo": "O Guardião da Ordem",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_218",
+    "conteudo": "Descrição: A criança está terminando seu \"turno de trabalho\" na mesa. Para o próximo \"funcionário\" (ela mesma, em outra atividade), ela precisa deixar o local impecável.",
+    "metadata": {
+      "titulo": "Troca de Turno",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_219",
+    "conteudo": "Descrição: Conte quantos passos a criança leva para buscar os materiais e arrumar a mesa. Depois, conte os passos para guardar tudo. Compare e transforme em uma brincadeira.",
+    "metadata": {
+      "titulo": "O Contador de Passos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_220",
+    "conteudo": "Descrição: A criança é a \"construtora\" ao arrumar a mesa para a atividade. Ao final, ela se torna a \"demolidora\" que remove tudo e limpa o terreno.",
+    "metadata": {
+      "titulo": "O Construtor e o Demolidor",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_221",
+    "conteudo": "Descrição: Transforme o ato de jogar o lixo (guardanapo, restos de papel) em um jogo de basquete. A criança deve tentar 'fazer uma cesta' na lixeira.",
+    "metadata": {
+      "titulo": "Arremesso ao Cesto",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_222",
+    "conteudo": "Descrição: Os objetos sujos (prato, copo) são \"vagões\" de um trem. A criança os empurra em fila sobre a mesa até a \"estação de lavagem\" (uma bandeja para levar à pia).",
+    "metadata": {
+      "titulo": "O Trem do Guarda-Guarda",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_223",
+    "conteudo": "Descrição: Com uma mini pá e uma escovinha (ou um paninho úmido), a criança se torna um \"caçador\" que precisa capturar todas as migalhas perdidas na mesa.",
+    "metadata": {
+      "titulo": "Caçador de Migalhas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_224",
+    "conteudo": "Descrição: Com um borrifador de água e um pano como \"capa\", a criança é o super-herói cuja missão é derrotar a \"sujeira\" e deixar a mesa brilhando.",
+    "metadata": {
+      "titulo": "O Super-Herói da Limpeza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_225",
+    "conteudo": "Descrição: Ao final de uma brincadeira, a criança tem a missão de \"resgatar\" todos os brinquedos da mesa e levá-los em segurança de volta para sua \"casa\" (a caixa de brinquedos).",
+    "metadata": {
+      "titulo": "Operação Resgate de Brinquedos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_226",
+    "conteudo": "Descrição: Com uma lupa de brinquedo, a criança \"investiga\" a mesa em busca de qualquer manchinha de tinta ou comida. Ao encontrar, ela limpa com um pano.",
+    "metadata": {
+      "titulo": "O Detetive de Manchas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_227",
+    "conteudo": "Descrição: Após uma atividade de desenho, a criança é o \"colecionador\" que deve juntar todos os lápis de cor e guardá-los apontados para a mesma direção dentro do estojo.",
+    "metadata": {
+      "titulo": "O Colecionador de Lápis",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_228",
+    "conteudo": "Descrição: A lixeira é um \"monstro faminto\". A criança deve \"alimentar o monstro\" com todos os restos de papel e embalagens da mesa.",
+    "metadata": {
+      "titulo": "O Monstro Come-Lixo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_229",
+    "conteudo": "Descrição: Crie etiquetas com fotos dos objetos (tesoura, cola) nos seus locais de guardar. A tarefa da criança é levar cada item de volta para sua \"casa\".",
+    "metadata": {
+      "titulo": "A Casa dos Objetos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_230",
+    "conteudo": "Descrição: A criança deve empilhar os pratos ou potes de plástico usados antes de levá-los para a bandeja de transporte, treinando a coordenação.",
+    "metadata": {
+      "titulo": "O Empilhador Mestre",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_231",
+    "conteudo": "Descrição: Faça uma \"pista de corrida\" imaginária na mesa. A criança deve passar o pano úmido por toda a pista até a \"linha de chegada\".",
+    "metadata": {
+      "titulo": "Corrida do Pano Úmido",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_232",
+    "conteudo": "Descrição: Após usar potes de tinta ou massinha, a missão da criança é encontrar a tampa correta para cada pote e fechá-los bem.",
+    "metadata": {
+      "titulo": "O Fechador de Tampas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_233",
+    "conteudo": "Descrição: Se a atividade foi com Lego ou blocos, a tarefa final é agrupar as peças por cor ou tamanho antes de guardá-las na caixa.",
+    "metadata": {
+      "titulo": "O Agrupador de Peças",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_234",
+    "conteudo": "Descrição: A criança \"dá tchau\" para cada item ao guardá-lo. \"Tchau, pratinho!\", \"Até logo, copinho!\", tornando a rotina mais interativa.",
+    "metadata": {
+      "titulo": "A Despedida dos Pratos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_235",
+    "conteudo": "Descrição: Após pensar que terminou, a criança se torna o \"inspetor\" que deve passar o dedo na mesa para verificar se está realmente limpa e seca.",
+    "metadata": {
+      "titulo": "O Inspetor Final",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_236",
+    "conteudo": "Descrição: Use um jogo americano com o contorno desenhado de cada item (prato, copo, talher). A criança deve encaixar os objetos em seus 'lugares secretos' no mapa.",
+    "metadata": {
+      "titulo": "O Mapa do Tesouro da Mesa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_237",
+    "conteudo": "Descrição: Prepare uma caixa com tudo o que é necessário para a atividade de arte (ex: papel, giz, cola). A tarefa da criança é buscar o kit e descarregá-lo na mesa.",
+    "metadata": {
+      "titulo": "O Kit de Atividade",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_238",
+    "conteudo": "Descrição: A criança é o \"garçom\". Com um bloquinho de mentira, ela \"anota o pedido\" (os materiais necessários) e depois busca um por um para colocar na mesa.",
+    "metadata": {
+      "titulo": "Garçom Estrela",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_239",
+    "conteudo": "Descrição: Antes de começar, a criança é o \"desbravador\" que precisa verificar se a mesa está livre de \"obstáculos\" (brinquedos, papéis) da tarefa anterior.",
+    "metadata": {
+      "titulo": "O Desbravador da Mesa Limpa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_240",
+    "conteudo": "Descrição: Borrife um pouco de água na mesa, criando 'nuvens'. A criança, com um paninho, tem a missão de fazer todas as nuvens desaparecerem antes de pôr o material.",
+    "metadata": {
+      "titulo": "O Apagador de Nuvens",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_241",
+    "conteudo": "Descrição: A criança transporta o prato (de plástico) para a mesa equilibrando-o com as duas mãos, como se fosse um objeto precioso de uma torre.",
+    "metadata": {
+      "titulo": "Torre de Pratos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_242",
+    "conteudo": "Descrição: Desenhe um círculo de fita colorida na mesa. Este é o \"estacionamento\" onde o copo deve ser perfeitamente posicionado.",
+    "metadata": {
+      "titulo": "Estacionamento de Copos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_243",
+    "conteudo": "Descrição: A criança leva os talheres (garfo e colher) para a mesa um de cada vez, fazendo-os \"desfilar\" ou \"dançar\" até chegarem ao seu lugar.",
+    "metadata": {
+      "titulo": "O Desfile dos Talheres",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_244",
+    "conteudo": "Descrição: Use uma pequena prancheta com 3 figuras (ex: prato, copo, guardanapo). Antes do lanche, a criança é o \"piloto\" que deve verificar se todos os itens do checklist estão na mesa.",
+    "metadata": {
+      "titulo": "Checagem do Piloto",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_245",
+    "conteudo": "Descrição: A criança aprende a enrolar e desenrolar o jogo americano na mesa, como um \"pergaminho mágico\" que prepara o lugar para a refeição.",
+    "metadata": {
+      "titulo": "O Mágico dos Jogos Americanos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_246",
+    "conteudo": "Descrição: Para uma atividade de massinha, a criança é a \"entregadora\" que busca as ferramentas (cortadores, rolinhos) e as organiza na mesa de trabalho.",
+    "metadata": {
+      "titulo": "O Entregador de Ferramentas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_247",
+    "conteudo": "Descrição: Coloque dois dos três itens do lanche na mesa (ex: prato e copo) e pergunte: \"O que está faltando?\". A criança deve identificar e buscar o item que falta (o talher).",
+    "metadata": {
+      "titulo": "Qual Falta?",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_248",
+    "conteudo": "Descrição: Para uma atividade de pintura, a tarefa da criança é buscar os potes de tinta e organizá-los em cima de um papel, seguindo uma ordem de cores.",
+    "metadata": {
+      "titulo": "O Organizador de Cores",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_249",
+    "conteudo": "Descrição: Crie um som ou música curta que significa \"hora de arrumar a mesa\". Ao ouvir, a criança sabe que deve iniciar a rotina de preparação.",
+    "metadata": {
+      "titulo": "O Som do Preparo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_250",
+    "conteudo": "Descrição: Para atividades com tinta ou cola, a criança é o \"guardião\" responsável por buscar e estender a folha de jornal ou plástico para proteger a mesa.",
+    "metadata": {
+      "titulo": "O Guardião do Forro de Mesa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_251",
+    "conteudo": "Descrição: Crie um checklist visual com fotos dos 3 itens (caderno, estojo, agenda). O 'astronauta' precisa verificar cada item e colocá-lo na 'nave' (mochila) para a 'viagem' para casa.",
+    "metadata": {
+      "titulo": "Checklist do Astronauta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_252",
+    "conteudo": "Descrição: A mochila é a 'toca' do esquilo e os materiais (caderno, estojo) são as 'nozes'. A criança é o esquilo que precisa guardar toda a sua 'comida' para o inverno antes de ir para casa.",
+    "metadata": {
+      "titulo": "A Toca do Esquilo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_253",
+    "conteudo": "Descrição: Desenhe o contorno dos itens na parte de dentro da mochila com caneta de tecido. A criança deve 'encaixar' cada objeto em seu lugar correspondente.",
+    "metadata": {
+      "titulo": "Quebra-cabeça da Mochila",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_254",
+    "conteudo": "Descrição: Dê uma 'pista' de cada vez: 'O detetive precisa encontrar algo grande e com letras...' (caderno). Após encontrar, ele guarda na mochila e recebe a próxima pista.",
+    "metadata": {
+      "titulo": "Detetive de Materiais",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_255",
+    "conteudo": "Descrição: Personifique os objetos. O caderno está 'cansado' e precisa 'dormir' primeiro na sua 'cama' (mochila). Depois o estojo e por último a agenda.",
+    "metadata": {
+      "titulo": "A Cama dos Materiais",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_256",
+    "conteudo": "Descrição: A agenda e o caderno são 'cartas' que precisam ser entregues em casa. A criança é o carteiro que coloca as cartas na sua 'bolsa de entregas' (mochila).",
+    "metadata": {
+      "titulo": "O Carteiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_257",
+    "conteudo": "Descrição: Espalhe os itens na mesa. Peça para a criança fechar os olhos. Esconda um item. Ela deve adivinhar qual 'sumiu' e, ao encontrá-lo, guardá-lo na mochila.",
+    "metadata": {
+      "titulo": "Jogo da Memória de Objetos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_258",
+    "conteudo": "Descrição: A mochila é um monstro faminto que adora comer materiais escolares. A criança 'alimenta' o monstro, colocando os itens um a um em sua 'boca' (o zíper).",
+    "metadata": {
+      "titulo": "Mochila Monstruosa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_259",
+    "conteudo": "Descrição: Antes de guardar os itens, a criança pratica abrir e fechar completamente o zíper da mochila vazia, como se fosse uma pista de corrida para o fecho.",
+    "metadata": {
+      "titulo": "O Desafio do Zíper",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_260",
+    "conteudo": "Descrição: Cole uma fita da mesma cor no caderno, no estojo e na agenda. A missão da criança é encontrar e guardar todos os 'tesouros' daquela cor.",
+    "metadata": {
+      "titulo": "Caça ao Tesouro Colorido",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_261",
+    "conteudo": "Descrição: A criança deve organizar os itens em fila do maior para o menor na mesa. Depois, guardá-los na mochila seguindo essa mesma ordem.",
+    "metadata": {
+      "titulo": "Ordem de Tamanho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_262",
+    "conteudo": "Descrição: Crie uma música curta e simples para o momento de guardar. \"Guarda, guarda, tudo no lugar! O caderno vai primeiro para a casa viajar!\".",
+    "metadata": {
+      "titulo": "O Som do Guarda-Guarda",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_263",
+    "conteudo": "Descrição: De forma lúdica, segure a mochila aberta de ponta-cabeça (vazia) e pergunte: \"Está certo assim para guardar?\". A criança deve corrigi-lo, colocando-a na posição certa para começar.",
+    "metadata": {
+      "titulo": "Mochila de Ponta-Cabeça",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_264",
+    "conteudo": "Descrição: Após guardar tudo, a criança se torna o 'inspetor'. Ela deve abrir um pouquinho o zíper e espiar lá dentro para ver se não esqueceu de nada.",
+    "metadata": {
+      "titulo": "O Inspetor de Qualidade",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_265",
+    "conteudo": "Descrição: Use uma ampulheta ou um cronômetro musical. O desafio é guardar tudo com calma antes que a areia acabe ou a música pare.",
+    "metadata": {
+      "titulo": "Corrida Contra o Tempo Lúdico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_266",
+    "conteudo": "Descrição: Brinque sobre o peso dos objetos. \"Vamos guardar primeiro o mais pesado, use sua super força!\". A criança pega o caderno e o coloca na mochila.",
+    "metadata": {
+      "titulo": "Super Força!",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_267",
+    "conteudo": "Descrição: Para ajudar com o zíper, diga que o fecho é uma lagarta e o zíper é um trilho. A criança leva a lagarta para passear até o final do trilho para fechar.",
+    "metadata": {
+      "titulo": "A Lagarta no Trilho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_268",
+    "conteudo": "Descrição: Use uma sacola de pano ou uma caixa para praticar o ato de colocar os itens dentro, fora do horário de pressão da saída.",
+    "metadata": {
+      "titulo": "Simulador de Mochila",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_269",
+    "conteudo": "Descrição: Dê à criança a responsabilidade: \"Você pode me ajudar a lembrar o que guardamos na mochila agora?\". Ela deve nomear os itens enquanto os guarda.",
+    "metadata": {
+      "titulo": "Ajudante do Professor",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_270",
+    "conteudo": "Descrição: Espalhe os itens e mais alguns outros (um brinquedo, um livro). A criança deve identificar e pegar apenas os que pertencem à mochila.",
+    "metadata": {
+      "titulo": "Onde Está o Estojo?",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_271",
+    "conteudo": "Descrição: A criança ganha um 'crachá' de Organizador Mestre. Sua função especial no final do dia é executar a tarefa de guardar seus materiais com perfeição.",
+    "metadata": {
+      "titulo": "O Organizador Mestre",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_272",
+    "conteudo": "Descrição: A mochila é o 'oceano'. A criança faz cada item 'mergulhar' lá dentro, fazendo sons de bolhas de água.",
+    "metadata": {
+      "titulo": "O Mergulhador",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_273",
+    "conteudo": "Descrição: A criança sente o peso da mochila vazia. Depois de guardar cada item, ela sente o peso novamente, percebendo como ele muda.",
+    "metadata": {
+      "titulo": "Mochila Leve vs. Mochila Pesada",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_274",
+    "conteudo": "Descrição: O caderno é a 'base' da construção, o estojo é a 'parede' e a agenda é o 'telhado'. A criança 'constrói' a organização dentro da mochila.",
+    "metadata": {
+      "titulo": "O Construtor",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_275",
+    "conteudo": "Descrição: A mochila é uma garagem. O caderno é o 'caminhão', o estojo é o 'carro'. A criança deve 'estacionar' cada veículo em sua vaga.",
+    "metadata": {
+      "titulo": "A Garagem dos Materiais",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_276",
+    "conteudo": "Descrição: O zíper da mochila é um 'túnel secreto'. Depois que todos os amigos (materiais) entram na festa (mochila), a criança deve fechar o túnel.",
+    "metadata": {
+      "titulo": "O Túnel Secreto",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_277",
+    "conteudo": "Descrição: Cole uma pequena foto de cada item na ordem correta dentro de uma pasta ou na agenda. A criança segue a sequência de fotos para guardar.",
+    "metadata": {
+      "titulo": "Foto-Guia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_278",
+    "conteudo": "Descrição: Faça a mímica de um dos objetos (ex: escrever, para o estojo). A criança adivinha, pega o objeto correspondente e o guarda na mochila.",
+    "metadata": {
+      "titulo": "Mímica do Material",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_279",
+    "conteudo": "Descrição: Fale como se os objetos quisessem ir para a mochila: \"O caderno está me dizendo que quer ir para casa!\". A criança atende ao 'pedido' dele.",
+    "metadata": {
+      "titulo": "O Chamado dos Objetos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_280",
+    "conteudo": "Descrição: A tarefa final é sempre a mesma: ser o 'guardião' que verifica se o zíper está completamente fechado para que nada fuja no caminho.",
+    "metadata": {
+      "titulo": "O Guardião do Zíper",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_281",
+    "conteudo": "Descrição: Borrife um cheirinho calmante (como lavanda) em um sachê dentro da mochila. A criança associa o cheiro agradável com a tarefa de organização.",
+    "metadata": {
+      "titulo": "O Cheiro da Ordem",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_282",
+    "conteudo": "Descrição: A criança deve tocar com a 'varinha mágica' (dedo indicador) cada item na mesa antes de guardá-lo na mochila.",
+    "metadata": {
+      "titulo": "O Toque Mágico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_283",
+    "conteudo": "Descrição: Incline-se e sussurre no ouvido da criança qual é o próximo item a ser guardado, como se fosse um grande segredo.",
+    "metadata": {
+      "titulo": "O Sussurro Secreto",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_284",
+    "conteudo": "Descrição: Brinque que a mochila tem um ímã que 'puxa' os objetos na ordem certa. Primeiro ela puxa o caderno, depois o estojo...",
+    "metadata": {
+      "titulo": "O Ímã Invisível",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_285",
+    "conteudo": "Descrição: Faça a sequência de guardar em uma mochila modelo. A criança deve observar e repetir exatamente os mesmos passos na sua.",
+    "metadata": {
+      "titulo": "Repita o Mestre",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_286",
+    "conteudo": "Descrição: Cada item precisa de um 'visto' para ir para casa. O visto é a criança pegá-lo e colocá-lo na mochila.",
+    "metadata": {
+      "titulo": "O Visto de Saída",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_287",
+    "conteudo": "Descrição: Diga o nome do objeto, por exemplo, \"Caderno!\". A criança repete \"Caderno!\" e o guarda na mochila.",
+    "metadata": {
+      "titulo": "O Eco da Palavra",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_288",
+    "conteudo": "Descrição: Se a mochila tiver um bolso menor, designe-o para a agenda. A tarefa é guardar os itens maiores no compartimento grande e o 'especial' no pequeno.",
+    "metadata": {
+      "titulo": "O Desafio de um Bolso",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_289",
+    "conteudo": "Descrição: Cada dia um item é o 'passageiro especial' que deve ser guardado por primeiro. Um dia é a agenda, no outro o estojo.",
+    "metadata": {
+      "titulo": "O Passageiro do Dia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_290",
+    "conteudo": "Descrição: Fale sobre como os objetos se encaixam. \"O caderno fica retinho no fundo, e o estojo deita ao lado dele, viu como coube certinho?\".",
+    "metadata": {
+      "titulo": "O Encaixe Perfeito",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_291",
+    "conteudo": "Descrição: Dê uma importância especial à agenda. Ela é a 'chefe' e só pode ser guardada depois que seus 'funcionários' (caderno e estojo) já estiverem na mochila.",
+    "metadata": {
+      "titulo": "O Guardião da Agenda",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_292",
+    "conteudo": "Descrição: Use uma pequena lanterna para 'piscar' sobre o item que deve ser guardado. A criança pega o item iluminado e o guarda.",
+    "metadata": {
+      "titulo": "A Mochila que Pisca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_293",
+    "conteudo": "Descrição: Brinque sobre como a criança precisa se posicionar para guardar os itens. Sentada no chão, de pé, com a mochila na cadeira, etc.",
+    "metadata": {
+      "titulo": "O Contorcionista",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_294",
+    "conteudo": "Descrição: Empilhe os três itens na mesa. A tarefa é desmontar a 'torre', guardando um item de cada vez na mochila.",
+    "metadata": {
+      "titulo": "O Desempilhador",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_295",
+    "conteudo": "Descrição: Os materiais são um time. O caderno é o goleiro (entra primeiro), o estojo o atacante e a agenda o capitão (entra por último).",
+    "metadata": {
+      "titulo": "O Time da Mochila",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_296",
+    "conteudo": "Descrição: Se a mochila tiver dois fechos no zíper, a criança deve juntar os dois no meio, como se estivessem 'dando um beijo'.",
+    "metadata": {
+      "titulo": "O Fechamento Duplo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_297",
+    "conteudo": "Descrição: Após fechar a mochila, a criança a entrega para o professor para um 'selo de aprovação' (um joinha), finalizando a tarefa.",
+    "metadata": {
+      "titulo": "A Entrega Final",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_298",
+    "conteudo": "Descrição: Depois de guardar, a criança pode sacudir levemente a mochila (com cuidado) para ouvir o 'som da mochila pronta'.",
+    "metadata": {
+      "titulo": "O Teste de Som",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_299",
+    "conteudo": "Descrição: A criança desenha os três itens em um papel. À medida que guarda cada um, ela circula o desenho correspondente.",
+    "metadata": {
+      "titulo": "O Desenhista de Rotinas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_300",
+    "conteudo": "Descrição: A criança é o 'capitão' do seu navio (a mesa). Sua última ordem do dia é comandar que toda a 'tripulação' (materiais) embarque no 'submarino' (mochila).",
+    "metadata": {
+      "titulo": "O Capitão da Ordem",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_301",
+    "conteudo": "Descrição: Alinhe 3 lancheiras diferentes, incluindo a do aluno. Dê uma 'pista' (\"O detetive procura a lancheira com o adesivo de carro\") e a criança deve pegar a sua.",
+    "metadata": {
+      "titulo": "Detetive de Pertences",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_302",
+    "conteudo": "Descrição: Pendure 3-4 casacos diferentes em cadeiras. A criança é o 'juiz' do desfile e deve encontrar e apontar qual é o 'casaco vencedor' (o dela).",
+    "metadata": {
+      "titulo": "O Desfile de Casacos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_303",
+    "conteudo": "Descrição: Crie 'vagas' no chão com fita colorida, cada uma com a foto de um aluno. A criança deve encontrar a vaga com sua foto e pegar sua garrafinha.",
+    "metadata": {
+      "titulo": "Estacionamento de Garrafinhas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_304",
+    "conteudo": "Descrição: Tire fotos dos pertences do aluno e de colegas. Imprima dois jogos de cada. A criança deve virar as cartas e encontrar os pares dos seus próprios itens.",
+    "metadata": {
+      "titulo": "Jogo da Memória com Fotos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_305",
+    "conteudo": "Descrição: De propósito, entregue a garrafinha de um colega e diga 'Aqui está sua água'. Incentive a criança a negar e a buscar a correta, reforçando a identificação.",
+    "metadata": {
+      "titulo": "O Trocador de Coisas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_306",
+    "conteudo": "Descrição: Ofereça 3 adesivos para a criança escolher UM para ser a 'identidade secreta' da sua lancheira. Ela mesma cola o adesivo, criando uma marca pessoal.",
+    "metadata": {
+      "titulo": "Operação Identidade Secreta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_307",
+    "conteudo": "Descrição: Coloque a garrafinha do aluno e mais duas bem diferentes dentro de um saco de pano. A criança deve usar apenas o tato para sentir e retirar a sua.",
+    "metadata": {
+      "titulo": "Saco Surpresa Tátil",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_308",
+    "conteudo": "Descrição: Cubra 3 lancheiras (incluindo a do aluno) com panos. Peça para a criança adivinhar e apontar embaixo de qual pano está o seu pertence.",
+    "metadata": {
+      "titulo": "Onde se Escondeu?",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_309",
+    "conteudo": "Descrição: Coloque o casaco do aluno na sua frente. Pegue um casaco diferente e pergunte \"Este é igual ao seu?\". A criança deve comparar e responder.",
+    "metadata": {
+      "titulo": "O Espelho dos Pertences",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_310",
+    "conteudo": "Descrição: Esconda a garrafinha da criança em um lugar fácil da sala. Dê a dica \"Seu tesouro está perto da janela\" e incentive-a a procurar.",
+    "metadata": {
+      "titulo": "Caça ao Tesouro Pessoal",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_311",
+    "conteudo": "Descrição: A criança é a 'guardiã' dos seus itens. Ela deve verificar se todos os três (casaco, garrafinha, lancheira) estão no seu lugar (gancho, prateleira) antes de ir ao pátio.",
+    "metadata": {
+      "titulo": "O Guardião dos Objetos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_312",
+    "conteudo": "Descrição: Empilhe 3 ou 4 lancheiras, incluindo a do aluno. A missão dele é identificar e retirar a sua com cuidado, sem derrubar a torre.",
+    "metadata": {
+      "titulo": "Torre de Lancheiras",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_313",
+    "conteudo": "Descrição: Mostre uma foto da garrafinha do aluno e peça para ele encontrar o objeto real correspondente entre outras garrafinhas.",
+    "metadata": {
+      "titulo": "Foto-Identificação",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_314",
+    "conteudo": "Descrição: Segure o casaco do aluno e pergunte para a turma \"De quem é este casaco?\". Incentive o aluno a se manifestar e dizer \"É meu!\".",
+    "metadata": {
+      "titulo": "Adivinhe o Dono",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_315",
+    "conteudo": "Descrição: \"Quem tem a lancheira AZUL, levanta a mão!\". Se a lancheira do aluno for azul, incentive-o a participar e a apontar para o seu pertence.",
+    "metadata": {
+      "titulo": "Corrida de Cores",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_316",
+    "conteudo": "Descrição: Crie uma etiqueta com uma textura única (ex: veludo, lixa fina) e cole em todos os pertences do aluno. Ele pode usar o tato como mais uma pista de identificação.",
+    "metadata": {
+      "titulo": "Etiqueta Especial",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_317",
+    "conteudo": "Descrição: Esconda a garrafinha do aluno atrás das costas e pergunte \"Estou segurando sua garrafinha ou a do [nome do colega]?\".",
+    "metadata": {
+      "titulo": "O que está na minha mão?",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_318",
+    "conteudo": "Descrição: Delimite um espaço na sala (com um tapete ou fita) que é o 'canto pessoal' do aluno. Ele deve ser capaz de identificar seus itens quando estão agrupados neste local.",
+    "metadata": {
+      "titulo": "O Canto dos Pertences",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_319",
+    "conteudo": "Descrição: Coloque o casaco do aluno em um lugar diferente do habitual (ex: em outra cadeira). Peça para ele encontrar para onde o casaco 'viajou' hoje.",
+    "metadata": {
+      "titulo": "O Casaco Viajante",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_320",
+    "conteudo": "Descrição: Coloque a lancheira dele e a de um colega lado a lado. Aponte para cada uma e pergunte \"É sua?\". A criança pratica o 'sim' e o 'não'.",
+    "metadata": {
+      "titulo": "Meu, Seu ou Nosso?",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_321",
+    "conteudo": "Descrição: Em uma sala um pouco mais escura, use uma lanterna para iluminar diferentes garrafinhas. Quando a luz parar na dele, ele deve dizer \"Minha!\".",
+    "metadata": {
+      "titulo": "Lanterna Mágica",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_322",
+    "conteudo": "Descrição: Chame pelo nome da criança e peça \"Pegue sua lancheira, por favor\". Observe se ela se dirige ao grupo de lancheiras e seleciona a correta.",
+    "metadata": {
+      "titulo": "O Chamado do Lanche",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_323",
+    "conteudo": "Descrição: Misture os casacos de 3 crianças no chão. A tarefa do aluno é encontrar o seu e colocá-lo em um cesto ou cadeira designada.",
+    "metadata": {
+      "titulo": "Agrupamento por Dono",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_324",
+    "conteudo": "Descrição: Crie uma pequena história: \"Era uma vez um casaco de [cor/personagem] que adorava brincar no parquinho. Onde ele está?\". A criança aponta para o casaco.",
+    "metadata": {
+      "titulo": "A História do Meu Casaco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_325",
+    "conteudo": "Descrição: Entregue à criança um objeto similar a um dos seus pertences (ex: uma tampa de outra garrafa) e peça para ela encontrar a garrafinha que faz par com aquela tampa (a dela).",
+    "metadata": {
+      "titulo": "Qual é o Par?",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_326",
+    "conteudo": "Descrição: Coloque um sachê com um cheiro específico e seguro (ex: camomila) dentro da lancheira. Ele pode usar o olfato como pista para encontrá-la.",
+    "metadata": {
+      "titulo": "O Cheirinho da Minha Lancheira",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_327",
+    "conteudo": "Descrição: Se o casaco tiver um zíper ou um velcro, faça o barulho característico perto do ouvido da criança e depois peça para ela encontrar qual casaco faz aquele som.",
+    "metadata": {
+      "titulo": "O Som do Meu Casaco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_328",
+    "conteudo": "Descrição: Dê o comando \"Simão mandou... tocar no seu casaco!\" ou \"Simão mandou... abraçar sua lancheira!\".",
+    "metadata": {
+      "titulo": "O Jogo do \"Simão Mandou\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_329",
+    "conteudo": "Descrição: Peça para a criança desenhar sua garrafinha em um papel. Depois, ela deve comparar o desenho com o objeto real para reforçar os detalhes.",
+    "metadata": {
+      "titulo": "Desenhe Seu Pertence",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_330",
+    "conteudo": "Descrição: Tire uma foto da lancheira, imprima e recorte em 2 ou 3 pedaços. A criança monta o quebra-cabeça e depois localiza a lancheira real.",
+    "metadata": {
+      "titulo": "O Quebra-Cabeça da Lancheira",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_331",
+    "conteudo": "Descrição: Faça uma fila no chão com vários objetos da sala e inclua os pertences da criança. Ela deve andar ao lado da fila e retirar apenas os que são dela.",
+    "metadata": {
+      "titulo": "A Fila dos Objetos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_332",
+    "conteudo": "Descrição: Amarre uma fita ou um pompom de lã de cor vibrante em todos os pertences do aluno. Este 'laço' se torna um identificador visual rápido e constante.",
+    "metadata": {
+      "titulo": "O Laço da Amizade",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_333",
+    "conteudo": "Descrição: Descreva um dos pertences da criança: \"Sou azul, tenho um dinossauro e guardo seu lanche. Quem sou eu?\". A criança deve apontar para a lancheira.",
+    "metadata": {
+      "titulo": "Quem sou eu?",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_334",
+    "conteudo": "Descrição: Desenhe um mapa simples da sala que leva ao local onde o 'tesouro' (um dos pertences) está guardado.",
+    "metadata": {
+      "titulo": "O Mapa do Tesouro Pessoal",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_335",
+    "conteudo": "Descrição: Antes de sair para o recreio, a criança é o 'porteiro' que deve verificar se está levando seu próprio casaco, conferindo-o com atenção.",
+    "metadata": {
+      "titulo": "O Porteiro da Sala",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_336",
+    "conteudo": "Descrição: Peça ajuda: \"Estou confuso, você pode me mostrar qual dessas é a sua garrafinha?\". Isso dá à criança um senso de competência.",
+    "metadata": {
+      "titulo": "Treinamento de Ajudante",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_337",
+    "conteudo": "Descrição: Brinque que a mão da criança é um ímã que só é atraído pelos seus próprios objetos. Ela passa a mão sobre vários e 'gruda' apenas nos seus.",
+    "metadata": {
+      "titulo": "O Ímã de Pertences",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_338",
+    "conteudo": "Descrição: Crie um cesto de 'achados e perdidos' de mentira com itens de colegas e os da criança. Ela deve 'resgatar' apenas o que for dela.",
+    "metadata": {
+      "titulo": "O Cesto dos Achados e Perdidos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_339",
+    "conteudo": "Descrição: Crie uma música simples: \"Minha lancheira eu vou pegar, pra meu lanchinho saborear\". Cante e incentive a criança a pegar o item mencionado.",
+    "metadata": {
+      "titulo": "A Canção dos Meus Tesouros",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_340",
+    "conteudo": "Descrição: Coloque os pertences no chão e, com uma lanterna, projete a sombra deles na parede. A criança deve adivinhar a qual objeto pertence a sombra.",
+    "metadata": {
+      "titulo": "O Mestre das Sombras",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_341",
+    "conteudo": "Descrição: Disponha as garrafinhas em uma mesa como se fosse uma 'exposição'. A criança é a visitante que deve encontrar a 'obra de arte' que pertence a ela.",
+    "metadata": {
+      "titulo": "Exposição de Arte",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_342",
+    "conteudo": "Descrição: Antes de ir embora, a criança abre sua mochila e confere se os itens que estão lá dentro (lancheira, garrafinha) são realmente os seus.",
+    "metadata": {
+      "titulo": "O Guardião da Mochila",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_343",
+    "conteudo": "Descrição: Coloque o casaco dela e um muito parecido lado a lado. Ajude-a a encontrar as 'diferenças' que provam qual é o seu.",
+    "metadata": {
+      "titulo": "O Jogo das Diferenças",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_344",
+    "conteudo": "Descrição: Use etiquetas de nome com velcro. A criança deve encontrar seu nome e colá-lo em cada um dos seus pertences no início do dia.",
+    "metadata": {
+      "titulo": "Troca de Etiqueta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_345",
+    "conteudo": "Descrição: Deixe a criança sentir o peso da sua garrafinha cheia e depois de uma vazia. Ela pode tentar adivinhar qual é a sua sentindo o peso.",
+    "metadata": {
+      "titulo": "O Campeão de Leveza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_346",
+    "conteudo": "Descrição: Coloque alguns casacos no chão. Toque uma música. Quando a música parar, a criança deve correr e ficar em pé ao lado do seu casaco.",
+    "metadata": {
+      "titulo": "A Dança dos Casacos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_347",
+    "conteudo": "Descrição: Sussurre no ouvido da criança qual pertence ela deve encontrar: \"Vá buscar... sua lancheira...\". A brincadeira de segredo torna a tarefa mais divertida.",
+    "metadata": {
+      "titulo": "O Sussurro Secreto",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_348",
+    "conteudo": "Descrição: Deixe a criança tirar fotos (com um celular ou câmera de brinquedo) dos seus próprios pertences para criar um 'álbum de identificação'.",
+    "metadata": {
+      "titulo": "O Fotógrafo de Pertences",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_349",
+    "conteudo": "Descrição: No final do dia, a criança deve encontrar cada um dos seus pertences e dar um 'abraço de até amanhã' antes de guardá-los na mochila.",
+    "metadata": {
+      "titulo": "O Abraço de Despedida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_350",
+    "conteudo": "Descrição: Mostre 3 lancheiras abertas. A criança deve encontrar a sua e conseguir fechá-la corretamente, associando a ação motora à posse.",
+    "metadata": {
+      "titulo": "O Desafio do Fechamento",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_351",
+    "conteudo": "Descrição: A criança ganha um 'crachá' de Guardião da Luz. Sua missão, ao sair para o pátio, é ser o último a verificar e 'fazer a sala dormir' apagando a luz.",
+    "metadata": {
+      "titulo": "O Guardião da Luz",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_352",
+    "conteudo": "Descrição: Para iniciar a hora da história, a criança é o 'comandante' que, ao seu sinal, fecha a porta para garantir o silêncio e a concentração da 'tripulação'.",
+    "metadata": {
+      "titulo": "Comandante da Porta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_353",
+    "conteudo": "Descrição: Dê 'binóculos' de rolo de papel para a criança. Sua missão secreta é escanear a sala e capturar qualquer 'invasor' (papel no chão), levando-o para a 'base' (lixeira).",
+    "metadata": {
+      "titulo": "Agente Secreto Anti-Lixo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_354",
+    "conteudo": "Descrição: Com uma 'varinha mágica' (canudo ou lápis), a criança toca ao lado do interruptor e diz as palavras mágicas (\"Abracadabra, luz apaga!\") antes de apertá-lo.",
+    "metadata": {
+      "titulo": "O Mágico da Eletricidade",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_355",
+    "conteudo": "Descrição: A criança é a 'patrulheira' que, com um gesto suave (dedo nos lábios), fecha a porta devagar para sinalizar que é um momento de atividade calma.",
+    "metadata": {
+      "titulo": "A Patrulha do Silêncio",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_356",
+    "conteudo": "Descrição: Ao final de uma atividade de recorte, anuncie uma 'caça ao tesouro'. A criança deve encontrar todos os 'tesouros' de papel picado que caíram no chão.",
+    "metadata": {
+      "titulo": "Caça ao Tesouro de Papel",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_357",
+    "conteudo": "Descrição: Com supervisão, antes de ligar o ar condicionado ou quando começa a chover, a criança é responsável por empurrar e fechar a janela (que já deve estar destravada e segura).",
+    "metadata": {
+      "titulo": "O Fechador de Janelas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_358",
+    "conteudo": "Descrição: A criança tem a missão de recolher os papéis para reciclagem em uma caixa específica, sendo o 'mensageiro' que ajuda o planeta.",
+    "metadata": {
+      "titulo": "O Mensageiro Verde",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_359",
+    "conteudo": "Descrição: Se a sala usa um aparelho de som, a criança é o 'DJ' que aperta o botão de 'pause' ou 'off' quando o professor sinaliza o fim da música.",
+    "metadata": {
+      "titulo": "DJ do Silêncio",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_360",
+    "conteudo": "Descrição: Para a hora do filme ou do soninho, a criança é a responsável por puxar as cortinas ou fechar as persianas para deixar a sala mais escura.",
+    "metadata": {
+      "titulo": "O Guardião das Cortinas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_361",
+    "conteudo": "Descrição: A criança veste um 'jaleco' (camisa de botão grande). Uma vez por semana, ela usa um regador com a medida certa de água para 'dar o remédio' para a planta da sala.",
+    "metadata": {
+      "titulo": "Doutor de Plantas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_362",
+    "conteudo": "Descrição: Ao final do dia, a criança é a 'fiscal' que verifica se todas as cadeiras estão 'dormindo' (empurradas para debaixo da mesa) e ajuda a arrumar as que ficaram fora do lugar.",
+    "metadata": {
+      "titulo": "O Fiscal das Cadeiras",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_363",
+    "conteudo": "Descrição: A criança é responsável por distribuir os paninhos de limpeza para os colegas na hora de limpar as mesas.",
+    "metadata": {
+      "titulo": "Chefe dos Paninhos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_364",
+    "conteudo": "Descrição: Com uma cestinha, a criança faz uma ronda no chão em busca de 'lápis perdidos' que precisam ser resgatados e devolvidos à sua 'casa' (o pote de lápis).",
+    "metadata": {
+      "titulo": "O Resgate dos Lápis",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_365",
+    "conteudo": "Descrição: Como 'capitão', sua primeira tarefa antes de a fila andar é verificar se a porta está aberta o suficiente para a passagem de todos.",
+    "metadata": {
+      "titulo": "Capitão da Fila",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_366",
+    "conteudo": "Descrição: Ao final de uma atividade no quadro branco, a criança recebe o apagador para 'limpar o céu', deixando o quadro pronto para a próxima tarefa.",
+    "metadata": {
+      "titulo": "O Apagador Mestre",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_367",
+    "conteudo": "Descrição: Após o uso do cantinho da leitura, a criança tem a tarefa de deixar as almofadas 'confortáveis', empilhando-as ou colocando-as no lugar certo.",
+    "metadata": {
+      "titulo": "Alinhador de Almofadas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_368",
+    "conteudo": "Descrição: Se houver um pequeno derramamento de água, a criança é o 'herói' que busca o papel toalha ou o paninho para secar o chão.",
+    "metadata": {
+      "titulo": "O Herói da Água",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_369",
+    "conteudo": "Descrição: A criança é o 'carteiro' que recolhe os desenhos ou trabalhos finalizados de cada mesa e os coloca na caixa de entrega da professora.",
+    "metadata": {
+      "titulo": "O Carteiro dos Trabalhos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_370",
+    "conteudo": "Descrição: Ao voltar do pátio, a criança é a primeira da fila e tem a missão de abrir a porta para que o resto da turma possa entrar.",
+    "metadata": {
+      "titulo": "Operação \"Porta Aberta\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_371",
+    "conteudo": "Descrição: Após brincar no tanque de areia, a criança ajuda a varrer (com uma vassourinha de mão) a areia que caiu para fora, mantendo a área limpa.",
+    "metadata": {
+      "titulo": "Sentinela da Areia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_372",
+    "conteudo": "Descrição: Ao final do dia, a criança usa um 'pegador' (pode ser um de cozinha, de brinquedo) para recolher peças pequenas (como legos) que ficaram no chão.",
+    "metadata": {
+      "titulo": "O Guardião dos Brinquedos Pequenos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_373",
+    "conteudo": "Descrição: Com um banquinho seguro e supervisão, a criança é responsável por puxar a cordinha ou apertar o botão para desligar o ventilador de parede.",
+    "metadata": {
+      "titulo": "O Desligador de Ventilador",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_374",
+    "conteudo": "Descrição: A criança verifica a estante de livros e coloca de pé aqueles que tombaram, deixando a 'cidade dos livros' organizada.",
+    "metadata": {
+      "titulo": "O Organizador de Livros",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_375",
+    "conteudo": "Descrição: A criança aprende a girar a maçaneta completamente antes de fechar a porta, para que ela não bata e faça barulho.",
+    "metadata": {
+      "titulo": "O Silenciador de Portas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_376",
+    "conteudo": "Descrição: Com supervisão, se um fio de aparelho (como rádio) estiver no caminho, a criança avisa o professor e o ajuda a prendê-lo ou enrolá-lo no lugar seguro.",
+    "metadata": {
+      "titulo": "O Caçador de Fios",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_377",
+    "conteudo": "Descrição: A criança fica ao lado de duas lixeiras (comum e reciclável) e ajuda os colegas a decidirem em qual lixo jogar cada item.",
+    "metadata": {
+      "titulo": "O Chefe da Reciclagem",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_378",
+    "conteudo": "Descrição: Com um borrifador de água com um aroma suave e seguro, a criança pode dar uma borrifada no ar (com autorização) para 'limpar o ambiente'.",
+    "metadata": {
+      "titulo": "O Espalhador de Cheirinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_379",
+    "conteudo": "Descrição: A criança ajuda a organizar os sapatos na entrada da sala ou perto do tatame, colocando-os em pares.",
+    "metadata": {
+      "titulo": "O Amigo dos Sapatos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_380",
+    "conteudo": "Descrição: Se a professora usa giz, a criança pode ser responsável por limpar o apagador batendo-o (em local apropriado, externo) ou guardando os pedaços de giz na caixa.",
+    "metadata": {
+      "titulo": "O Ajudante do Giz",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_381",
+    "conteudo": "Descrição: A criança ajuda a alinhar as mochilas perto da porta na hora da saída, garantindo que o caminho não fique bloqueado.",
+    "metadata": {
+      "titulo": "O Despachante de Mochilas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_382",
+    "conteudo": "Descrição: A criança ajuda a enrolar ou dobrar um tapete de atividades após o seu uso.",
+    "metadata": {
+      "titulo": "O Guardião do Tapete",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_383",
+    "conteudo": "Descrição: A criança é a responsável por virar uma placa na porta de 'Bem-vindos' para 'Até amanhã', sinalizando o encerramento das atividades.",
+    "metadata": {
+      "titulo": "O Sinalizador de Saída",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_384",
+    "conteudo": "Descrição: Após o lanche, a missão da criança é procurar por tampinhas de garrafa ou potes que possam ter caído no chão.",
+    "metadata": {
+      "titulo": "O Detetive de Tampinhas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_385",
+    "conteudo": "Descrição: Se houver painéis ou jogos com velcro, a criança ajuda a recolher as peças e a grudá-las de volta no lugar de descanso.",
+    "metadata": {
+      "titulo": "O Mestre do Velcro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_386",
+    "conteudo": "Descrição: A criança é a responsável por verificar se há papel toalha no chão do banheiro (após o uso da turma) e recolhê-lo.",
+    "metadata": {
+      "titulo": "O Secador de Mãos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_387",
+    "conteudo": "Descrição: A criança é incentivada a observar se um colega derrubou algo (um lápis, um papel) e ajudá-lo a recolher.",
+    "metadata": {
+      "titulo": "O Anjo da Guarda dos Colegas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_388",
+    "conteudo": "Descrição: Ao final da aula de arte, a criança verifica se todos os potes de guache ou cola estão bem fechados para não secarem.",
+    "metadata": {
+      "titulo": "O Fechador de Potes de Tinta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_389",
+    "conteudo": "Descrição: Com uma vassoura pequena, a criança pode 'pilotar' a sujeira de uma área pequena e demarcada para dentro de uma pá.",
+    "metadata": {
+      "titulo": "O Piloto da Vassoura",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_390",
+    "conteudo": "Descrição: A criança segura a porta aberta para que os colegas passem com as mãos ocupadas (trazendo material, por exemplo).",
+    "metadata": {
+      "titulo": "O Controlador de Acesso",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_391",
+    "conteudo": "Descrição: Ao chegar de manhã ou depois de um filme, a criança tem a tarefa de 'acordar a sala' acendendo as luzes.",
+    "metadata": {
+      "titulo": "O Acendedor de Luzes",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_392",
+    "conteudo": "Descrição: Com ajuda, a criança aperta o botão de 'stand-by' do monitor do computador ou da TV da sala.",
+    "metadata": {
+      "titulo": "O Desligador de Telas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_393",
+    "conteudo": "Descrição: Se folhas ou galhos entrarem na sala pela janela, a criança tem a missão de coletá-los e levá-los de volta para o jardim.",
+    "metadata": {
+      "titulo": "O Coletor de Folhas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_394",
+    "conteudo": "Descrição: Se a sala tiver um cantinho do sono com mantas, a criança ajuda a dobrá-las (mesmo que de forma imperfeita) após o uso.",
+    "metadata": {
+      "titulo": "O Dobrador de Cobertores",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_395",
+    "conteudo": "Descrição: Ao final do dia, a criança recolhe os crachás que ficam nas mesas e os pendura no painel de entrada.",
+    "metadata": {
+      "titulo": "O Chefe dos Crachás",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_396",
+    "conteudo": "Descrição: Se algum desenho ou aviso cair do mural, a criança é responsável por entregá-lo ao professor para que seja colocado de volta.",
+    "metadata": {
+      "titulo": "O Guardião do Mural",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_397",
+    "conteudo": "Descrição: Antes de sair do banheiro, a criança faz uma 'inspeção final' para garantir que todas as torneiras foram bem fechadas.",
+    "metadata": {
+      "titulo": "O Inspetor de Torneiras",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_398",
+    "conteudo": "Descrição: Se houver um peixe ou outro animal de estimação, a criança pode ser a responsável por ajudar a dar a porção correta de comida.",
+    "metadata": {
+      "titulo": "O Mestre Cuca da Ração",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_399",
+    "conteudo": "Descrição: A criança é a última a sair e, junto com o professor, dá uma última olhada na sala para verificar se \"tudo está dormindo em seu lugar\".",
+    "metadata": {
+      "titulo": "O Último Olhar",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_400",
+    "conteudo": "Descrição: Como última tarefa coletiva, a criança é encarregada de apagar a luz e dizer um sonoro \"Até amanhã, sala!\", sendo seguida pelos colegas.",
+    "metadata": {
+      "titulo": "O Líder do \"Até Amanhã\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  }
+]

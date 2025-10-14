@@ -1,0 +1,3302 @@
+[
+  {
+    "id": "socializacao_5a6_01",
+    "conteudo": "Descrição: Coloque uma caixa com diferentes objetos (blocos, massinha, contas). O aluno pode escolher um item para brincar na mesa por alguns minutos, e depois outro, aumentando o tempo.",
+    "metadata": {
+      "titulo": "Caixa de Tesouros",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_02",
+    "conteudo": "Descrição: Use um quebra-cabeça com poucas peças, mas grandes e coloridas. A criança pode montar as peças na mesa, focando na atividade e aumentando o tempo de permanência.",
+    "metadata": {
+      "titulo": "Quebra-Cabeça Grande",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_03",
+    "conteudo": "Descrição: Use tintas e papel. O professor e a criança podem pintar juntos, com o professor direcionando a atividade para que a criança se mantenha sentada e focada.",
+    "metadata": {
+      "titulo": "Pintura Mágica",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_04",
+    "conteudo": "Descrição: Dê massinha de modelar para o aluno e o incentive a criar diferentes formas, como animais ou objetos, aumentando o tempo na mesa enquanto ele modela.",
+    "metadata": {
+      "titulo": "Montanha de Massinha",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_05",
+    "conteudo": "Descrição: Peça ao aluno para construir a torre mais alta que conseguir, com blocos de montar, na mesa. Isso o mantém focado e sentado.",
+    "metadata": {
+      "titulo": "Torre de Blocos",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_06",
+    "conteudo": "Descrição: Leia um livro curto. Depois, peça ao aluno para desenhar a parte que ele mais gostou, na mesa.",
+    "metadata": {
+      "titulo": "Livro de Histórias e Desenhos",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_07",
+    "conteudo": "Descrição: Desenhe um labirinto em uma folha de papel grande e o incentive a usar um carrinho para seguir o caminho, na mesa.",
+    "metadata": {
+      "titulo": "Labirinto com Carrinho",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_08",
+    "conteudo": "Descrição: Ofereça miçangas grandes e um cordão. O aluno pode fazer um colar ou uma pulseira, o que é uma atividade que requer tempo e atenção na mesa.",
+    "metadata": {
+      "titulo": "Contas e Cordões",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_09",
+    "conteudo": "Descrição: Dê uma folha de papel com um desenho simples e adesivos de cores diferentes. A criança deve colar os adesivos para preencher o desenho, na mesa.",
+    "metadata": {
+      "titulo": "Mosaico de Adesivos",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_10",
+    "conteudo": "Descrição: Use um jogo da memória com poucas peças. O professor e a criança podem jogar na mesa.",
+    "metadata": {
+      "titulo": "Jogo da Memória",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_11",
+    "conteudo": "Descrição: Dê ao aluno potes de cores diferentes e objetos para serem colocados neles. O aluno deve separar os objetos por cor, o que o mantém focado na mesa.",
+    "metadata": {
+      "titulo": "Potes de Cores",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_12",
+    "conteudo": "Descrição: Use tintas atóxicas e papel. A criança pode pintar com os dedos, na mesa, o que a mantém engajada por um tempo.",
+    "metadata": {
+      "titulo": "Pintura com Dedos",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_13",
+    "conteudo": "Descrição: Dê peças de montar ou massinha para que o aluno crie bonecos, na mesa.",
+    "metadata": {
+      "titulo": "Montando Bonecos",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_14",
+    "conteudo": "Descrição: Use um jogo de pescar com ímãs. O aluno pode pescar os peixes na mesa.",
+    "metadata": {
+      "titulo": "Jogo da Pesca",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_15",
+    "conteudo": "Descrição: Dê um livro com adesivos para a criança preencher. As páginas com temas variados ajudam a manter o foco.",
+    "metadata": {
+      "titulo": "Livro de Adesivos",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_16",
+    "conteudo": "Descrição: Peça ao aluno para desenhar sua família. Isso pode ser uma atividade calmante e que o manterá sentado na mesa.",
+    "metadata": {
+      "titulo": "Desenho de Família",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_17",
+    "conteudo": "Descrição: Dê ao aluno diferentes papéis coloridos, cola e tesoura sem ponta para que ele crie uma colagem na mesa.",
+    "metadata": {
+      "titulo": "Colagem com Papel",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_18",
+    "conteudo": "Descrição: Use blocos de encaixar com formas diferentes. O professor e o aluno podem brincar de nomear as formas na mesa.",
+    "metadata": {
+      "titulo": "Jogo do \"Qual é a Forma?\"",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_19",
+    "conteudo": "Descrição: Ofereça potes com diferentes texturas (lã, algodão). O aluno pode tocar e descrever o que sente, o que o mantém na mesa por um tempo.",
+    "metadata": {
+      "titulo": "Potes com Fibras",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_20",
+    "conteudo": "Descrição: Esconda objetos pequenos e coloridos na mesa. A criança deve encontrá-los e nomear a cor.",
+    "metadata": {
+      "titulo": "Jogo do \"Esconde-Esconde\"",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_21",
+    "conteudo": "Descrição: Dê contas grandes e um cordão. O aluno pode amarrar as contas para fazer uma pulseira.",
+    "metadata": {
+      "titulo": "Contas de Amarrar",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_22",
+    "conteudo": "Descrição: Coloque objetos com diferentes texturas em uma caixa. O aluno coloca a mão e descreve o que sente.",
+    "metadata": {
+      "titulo": "Caixa de Sensações",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_23",
+    "conteudo": "Descrição: Desenhe um caminho na folha e peça ao aluno para preencher com a cor correta, o que o mantém focado na mesa.",
+    "metadata": {
+      "titulo": "Jogo do \"Caminho da Cor\"",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_24",
+    "conteudo": "Descrição: Use cartas com figuras para jogar \"Uno\" ou \"Buraco\". O aluno pode sentar na mesa e se concentrar no jogo.",
+    "metadata": {
+      "titulo": "Jogo de Cartas",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_25",
+    "conteudo": "Descrição: Use um tabuleiro simples com poucas peças. O professor e o aluno podem jogar, o que exige tempo na mesa.",
+    "metadata": {
+      "titulo": "Jogo de Tabuleiro",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_26",
+    "conteudo": "Descrição: Use um tabuleiro com furos. O aluno pode passar fios pelos furos para criar um desenho.",
+    "metadata": {
+      "titulo": "O Robô de Fios",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_27",
+    "conteudo": "Descrição: Dê argila para o aluno modelar. É uma atividade que requer tempo e atenção na mesa.",
+    "metadata": {
+      "titulo": "Modelagem de Argila",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_28",
+    "conteudo": "Descrição: Ofereça blocos de encaixar de diferentes tamanhos e cores. O aluno pode criar formas e estruturas na mesa.",
+    "metadata": {
+      "titulo": "Blocos de Encaixar",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_29",
+    "conteudo": "Descrição: Use cartas com figuras. O professor diz o nome da figura e o aluno deve encontrar a carta.",
+    "metadata": {
+      "titulo": "Jogo da Palavra",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_30",
+    "conteudo": "Descrição: O professor coloca um pingo de tinta no papel e a criança assopra com um canudo para espalhar a tinta.",
+    "metadata": {
+      "titulo": "Pintura com Canudos",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_31",
+    "conteudo": "Descrição: Use peças de montar para que o aluno construa uma cidade na mesa.",
+    "metadata": {
+      "titulo": "Montando a Cidade",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_32",
+    "conteudo": "Descrição: Crie cartelas de bingo com formas geométricas. O professor diz o nome da forma e a criança marca.",
+    "metadata": {
+      "titulo": "Jogo do \"Bingo das Formas\"",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_33",
+    "conteudo": "Descrição: Use areia cinética. É uma atividade sensorial que mantém o aluno focado e na mesa.",
+    "metadata": {
+      "titulo": "Massinha de Areia",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_34",
+    "conteudo": "Descrição: Dê revistas velhas. O aluno pode recortar figuras e colá-las em um papel.",
+    "metadata": {
+      "titulo": "Recorte e Cole",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_35",
+    "conteudo": "Descrição: Use palitos de picolé e cola para construir formas na mesa.",
+    "metadata": {
+      "titulo": "Construção com Palitos de Picolé",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_36",
+    "conteudo": "Descrição: Coloque uma lanterna atrás de um objeto. O aluno deve adivinhar qual é o objeto pela sombra e desenhá-lo.",
+    "metadata": {
+      "titulo": "Jogo da Sombra",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_37",
+    "conteudo": "Descrição: Use figuras com uma sequência. O aluno deve colocá-las na ordem correta.",
+    "metadata": {
+      "titulo": "Jogo de Sequência",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_38",
+    "conteudo": "Descrição: Adicione tinta à água com sabão. O aluno assopra com o canudo para criar bolhas e carimba-as no papel.",
+    "metadata": {
+      "titulo": "Pintura com Bolhas",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_39",
+    "conteudo": "Descrição: O aluno pode separar botões por cor ou tamanho.",
+    "metadata": {
+      "titulo": "Caixa de Botões",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_40",
+    "conteudo": "Descrição: O professor coloca vários objetos na mesa. O aluno fecha os olhos e o professor tira um objeto. O aluno deve adivinhar qual está faltando.",
+    "metadata": {
+      "titulo": "Jogo do \"O que está faltando?\"",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_41",
+    "conteudo": "Descrição: Use tábuas de encaixe com formas e letras.",
+    "metadata": {
+      "titulo": "Tábua de Encaixe",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_42",
+    "conteudo": "Descrição: Use vegetais cortados ao meio para fazer carimbos no papel.",
+    "metadata": {
+      "titulo": "Carimbo com Vegetais",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_43",
+    "conteudo": "Descrição: Coloque um objeto na mesa e ilumine com uma lanterna. O aluno deve desenhar a sombra.",
+    "metadata": {
+      "titulo": "Desenho de Sombras",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_44",
+    "conteudo": "Descrição: Use canudos e conectores para criar esculturas.",
+    "metadata": {
+      "titulo": "Escultura com Canudos",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_45",
+    "conteudo": "Descrição: Crie um padrão com blocos de cores. O aluno deve continuar o padrão.",
+    "metadata": {
+      "titulo": "Jogo do \"Qual é o Padrão?\"",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_46",
+    "conteudo": "Descrição: Imprima uma foto e corte-a em pedaços. O aluno deve montar o quebra-cabeça na mesa.",
+    "metadata": {
+      "titulo": "Quebra-Cabeça com Fotos",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_47",
+    "conteudo": "Descrição: O professor coloca um objeto na cesta e o aluno deve adivinhar qual é.",
+    "metadata": {
+      "titulo": "Jogo do \"Tire um da Cesta\"",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_48",
+    "conteudo": "Descrição: Use um tabuleiro simples. O aluno joga o dado e move a peça para a cor correta.",
+    "metadata": {
+      "titulo": "Jogo de Tabuleiro com Cores",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_49",
+    "conteudo": "Descrição: Use peças de feltro com olhos, nariz, boca para que o aluno crie rostos diferentes.",
+    "metadata": {
+      "titulo": "Montando o Rosto",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_50",
+    "conteudo": "Descrição: O professor faz uma expressão. O aluno deve adivinhar a emoção e desenhá-la.",
+    "metadata": {
+      "titulo": "Jogo do \"Adivinhe a Emoção\"",
+      "dimensao": "Socialização",
+      "habilidade": "Fica sentado(a) à mesa fazendo atividades pedagógicas por pelo menos 20 minutos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_51",
+    "conteudo": "Descrição: Crie um percurso simples na sala com 3 ou 4 estações. Exemplo: \"Primeiro, pule três vezes no bambolê. Segundo, engatinhe sob a mesa. Terceiro, pegue o pato de borracha na caixa.\"",
+    "metadata": {
+      "titulo": "Pista de Obstáculos",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_52",
+    "conteudo": "Descrição: Prepare uma \"receita\" de massinha ou biscoito simples. As instruções podem ser: \"Pegue a farinha, adicione a água, misture com a colher e amasse com as mãos.\"",
+    "metadata": {
+      "titulo": "Receita do Chef",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_53",
+    "conteudo": "Descrição: Esconda um objeto na sala e crie um mapa com 3 pistas. Exemplo: \"Vá até o armário, depois olhe embaixo da cadeira, o tesouro está na caixa vermelha.\"",
+    "metadata": {
+      "titulo": "Caça ao Tesouro",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_54",
+    "conteudo": "Descrição: Dê instruções com 3 ou mais passos para um desenho. Exemplo: \"Desenhe um círculo grande, depois uma casa em cima dele, e por último, pinte a porta de amarelo.\"",
+    "metadata": {
+      "titulo": "Desenho Mágico",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_55",
+    "conteudo": "Descrição: O professor finge ser um robô e a criança deve dar 3 comandos. Exemplo: \"Robô, levante o braço, ande para a frente e sente-se.\"",
+    "metadata": {
+      "titulo": "O Robô Obediente",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_56",
+    "conteudo": "Descrição: Dê as instruções para a criança construir uma torre com 3 passos. Exemplo: \"Coloque um bloco azul na base, ponha um bloco vermelho em cima e adicione um amarelo no topo.\"",
+    "metadata": {
+      "titulo": "Montando a Torre",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_57",
+    "conteudo": "Descrição: Crie um cenário de viagem espacial. As instruções podem ser: \"Vista o capacete, sente-se na nave, e conte até 5 para decolar.\"",
+    "metadata": {
+      "titulo": "Viagem Espacial",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_58",
+    "conteudo": "Descrição: A criança é o carteiro. As instruções são: \"Pegue a carta, entregue ao(à) colega no tapete, e volte para o seu lugar.\"",
+    "metadata": {
+      "titulo": "O Carteiro",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_59",
+    "conteudo": "Descrição: Desenhe uma escada no chão. As instruções para subir um degrau podem ser: \"Cante uma música, dê um pulo, e diga uma cor.\"",
+    "metadata": {
+      "titulo": "Jogo da Escada",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_60",
+    "conteudo": "Descrição: Monte uma lojinha. Diga as instruções para a criança \"comprar\" itens: \"Pegue uma fruta de plástico, coloque-a na cesta, e pague com uma moedinha.\"",
+    "metadata": {
+      "titulo": "Brincadeira de Compras",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_61",
+    "conteudo": "Descrição: Use uma caixa de papelão como máquina. As instruções são: \"Coloque a ficha, aperte o botão vermelho, e pegue o brinquedo.\"",
+    "metadata": {
+      "titulo": "A Máquina de Brinquedos",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_62",
+    "conteudo": "Descrição: Dê as instruções para a criança montar o boneco. Exemplo: \"Pegue os olhos, coloque o chapéu, e por último, adicione a boca.\"",
+    "metadata": {
+      "titulo": "Montando o Sr. Batata",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_63",
+    "conteudo": "Descrição: Use uma lanterna para fazer sombras na parede. As instruções são: \"Faça uma sombra de cachorro, uma de gato e por fim, uma de coelho.\"",
+    "metadata": {
+      "titulo": "Jogo da Sombra",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_64",
+    "conteudo": "Descrição: Use potes e colheres. As instruções são: \"Coloque uma colher de areia no pote, depois coloque a água e misture tudo.\"",
+    "metadata": {
+      "titulo": "O Cozinheiro Maluco",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_65",
+    "conteudo": "Descrição: Dê instruções para a criança empilhar blocos. Exemplo: \"Empilhe 3 blocos azuis, 2 blocos amarelos em cima e 1 bloco vermelho no topo.\"",
+    "metadata": {
+      "titulo": "O Jogo dos Blocos",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_66",
+    "conteudo": "Descrição: Dê as instruções para a criança pegar e colocar os itens. Exemplo: \"Pegue o lápis azul, ponha no pote azul, e depois pegue o lápis vermelho.\"",
+    "metadata": {
+      "titulo": "Jogo de Cores",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_67",
+    "conteudo": "Descrição: A criança pode \"plantar\" uma semente. As instruções são: \"Coloque a terra no vaso, ponha a semente, e regue com um pouquinho de água.\"",
+    "metadata": {
+      "titulo": "Plantando a Semente",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_68",
+    "conteudo": "Descrição: A criança é o mágico. As instruções são: \"Bata a varinha no chão, diga 'abracadabra' e acene para o público.\"",
+    "metadata": {
+      "titulo": "O Mágico",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_69",
+    "conteudo": "Descrição: Dê comandos de dança de 3 passos. Exemplo: \"Levante os braços, gire e pule.\"",
+    "metadata": {
+      "titulo": "Dança dos Comandos",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_70",
+    "conteudo": "Descrição: A criança finge ser um soldado. As instruções são: \"Marche para a frente, pare, e faça continência.\"",
+    "metadata": {
+      "titulo": "O Soldado Obediente",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_71",
+    "conteudo": "Descrição: A criança \"liga\" para um amigo. As instruções são: \"Pegue o telefone, diga 'oi', e convide o amigo para brincar.\"",
+    "metadata": {
+      "titulo": "Brincadeira do Telefone",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_72",
+    "conteudo": "Descrição: O professor esconde um objeto. As instruções são: \"Olhe embaixo da mesa, depois na estante, e pegue a bola vermelha.\"",
+    "metadata": {
+      "titulo": "O Detetive",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_73",
+    "conteudo": "Descrição: Conte uma história em 3 partes. A criança deve montar um quebra-cabeça da história em 3 etapas.",
+    "metadata": {
+      "titulo": "Quebra-cabeça de História",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_74",
+    "conteudo": "Descrição: Use um boneco de pelúcia. As instruções são: \"Pegue o curativo, coloque no boneco, e dê um abraço.\"",
+    "metadata": {
+      "titulo": "Jogo do \"Eu Cuido de Você\"",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_75",
+    "conteudo": "Descrição: A criança \"dirige\" um carrinho de mão. As instruções são: \"Segure o carrinho, ande para a direita, e pare.\"",
+    "metadata": {
+      "titulo": "O Carrinho de Mão",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_76",
+    "conteudo": "Descrição: O professor faz uma sombra. As instruções são: \"Diga 'sombra, sombra', olhe para a parede, e adivinhe o que é.\"",
+    "metadata": {
+      "titulo": "O Jogo da Sombra Mágica",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_77",
+    "conteudo": "Descrição: A criança usa carimbos. As instruções são: \"Escolha um carimbo, passe na tinta, e carimbe a folha.\"",
+    "metadata": {
+      "titulo": "Desenho com Carimbo",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_78",
+    "conteudo": "Descrição: O professor começa uma história e a criança deve continuar com 3 frases. Exemplo: \"O gato miou alto, pulou a cerca, e...\".",
+    "metadata": {
+      "titulo": "O Jogo do \"Continua a História\"",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_79",
+    "conteudo": "Descrição: A criança faz uma pintura com bolhas. As instruções são: \"Assopre com o canudo na água com sabão, coloque o papel na bolha, e veja a pintura.\"",
+    "metadata": {
+      "titulo": "Pintura com Bolhas",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_80",
+    "conteudo": "Descrição: Crie um padrão com blocos de cores. As instruções são: \"Pegue o bloco vermelho, o azul, e coloque o verde para continuar o padrão.\"",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual é o Padrão?\"",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_81",
+    "conteudo": "Descrição: Dê 3 figuras que formam uma sequência. A criança deve colocá-las na ordem correta, um passo por vez.",
+    "metadata": {
+      "titulo": "Jogo de Sequência",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_82",
+    "conteudo": "Descrição: A criança faz uma colagem. As instruções são: \"Pegue a cola, cole o papel na folha, e decore com brilho.\"",
+    "metadata": {
+      "titulo": "Colagem com Papel",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_83",
+    "conteudo": "Descrição: O professor mostra 3 figuras. As instruções são: \"Diga o nome da primeira figura, da segunda e da terceira.\"",
+    "metadata": {
+      "titulo": "Jogo do \"Qual é o Nome?\"",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_84",
+    "conteudo": "Descrição: A criança brinca de ir ao mercado. As instruções são: \"Pegue o carrinho, coloque um pote de iogurte, e um biscoito.\"",
+    "metadata": {
+      "titulo": "O Carrinho de Compras",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_85",
+    "conteudo": "Descrição: Use um labirinto de madeira com bolinhas. As instruções são: \"Mova a bolinha até o meio, depois para a direita, e tire-a.\"",
+    "metadata": {
+      "titulo": "Jogo de Labirinto",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_86",
+    "conteudo": "Descrição: A criança monta um boneco. As instruções são: \"Faça uma bolinha para a cabeça, um rolo para o corpo, e duas bolinhas para os olhos.\"",
+    "metadata": {
+      "titulo": "Montando Bonecos de Argila",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_87",
+    "conteudo": "Descrição: O professor e a criança fazem formas com as mãos. As instruções são: \"Faça uma borboleta, depois um cachorro, e um coelho.\"",
+    "metadata": {
+      "titulo": "O Jogo dos Dedos",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_88",
+    "conteudo": "Descrição: Cante uma música com 3 passos de ação. Exemplo: \"Cabeça, ombro, joelho e pé.\"",
+    "metadata": {
+      "titulo": "Cantando e Fazendo",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_89",
+    "conteudo": "Descrição: A criança joga o boliche. As instruções são: \"Pegue a bola, mire no pino, e jogue a bola.\"",
+    "metadata": {
+      "titulo": "Jogo de Boliche",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_90",
+    "conteudo": "Descrição: As crianças se revezam para passar uma bola. As instruções são: \"Passe a bola para o seu colega, e espere.\"",
+    "metadata": {
+      "titulo": "O Jogo da \"Batata Quente\"",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_91",
+    "conteudo": "Descrição: A criança explora objetos. As instruções são: \"Feche os olhos, toque no objeto, e diga o que sente.\"",
+    "metadata": {
+      "titulo": "O Jogo dos Sentidos",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_92",
+    "conteudo": "Descrição: A criança sobe no palco. As instruções são: \"Suba no palco, faça uma pose, e diga 'olá'.\"",
+    "metadata": {
+      "titulo": "Teatro de Palco",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_93",
+    "conteudo": "Descrição: O professor coloca 3 objetos na mesa. A criança fecha os olhos e o professor tira um. A criança deve dizer o que falta.",
+    "metadata": {
+      "titulo": "O Jogo do \"O que está faltando?\"",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_94",
+    "conteudo": "Descrição: Use uma pista de brinquedo. As instruções são: \"Coloque o carro no início, empurre, e espere ele parar.\"",
+    "metadata": {
+      "titulo": "Pista de Carros",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_95",
+    "conteudo": "Descrição: O professor mostra 3 objetos. As instruções são: \"Advinhe a sombra do primeiro objeto, do segundo e do terceiro.\"",
+    "metadata": {
+      "titulo": "O Jogo do \"Adivinhe a Sombra\"",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_96",
+    "conteudo": "Descrição: As crianças se sentam em círculo e passam um chapéu. As instruções são: \"Pegue o chapéu, ponha na sua cabeça, e passe para o seu colega.\"",
+    "metadata": {
+      "titulo": "O Jogo do \"Passar o Chapéu\"",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_97",
+    "conteudo": "Descrição: O professor coloca 3 gotas de tinta. As instruções são: \"Assopre a gota vermelha, depois a azul, e por último a amarela.\"",
+    "metadata": {
+      "titulo": "Desenho com Canudos",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_98",
+    "conteudo": "Descrição: O professor mostra 3 fotos. As instruções são: \"Diga o nome da primeira pessoa, da segunda e da terceira.\"",
+    "metadata": {
+      "titulo": "O Jogo do \"Quem é?\"",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_99",
+    "conteudo": "Descrição: A criança coloca objetos em potes. As instruções são: \"Pegue o lápis, ponha no pote, e feche a tampa.\"",
+    "metadata": {
+      "titulo": "Jogo dos Potes",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_100",
+    "conteudo": "Descrição: A criança se move como uma borboleta. As instruções são: \"Bata os braços, pule, e pouse na flor.\"",
+    "metadata": {
+      "titulo": "O Jogo da Borboleta",
+      "dimensao": "Socialização",
+      "habilidade": "Segue instruções de mais de 3 etapas dadas à turma ou a um grupo.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_101",
+    "conteudo": "Descrição: No final do dia, sente-se com a criança e use um caderno. Pergunte \"Qual emoção você sentiu hoje?\" e peça que ela desenhe ou aponte para uma figura da emoção. Depois, pergunte \"Por que você se sentiu assim?\" para que ela dê uma explicação simples.",
+    "metadata": {
+      "titulo": "O Diário das Emoções",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_102",
+    "conteudo": "Descrição: Use massa de biscoito ou argila. Peça para a criança modelar rostos de emoções (feliz, triste, bravo). Enquanto ela modela, pergunte \"O que te deixa feliz como esse biscoito?\" ou \"O que te deixa triste?\".",
+    "metadata": {
+      "titulo": "Biscoitos Sentimento",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_103",
+    "conteudo": "Descrição: Crie um semáforo de papel. A cada emoção que o professor nomeia, a criança deve mover um ponteiro para a cor que ela associa à emoção. Em seguida, pergunte \"O que te faz sentir dessa cor?\".",
+    "metadata": {
+      "titulo": "Semáforo das Emoções",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_104",
+    "conteudo": "Descrição: Comece a frase \"Eu me sinto feliz quando...\" e incentive a criança a completar. Depois, use \"Eu me sinto triste quando...\", \"Eu me sinto bravo quando...\" e \"Eu me sinto com medo quando...\".",
+    "metadata": {
+      "titulo": "O Jogo do \"Eu Me Sinto...\"",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_105",
+    "conteudo": "Descrição: Use tintas de diferentes cores. Peça para a criança pintar com as mãos e pergunte \"Essa cor (vermelha, por exemplo) me faz sentir brava. O que te deixa bravo?\".",
+    "metadata": {
+      "titulo": "Pintura com as Mãos",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_106",
+    "conteudo": "Descrição: Crie um livro em branco. O professor pode ler um trecho de uma história e perguntar \"Como você se sentiria se fosse o personagem?\". Depois, a criança pode desenhar o que a faz sentir assim.",
+    "metadata": {
+      "titulo": "O Livro das Histórias",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_107",
+    "conteudo": "Descrição: Coloque objetos variados em uma caixa. A criança tira um por vez. Pergunte \"O que você sente quando vê isso?\" e \"Por que você sente isso?\".",
+    "metadata": {
+      "titulo": "Caixa de Objetos Mágica",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_108",
+    "conteudo": "Descrição: Use fantoches para encenar situações que geram emoções. A criança deve identificar a emoção do fantoche e dizer o que a faria sentir o mesmo.",
+    "metadata": {
+      "titulo": "Teatro de Fantoches",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_109",
+    "conteudo": "Descrição: Use um espelho. Peça para a criança fazer uma expressão de emoção e dizer \"Essa é minha cara de feliz. Eu fico feliz quando...\".",
+    "metadata": {
+      "titulo": "Espelho Mágico",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_110",
+    "conteudo": "Descrição: Use uma varinha de pescar de brinquedo com ímãs e \"peixes\" de papel com figuras de emoções. A criança pesca um peixe e diz \"Eu me sinto assim quando...\".",
+    "metadata": {
+      "titulo": "Jogo da Pesca",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_111",
+    "conteudo": "Descrição: Crie cartelas de bingo com figuras de emoções. O professor fala sobre uma situação (\"Ganhar um presente\") e a criança marca a emoção que sentiria.",
+    "metadata": {
+      "titulo": "Bingo de Emoções",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_112",
+    "conteudo": "Descrição: Use massinha de modelar. Peça para a criança fazer rostos de emoções. Para cada rosto, pergunte \"Quando você se sente assim?\".",
+    "metadata": {
+      "titulo": "Massinha de Emoções",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_113",
+    "conteudo": "Descrição: Desenhe um mapa com figuras de emoções. A criança \"anda\" pelo mapa e, a cada parada, fala sobre uma emoção. \"Quando eu fico bravo, é porque...\".",
+    "metadata": {
+      "titulo": "O Mapa do Sentimento",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_114",
+    "conteudo": "Descrição: Encha balões de cores diferentes. A criança escolhe um balão. Pergunte \"Essa cor te lembra qual emoção? Por quê?\".",
+    "metadata": {
+      "titulo": "Balões de Emoções",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_115",
+    "conteudo": "Descrição: Comece uma frase e peça para a criança completar. \"Eu choro quando...\".",
+    "metadata": {
+      "titulo": "O Jogo do \"Continua a Frase\"",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_116",
+    "conteudo": "Descrição: Crie cartas com figuras de situações que geram emoções. A criança sorteia uma carta e diz a emoção que sentiria. \"Eu me sinto feliz quando...\".",
+    "metadata": {
+      "titulo": "Jogo de Cartas",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_117",
+    "conteudo": "Descrição: Crie quebra-cabeças de duas peças: uma com uma emoção e outra com a causa. A criança monta os pares e fala sobre o que sente.",
+    "metadata": {
+      "titulo": "Quebra-cabeça de Emoções",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_118",
+    "conteudo": "Descrição: A criança é o \"programador\" do robô. Ela dá instruções como \"Robô, fique feliz porque você está no parquinho\".",
+    "metadata": {
+      "titulo": "O Robô Obediente",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_119",
+    "conteudo": "Descrição: Crie um mural com as quatro emoções básicas. A criança pode colocar uma foto sua ao lado da emoção que ela sentiu no dia e falar sobre o motivo.",
+    "metadata": {
+      "titulo": "Painel do Dia",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_120",
+    "conteudo": "Descrição: A criança pode colocar um desenho de algo que a faz feliz no pote, e o professor pode perguntar o porquê.",
+    "metadata": {
+      "titulo": "O Pote de Desejos",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_121",
+    "conteudo": "Descrição: O professor faz sons que representam emoções (risada, choro). A criança adivinha a emoção e diz o que a faz sentir assim.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual é o Som?\"",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_122",
+    "conteudo": "Descrição: Monte uma lojinha. A criança \"compra\" uma emoção. O professor pergunta \"Você comprou a alegria. O que te deixa feliz?\".",
+    "metadata": {
+      "titulo": "Brincadeira de Compras",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_123",
+    "conteudo": "Descrição: Esconda cartões com figuras de emoções na sala. A criança encontra um cartão e diz \"Eu me sinto com medo quando vejo um fantasma\".",
+    "metadata": {
+      "titulo": "O Detetive de Emoções",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_124",
+    "conteudo": "Descrição: Em um círculo, passe um novelo de lã. A criança que pegar a lã diz uma emoção e o que a faz sentir assim, e joga para o próximo.",
+    "metadata": {
+      "titulo": "A Teia de Emoções",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_125",
+    "conteudo": "Descrição: O professor diz uma afirmação. \"É verdade que você fica triste quando a chuva não te deixa ir ao parque?\". A criança responde \"verdadeiro\" e explica.",
+    "metadata": {
+      "titulo": "O Jogo do \"Verdadeiro ou Falso\"",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_126",
+    "conteudo": "Descrição: Sente-se em círculo. Passe um objeto. A criança que estiver com o objeto deve dizer o nome de uma emoção e uma situação que a cause.",
+    "metadata": {
+      "titulo": "Roda dos Sentimentos",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_127",
+    "conteudo": "Descrição: O professor faz mímica de uma emoção e a criança deve adivinhar e dizer \"Eu me sinto assim quando...\".",
+    "metadata": {
+      "titulo": "Jogo da Mímica",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_128",
+    "conteudo": "Descrição: Use um livro em branco. A criança pode desenhar rostos para cada emoção e escrever (ou falar) o que a causa.",
+    "metadata": {
+      "titulo": "O Livro das Expressões",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_129",
+    "conteudo": "Descrição: Toque uma música. Peça para a criança dançar com o corpo e a expressão que a música causa. Depois, converse sobre o que ela sentiu.",
+    "metadata": {
+      "titulo": "Dança dos Sentimentos",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_130",
+    "conteudo": "Descrição: A criança completa a frase \"Eu fico bravo quando meu brinquedo...\".",
+    "metadata": {
+      "titulo": "O Jogo do \"Eu Fico Bravo Quando...\"",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_131",
+    "conteudo": "Descrição: Cole figuras de emoções em carrinhos de brinquedo. A criança escolhe um carrinho e diz \"Eu me sinto assim quando...\".",
+    "metadata": {
+      "titulo": "O Carrinho das Emoções",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_132",
+    "conteudo": "Descrição: O professor coloca uma gota de tinta no papel. A criança assopra com um canudo e, ao final, diz \"Essa pintura me faz sentir... porque...\".",
+    "metadata": {
+      "titulo": "Pintura com Canudos",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_133",
+    "conteudo": "Descrição: Use um quebra-cabeça com várias partes de rostos. A criança monta o rosto e diz a emoção e o que a causa.",
+    "metadata": {
+      "titulo": "Quebra-Cabeça de Rostos",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_134",
+    "conteudo": "Descrição: O professor inicia uma situação. \"Faz de conta que somos piratas e encontramos um tesouro. Como você se sentiria?\".",
+    "metadata": {
+      "titulo": "Brincadeira do \"Faz de Conta\"",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_135",
+    "conteudo": "Descrição: Use comidinhas de brinquedo. \"Faz de conta que você está comendo um sorvete. O que você sente?\".",
+    "metadata": {
+      "titulo": "O Piquenique de Mentirinha",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_136",
+    "conteudo": "Descrição: Dê um sabor a uma massinha ou argila. \"A massinha é de morango. O que você sente ao provar algo que gosta?\".",
+    "metadata": {
+      "titulo": "Jogo do \"Qual é o Sabor?\"",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_137",
+    "conteudo": "Descrição: Peça à criança para desenhar a família. \"Quando sua mamãe está feliz, por que ela está feliz?\".",
+    "metadata": {
+      "titulo": "Desenho de Família",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_138",
+    "conteudo": "Descrição: O professor faz a sombra de um objeto. A criança adivinha e diz a emoção que sente. \"Eu fico com medo de aranhas\".",
+    "metadata": {
+      "titulo": "Jogo da Sombra Mágica",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_139",
+    "conteudo": "Descrição: Peça para a criança desenhar algo pelo qual ela é grata. \"Eu sou grato pelo meu brinquedo porque ele me deixa feliz\".",
+    "metadata": {
+      "titulo": "O Livro da Gratidão",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_140",
+    "conteudo": "Descrição: O professor mostra uma figura com uma emoção, mas a causa está faltando. A criança deve dizer o que pode ter causado a emoção.",
+    "metadata": {
+      "titulo": "O Jogo do \"O que está faltando?\"",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_141",
+    "conteudo": "Descrição: Use figuras de animais. \"O leão está bravo. O que o deixa bravo?\". A criança responde.",
+    "metadata": {
+      "titulo": "O Jogo dos Animais",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_142",
+    "conteudo": "Descrição: Faça um som que cause emoção (trovão, risada). A criança adivinha e fala o que a faz sentir assim.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual é o Som?\"",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_143",
+    "conteudo": "Descrição: Crie desafios como \"Diga algo que te deixa feliz!\". A criança responde.",
+    "metadata": {
+      "titulo": "O Jogo dos Desafios",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_144",
+    "conteudo": "Descrição: As crianças se sentam em círculo e passam a bola. A criança que estiver com a bola quando a música para deve dizer uma emoção e o que a causa.",
+    "metadata": {
+      "titulo": "O Jogo da \"Batata Quente\"",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_145",
+    "conteudo": "Descrição: Use potes de cores diferentes. A criança coloca um objeto em um pote e diz a emoção que a cor a faz sentir.",
+    "metadata": {
+      "titulo": "O Jogo das Cores",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_146",
+    "conteudo": "Descrição: A criança pode desenhar algo que fez no dia. \"Eu brinquei com meu amigo. Isso me deixou feliz porque...\".",
+    "metadata": {
+      "titulo": "O Livro das Atividades",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_147",
+    "conteudo": "Descrição: Diga \"Se você fosse um super-herói, como você se sentiria?\". A criança responde.",
+    "metadata": {
+      "titulo": "O Jogo do \"Se...\"",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_148",
+    "conteudo": "Descrição: A criança joga a bola e, ao derrubar os pinos, diz a emoção que sente e por quê.",
+    "metadata": {
+      "titulo": "Jogo de Boliche",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_149",
+    "conteudo": "Descrição: A criança completa a frase \"Eu fico com medo quando...\".",
+    "metadata": {
+      "titulo": "O Jogo do \"Eu Fico com Medo Quando...\"",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_150",
+    "conteudo": "Descrição: Use um tabuleiro simples. A cada casa que a criança avança, ela deve responder a uma pergunta sobre uma emoção.",
+    "metadata": {
+      "titulo": "Jogo de Tabuleiro",
+      "dimensao": "Socialização",
+      "habilidade": "Identifica e sabe dizer o nome de emoções básicas de si mesmo(a), bem como dar explicações simples sobre o que provocou ou está provocando a emoção.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_151",
+    "conteudo": "Descrição: Escolha um jogo simples que o aluno já conheça. O professor se senta com a turma e diz que o aluno será o \"mestre do jogo\" e vai explicar as regras. O professor pode ajudar, se necessário.",
+    "metadata": {
+      "titulo": "O Mestre do Jogo",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_152",
+    "conteudo": "Descrição: Jogue um jogo simples com a turma (ex: boliche). Depois, dê uma folha grande para o aluno e o ajude a desenhar as regras. Em seguida, ele mostra o desenho aos colegas e explica o que cada figura significa.",
+    "metadata": {
+      "titulo": "Desenho de Regras",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_153",
+    "conteudo": "Descrição: A criança é o \"programador\" de um robô de papelão. O professor e os colegas fingem ser robôs, e a criança deve dar comandos (regras) para eles em uma sequência.",
+    "metadata": {
+      "titulo": "Robô de Comandos",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_154",
+    "conteudo": "Descrição: O professor inicia uma história sobre uma brincadeira. \"Era uma vez uma brincadeira onde a gente...\". O aluno continua a história, explicando as regras de forma narrativa.",
+    "metadata": {
+      "titulo": "História de Brincadeira",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_155",
+    "conteudo": "Descrição: Crie um quebra-cabeça grande com as regras de um jogo. O aluno monta o quebra-cabeça e, a cada peça, explica uma regra para a turma.",
+    "metadata": {
+      "titulo": "Quebra-cabeça de Regras",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_156",
+    "conteudo": "Descrição: Use um semáforo de papel. A criança usa o semáforo para explicar as regras. Luz verde: \"Começa a brincadeira!\". Luz vermelha: \"Parem, é a vez de outro\".",
+    "metadata": {
+      "titulo": "Semáforo da Brincadeira",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_157",
+    "conteudo": "Descrição: Crie cartas de Jogo da Memória. As cartas têm figuras das regras (ex: um boneco na fila). O aluno vira as cartas e explica a regra que encontrar.",
+    "metadata": {
+      "titulo": "O Jogo da Memória de Regras",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_158",
+    "conteudo": "Descrição: O professor coloca objetos simples em um saco. O aluno tira um objeto e explica as regras de uma brincadeira que usa o objeto.",
+    "metadata": {
+      "titulo": "O Saco da Surpresa",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_159",
+    "conteudo": "Descrição: Monte um pequeno palco. A criança e os colegas sobem no palco, e a criança encena as regras de uma brincadeira.",
+    "metadata": {
+      "titulo": "O Palco do Jogo",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_160",
+    "conteudo": "Descrição: A criança é um mágico. Ela \"revela\" as regras de um jogo. \"Minha mágica é que... nós vamos pular!\".",
+    "metadata": {
+      "titulo": "O Mágico",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_161",
+    "conteudo": "Descrição: Monte uma lojinha de brinquedos. O aluno pode \"vender\" as regras de uma brincadeira. \"Compre a regra de que só podemos pular com os dois pés!\".",
+    "metadata": {
+      "titulo": "Brincadeira de Compras",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_162",
+    "conteudo": "Descrição: O professor faz uma mímica de uma regra de um jogo. A criança adivinha e depois demonstra para os colegas.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual é a Regra?\"",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_163",
+    "conteudo": "Descrição: Crie um painel de feltro. A criança pode colocar figuras ou desenhos das regras de um jogo e depois explicá-las.",
+    "metadata": {
+      "titulo": "Painel de Regras",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_164",
+    "conteudo": "Descrição: Use um tabuleiro simples. A cada casa que a criança avança, ela deve explicar uma regra para os colegas.",
+    "metadata": {
+      "titulo": "Jogo de Tabuleiro",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_165",
+    "conteudo": "Descrição: Desenhe um boneco na lousa. A criança deve dar palpites de regras de um jogo, e o professor escreve no quadro.",
+    "metadata": {
+      "titulo": "O Jogo da Forca",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_166",
+    "conteudo": "Descrição: Crie um livro em branco. A criança pode desenhar as regras de uma brincadeira e depois \"lê-las\" para a turma.",
+    "metadata": {
+      "titulo": "Livro das Regras",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_167",
+    "conteudo": "Descrição: Use um boneco de fada. A fada \"sussurra\" a regra de uma brincadeira para a criança, que deve repeti-la para os colegas.",
+    "metadata": {
+      "titulo": "O Jogo da Fada",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_168",
+    "conteudo": "Descrição: Use bonecos. A criança pode explicar as regras de uma brincadeira de \"faz de conta\" com os bonecos para os colegas.",
+    "metadata": {
+      "titulo": "O Jogo do \"Eu Cuido de Você\"",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_169",
+    "conteudo": "Descrição: O professor diz uma afirmação sobre um jogo. \"Neste jogo, podemos pular com uma perna só\". A criança responde e explica por quê.",
+    "metadata": {
+      "titulo": "O Jogo do \"Verdadeiro ou Falso\"",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_170",
+    "conteudo": "Descrição: Sente-se em círculo com a turma. O professor inicia a conversa sobre um jogo. O aluno pode se voluntariar para explicar as regras.",
+    "metadata": {
+      "titulo": "Roda da Conversa",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_171",
+    "conteudo": "Descrição: O professor empurra o aluno e o amigo em um carrinho de mão. A criança pode explicar as regras de uma corrida para os colegas.",
+    "metadata": {
+      "titulo": "O Carrinho de Mão",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_172",
+    "conteudo": "Descrição: O professor começa uma história sobre um jogo. \"Nós fomos para o parquinho...\". A criança continua, explicando as regras do que aconteceu.",
+    "metadata": {
+      "titulo": "Jogo do \"Continua a História\"",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_173",
+    "conteudo": "Descrição: Crie um padrão com blocos de cores. A criança explica o padrão para os colegas e os desafia a continuarem.",
+    "metadata": {
+      "titulo": "Jogo do \"Qual é o Padrão?\"",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_174",
+    "conteudo": "Descrição: A criança explica as \"regras\" da pintura para os colegas. Exemplo: \"Nós só podemos usar a cor azul e amarela\".",
+    "metadata": {
+      "titulo": "Pintura Coletiva",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_175",
+    "conteudo": "Descrição: A criança pode colocar um desenho de um jogo que ela gostaria de ensinar aos colegas no pote.",
+    "metadata": {
+      "titulo": "O Pote de Desejos",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_176",
+    "conteudo": "Descrição: A criança faz uma sombra de uma regra de um jogo. Exemplo: a sombra de um pulo. Os colegas adivinham, e a criança explica a regra.",
+    "metadata": {
+      "titulo": "Jogo da Sombra Mágica",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_177",
+    "conteudo": "Descrição: A criança explica as regras do boliche para a turma antes do jogo começar.",
+    "metadata": {
+      "titulo": "Jogo de Boliche",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_178",
+    "conteudo": "Descrição: A criança explica as regras de um jogo para que os colegas adivinhem qual é o jogo.",
+    "metadata": {
+      "titulo": "O Jogo do \"Quem É?\"",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_179",
+    "conteudo": "Descrição: A criança desenha uma atividade que fez na aula. Depois, ela pode explicar aos colegas como ela a fez.",
+    "metadata": {
+      "titulo": "O Livro das Atividades",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_180",
+    "conteudo": "Descrição: A criança explica as regras de um jogo onde as crianças imitam animais.",
+    "metadata": {
+      "titulo": "O Jogo dos Animais",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_181",
+    "conteudo": "Descrição: Diga \"Se nós fôssemos astronautas, qual seria a regra da nossa brincadeira?\". A criança deve explicar a regra.",
+    "metadata": {
+      "titulo": "O Jogo do \"Se...\"",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_182",
+    "conteudo": "Descrição: A criança explica as regras do jogo para a turma.",
+    "metadata": {
+      "titulo": "Jogo da Batata Quente",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_183",
+    "conteudo": "Descrição: A criança explica as regras de uma brincadeira com cores para os colegas.",
+    "metadata": {
+      "titulo": "Jogo dos Potes de Cores",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_184",
+    "conteudo": "Descrição: A criança explica as regras de uma brincadeira onde as crianças fazem sons e as outras adivinham.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual é o Som?\"",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_185",
+    "conteudo": "Descrição: A criança explica as regras para montar um quebra-cabeça com a turma.",
+    "metadata": {
+      "titulo": "Quebra-Cabeça Coletivo",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_186",
+    "conteudo": "Descrição: A criança explica as regras de uma mímica.",
+    "metadata": {
+      "titulo": "Jogo de Mímica",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_187",
+    "conteudo": "Descrição: A criança explica as regras de uma brincadeira com massinha.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual é o Sabor?\"",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_188",
+    "conteudo": "Descrição: A criança explica as regras da brincadeira para os colegas.",
+    "metadata": {
+      "titulo": "O Jogo da Bolacha na Testa",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_189",
+    "conteudo": "Descrição: A criança explica as regras de uma roda da gratidão para a turma.",
+    "metadata": {
+      "titulo": "O Livro da Gratidão",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_190",
+    "conteudo": "Descrição: A criança explica as regras de uma brincadeira sobre magia para a turma.",
+    "metadata": {
+      "titulo": "O Jogo da Fada",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_191",
+    "conteudo": "Descrição: A criança explica as regras da brincadeira com a lã para a turma.",
+    "metadata": {
+      "titulo": "O Jogo da Teia da Amizade",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_192",
+    "conteudo": "Descrição: A criança explica as regras do jogo para os colegas.",
+    "metadata": {
+      "titulo": "O Jogo das Cadeiras Musicais",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_193",
+    "conteudo": "Descrição: A criança explica as regras da brincadeira para a turma.",
+    "metadata": {
+      "titulo": "O Jogo do \"Estourar o Balão\"",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_194",
+    "conteudo": "Descrição: A criança explica as regras da brincadeira para a turma.",
+    "metadata": {
+      "titulo": "O Jogo do \"Onde está a Emoção?\"",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_195",
+    "conteudo": "Descrição: A criança explica as regras da brincadeira para os colegas.",
+    "metadata": {
+      "titulo": "O Jogo do \"Eu Fico Feliz Quando...\"",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_196",
+    "conteudo": "Descrição: A criança explica as regras para os colegas.",
+    "metadata": {
+      "titulo": "Jogo de Tabuleiro com Cores",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_197",
+    "conteudo": "Descrição: A criança explica as regras da brincadeira para a turma.",
+    "metadata": {
+      "titulo": "O Jogo do \"Eu Gosto de...\"",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_198",
+    "conteudo": "Descrição: A criança explica as regras do jogo para os colegas.",
+    "metadata": {
+      "titulo": "O Jogo da \"Verdade ou Consequência\"",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_199",
+    "conteudo": "Descrição: A criança explica as regras da brincadeira para a turma.",
+    "metadata": {
+      "titulo": "O Jogo do \"Eu Fico Bravo Quando...\"",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_200",
+    "conteudo": "Descrição: A criança explica as regras da brincadeira para os colegas.",
+    "metadata": {
+      "titulo": "O Jogo do \"Se Chover...\"",
+      "dimensao": "Socialização",
+      "habilidade": "Explica ou demonstra aos(às) colegas as regras de um jogo ou atividade proposta pelo(a) professor(a).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_201",
+    "conteudo": "Descrição: Monte uma lojinha de brinquedos com caixas e objetos. O aluno pode ser o \"vendedor\" e o professor ou os colegas podem ser os \"clientes\". Incentive a criança a interagir, perguntando o que os clientes querem \"comprar\".",
+    "metadata": {
+      "titulo": "A Loja de Brinquedos",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_202",
+    "conteudo": "Descrição: Use um kit de médico de brinquedo. O aluno é o \"doutor\" e o professor ou os colegas são os \"pacientes\". A criança pode \"examinar\" o paciente, usar o estetoscópio e fazer perguntas simples como \"O que você está sentindo?\".",
+    "metadata": {
+      "titulo": "O Doutor do Coração",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_203",
+    "conteudo": "Descrição: Monte uma cozinha de brinquedo com panelas e comidinhas de plástico. O aluno é o \"chef\" e o professor ou os colegas são os \"clientes\" de um restaurante. Incentive a criança a \"cozinhar\" e a \"servir\" os pratos.",
+    "metadata": {
+      "titulo": "O Chef de Cozinha",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_204",
+    "conteudo": "Descrição: Use um quadro de lousa e giz. O aluno é o \"professor\" e os colegas (ou um boneco de pelúcia) são os \"alunos\". A criança pode \"ensinar\" as cores ou os números, como se estivesse dando uma aula.",
+    "metadata": {
+      "titulo": "O Professor do Gato",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_205",
+    "conteudo": "Descrição: Use frutas de brinquedo e caixas. O aluno é o \"feirante\" e os colegas são os \"clientes\". Incentive a criança a \"vender\" as frutas, nomeando-as e falando sobre os preços.",
+    "metadata": {
+      "titulo": "A Feira de Frutas",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_206",
+    "conteudo": "Descrição: Use um capacete de bombeiro de brinquedo. O aluno é o \"bombeiro\" e os colegas estão em \"perigo\". A criança pode \"apagar o fogo\" com uma mangueira de brinquedo e \"resgatar\" os colegas.",
+    "metadata": {
+      "titulo": "O Bombeiro Herói",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_207",
+    "conteudo": "Descrição: Use um microfone de brinquedo. O aluno é o \"cantor\" e o professor e os colegas são a \"platéia\". A criança pode \"apresentar um show\" cantando uma música que gosta.",
+    "metadata": {
+      "titulo": "O Cantor da Fama",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_208",
+    "conteudo": "Descrição: Use blocos de montar. O aluno é o \"construtor\" e o professor ou os colegas são os \"ajudantes\". Incentive a criança a dar instruções para construir a maior torre possível.",
+    "metadata": {
+      "titulo": "O Construtor da Torre",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_209",
+    "conteudo": "Descrição: Use blocos de madeira e régua. O aluno é o \"arquiteto\" e os colegas são os \"ajudantes\". A criança pode \"projetar\" e construir uma casa ou prédio.",
+    "metadata": {
+      "titulo": "O Arquiteto Mirim",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_210",
+    "conteudo": "Descrição: Use um pote pequeno e moedas de brinquedo. O aluno é a \"fada dos dentes\" e o professor ou os colegas são as \"crianças\". A criança pode \"trocar\" os dentes de leite de brinquedo por moedas.",
+    "metadata": {
+      "titulo": "A Fada dos Dentes",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_211",
+    "conteudo": "Descrição: Use uma bolsa de brinquedo e envelopes. O aluno é o \"carteiro\" e os colegas são os \"moradores\". A criança pode \"entregar as cartas\" para os colegas.",
+    "metadata": {
+      "titulo": "O Carteiro",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_212",
+    "conteudo": "Descrição: Use massinha de modelar. O aluno é o \"padeiro\" e os colegas são os \"clientes\". A criança pode \"modelar pães\" de massinha e \"vendê-los\".",
+    "metadata": {
+      "titulo": "O Padeiro",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_213",
+    "conteudo": "Descrição: Use uma caixa de papelão como avião. O aluno é o \"piloto\" e os colegas são os \"passageiros\". Incentive a criança a \"pilotar o avião\" e a dar instruções para o voo.",
+    "metadata": {
+      "titulo": "O Piloto de Avião",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_214",
+    "conteudo": "Descrição: Use um capacete de brinquedo. O aluno é o \"astronauta\" e o professor ou os colegas são os \"cientistas\". A criança pode \"explorar\" um planeta imaginário e \"encontrar\" objetos.",
+    "metadata": {
+      "titulo": "O Astronauta",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_215",
+    "conteudo": "Descrição: Use um kit de médico de brinquedo e bichos de pelúcia. O aluno é o \"veterinário\" e os bichos de pelúcia são os \"pacientes\". A criança pode \"curar\" os animais.",
+    "metadata": {
+      "titulo": "O Veterinário",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_216",
+    "conteudo": "Descrição: Use um espelho pequeno e um cotonete. O aluno é o \"dentista\" e o professor ou os colegas são os \"pacientes\". A criança pode \"examinar os dentes\".",
+    "metadata": {
+      "titulo": "O Dentista",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_217",
+    "conteudo": "Descrição: Use regador e luvas de brinquedo. O aluno é o \"jardineiro\" e os colegas são as \"plantas\". A criança pode \"regar as plantas\" e cuidar delas.",
+    "metadata": {
+      "titulo": "O Jardineiro",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_218",
+    "conteudo": "Descrição: Use um boné de policial de brinquedo. O aluno é o \"policial\" e os colegas são as \"pessoas\". A criança pode \"cuidar\" da sala de aula e \"ajudar\" os colegas.",
+    "metadata": {
+      "titulo": "O Policial",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_219",
+    "conteudo": "Descrição: Use escova e pente de brinquedo. O aluno é o \"cabeleireiro\" e o professor ou os colegas são os \"clientes\". A criança pode \"pentear o cabelo\" e \"cortar\" de mentirinha.",
+    "metadata": {
+      "titulo": "O Cabeleireiro",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_220",
+    "conteudo": "Descrição: Use um mapa de brinquedo e lupa. O aluno é o \"caçador\" e os colegas são os \"ajudantes\". A criança pode \"procurar o tesouro\" na sala de aula.",
+    "metadata": {
+      "titulo": "O Caçador de Tesouros",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_221",
+    "conteudo": "Descrição: Use uma capa e varinha de brinquedo. O aluno é o \"mágico\" e os colegas são a \"platéia\". A criança pode fazer truques de mágica simples.",
+    "metadata": {
+      "titulo": "O Mágico",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_222",
+    "conteudo": "Descrição: Use bolas ou cordas. O aluno é o \"atleta\" e os colegas são os \"adversários\". A criança pode \"jogar basquete\" ou \"correr\".",
+    "metadata": {
+      "titulo": "O Atleta",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_223",
+    "conteudo": "Descrição: Use um colete de brinquedo. O aluno é o \"salva-vidas\" e os colegas são as \"pessoas\". A criança pode \"salvar\" os colegas em uma piscina de bolinhas.",
+    "metadata": {
+      "titulo": "O Salva-Vidas",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_224",
+    "conteudo": "Descrição: Use um pano como capa. O aluno é o \"cantor de ópera\" e os colegas são a \"platéia\". A criança pode \"cantar\" de forma dramática.",
+    "metadata": {
+      "titulo": "O Cantor de Ópera",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_225",
+    "conteudo": "Descrição: Use tecidos e roupas de boneca. O aluno é o \"estilista\" e os colegas são os \"modelos\". A criança pode \"criar roupas\" para os bonecos.",
+    "metadata": {
+      "titulo": "O Estilista",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_226",
+    "conteudo": "Descrição: Use um avental e espuma de barbear de brinquedo. O aluno é o \"barbeiro\" e os colegas são os \"clientes\". A criança pode \"fazer a barba\" com espuma.",
+    "metadata": {
+      "titulo": "O Barbeiro",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_227",
+    "conteudo": "Descrição: Use fios e tomadas de brinquedo. O aluno é o \"eletricista\" e os colegas são os \"ajudantes\". A criança pode \"consertar a luz\" de mentirinha.",
+    "metadata": {
+      "titulo": "O Eletricista",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_228",
+    "conteudo": "Descrição: Use um óculos e snorkel de brinquedo. O aluno é o \"mergulhador\" e os colegas são os \"peixes\". A criança pode \"mergulhar\" e \"descobrir\" o fundo do mar.",
+    "metadata": {
+      "titulo": "O Mergulhador",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_229",
+    "conteudo": "Descrição: Use um saco de lixo de brinquedo. O aluno é o \"coletor de lixo\" e os colegas são as \"pessoas\". A criança pode \"recolher o lixo\" e \"reciclar\".",
+    "metadata": {
+      "titulo": "O Coletor de Lixo",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_230",
+    "conteudo": "Descrição: Use chapéu de fazendeiro de brinquedo. O aluno é o \"fazendeiro\" e os colegas são os \"animais\". A criança pode \"cuidar\" dos animais.",
+    "metadata": {
+      "titulo": "O Fazendeiro",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_231",
+    "conteudo": "Descrição: Use uma vara de pescar de brinquedo. O aluno é o \"pescador\" e os colegas são os \"peixes\". A criança pode \"pescar\" os peixes de brinquedo.",
+    "metadata": {
+      "titulo": "O Pescador",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_232",
+    "conteudo": "Descrição: Use uma câmera de brinquedo. O aluno é o \"fotógrafo\" e os colegas são os \"modelos\". A criança pode \"tirar fotos\" e \"posar\".",
+    "metadata": {
+      "titulo": "O Fotógrafo",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_233",
+    "conteudo": "Descrição: Use instrumentos de brinquedo. O aluno é o \"músico\" e os colegas são os \"ouvintes\". A criança pode \"tocar um instrumento\".",
+    "metadata": {
+      "titulo": "O Músico",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_234",
+    "conteudo": "Descrição: O aluno é o \"mímico\" e os colegas são a \"platéia\". A criança pode fazer mímicas de ações.",
+    "metadata": {
+      "titulo": "O Mímico",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_235",
+    "conteudo": "Descrição: Use uma prancheta de brinquedo. O aluno é o \"pesquisador\" e os colegas são os \"moradores\". A criança pode \"fazer perguntas\" sobre o que as pessoas gostam de fazer.",
+    "metadata": {
+      "titulo": "O Censo do Bairro",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_236",
+    "conteudo": "Descrição: Use um martelo de brinquedo. O aluno é o \"juiz\" e os colegas são os \"advogados\". A criança pode \"julgar\" um caso simples.",
+    "metadata": {
+      "titulo": "O Juiz",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_237",
+    "conteudo": "Descrição: Use ferramentas de brinquedo. O aluno é o \"mecânico\" e o professor ou os colegas são os \"clientes\". A criança pode \"consertar o carro\" de mentirinha.",
+    "metadata": {
+      "titulo": "O Mecânico",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_238",
+    "conteudo": "Descrição: Use uma bolsa de brinquedo e envelopes. O aluno é o \"carteiro\" e os colegas são os \"moradores\". A criança pode \"entregar as cartas\" para os colegas.",
+    "metadata": {
+      "titulo": "O Carteiro",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_239",
+    "conteudo": "Descrição: Use um capacete de brinquedo. O aluno é o \"astronauta\" e o professor ou os colegas são os \"cientistas\". A criança pode \"explorar\" um planeta imaginário e \"encontrar\" objetos.",
+    "metadata": {
+      "titulo": "O Astronauta",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_240",
+    "conteudo": "Descrição: Use um kit de médico de brinquedo e bichos de pelúcia. O aluno é o \"veterinário\" e os bichos de pelúcia são os \"pacientes\". A criança pode \"curar\" os animais.",
+    "metadata": {
+      "titulo": "O Veterinário",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_241",
+    "conteudo": "Descrição: Use um espelho pequeno e um cotonete. O aluno é o \"dentista\" e o professor ou os colegas são os \"pacientes\". A criança pode \"examinar os dentes\".",
+    "metadata": {
+      "titulo": "O Dentista",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_242",
+    "conteudo": "Descrição: Use regador e luvas de brinquedo. O aluno é o \"jardineiro\" e os colegas são as \"plantas\". A criança pode \"regar as plantas\" e cuidar delas.",
+    "metadata": {
+      "titulo": "O Jardineiro",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_243",
+    "conteudo": "Descrição: Use um boné de policial de brinquedo. O aluno é o \"policial\" e os colegas são as \"pessoas\". A criança pode \"cuidar\" da sala de aula e \"ajudar\" os colegas.",
+    "metadata": {
+      "titulo": "O Policial",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_244",
+    "conteudo": "Descrição: Use escova e pente de brinquedo. O aluno é o \"cabeleireiro\" e o professor ou os colegas são os \"clientes\". A criança pode \"pentear o cabelo\" e \"cortar\" de mentirinha.",
+    "metadata": {
+      "titulo": "O Cabeleireiro",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_245",
+    "conteudo": "Descrição: Use um mapa de brinquedo e lupa. O aluno é o \"caçador\" e os colegas são os \"ajudantes\". A criança pode \"procurar o tesouro\" na sala de aula.",
+    "metadata": {
+      "titulo": "O Caçador de Tesouros",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_246",
+    "conteudo": "Descrição: Use uma capa e varinha de brinquedo. O aluno é o \"mágico\" e os colegas são a \"platéia\". A criança pode fazer truques de mágica simples.",
+    "metadata": {
+      "titulo": "O Mágico",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_247",
+    "conteudo": "Descrição: Use bolas ou cordas. O aluno é o \"atleta\" e os colegas são os \"adversários\". A criança pode \"jogar basquete\" ou \"correr\".",
+    "metadata": {
+      "titulo": "O Atleta",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_248",
+    "conteudo": "Descrição: Use um colete de brinquedo. O aluno é o \"salva-vidas\" e os colegas são as \"pessoas\". A criança pode \"salvar\" os colegas em uma piscina de bolinhas.",
+    "metadata": {
+      "titulo": "O Salva-Vidas",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_249",
+    "conteudo": "Descrição: Use um pano como capa. O aluno é o \"cantor de ópera\" e os colegas são a \"platéia\". A criança pode \"cantar\" de forma dramática.",
+    "metadata": {
+      "titulo": "O Cantor de Ópera",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_250",
+    "conteudo": "Descrição: Use tecidos e roupas de boneca. O aluno é o \"estilista\" e os colegas são os \"modelos\". A criança pode \"criar roupas\" para os bonecos.",
+    "metadata": {
+      "titulo": "O Estilista",
+      "dimensao": "Socialização",
+      "habilidade": "Representa papéis de adultos em brincadeiras simbólicas ou dramatizações (ex.: faz de conta de professor, médico, cozinheiro).",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_251",
+    "conteudo": "Descrição: Use uma caixa decorada e chame-a de \"caixa mágica\". Nela, o aluno e os colegas colocam um brinquedo de que gostam. A cada 5 minutos, o professor anuncia que é hora de trocar de brinquedo.",
+    "metadata": {
+      "titulo": "A Caixa Mágica do Compartilhar",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_252",
+    "conteudo": "Descrição: Use um boneco de robô. Explique para o aluno que o robô só funciona se o brinquedo for compartilhado. O aluno dá o brinquedo para o robô, que \"passa\" para um colega.",
+    "metadata": {
+      "titulo": "O Robô que Compartilha",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_253",
+    "conteudo": "Descrição: Use um semáforo de papel. Coloque um brinquedo favorito na frente do aluno. A luz verde significa que ele pode brincar. Após um tempo, a luz amarela acende, mostrando que o colega está esperando, e na luz vermelha, ele deve passar o brinquedo.",
+    "metadata": {
+      "titulo": "Semáforo da Brincadeira",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_254",
+    "conteudo": "Descrição: Tenha uma cesta especial na sala. Peça para cada criança colocar um brinquedo que goste muito dentro dela. Explique que é a \"cesta da amizade\" e que todos vão compartilhar.",
+    "metadata": {
+      "titulo": "A Cesta da Amizade",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_255",
+    "conteudo": "Descrição: As crianças se sentam em círculo e passam um brinquedo favorito para o colega ao lado. Quando a música parar, quem estiver com o brinquedo brinca por um minuto.",
+    "metadata": {
+      "titulo": "Jogo da Batata Quente",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_256",
+    "conteudo": "Descrição: As crianças dançam com um brinquedo favorito. Quando a música para, o professor grita \"troca de brinquedo!\" e todos trocam de lugar e de objeto.",
+    "metadata": {
+      "titulo": "Dança dos Objetos",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_257",
+    "conteudo": "Descrição: Dê um pote de tinta para o aluno e outro para o colega. Peça para eles compartilharem os potes de tinta e as folhas de papel.",
+    "metadata": {
+      "titulo": "Pintura com as Mãos",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_258",
+    "conteudo": "Descrição: Desenhe uma árvore grande em uma folha de papel. Peça para o aluno e os colegas \"pendurarem\" desenhos dos brinquedos que estão dispostos a compartilhar.",
+    "metadata": {
+      "titulo": "A Árvore dos Brinquedos",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_259",
+    "conteudo": "Descrição: Use fantoches ou bonecos. O professor inicia uma história: \"O ursinho estava brincando com seu carrinho favorito. O amigo dele, o coelho, queria brincar também.\" Incentive o aluno a fazer os bonecos compartilharem o carrinho.",
+    "metadata": {
+      "titulo": "História Compartilhada",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_260",
+    "conteudo": "Descrição: Use toalha e comidinhas de brinquedo. O aluno \"prepara\" o piquenique. O professor pode dizer \"Para o piquenique ficar mais gostoso, o(a) [nome do aluno] precisa compartilhar os lanchinhos com os colegas\".",
+    "metadata": {
+      "titulo": "O Piquenique da Amizade",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_261",
+    "conteudo": "Descrição: A turma monta um quebra-cabeça grande. O aluno pode ter as peças de um lado, e o colega do outro, incentivando a troca de peças.",
+    "metadata": {
+      "titulo": "Quebra-Cabeça Coletivo",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_262",
+    "conteudo": "Descrição: As crianças formam um trem. O primeiro vagão tem o brinquedo favorito. As crianças \"levam\" o brinquedo para o próximo vagão, que pode brincar um pouco.",
+    "metadata": {
+      "titulo": "O Trem do Compartilhar",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_263",
+    "conteudo": "Descrição: Use uma varinha de pescar de brinquedo com um ímã e \"peixes\" com figuras de brinquedos. O aluno \"pesca\" um brinquedo e deve passá-lo para um colega.",
+    "metadata": {
+      "titulo": "Jogo de Pescar",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_264",
+    "conteudo": "Descrição: Coloque desafios em papéis dentro de uma caixa. O aluno tira um desafio: \"Compartilhe o seu carrinho com o(a) [nome do colega]\".",
+    "metadata": {
+      "titulo": "A Caixa dos Desafios",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_265",
+    "conteudo": "Descrição: Apresente cenários em cartões. \"E se um amigo quiser brincar com o seu brinquedo favorito? O que você faz?\". A criança pode apontar para uma figura de \"compartilhar\".",
+    "metadata": {
+      "titulo": "O Jogo do \"E Se...\"",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_266",
+    "conteudo": "Descrição: Use um guarda-chuva de brinquedo. O professor \"coloca a chuva\" (pode ser com um borrifador de água) e o aluno deve \"compartilhar\" o guarda-chuva com um colega.",
+    "metadata": {
+      "titulo": "O Guarda-chuva Mágico",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_267",
+    "conteudo": "Descrição: A criança é o \"controlador\" do robô. O professor diz \"O robô quer ver você compartilhar\". O robô \"senta\" ao lado de um colega, e o aluno deve entregar um brinquedo a ele.",
+    "metadata": {
+      "titulo": "O Robô que Ajuda",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_268",
+    "conteudo": "Descrição: Crie um jogo da memória com pares de figuras que representam o ato de compartilhar.",
+    "metadata": {
+      "titulo": "Jogo da Memória da Amizade",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_269",
+    "conteudo": "Descrição: A criança pode colocar um desenho de algo que gostaria de brincar. O professor pode dizer \"Se você compartilhar o seu brinquedo, pode brincar com o do amigo também\".",
+    "metadata": {
+      "titulo": "O Pote de Desejos",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_270",
+    "conteudo": "Descrição: O professor faz mímica de uma regra de um jogo (ex: \"é a minha vez, depois a sua\"). A criança deve adivinhar e, depois, aplicar a regra com um colega.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual é a Regra?\"",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_271",
+    "conteudo": "Descrição: Crie um quebra-cabeça de duas ou três peças com uma foto do aluno e do colega brincando juntos.",
+    "metadata": {
+      "titulo": "Quebra-cabeça da Amizade",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_272",
+    "conteudo": "Descrição: A criança e os colegas devem manter um balão no ar, tocando-o em turnos, o que exige revezamento e cooperação.",
+    "metadata": {
+      "titulo": "Balão no Ar",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_273",
+    "conteudo": "Descrição: Cada criança adiciona um bloco para construir uma torre. Incentive a espera e o trabalho em equipe.",
+    "metadata": {
+      "titulo": "Construção de Torre",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_274",
+    "conteudo": "Descrição: Dê ao aluno potes de cores e objetos. Incentive-o a \"compartilhar\" o pote com um colega para que ambos possam separar os objetos por cor.",
+    "metadata": {
+      "titulo": "Potes de Cores",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_275",
+    "conteudo": "Descrição: Use bonecos. O professor encena uma situação onde um boneco se machuca. O aluno deve \"compartilhar\" o kit de médico com um colega para cuidarem do boneco juntos.",
+    "metadata": {
+      "titulo": "O Jogo do \"Eu Cuido de Você\"",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_276",
+    "conteudo": "Descrição: O aluno e um colega fazem uma sombra com as mãos. Incentive-os a \"compartilhar\" o uso da lanterna e a fazer a sombra juntos.",
+    "metadata": {
+      "titulo": "O Jogo da Sombra",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_277",
+    "conteudo": "Descrição: O professor começa uma história onde um personagem não quer compartilhar. A criança deve continuar a história, fazendo o personagem compartilhar.",
+    "metadata": {
+      "titulo": "Jogo do \"Continua a História\"",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_278",
+    "conteudo": "Descrição: Em uma folha grande, as crianças se revezam para pintar, usando as mesmas tintas.",
+    "metadata": {
+      "titulo": "Pintura Coletiva",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_279",
+    "conteudo": "Descrição: A criança e um colega podem empurrar o carrinho de mão juntos, revezando-se para o \"motorista\" e o \"passageiro\".",
+    "metadata": {
+      "titulo": "O Carrinho de Mão",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_280",
+    "conteudo": "Descrição: Crie um livro em branco. A criança pode desenhar uma situação onde ela compartilhou um brinquedo.",
+    "metadata": {
+      "titulo": "O Livro das Atividades",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_281",
+    "conteudo": "Descrição: A criança completa a frase \"Eu fico feliz quando meu amigo compartilha o...\".",
+    "metadata": {
+      "titulo": "O Jogo do \"Eu Fico Feliz Quando...\"",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_282",
+    "conteudo": "Descrição: Desenhe um boneco na lousa. A criança deve dar palpites sobre o que faria para compartilhar um brinquedo com um amigo.",
+    "metadata": {
+      "titulo": "Jogo da Forca",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_283",
+    "conteudo": "Descrição: A criança pode colocar um desenho de um brinquedo. O professor pode ler em voz alta e dizer \"Vamos ver quem quer compartilhar esse brinquedo?\".",
+    "metadata": {
+      "titulo": "O Pote Mágico",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_284",
+    "conteudo": "Descrição: A criança e os colegas se revezam para jogar a bola e derrubar os pinos.",
+    "metadata": {
+      "titulo": "Jogo de Boliche",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_285",
+    "conteudo": "Descrição: O professor faz mímica de uma regra de um jogo (ex: revezar). A criança deve adivinhar e, depois, aplicar a regra com um colega.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual é a Regra?\"",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_286",
+    "conteudo": "Descrição: Sente-se em círculo. Peça para a criança falar sobre o que ela gosta de compartilhar e o que os colegas gostam de compartilhar.",
+    "metadata": {
+      "titulo": "Roda da Conversa",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_287",
+    "conteudo": "Descrição: Apresente cenários. \"E se você tiver um guarda-chuva e um amigo não, o que você faria?\". A criança deve responder \"eu compartilharia\".",
+    "metadata": {
+      "titulo": "Jogo do \"Se Chover...\"",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_288",
+    "conteudo": "Descrição: A criança completa a frase \"Eu fico triste quando meu amigo não...\".",
+    "metadata": {
+      "titulo": "O Jogo do \"Eu Fico Triste Quando...\"",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_289",
+    "conteudo": "Descrição: As crianças andam em volta das cadeiras. Quando a música parar, o professor pode dizer \"Compartilhe a cadeira com um amigo!\".",
+    "metadata": {
+      "titulo": "O Jogo das Cadeiras Musicais",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_290",
+    "conteudo": "Descrição: As crianças se revezam para sentar em um balão e estourá-lo.",
+    "metadata": {
+      "titulo": "O Jogo do \"Estourar o Balão\"",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_291",
+    "conteudo": "Descrição: O professor mostra uma imagem com duas crianças, mas uma delas não tem brinquedo. A criança deve dizer o que está faltando.",
+    "metadata": {
+      "titulo": "O Jogo do \"O que está faltando?\"",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_292",
+    "conteudo": "Descrição: A criança faz mímica de uma situação de compartilhar, e os colegas adivinham.",
+    "metadata": {
+      "titulo": "Jogo de Mímica",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_293",
+    "conteudo": "Descrição: As crianças se revezam para colocar objetos em um pote da mesma cor.",
+    "metadata": {
+      "titulo": "Jogo dos Potes de Cores",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_294",
+    "conteudo": "Descrição: A criança completa a frase \"Eu gosto de brincar com [nome do amigo] e compartilhar...\".",
+    "metadata": {
+      "titulo": "O Jogo do \"Eu Gosto de...\"",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_295",
+    "conteudo": "Descrição: Crie um livro com as fotos de todos os amigos da turma. A criança pode mostrar a foto de seu amigo e dizer o que gosta de compartilhar com ele.",
+    "metadata": {
+      "titulo": "O Livro das Amizades",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_296",
+    "conteudo": "Descrição: A criança explica as regras do jogo para os colegas.",
+    "metadata": {
+      "titulo": "O Jogo da \"Verdade ou Consequência\"",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_297",
+    "conteudo": "Descrição: A criança completa a frase \"Eu fico bravo quando meu amigo não...\".",
+    "metadata": {
+      "titulo": "O Jogo do \"Eu Fico Bravo Quando...\"",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_298",
+    "conteudo": "Descrição: A criança explica as regras de uma brincadeira com massinha.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual é o Sabor?\"",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_299",
+    "conteudo": "Descrição: A criança escolhe um brinquedo e fala sobre ele para o professor, depois compartilha com um colega.",
+    "metadata": {
+      "titulo": "O Jogo dos Brinquedos",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "socializacao_5a6_300",
+    "conteudo": "Descrição: O professor faz a sombra de um objeto. A criança adivinha e inicia a conversa sobre como compartilhar o objeto.",
+    "metadata": {
+      "titulo": "O Jogo da Sombra Mágica",
+      "dimensao": "Socialização",
+      "habilidade": "Aceita compartilha/reveza brinquedos e outros itens favoritos.",
+      "nivel": "Nível 1",
+      "idade": "5 a 6 anos"
+    }
+  }
+]

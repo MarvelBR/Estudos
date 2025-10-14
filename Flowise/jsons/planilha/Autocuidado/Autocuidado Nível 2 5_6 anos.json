@@ -1,0 +1,4402 @@
+[
+  {
+    "id": "autocuidado_5a6_01",
+    "conteudo": "Descrição: Coloque uma música de 2 minutos e mostre como a escova de dentes \"dança\" em cada dente, para cima e para baixo.",
+    "metadata": {
+      "titulo": "A Dança da Escova de Dentes",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_02",
+    "conteudo": "Descrição: Use um tablet de revelação de placa (aqueles que mancham os dentes). Diga que a criança é um detetive e precisa \"caçar\" todos os \"germes\" (placa) com a escova.",
+    "metadata": {
+      "titulo": "O Jogo do Detetive dos Germes",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_03",
+    "conteudo": "Descrição: Use uma pasta de dente com sabor diferente e deixe a criança \"pintar\" os dentes com a escova, usando diferentes movimentos.",
+    "metadata": {
+      "titulo": "O Pintor Mágico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_04",
+    "conteudo": "Descrição: Use as cerdas da escova para \"correr\" sobre os dentes, como se fossem super-heróis em uma missão para deixar os dentes limpos.",
+    "metadata": {
+      "titulo": "A Corrida dos Super-Heróis",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_05",
+    "conteudo": "Descrição: Use uma lanterna para que a criança ilumine cada dente na boca. Ela deve \"limpar\" os dentes para que a luz brilhe.",
+    "metadata": {
+      "titulo": "A Aventura da Lanterna",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_06",
+    "conteudo": "Descrição: Diga que a criança está caçando \"tesouros brilhantes\" (os dentes). Ela precisa escová-los para que eles brilhem.",
+    "metadata": {
+      "titulo": "O Jogo do Tesouro Brilhante",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_07",
+    "conteudo": "Descrição: A criança pode imitar um robô, fazendo movimentos rígidos e precisos para escovar os dentes.",
+    "metadata": {
+      "titulo": "O Jogo do Robô",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_08",
+    "conteudo": "Descrição: Diga que a criança é um mago e a escova é sua \"varinha mágica\" que faz a \"sujeira\" desaparecer.",
+    "metadata": {
+      "titulo": "O Jogo do Mago dos Dentes",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_09",
+    "conteudo": "Descrição: A criança é o guarda-costas e precisa \"proteger\" os dentes dos \"vilões\" (a cárie) com a escova.",
+    "metadata": {
+      "titulo": "O Jogo do Guarda-Costas dos Dentes",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_10",
+    "conteudo": "Descrição: Use a pasta de dente para que a criança faça uma \"escultura\" de espuma na boca.",
+    "metadata": {
+      "titulo": "A Escultura de Espuma",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_11",
+    "conteudo": "Descrição: A boca é o \"espaço sideral\". A criança precisa \"limpar\" o espaço com a escova de dentes para que as \"estrelas\" (os dentes) brilhem.",
+    "metadata": {
+      "titulo": "A Missão do Astronauta Limpador",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_12",
+    "conteudo": "Descrição: Sussurre uma instrução, como \"escove os dentes da frente\", para que a criança siga.",
+    "metadata": {
+      "titulo": "O Jogo do Telefone Sem Fio",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_13",
+    "conteudo": "Descrição: Use a pasta de dente para fazer uma \"sopa de sabão\" com a água. A criança pode \"cozinhar\" a espuma com a escova.",
+    "metadata": {
+      "titulo": "O Jogo da Sopa de Sabão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_14",
+    "conteudo": "Descrição: Desenhe um monstrinho na escova de dentes. A criança deve \"alimentar\" o monstro com a pasta de dente.",
+    "metadata": {
+      "titulo": "O Jogo do Monstro da Pasta de Dente",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_15",
+    "conteudo": "Descrição: Use a escova de dentes como uma vassoura e mostre como ela \"varre\" a sujeira dos dentes.",
+    "metadata": {
+      "titulo": "A Corrida de Vassouras",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_16",
+    "conteudo": "Descrição: Use a escova para que a criança \"caçe\" os \"ovos de Páscoa\" (pequenos pedaços de comida) que estão nos dentes.",
+    "metadata": {
+      "titulo": "O Jogo do Coelhinho da Páscoa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_17",
+    "conteudo": "Descrição: A criança pode imitar uma abelha para \"polinizar\" os dentes.",
+    "metadata": {
+      "titulo": "O Jogo da Abelha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_18",
+    "conteudo": "Descrição: A criança pode imitar um macaco que \"colhe\" os \"frutos\" (comida) dos dentes.",
+    "metadata": {
+      "titulo": "O Jogo do Macaco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_19",
+    "conteudo": "Descrição: A criança pode imitar uma tartaruga, fazendo movimentos devagar para escovar os dentes.",
+    "metadata": {
+      "titulo": "O Jogo da Tartaruga",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_20",
+    "conteudo": "Descrição: Use uma lanterna para iluminar os dentes. A criança deve \"seguir a estrela\" e escovar o local iluminado.",
+    "metadata": {
+      "titulo": "O Jogo da Estrela Guia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_21",
+    "conteudo": "Descrição: A criança pode fazer um círculo com a escova nos dentes, como se fossem as pétalas de uma flor.",
+    "metadata": {
+      "titulo": "O Jogo da Flor",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_22",
+    "conteudo": "Descrição: A criança pode fazer o formato do sol com a escova nos dentes.",
+    "metadata": {
+      "titulo": "O Jogo do Sol",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_23",
+    "conteudo": "Descrição: Use pastas de dente de cores diferentes. A criança pode fazer um \"arco-íris\" nos dentes.",
+    "metadata": {
+      "titulo": "O Jogo do Arco-Íris",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_24",
+    "conteudo": "Descrição: A criança pode fazer um desenho com a escova nos dentes.",
+    "metadata": {
+      "titulo": "O Jogo do Desenho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_25",
+    "conteudo": "Descrição: A criança pode \"cozinhar\" a pasta de dente, usando a escova.",
+    "metadata": {
+      "titulo": "O Jogo do Cozinheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_26",
+    "conteudo": "Descrição: A criança é um soldado e precisa \"conquistar\" os dentes.",
+    "metadata": {
+      "titulo": "A Missão do Soldado",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_27",
+    "conteudo": "Descrição: A criança pode usar a escova para simular um trem na água.",
+    "metadata": {
+      "titulo": "O Jogo do Trem da Água",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_28",
+    "conteudo": "Descrição: A criança pode imitar um pássaro que \"come\" a sujeira dos dentes.",
+    "metadata": {
+      "titulo": "O Jogo do Pássaro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_29",
+    "conteudo": "Descrição: A criança pode imitar um patinho que \"bebe\" a água.",
+    "metadata": {
+      "titulo": "O Jogo do Patinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_30",
+    "conteudo": "Descrição: A criança é um marinheiro e precisa \"navegar\" com a escova para \"limpar\" a boca.",
+    "metadata": {
+      "titulo": "A Missão do Marinheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_31",
+    "conteudo": "Descrição: A criança pode imitar um gato que \"caça\" a sujeira dos dentes.",
+    "metadata": {
+      "titulo": "O Jogo do Gato e Rato",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_32",
+    "conteudo": "Descrição: A criança pode imitar um dinossauro que \"come\" a sujeira.",
+    "metadata": {
+      "titulo": "O Jogo do Dinossauro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_33",
+    "conteudo": "Descrição: A criança pode imitar um leão que \"caça\" a sujeira dos dentes.",
+    "metadata": {
+      "titulo": "O Jogo do Leão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_34",
+    "conteudo": "Descrição: Use a escova para que a criança \"pesque\" as \"letras\" (restos de comida) que estão nos dentes.",
+    "metadata": {
+      "titulo": "O Jogo da Sopa de Letras",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_35",
+    "conteudo": "Descrição: A criança pode construir um \"castelo\" de espuma na boca com a pasta de dente.",
+    "metadata": {
+      "titulo": "O Jogo do Castelo de Espuma",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_36",
+    "conteudo": "Descrição: A criança pode \"tocar\" uma música com a escova nos dentes.",
+    "metadata": {
+      "titulo": "O Jogo do Músico da Limpeza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_37",
+    "conteudo": "Descrição: Os dentes da criança são o jardim. Ela precisa \"regar\" e \"limpar\" o jardim com a escova.",
+    "metadata": {
+      "titulo": "O Jogo do Jardim Encantado",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_38",
+    "conteudo": "Descrição: Diga que a criança tem um amigo invisível que precisa de ajuda para escovar os dentes.",
+    "metadata": {
+      "titulo": "O Jogo do Amigo Invisível",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_39",
+    "conteudo": "Descrição: A criança pode soprar a espuma da pasta de dente enquanto escova.",
+    "metadata": {
+      "titulo": "O Jogo do Sopro Mágico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_40",
+    "conteudo": "Descrição: A criança pode usar a escova para simular um trem na água.",
+    "metadata": {
+      "titulo": "O Jogo do Trem da Água",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_41",
+    "conteudo": "Descrição: Use tinta de banho ou sabonete em barra colorido para que a criança \"pinte\" o rosto e os dentes no banho.",
+    "metadata": {
+      "titulo": "O Jogo do Artista do Banho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_42",
+    "conteudo": "Descrição: A criança pode fazer movimentos de sol nos dentes e depois a \"chuva\" de água para enxaguar.",
+    "metadata": {
+      "titulo": "O Jogo do Sol e da Chuva",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_43",
+    "conteudo": "Descrição: A criança pode imitar um robô, escovando os dentes com movimentos robóticos.",
+    "metadata": {
+      "titulo": "O Jogo do Robô",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_44",
+    "conteudo": "Descrição: A criança é um super-herói com o poder de deixar os dentes limpos e brilhantes.",
+    "metadata": {
+      "titulo": "O Jogo do Super-Herói",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_45",
+    "conteudo": "Descrição: Os dentes da criança são a floresta. Ela precisa escovar os dentes para que a floresta fique limpa e saudável.",
+    "metadata": {
+      "titulo": "O Jogo da Floresta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_46",
+    "conteudo": "Descrição: A criança pode imitar um caranguejo para escovar os dentes.",
+    "metadata": {
+      "titulo": "O Jogo do Caranguejo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_47",
+    "conteudo": "Descrição: A criança é um astronauta que precisa escovar os dentes na nave espacial.",
+    "metadata": {
+      "titulo": "O Jogo do Astronauta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_48",
+    "conteudo": "Descrição: A criança pode imitar uma borboleta para escovar os dentes.",
+    "metadata": {
+      "titulo": "O Jogo da Borboleta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_49",
+    "conteudo": "Descrição: A criança pode imitar um patinho que escova os dentes.",
+    "metadata": {
+      "titulo": "O Jogo do Patinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_50",
+    "conteudo": "Descrição: A criança é um marinheiro e precisa \"navegar\" com a escova para limpar a boca.",
+    "metadata": {
+      "titulo": "A Missão do Marinheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_51",
+    "conteudo": "Descrição: Crie um quadro de rotina visual com fotos ou desenhos. Diga à criança que ela é o capitão e precisa seguir o mapa da rotina para completar a missão do dia.",
+    "metadata": {
+      "titulo": "Missão do Capitão da Rotina",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_52",
+    "conteudo": "Descrição: Diga que a criança é um detetive e precisa encontrar a próxima tarefa do dia, seguindo as pistas visuais no quadro de rotina.",
+    "metadata": {
+      "titulo": "O Jogo do Detetive das Tarefas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_53",
+    "conteudo": "Descrição: Use caixas de papelão como os “vagões” de um trem. Cada vagão representa uma tarefa. A criança é o maquinista e deve \"carregar\" os vagões na ordem correta.",
+    "metadata": {
+      "titulo": "O Trem da Rotina",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_54",
+    "conteudo": "Descrição: Use um relógio de pulso que a criança possa ver. Diga que ele irá \"avisar\" quando for a hora de fazer a próxima tarefa.",
+    "metadata": {
+      "titulo": "O Jogo do Relógio Mágico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_55",
+    "conteudo": "Descrição: Use uma lanterna para iluminar a próxima tarefa no quadro de rotina. A luz é a \"guia\" mágica.",
+    "metadata": {
+      "titulo": "A Aventura da Lanterna",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_56",
+    "conteudo": "Descrição: Esconda um pequeno \"tesouro\" (adesivo, brinquedo) no final do quadro de rotina. A criança só pode pegá-lo depois de completar todas as tarefas.",
+    "metadata": {
+      "titulo": "O Jogo do Tesouro no Quadro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_57",
+    "conteudo": "Descrição: Coloque uma música animada e mostre como a criança pode \"dançar\" com a rotina, seguindo os passos.",
+    "metadata": {
+      "titulo": "A Dança da Rotina",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_58",
+    "conteudo": "Descrição: A criança é um super-herói e precisa \"salvar\" o dia, completando todas as tarefas.",
+    "metadata": {
+      "titulo": "O Jogo do Super-Herói",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_59",
+    "conteudo": "Descrição: Diga que a criança é um mago e a sua \"varinha mágica\" tem o poder de fazer as tarefas \"desaparecerem\" do quadro (tirar a ficha da tarefa concluída).",
+    "metadata": {
+      "titulo": "O Jogo do Mago da Rotina",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_60",
+    "conteudo": "Descrição: A criança pode imitar um robô, fazendo movimentos rígidos e precisos para completar as tarefas.",
+    "metadata": {
+      "titulo": "O Jogo do Robô",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_61",
+    "conteudo": "Descrição: Cronometre a criança para que ela complete uma tarefa em um tempo determinado, tornando o processo uma corrida divertida.",
+    "metadata": {
+      "titulo": "A Corrida das Tarefas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_62",
+    "conteudo": "Descrição: Use espuma de barbear ou sabonete líquido. A criança pode \"desenhar\" a próxima tarefa na espuma.",
+    "metadata": {
+      "titulo": "A Escultura de Espuma",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_63",
+    "conteudo": "Descrição: A criança é o guarda-costas e precisa \"proteger\" a rotina de ser interrompida.",
+    "metadata": {
+      "titulo": "O Jogo do Guarda-Costas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_64",
+    "conteudo": "Descrição: Crie uma canção simples e curta sobre a rotina da escola.",
+    "metadata": {
+      "titulo": "A Canção da Rotina",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_65",
+    "conteudo": "Descrição: Peça para a criança fazer a tarefa com um urso de pelúcia ou outro boneco. Diga que o urso precisa de ajuda para fazer a tarefa.",
+    "metadata": {
+      "titulo": "O Jogo do Amigo Urso",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_66",
+    "conteudo": "Descrição: Desenhe um monstrinho na escova de dentes. A criança deve \"alimentar\" o monstro com a pasta de dente.",
+    "metadata": {
+      "titulo": "O Jogo do Monstro das Tarefas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_67",
+    "conteudo": "Descrição: Use uma vassoura de brinquedo para que a criança \"varra\" a sujeira das tarefas.",
+    "metadata": {
+      "titulo": "A Corrida de Vassouras",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_68",
+    "conteudo": "Descrição: Use a escova para que a criança \"caçe\" os \"ovos de Páscoa\" (pequenos pedaços de comida) que estão nos dentes.",
+    "metadata": {
+      "titulo": "O Jogo do Coelhinho da Páscoa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_69",
+    "conteudo": "Descrição: A criança pode imitar uma abelha para \"polinizar\" as tarefas.",
+    "metadata": {
+      "titulo": "O Jogo da Abelha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_70",
+    "conteudo": "Descrição: A criança pode imitar um macaco que \"colhe\" a sujeira das tarefas.",
+    "metadata": {
+      "titulo": "O Jogo do Macaco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_71",
+    "conteudo": "Descrição: A criança pode imitar uma tartaruga, fazendo movimentos devagar para completar as tarefas.",
+    "metadata": {
+      "titulo": "O Jogo da Tartaruga",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_72",
+    "conteudo": "Descrição: Use uma lanterna para iluminar as tarefas. A criança deve \"seguir a estrela\".",
+    "metadata": {
+      "titulo": "O Jogo da Estrela Guia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_73",
+    "conteudo": "Descrição: A criança pode fazer um círculo com a escova nos dentes, como se fossem as pétalas de uma flor.",
+    "metadata": {
+      "titulo": "O Jogo da Flor",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_74",
+    "conteudo": "Descrição: A criança pode fazer o formato do sol com a escova nos dentes.",
+    "metadata": {
+      "titulo": "O Jogo do Sol",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_75",
+    "conteudo": "Descrição: Use pastas de dente de cores diferentes. A criança pode fazer um \"arco-íris\" nos dentes.",
+    "metadata": {
+      "titulo": "O Jogo do Arco-Íris",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_76",
+    "conteudo": "Descrição: A criança pode fazer um desenho com a escova nos dentes.",
+    "metadata": {
+      "titulo": "O Jogo do Desenho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_77",
+    "conteudo": "Descrição: A criança pode \"cozinhar\" a pasta de dente, usando a escova.",
+    "metadata": {
+      "titulo": "O Jogo do Cozinheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_78",
+    "conteudo": "Descrição: A criança é um soldado e precisa \"conquistar\" as tarefas.",
+    "metadata": {
+      "titulo": "A Missão do Soldado",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_79",
+    "conteudo": "Descrição: A criança pode usar a escova para simular um trem na água.",
+    "metadata": {
+      "titulo": "O Jogo do Trem da Água",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_80",
+    "conteudo": "Descrição: A criança pode imitar um pássaro que \"voa\" para as tarefas.",
+    "metadata": {
+      "titulo": "O Jogo do Pássaro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_81",
+    "conteudo": "Descrição: A criança pode imitar um patinho que \"bebe\" a água.",
+    "metadata": {
+      "titulo": "O Jogo do Patinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_82",
+    "conteudo": "Descrição: A criança é um marinheiro e precisa \"navegar\" com a escova para limpar a boca.",
+    "metadata": {
+      "titulo": "A Missão do Marinheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_83",
+    "conteudo": "Descrição: A criança pode imitar um gato que \"caça\" a sujeira.",
+    "metadata": {
+      "titulo": "O Jogo do Gato e Rato",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_84",
+    "conteudo": "Descrição: A criança pode imitar um dinossauro que \"come\" a sujeira.",
+    "metadata": {
+      "titulo": "O Jogo do Dinossauro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_85",
+    "conteudo": "Descrição: A criança pode imitar um leão que \"caça\" a sujeira.",
+    "metadata": {
+      "titulo": "O Jogo do Leão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_86",
+    "conteudo": "Descrição: Use a escova para que a criança \"pesque\" as \"letras\" (restos de comida) que estão nos dentes.",
+    "metadata": {
+      "titulo": "O Jogo da Sopa de Letras",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_87",
+    "conteudo": "Descrição: A criança pode construir um \"castelo\" de espuma na boca.",
+    "metadata": {
+      "titulo": "O Jogo do Castelo de Espuma",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_88",
+    "conteudo": "Descrição: A criança pode \"tocar\" uma música com a escova nos dentes.",
+    "metadata": {
+      "titulo": "O Jogo do Músico da Limpeza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_89",
+    "conteudo": "Descrição: Os dentes da criança são o jardim. Ela precisa \"regar\" e \"limpar\" o jardim com a escova.",
+    "metadata": {
+      "titulo": "O Jogo do Jardim Encantado",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_90",
+    "conteudo": "Descrição: Diga que a criança tem um amigo invisível que precisa de ajuda para escovar os dentes.",
+    "metadata": {
+      "titulo": "O Jogo do Amigo Invisível",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_91",
+    "conteudo": "Descrição: A criança pode soprar a espuma da pasta de dente enquanto escova.",
+    "metadata": {
+      "titulo": "O Jogo do Sopro Mágico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_92",
+    "conteudo": "Descrição: A criança pode usar a escova para simular um trem na água.",
+    "metadata": {
+      "titulo": "O Jogo do Trem da Água",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_93",
+    "conteudo": "Descrição: Use tinta de banho ou sabonete em barra colorido para que a criança \"pinte\" o rosto e os dentes no banho.",
+    "metadata": {
+      "titulo": "O Jogo do Artista do Banho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_94",
+    "conteudo": "Descrição: A criança pode fazer movimentos de sol nos dentes e depois a \"chuva\" de água para enxaguar.",
+    "metadata": {
+      "titulo": "O Jogo do Sol e da Chuva",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_95",
+    "conteudo": "Descrição: A criança pode imitar um robô, escovando os dentes com movimentos robóticos.",
+    "metadata": {
+      "titulo": "O Jogo do Robô",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_96",
+    "conteudo": "Descrição: A criança é um super-herói com o poder de deixar os dentes limpos e brilhantes.",
+    "metadata": {
+      "titulo": "O Jogo do Super-Herói",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_97",
+    "conteudo": "Descrição: Os dentes da criança são a floresta. Ela precisa escovar os dentes para que a floresta fique limpa e saudável.",
+    "metadata": {
+      "titulo": "O Jogo da Floresta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_98",
+    "conteudo": "Descrição: A criança pode imitar um caranguejo para escovar os dentes.",
+    "metadata": {
+      "titulo": "O Jogo do Caranguejo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_99",
+    "conteudo": "Descrição: A criança é um astronauta que precisa escovar os dentes na nave espacial.",
+    "metadata": {
+      "titulo": "O Jogo do Astronauta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_100",
+    "conteudo": "Descrição: A criança pode imitar uma borboleta para escovar os dentes.",
+    "metadata": {
+      "titulo": "O Jogo da Borboleta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_101",
+    "conteudo": "Descrição: Dê à criança uma \"carta\" (um cartão visual da comida) e diga que ela é o carteiro que precisa \"entregar\" a comida para si mesma.",
+    "metadata": {
+      "titulo": "Missão do Carteiro do Lanche",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_102",
+    "conteudo": "Descrição: Diga que a criança é um garçom e ela deve \"servir\" a si mesma, levando o prato da mesa de serviço para a sua mesa.",
+    "metadata": {
+      "titulo": "O Jogo do Garçom Mágico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_103",
+    "conteudo": "Descrição: Use um cartão com a foto do lanche. Diga que a criança é um detetive e precisa \"encontrar\" o lanche no local de serviço.",
+    "metadata": {
+      "titulo": "O Jogo do Detetive da Comida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_104",
+    "conteudo": "Descrição: Use uma bandeja como um \"vagão de trem\". A criança é o maquinista e deve \"carregar\" o vagão com o seu lanche e levá-lo para a mesa.",
+    "metadata": {
+      "titulo": "O Trem da Comida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_105",
+    "conteudo": "Descrição: A criança é um super-herói com o poder de \"salvar\" a comida da bagunça e levá-la para o seu lugar.",
+    "metadata": {
+      "titulo": "O Jogo do Super-Herói da Comida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_106",
+    "conteudo": "Descrição: Use uma lanterna para iluminar o lanche na mesa de serviço. A criança deve \"seguir a luz\" para pegar o seu lanche.",
+    "metadata": {
+      "titulo": "A Aventura da Lanterna",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_107",
+    "conteudo": "Descrição: Esconda um pequeno \"tesouro\" (um adesivo, por exemplo) no lanche. A criança deve pegar o lanche para encontrar o tesouro.",
+    "metadata": {
+      "titulo": "O Jogo do Tesouro no Prato",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_108",
+    "conteudo": "Descrição: A criança pode imitar um robô, fazendo movimentos rígidos e precisos para pegar o lanche.",
+    "metadata": {
+      "titulo": "O Jogo do Robô",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_109",
+    "conteudo": "Descrição: Coloque uma música animada e mostre como a criança pode \"dançar\" até a mesa de serviço para pegar o lanche.",
+    "metadata": {
+      "titulo": "A Dança do Lanche",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_110",
+    "conteudo": "Descrição: A criança é um mago e a sua \"varinha mágica\" é a bandeja que \"transporta\" a comida.",
+    "metadata": {
+      "titulo": "O Jogo do Mago da Comida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_111",
+    "conteudo": "Descrição: A criança é o guarda-costas e precisa \"proteger\" o lanche enquanto o leva para a mesa.",
+    "metadata": {
+      "titulo": "O Jogo do Guarda-Costas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_112",
+    "conteudo": "Descrição: A criança é um astronauta que precisa \"flutuar\" até o local do lanche.",
+    "metadata": {
+      "titulo": "A Missão do Astronauta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_113",
+    "conteudo": "Descrição: Coloque objetos leves na bandeja e peça para a criança caminhar até um ponto e voltar, como se fosse uma corrida.",
+    "metadata": {
+      "titulo": "A Corrida das Bandejas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_114",
+    "conteudo": "Descrição: Use uma colher grande para que a criança \"alimente\" o \"monstro\" (o seu prato).",
+    "metadata": {
+      "titulo": "O Jogo do Monstro da Colher",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_115",
+    "conteudo": "Descrição: Use um prato com divisórias e peça para a criança colocar cada tipo de alimento em seu lugar.",
+    "metadata": {
+      "titulo": "O Jogo do Quebra-Cabeça da Comida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_116",
+    "conteudo": "Descrição: Esconda pequenos pedaços de frutas ou vegetais em um local e peça para a criança \"caçá-los\" e colocá-los no seu prato.",
+    "metadata": {
+      "titulo": "A Caça ao Tesouro da Comida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_117",
+    "conteudo": "Descrição: Diga que os alimentos são \"sementes\". A criança deve \"plantá-las\" em seu prato.",
+    "metadata": {
+      "titulo": "O Jogo do Jardineiro de Alimentos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_118",
+    "conteudo": "Descrição: Use blocos de montar e peça para a criança \"resgatá-los\" com uma colher e colocá-los no seu prato.",
+    "metadata": {
+      "titulo": "O Resgate dos Blocos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_119",
+    "conteudo": "Descrição: Use um prato com divisórias e peça para a criança colocar cada alimento em seu lugar.",
+    "metadata": {
+      "titulo": "O Jogo do Encaixe Perfeito",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_120",
+    "conteudo": "Descrição: Use um caminhão de brinquedo e peça para a criança \"recolher\" os alimentos com uma colher e colocá-los no seu prato.",
+    "metadata": {
+      "titulo": "O Jogo do Caminhão de Lixo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_121",
+    "conteudo": "Descrição: A criança pode \"caçar\" e pegar pequenos pedaços de comida com uma colher, como se fossem ovos de Páscoa.",
+    "metadata": {
+      "titulo": "O Jogo do Coelhinho da Páscoa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_122",
+    "conteudo": "Descrição: Faça gestos de como pegar o lanche. A criança deve imitar e pegar.",
+    "metadata": {
+      "titulo": "O Jogo do Mímico da Comida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_123",
+    "conteudo": "Descrição: Diga que a criança tem um amigo invisível que precisa de ajuda para pegar o lanche.",
+    "metadata": {
+      "titulo": "O Jogo do Amigo Invisível",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_124",
+    "conteudo": "Descrição: Use uma balança de brinquedo para que a criança \"pesque\" os alimentos.",
+    "metadata": {
+      "titulo": "O Jogo da Balança",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_125",
+    "conteudo": "Descrição: Use uma rede de brinquedo para \"pescar\" os alimentos.",
+    "metadata": {
+      "titulo": "O Jogo do Pescador da Comida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_126",
+    "conteudo": "Descrição: A criança pode construir um \"castelo\" com os alimentos em seu prato.",
+    "metadata": {
+      "titulo": "O Jogo do Castelo de Comida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_127",
+    "conteudo": "Descrição: Use uma vassoura de brinquedo para a criança \"varrer\" os alimentos para o prato.",
+    "metadata": {
+      "titulo": "A Corrida de Vassouras",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_128",
+    "conteudo": "Descrição: A criança pode imitar uma abelha para \"polinizar\" os alimentos.",
+    "metadata": {
+      "titulo": "O Jogo da Abelha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_129",
+    "conteudo": "Descrição: A criança pode imitar um macaco que \"colhe\" a comida e a leva para o prato.",
+    "metadata": {
+      "titulo": "O Jogo do Macaco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_130",
+    "conteudo": "Descrição: A criança pode imitar uma tartaruga, andando devagar com a bandeja.",
+    "metadata": {
+      "titulo": "O Jogo da Tartaruga",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_131",
+    "conteudo": "Descrição: Use uma lanterna para iluminar o prato da criança.",
+    "metadata": {
+      "titulo": "O Jogo da Estrela Guia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_132",
+    "conteudo": "Descrição: A criança pode segurar a bandeja como se fosse a \"lua\" que \"ilumina\" a comida.",
+    "metadata": {
+      "titulo": "O Jogo da Lua",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_133",
+    "conteudo": "Descrição: A criança pode colocar os alimentos no prato como se fossem as pétalas de uma flor.",
+    "metadata": {
+      "titulo": "O Jogo da Flor",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_134",
+    "conteudo": "Descrição: A criança pode fazer o formato do sol com a comida no prato.",
+    "metadata": {
+      "titulo": "O Jogo do Sol",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_135",
+    "conteudo": "Descrição: A criança pode organizar as frutas e vegetais por cor, como se fosse um arco-íris.",
+    "metadata": {
+      "titulo": "O Jogo do Arco-Íris",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_136",
+    "conteudo": "Descrição: A criança pode fazer um desenho com os alimentos no prato.",
+    "metadata": {
+      "titulo": "O Jogo do Desenho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_137",
+    "conteudo": "Descrição: A criança pode se servir como um cozinheiro, usando os utensílios de brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Cozinheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_138",
+    "conteudo": "Descrição: A criança é um soldado e precisa \"conquistar\" a comida.",
+    "metadata": {
+      "titulo": "A Missão do Soldado",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_139",
+    "conteudo": "Descrição: A criança pode usar um copo de água e levá-lo para a mesa.",
+    "metadata": {
+      "titulo": "O Jogo do Trem da Água",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_140",
+    "conteudo": "Descrição: A criança pode imitar um pássaro que \"come\" a comida.",
+    "metadata": {
+      "titulo": "O Jogo do Pássaro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_141",
+    "conteudo": "Descrição: A criança pode imitar um patinho que \"bebe\" a água.",
+    "metadata": {
+      "titulo": "O Jogo do Patinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_142",
+    "conteudo": "Descrição: A criança é um marinheiro e precisa \"navegar\" com o prato até a mesa.",
+    "metadata": {
+      "titulo": "A Missão do Marinheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_143",
+    "conteudo": "Descrição: A criança pode imitar um gato que \"caça\" a comida.",
+    "metadata": {
+      "titulo": "O Jogo do Gato e Rato",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_144",
+    "conteudo": "Descrição: A criança pode imitar um dinossauro que \"come\" a comida.",
+    "metadata": {
+      "titulo": "O Jogo do Dinossauro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_145",
+    "conteudo": "Descrição: A criança pode imitar um leão que \"caça\" a comida.",
+    "metadata": {
+      "titulo": "O Jogo do Leão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_146",
+    "conteudo": "Descrição: Use bolinhas de gude que brilham no escuro para criar um caminho com o cadarço.",
+    "metadata": {
+      "titulo": "O Jogo do Caminho de Bolinhas de Gude",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_147",
+    "conteudo": "Descrição: Esconda um pequeno objeto no cadarço e a criança deve \"encontrá-lo\" à noite.",
+    "metadata": {
+      "titulo": "O Jogo do Tesouro do Cadarço",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_148",
+    "conteudo": "Descrição: A criança pode imitar uma aranha para \"tecer\" o cadarço.",
+    "metadata": {
+      "titulo": "O Jogo da Aranha Mágica",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_149",
+    "conteudo": "Descrição: A criança pode imitar um soldado que precisa \"amarrar\" o sapato para a \"missão\".",
+    "metadata": {
+      "titulo": "O Jogo do Soldado",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_150",
+    "conteudo": "Descrição: Use um barquinho de brinquedo na pia para que a criança \"corra\" com o cadarço.",
+    "metadata": {
+      "titulo": "A Corrida de Lanchas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_151",
+    "conteudo": "Descrição: Use uma faca de plástico ou sem ponta para que a criança \"corte\" frutas macias como banana, morango ou mamão.",
+    "metadata": {
+      "titulo": "O Chef da Fruta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_152",
+    "conteudo": "Descrição: Use uma faca de plástico para que a criança \"separe\" as \"estrelas\" (pedacinhos de queijo) do \"espaço\" (o resto do queijo).",
+    "metadata": {
+      "titulo": "A Missão do Astronauta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_153",
+    "conteudo": "Descrição: Use uma embalagem de leite. Diga que a criança é um detetive e precisa \"encontrar\" a abertura da embalagem para \"resolver o mistério\".",
+    "metadata": {
+      "titulo": "O Jogo do Detetive da Embalagem",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_154",
+    "conteudo": "Descrição: A criança é o guarda-costas e precisa \"proteger\" a comida, cortando-a em pedaços pequenos.",
+    "metadata": {
+      "titulo": "O Jogo do Guarda-Costas da Comida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_155",
+    "conteudo": "Descrição: Use uma lanterna para iluminar o local onde a criança deve cortar a comida. A luz é a \"guia\" mágica.",
+    "metadata": {
+      "titulo": "A Aventura da Lanterna",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_156",
+    "conteudo": "Descrição: A criança é um super-herói com o poder de \"abrir\" embalagens e \"cortar\" alimentos.",
+    "metadata": {
+      "titulo": "O Jogo do Super-Herói",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_157",
+    "conteudo": "Descrição: A criança pode \"cortar\" a comida em pedacinhos para que o \"trem\" (o garfo) possa \"levar\" para a boca.",
+    "metadata": {
+      "titulo": "O Jogo do Trem da Comida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_158",
+    "conteudo": "Descrição: Coloque uma música animada e mostre como a criança pode \"dançar\" com o garfo, levando a comida à boca.",
+    "metadata": {
+      "titulo": "A Dança do Garfo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_159",
+    "conteudo": "Descrição: Diga que a criança é um mago e a sua \"varinha mágica\" é a faca de plástico.",
+    "metadata": {
+      "titulo": "O Jogo do Mago da Comida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_160",
+    "conteudo": "Descrição: A criança pode imitar um robô, fazendo movimentos rígidos e precisos para cortar a comida.",
+    "metadata": {
+      "titulo": "O Jogo do Robô",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_161",
+    "conteudo": "Descrição: Use um prato com divisórias e peça para a criança colocar cada tipo de alimento em seu lugar.",
+    "metadata": {
+      "titulo": "O Jogo do Quebra-Cabeça da Comida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_162",
+    "conteudo": "Descrição: Esconda pequenos pedaços de frutas ou vegetais em um local e peça para a criança \"caçá-los\" e colocá-los no seu prato.",
+    "metadata": {
+      "titulo": "A Caça ao Tesouro da Comida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_163",
+    "conteudo": "Descrição: Diga que os alimentos são \"sementes\". A criança deve \"plantá-las\" em seu prato.",
+    "metadata": {
+      "titulo": "O Jogo do Jardineiro de Alimentos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_164",
+    "conteudo": "Descrição: Use blocos de montar e peça para a criança \"resgatá-los\" com uma colher e colocá-los no seu prato.",
+    "metadata": {
+      "titulo": "O Resgate dos Blocos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_165",
+    "conteudo": "Descrição: Use um prato com divisórias e peça para a criança colocar cada alimento em seu lugar.",
+    "metadata": {
+      "titulo": "O Jogo do Encaixe Perfeito",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_166",
+    "conteudo": "Descrição: Use um caminhão de brinquedo e peça para a criança \"recolher\" os alimentos com uma colher e colocá-los no seu prato.",
+    "metadata": {
+      "titulo": "O Jogo do Caminhão de Lixo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_167",
+    "conteudo": "Descrição: A criança pode \"caçar\" e pegar pequenos pedaços de comida com uma colher, como se fossem ovos de Páscoa.",
+    "metadata": {
+      "titulo": "O Jogo do Coelhinho da Páscoa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_168",
+    "conteudo": "Descrição: Faça gestos de como cortar e abrir embalagens. A criança deve imitar e realizar a tarefa.",
+    "metadata": {
+      "titulo": "O Jogo do Mímico da Comida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_169",
+    "conteudo": "Descrição: Diga que a criança tem um amigo invisível que precisa de ajuda para cortar a comida.",
+    "metadata": {
+      "titulo": "O Jogo do Amigo Invisível",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_170",
+    "conteudo": "Descrição: Use uma balança de brinquedo para que a criança \"pesque\" os alimentos.",
+    "metadata": {
+      "titulo": "O Jogo da Balança",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_171",
+    "conteudo": "Descrição: Use uma rede de brinquedo para \"pescar\" os alimentos.",
+    "metadata": {
+      "titulo": "O Jogo do Pescador da Comida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_172",
+    "conteudo": "Descrição: A criança pode construir um \"castelo\" com os alimentos em seu prato.",
+    "metadata": {
+      "titulo": "O Jogo do Castelo de Comida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_173",
+    "conteudo": "Descrição: Use uma vassoura de brinquedo para a criança \"varrer\" os alimentos para o prato.",
+    "metadata": {
+      "titulo": "A Corrida de Vassouras",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_174",
+    "conteudo": "Descrição: A criança pode imitar uma abelha para \"polinizar\" os alimentos.",
+    "metadata": {
+      "titulo": "O Jogo da Abelha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_175",
+    "conteudo": "Descrição: A criança pode imitar um macaco que \"colhe\" a comida e a leva para o prato.",
+    "metadata": {
+      "titulo": "O Jogo do Macaco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_176",
+    "conteudo": "Descrição: A criança pode imitar uma tartaruga, andando devagar com a bandeja.",
+    "metadata": {
+      "titulo": "O Jogo da Tartaruga",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_177",
+    "conteudo": "Descrição: Use uma lanterna para iluminar o prato da criança.",
+    "metadata": {
+      "titulo": "O Jogo da Estrela Guia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_178",
+    "conteudo": "Descrição: A criança pode segurar a bandeja como se fosse a \"lua\" que \"ilumina\" a comida.",
+    "metadata": {
+      "titulo": "O Jogo da Lua",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_179",
+    "conteudo": "Descrição: A criança pode colocar os alimentos no prato como se fossem as pétalas de uma flor.",
+    "metadata": {
+      "titulo": "O Jogo da Flor",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_180",
+    "conteudo": "Descrição: A criança pode fazer o formato do sol com a comida no prato.",
+    "metadata": {
+      "titulo": "O Jogo do Sol",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_181",
+    "conteudo": "Descrição: A criança pode organizar as frutas e vegetais por cor, como se fosse um arco-íris.",
+    "metadata": {
+      "titulo": "O Jogo do Arco-Íris",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_182",
+    "conteudo": "Descrição: A criança pode fazer um desenho com os alimentos no prato.",
+    "metadata": {
+      "titulo": "O Jogo do Desenho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_183",
+    "conteudo": "Descrição: A criança pode se servir como um cozinheiro, usando os utensílios de brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Cozinheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_184",
+    "conteudo": "Descrição: A criança é um soldado e precisa \"conquistar\" a comida.",
+    "metadata": {
+      "titulo": "A Missão do Soldado",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_185",
+    "conteudo": "Descrição: A criança pode usar um copo de água e levá-lo para a mesa.",
+    "metadata": {
+      "titulo": "O Jogo do Trem da Água",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_186",
+    "conteudo": "Descrição: A criança pode imitar um pássaro que \"come\" a comida.",
+    "metadata": {
+      "titulo": "O Jogo do Pássaro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_187",
+    "conteudo": "Descrição: A criança pode imitar um patinho que \"bebe\" a água.",
+    "metadata": {
+      "titulo": "O Jogo do Patinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_188",
+    "conteudo": "Descrição: A criança é um marinheiro e precisa \"navegar\" com o prato até a mesa.",
+    "metadata": {
+      "titulo": "A Missão do Marinheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_189",
+    "conteudo": "Descrição: A criança pode imitar um gato que \"caça\" a comida.",
+    "metadata": {
+      "titulo": "O Jogo do Gato e Rato",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_190",
+    "conteudo": "Descrição: A criança pode imitar um dinossauro que \"come\" a comida.",
+    "metadata": {
+      "titulo": "O Jogo do Dinossauro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_191",
+    "conteudo": "Descrição: A criança pode imitar um leão que \"caça\" a comida.",
+    "metadata": {
+      "titulo": "O Jogo do Leão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_192",
+    "conteudo": "Descrição: Use bolinhas de gude que brilham no escuro para criar um caminho com o cadarço.",
+    "metadata": {
+      "titulo": "O Jogo do Caminho de Bolinhas de Gude",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_193",
+    "conteudo": "Descrição: Esconda um pequeno objeto no cadarço e a criança deve \"encontrá-lo\" à noite.",
+    "metadata": {
+      "titulo": "O Jogo do Tesouro do Cadarço",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_194",
+    "conteudo": "Descrição: A criança pode imitar uma aranha para \"tecer\" o cadarço.",
+    "metadata": {
+      "titulo": "O Jogo da Aranha Mágica",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_195",
+    "conteudo": "Descrição: A criança pode imitar um soldado que precisa \"amarrar\" o sapato para a \"missão\".",
+    "metadata": {
+      "titulo": "O Jogo do Soldado",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_196",
+    "conteudo": "Descrição: Use um barquinho de brinquedo na pia para que a criança \"corra\" com o cadarço.",
+    "metadata": {
+      "titulo": "A Corrida de Lanchas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_197",
+    "conteudo": "Descrição: A criança pode imitar um pássaro que \"voa\" para amarrar o sapato.",
+    "metadata": {
+      "titulo": "O Jogo do Pássaro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_198",
+    "conteudo": "Descrição: A criança pode imitar um caranguejo para amarrar o sapato.",
+    "metadata": {
+      "titulo": "O Jogo do Caranguejo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_199",
+    "conteudo": "Descrição: A criança pode imitar uma borboleta para amarrar o sapato.",
+    "metadata": {
+      "titulo": "O Jogo da Borboleta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_200",
+    "conteudo": "Descrição: A criança pode imitar um patinho que \"bebe\" a água.",
+    "metadata": {
+      "titulo": "O Jogo do Patinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_201",
+    "conteudo": "Descrição: Diga que a criança é um garçom mágico. Ela deve levar os pratos e talheres de brinquedo da \"cozinha\" para a \"mesa\" e depois recolhê-los.",
+    "metadata": {
+      "titulo": "Missão do Garçom Mágico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_202",
+    "conteudo": "Descrição: Com a mesa bagunçada, diga que a criança é um detetive e precisa \"encontrar\" e guardar todos os objetos no lugar certo, seguindo as pistas visuais (fotos ou desenhos).",
+    "metadata": {
+      "titulo": "O Jogo do Detetive da Bagunça",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_203",
+    "conteudo": "Descrição: Use caixas de papelão como os “vagões” de um trem. Cada vagão representa um objeto. A criança é o maquinista e deve \"carregar\" os vagões com os objetos e levá-los para a prateleira.",
+    "metadata": {
+      "titulo": "O Jogo do Trem da Organização",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_204",
+    "conteudo": "Descrição: A criança age como um robô, seguindo instruções simples e robóticas, como “Pegar o copo azul. Colocar na prateleira.”",
+    "metadata": {
+      "titulo": "O Jogo do Robô Arrumador",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_205",
+    "conteudo": "Descrição: Use uma lanterna para iluminar os objetos que precisam ser arrumados. A luz é a \"guia\" mágica.",
+    "metadata": {
+      "titulo": "A Aventura da Lanterna",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_206",
+    "conteudo": "Descrição: Esconda um pequeno \"tesouro\" (adesivo, brinquedo) sob um dos objetos. A criança só pode pegá-lo depois de arrumar a mesa.",
+    "metadata": {
+      "titulo": "O Jogo do Tesouro Escondido",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_207",
+    "conteudo": "Descrição: Coloque uma música animada e, durante a canção, a criança deve pegar um objeto e guardá-lo no lugar. Quando a música parar, todos param.",
+    "metadata": {
+      "titulo": "A Dança do Limpa-Tudo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_208",
+    "conteudo": "Descrição: A criança é um super-herói e precisa \"salvar\" a sala da \"bagunça\" arrumando a mesa.",
+    "metadata": {
+      "titulo": "O Jogo do Super-Herói",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_209",
+    "conteudo": "Descrição: Diga que a criança é um mago e sua \"varinha mágica\" é o pano de limpeza. Ela pode fazer a sujeira \"desaparecer\".",
+    "metadata": {
+      "titulo": "O Jogo do Mago da Organização",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_210",
+    "conteudo": "Descrição: Cronometre a criança para que ela arrume a mesa em um tempo determinado, tornando o processo uma corrida divertida.",
+    "metadata": {
+      "titulo": "A Corrida das Mesas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_211",
+    "conteudo": "Descrição: Use espuma de barbear ou sabonete líquido. A criança pode \"desenhar\" a próxima tarefa na espuma.",
+    "metadata": {
+      "titulo": "A Escultura de Espuma",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_212",
+    "conteudo": "Descrição: A criança é o guarda-costas e precisa \"proteger\" a mesa de ficar bagunçada.",
+    "metadata": {
+      "titulo": "O Jogo do Guarda-Costas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_213",
+    "conteudo": "Descrição: Crie uma canção simples e curta sobre a rotina de arrumar a mesa.",
+    "metadata": {
+      "titulo": "A Canção da Rotina",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_214",
+    "conteudo": "Descrição: Peça para a criança arrumar a mesa com um urso de pelúcia ou outro boneco. Diga que o urso precisa de ajuda.",
+    "metadata": {
+      "titulo": "O Jogo do Amigo Urso",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_215",
+    "conteudo": "Descrição: Desenhe um monstrinho na mesa. A criança deve \"alimentar\" o monstro com a sujeira.",
+    "metadata": {
+      "titulo": "O Jogo do Monstro da Bagunça",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_216",
+    "conteudo": "Descrição: Use uma vassoura de brinquedo para que a criança \"varra\" a sujeira da mesa para a lixeira.",
+    "metadata": {
+      "titulo": "A Corrida de Vassouras",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_217",
+    "conteudo": "Descrição: Use as mãos para que a criança \"caçe\" os \"ovos de Páscoa\" (pequenos pedaços de papel) que estão na mesa.",
+    "metadata": {
+      "titulo": "O Jogo do Coelhinho da Páscoa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_218",
+    "conteudo": "Descrição: A criança pode imitar uma abelha para \"polinizar\" a mesa, arrumando-a.",
+    "metadata": {
+      "titulo": "O Jogo da Abelha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_219",
+    "conteudo": "Descrição: A criança pode imitar um macaco que \"colhe\" a sujeira e a leva para a lixeira.",
+    "metadata": {
+      "titulo": "O Jogo do Macaco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_220",
+    "conteudo": "Descrição: A criança pode imitar uma tartaruga, fazendo movimentos devagar para arrumar a mesa.",
+    "metadata": {
+      "titulo": "O Jogo da Tartaruga",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_221",
+    "conteudo": "Descrição: Use uma lanterna para iluminar os objetos que precisam ser arrumados. A criança deve \"seguir a estrela\".",
+    "metadata": {
+      "titulo": "O Jogo da Estrela Guia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_222",
+    "conteudo": "Descrição: A criança pode arrumar os objetos na mesa como se fossem as pétalas de uma flor.",
+    "metadata": {
+      "titulo": "O Jogo da Flor",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_223",
+    "conteudo": "Descrição: A criança pode fazer o formato do sol com os objetos na mesa.",
+    "metadata": {
+      "titulo": "O Jogo do Sol",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_224",
+    "conteudo": "Descrição: A criança pode organizar os objetos por cor, como se fosse um arco-íris.",
+    "metadata": {
+      "titulo": "O Jogo do Arco-Íris",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_225",
+    "conteudo": "Descrição: A criança pode fazer um desenho com os objetos na mesa.",
+    "metadata": {
+      "titulo": "O Jogo do Desenho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_226",
+    "conteudo": "Descrição: A criança pode \"cozinhar\" a mesa, arrumando-a.",
+    "metadata": {
+      "titulo": "O Jogo do Cozinheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_227",
+    "conteudo": "Descrição: A criança é um soldado e precisa \"conquistar\" a mesa.",
+    "metadata": {
+      "titulo": "A Missão do Soldado",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_228",
+    "conteudo": "Descrição: A criança pode usar um pano para simular um trem que \"lava\" a mesa.",
+    "metadata": {
+      "titulo": "O Jogo do Trem da Água",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_229",
+    "conteudo": "Descrição: A criança pode imitar um pássaro que \"voa\" para arrumar a mesa.",
+    "metadata": {
+      "titulo": "O Jogo do Pássaro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_230",
+    "conteudo": "Descrição: A criança pode imitar um patinho que \"bebe\" a água.",
+    "metadata": {
+      "titulo": "O Jogo do Patinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_231",
+    "conteudo": "Descrição: A criança é um marinheiro e precisa \"navegar\" com o pano para \"limpar\" a mesa.",
+    "metadata": {
+      "titulo": "A Missão do Marinheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_232",
+    "conteudo": "Descrição: A criança pode imitar um gato que \"caça\" a sujeira.",
+    "metadata": {
+      "titulo": "O Jogo do Gato e Rato",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_233",
+    "conteudo": "Descrição: A criança pode imitar um dinossauro que \"come\" a sujeira.",
+    "metadata": {
+      "titulo": "O Jogo do Dinossauro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_234",
+    "conteudo": "Descrição: A criança pode imitar um leão que \"caça\" a sujeira.",
+    "metadata": {
+      "titulo": "O Jogo do Leão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_235",
+    "conteudo": "Descrição: Use as mãos para que a criança \"pesque\" as \"letras\" (restos de comida) que estão na mesa.",
+    "metadata": {
+      "titulo": "O Jogo da Sopa de Letras",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_236",
+    "conteudo": "Descrição: A criança pode construir um \"castelo\" com areia ou farinha na mesa e depois limpá-lo.",
+    "metadata": {
+      "titulo": "O Jogo do Castelo de Areia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_237",
+    "conteudo": "Descrição: A criança pode \"tocar\" uma música com o pano na mesa.",
+    "metadata": {
+      "titulo": "O Jogo do Músico da Limpeza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_238",
+    "conteudo": "Descrição: A mesa é o jardim. Ela precisa \"regar\" e \"limpar\" o jardim com o pano.",
+    "metadata": {
+      "titulo": "O Jogo do Jardim Encantado",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_239",
+    "conteudo": "Descrição: Diga que a criança tem um amigo invisível que precisa de ajuda para arrumar a mesa.",
+    "metadata": {
+      "titulo": "O Jogo do Amigo Invisível",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_240",
+    "conteudo": "Descrição: A criança pode soprar a sujeira da mesa.",
+    "metadata": {
+      "titulo": "O Jogo do Sopro Mágico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_241",
+    "conteudo": "Descrição: Use tinta de banho ou sabonete em barra colorido para que a criança \"pinte\" a mesa.",
+    "metadata": {
+      "titulo": "O Jogo do Artista do Banho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_242",
+    "conteudo": "Descrição: A criança pode fazer movimentos de sol na mesa e depois a \"chuva\" de água para enxaguar.",
+    "metadata": {
+      "titulo": "O Jogo do Sol e da Chuva",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_243",
+    "conteudo": "Descrição: A criança pode imitar um caranguejo para arrumar a mesa.",
+    "metadata": {
+      "titulo": "O Jogo do Caranguejo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_244",
+    "conteudo": "Descrição: A criança é um astronauta que precisa arrumar a mesa na nave espacial.",
+    "metadata": {
+      "titulo": "O Jogo do Astronauta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_245",
+    "conteudo": "Descrição: A criança pode imitar uma borboleta para arrumar a mesa.",
+    "metadata": {
+      "titulo": "O Jogo da Borboleta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_246",
+    "conteudo": "Descrição: A criança pode imitar um patinho que \"bebe\" a água.",
+    "metadata": {
+      "titulo": "O Jogo do Patinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_247",
+    "conteudo": "Descrição: A criança é um marinheiro e precisa \"navegar\" com o pano para limpar a mesa.",
+    "metadata": {
+      "titulo": "A Missão do Marinheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_248",
+    "conteudo": "Descrição: A criança pode imitar um gato que \"caça\" a sujeira.",
+    "metadata": {
+      "titulo": "O Jogo do Gato e Rato",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_249",
+    "conteudo": "Descrição: A criança pode imitar um dinossauro que \"come\" a sujeira.",
+    "metadata": {
+      "titulo": "O Jogo do Dinossauro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_250",
+    "conteudo": "Descrição: A criança pode imitar um leão que \"caça\" a sujeira.",
+    "metadata": {
+      "titulo": "O Jogo do Leão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_251",
+    "conteudo": "Descrição: Diga à criança que ela é o carteiro da sala. Ela precisa \"entregar\" os materiais (caderno, estojo, agenda) na \"caixa de correio\" (a mochila).",
+    "metadata": {
+      "titulo": "Missão do Carteiro Escolar",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_252",
+    "conteudo": "Descrição: Use fotos ou desenhos dos materiais. Diga que a criança é um detetive e precisa \"encontrar\" o lugar certo para cada material na mochila, seguindo as pistas.",
+    "metadata": {
+      "titulo": "O Jogo do Detetive da Organização",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_253",
+    "conteudo": "Descrição: Use a mochila como um \"vagão de trem\". Cada material é um \"passageiro\". A criança é o maquinista e deve \"carregar\" os passageiros na ordem correta.",
+    "metadata": {
+      "titulo": "O Trem da Mochila",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_254",
+    "conteudo": "Descrição: Use uma lanterna para iluminar o interior da mochila. A criança deve \"explorar\" a mochila e \"encontrar\" o local certo para cada item.",
+    "metadata": {
+      "titulo": "A Aventura da Lanterna",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_255",
+    "conteudo": "Descrição: Esconda um pequeno \"tesouro\" (um adesivo ou brinquedo pequeno) no fundo da mochila. A criança só pode pegá-lo depois de organizar todos os materiais.",
+    "metadata": {
+      "titulo": "O Jogo do Tesouro Escondido",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_256",
+    "conteudo": "Descrição: A criança age como um robô, seguindo instruções simples e robóticas, como “Pegar o estojo. Colocar na mochila.”",
+    "metadata": {
+      "titulo": "O Jogo do Robô Arrumador",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_257",
+    "conteudo": "Descrição: Coloque uma música animada e mostre como a criança pode \"dançar\" com a mochila, colocando os materiais dentro dela.",
+    "metadata": {
+      "titulo": "A Dança da Mochila",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_258",
+    "conteudo": "Descrição: A criança é um super-herói e precisa \"salvar\" a mochila da \"bagunça\" organizando-a.",
+    "metadata": {
+      "titulo": "O Jogo do Super-Herói",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_259",
+    "conteudo": "Descrição: Diga que a criança é um mago e sua \"varinha mágica\" é o estojo. Ela pode fazer os materiais \"desaparecerem\" (colocá-los na mochila).",
+    "metadata": {
+      "titulo": "O Jogo do Mago da Mochila",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_260",
+    "conteudo": "Descrição: Cronometre a criança para que ela organize a mochila em um tempo determinado, tornando o processo uma corrida divertida.",
+    "metadata": {
+      "titulo": "A Corrida das Mochilas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_261",
+    "conteudo": "Descrição: Use espuma de barbear ou sabonete líquido. A criança pode \"desenhar\" a próxima tarefa na espuma.",
+    "metadata": {
+      "titulo": "A Escultura de Espuma",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_262",
+    "conteudo": "Descrição: A criança é o guarda-costas e precisa \"proteger\" a mochila de ficar desorganizada.",
+    "metadata": {
+      "titulo": "O Jogo do Guarda-Costas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_263",
+    "conteudo": "Descrição: Crie uma canção simples e curta sobre a rotina de organizar a mochila.",
+    "metadata": {
+      "titulo": "A Canção da Mochila",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_264",
+    "conteudo": "Descrição: Peça para a criança organizar a mochila com um urso de pelúcia ou outro boneco. Diga que o urso precisa de ajuda.",
+    "metadata": {
+      "titulo": "O Jogo do Amigo Urso",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_265",
+    "conteudo": "Descrição: Desenhe um monstrinho na mochila. A criança deve \"alimentar\" o monstro com a sujeira.",
+    "metadata": {
+      "titulo": "O Jogo do Monstro da Bagunça",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_266",
+    "conteudo": "Descrição: Use uma vassoura de brinquedo para que a criança \"varra\" a sujeira da mochila.",
+    "metadata": {
+      "titulo": "A Corrida de Vassouras",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_267",
+    "conteudo": "Descrição: Use as mãos para que a criança \"caçe\" os \"ovos de Páscoa\" (pequenos pedaços de papel) que estão na mochila.",
+    "metadata": {
+      "titulo": "O Jogo do Coelhinho da Páscoa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_268",
+    "conteudo": "Descrição: A criança pode imitar uma abelha para \"polinizar\" a mochila, arrumando-a.",
+    "metadata": {
+      "titulo": "O Jogo da Abelha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_269",
+    "conteudo": "Descrição: A criança pode imitar um macaco que \"colhe\" a sujeira e a leva para a lixeira.",
+    "metadata": {
+      "titulo": "O Jogo do Macaco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_270",
+    "conteudo": "Descrição: A criança pode imitar uma tartaruga, fazendo movimentos devagar para arrumar a mochila.",
+    "metadata": {
+      "titulo": "O Jogo da Tartaruga",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_271",
+    "conteudo": "Descrição: Use uma lanterna para iluminar os objetos que precisam ser arrumados. A criança deve \"seguir a estrela\".",
+    "metadata": {
+      "titulo": "O Jogo da Estrela Guia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_272",
+    "conteudo": "Descrição: A criança pode arrumar os objetos na mochila como se fossem as pétalas de uma flor.",
+    "metadata": {
+      "titulo": "O Jogo da Flor",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_273",
+    "conteudo": "Descrição: A criança pode fazer o formato do sol com os objetos na mochila.",
+    "metadata": {
+      "titulo": "O Jogo do Sol",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_274",
+    "conteudo": "Descrição: A criança pode organizar os objetos por cor, como se fosse um arco-íris.",
+    "metadata": {
+      "titulo": "O Jogo do Arco-Íris",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_275",
+    "conteudo": "Descrição: A criança pode fazer um desenho com os objetos na mochila.",
+    "metadata": {
+      "titulo": "O Jogo do Desenho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_276",
+    "conteudo": "Descrição: A criança pode \"cozinhar\" a mochila, arrumando-a.",
+    "metadata": {
+      "titulo": "O Jogo do Cozinheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_277",
+    "conteudo": "Descrição: A criança é um soldado e precisa \"conquistar\" a mochila.",
+    "metadata": {
+      "titulo": "A Missão do Soldado",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_278",
+    "conteudo": "Descrição: A criança pode usar um pano para simular um trem que \"lava\" a mochila.",
+    "metadata": {
+      "titulo": "O Jogo do Trem da Água",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_279",
+    "conteudo": "Descrição: A criança pode imitar um pássaro que \"voa\" para arrumar a mochila.",
+    "metadata": {
+      "titulo": "O Jogo do Pássaro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_280",
+    "conteudo": "Descrição: A criança pode imitar um patinho que \"bebe\" a água.",
+    "metadata": {
+      "titulo": "O Jogo do Patinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_281",
+    "conteudo": "Descrição: A criança é um marinheiro e precisa \"navegar\" com o pano para limpar a mochila.",
+    "metadata": {
+      "titulo": "A Missão do Marinheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_282",
+    "conteudo": "Descrição: A criança pode imitar um gato que \"caça\" a sujeira.",
+    "metadata": {
+      "titulo": "O Jogo do Gato e Rato",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_283",
+    "conteudo": "Descrição: A criança pode imitar um dinossauro que \"come\" a sujeira.",
+    "metadata": {
+      "titulo": "O Jogo do Dinossauro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_284",
+    "conteudo": "Descrição: A criança pode imitar um leão que \"caça\" a sujeira.",
+    "metadata": {
+      "titulo": "O Jogo do Leão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_285",
+    "conteudo": "Descrição: Use as mãos para que a criança \"pesque\" as \"letras\" (restos de papel) que estão na mochila.",
+    "metadata": {
+      "titulo": "O Jogo da Sopa de Letras",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_286",
+    "conteudo": "Descrição: A criança pode construir um \"castelo\" com areia ou farinha na mochila e depois limpá-lo.",
+    "metadata": {
+      "titulo": "O Jogo do Castelo de Areia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_287",
+    "conteudo": "Descrição: A criança pode \"tocar\" uma música com o pano na mochila.",
+    "metadata": {
+      "titulo": "O Jogo do Músico da Limpeza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_288",
+    "conteudo": "Descrição: A mochila é o jardim. Ela precisa \"regar\" e \"limpar\" o jardim com o pano.",
+    "metadata": {
+      "titulo": "O Jogo do Jardim Encantado",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_289",
+    "conteudo": "Descrição: Diga que a criança tem um amigo invisível que precisa de ajuda para arrumar a mochila.",
+    "metadata": {
+      "titulo": "O Jogo do Amigo Invisível",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_290",
+    "conteudo": "Descrição: A criança pode soprar a sujeira da mochila.",
+    "metadata": {
+      "titulo": "O Jogo do Sopro Mágico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_291",
+    "conteudo": "Descrição: Use tinta de banho ou sabonete em barra colorido para que a criança \"pinte\" a mochila.",
+    "metadata": {
+      "titulo": "O Jogo do Artista do Banho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_292",
+    "conteudo": "Descrição: A criança pode fazer movimentos de sol na mochila e depois a \"chuva\" de água para enxaguar.",
+    "metadata": {
+      "titulo": "O Jogo do Sol e da Chuva",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_293",
+    "conteudo": "Descrição: A criança pode imitar um caranguejo para arrumar a mochila.",
+    "metadata": {
+      "titulo": "O Jogo do Caranguejo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_294",
+    "conteudo": "Descrição: A criança é um astronauta que precisa arrumar a mochila na nave espacial.",
+    "metadata": {
+      "titulo": "O Jogo do Astronauta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_295",
+    "conteudo": "Descrição: A criança pode imitar uma borboleta para arrumar a mochila.",
+    "metadata": {
+      "titulo": "O Jogo da Borboleta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_296",
+    "conteudo": "Descrição: A criança pode imitar um patinho que \"bebe\" a água.",
+    "metadata": {
+      "titulo": "O Jogo do Patinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_297",
+    "conteudo": "Descrição: A criança é um marinheiro e precisa \"navegar\" com o pano para limpar a mochila.",
+    "metadata": {
+      "titulo": "A Missão do Marinheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_298",
+    "conteudo": "Descrição: A criança pode imitar um gato que \"caça\" a sujeira.",
+    "metadata": {
+      "titulo": "O Jogo do Gato e Rato",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_299",
+    "conteudo": "Descrição: A criança pode imitar um dinossauro que \"come\" a sujeira.",
+    "metadata": {
+      "titulo": "O Jogo do Dinossauro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_300",
+    "conteudo": "Descrição: A criança pode imitar um leão que \"caça\" a sujeira.",
+    "metadata": {
+      "titulo": "O Jogo do Leão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_301",
+    "conteudo": "Descrição: Espalhe os pertences da criança (casaco, lancheira, garrafinha) e os de outros alunos. Diga que ela é um detetive e precisa \"encontrar\" e \"resgatar\" seus próprios pertences.",
+    "metadata": {
+      "titulo": "O Jogo do Detetive de Pertences",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_302",
+    "conteudo": "Descrição: Use adesivos com o nome da criança ou com um símbolo especial (um sol, um dinossauro). Peça que ela cole o adesivo em seus pertences para \"dar a eles uma identidade secreta\".",
+    "metadata": {
+      "titulo": "O Jogo da Identidade Secreta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_303",
+    "conteudo": "Descrição: Diga que a lancheira é um navio. A criança é o capitão e precisa \"encontrar\" seu navio no \"porto\" (a área onde ficam as lancheiras).",
+    "metadata": {
+      "titulo": "A Missão do Capitão da Lancheira",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_304",
+    "conteudo": "Descrição: Esconda um dos pertences da criança e dê dicas visuais para que ela o encontre. Ao encontrar, ela deve dizer que o objeto é dela.",
+    "metadata": {
+      "titulo": "O Jogo do Tesouro Escondido",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_305",
+    "conteudo": "Descrição: Em um local com pouca luz, use uma lanterna para iluminar os pertences. A criança deve \"seguir a luz\" para encontrar os seus.",
+    "metadata": {
+      "titulo": "A Aventura da Lanterna",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_306",
+    "conteudo": "Descrição: A criança é o guarda-costas e precisa \"proteger\" seus pertences, garantindo que eles estejam no lugar certo.",
+    "metadata": {
+      "titulo": "O Jogo do Guarda-Costas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_307",
+    "conteudo": "Descrição: Use pertences de cores diferentes. A criança deve \"correr\" para pegar seus pertences, que estão em uma determinada cor (por exemplo, \"pegue o casaco azul\").",
+    "metadata": {
+      "titulo": "A Corrida das Cores",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_308",
+    "conteudo": "Descrição: A criança pode imitar um robô, seguindo instruções simples e robóticas, como “Pegar a garrafinha. Colocar na mochila.”",
+    "metadata": {
+      "titulo": "O Jogo do Robô",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_309",
+    "conteudo": "Descrição: Crie uma canção sobre a rotina de pegar os pertences.",
+    "metadata": {
+      "titulo": "A Canção dos Pertences",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_310",
+    "conteudo": "Descrição: Faça gestos de como pegar um pertence. A criança deve imitar e pegar o seu.",
+    "metadata": {
+      "titulo": "O Jogo do Mímico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_311",
+    "conteudo": "Descrição: Peça para a criança pegar seus pertences e os de um urso de pelúcia.",
+    "metadata": {
+      "titulo": "O Jogo do Amigo Urso",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_312",
+    "conteudo": "Descrição: Mostre os pertences da criança e os de outros alunos. Depois, misture tudo e peça para a criança \"achar\" os seus.",
+    "metadata": {
+      "titulo": "O Jogo da Memória",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_313",
+    "conteudo": "Descrição: Os pertences da criança são as \"pétalas\" de uma flor. Ela deve \"colher\" as pétalas e guardá-las na mochila.",
+    "metadata": {
+      "titulo": "O Jogo da Flor",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_314",
+    "conteudo": "Descrição: A criança pode fazer o formato do sol com seus pertences.",
+    "metadata": {
+      "titulo": "O Jogo do Sol",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_315",
+    "conteudo": "Descrição: A criança pode organizar seus pertences por cor, como se fosse um arco-íris.",
+    "metadata": {
+      "titulo": "O Jogo do Arco-Íris",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_316",
+    "conteudo": "Descrição: A criança pode fazer um desenho de seus pertences.",
+    "metadata": {
+      "titulo": "O Jogo do Desenho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_317",
+    "conteudo": "Descrição: A criança pode \"cozinhar\" a lancheira, preparando-a para a \"refeição\".",
+    "metadata": {
+      "titulo": "O Jogo do Cozinheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_318",
+    "conteudo": "Descrição: A criança é um soldado e precisa \"conquistar\" seus pertences.",
+    "metadata": {
+      "titulo": "A Missão do Soldado",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_319",
+    "conteudo": "Descrição: A criança pode usar a garrafinha como um \"vagão de trem\" e \"transportar\" a água.",
+    "metadata": {
+      "titulo": "O Jogo do Trem da Água",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_320",
+    "conteudo": "Descrição: A criança pode imitar um pássaro que \"voa\" para pegar os seus pertences.",
+    "metadata": {
+      "titulo": "O Jogo do Pássaro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_321",
+    "conteudo": "Descrição: A criança pode imitar um patinho que \"bebe\" a água da garrafinha.",
+    "metadata": {
+      "titulo": "O Jogo do Patinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_322",
+    "conteudo": "Descrição: A criança é um marinheiro e precisa \"navegar\" para encontrar seus pertences.",
+    "metadata": {
+      "titulo": "A Missão do Marinheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_323",
+    "conteudo": "Descrição: A criança pode imitar um gato que \"caça\" a sua lancheira.",
+    "metadata": {
+      "titulo": "O Jogo do Gato e Rato",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_324",
+    "conteudo": "Descrição: A criança pode imitar um dinossauro que \"encontra\" os seus pertences.",
+    "metadata": {
+      "titulo": "O Jogo do Dinossauro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_325",
+    "conteudo": "Descrição: A criança pode imitar um leão que \"caça\" a sua garrafinha.",
+    "metadata": {
+      "titulo": "O Jogo do Leão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_326",
+    "conteudo": "Descrição: Use bolinhas de gude que brilham no escuro para criar um caminho até os pertences.",
+    "metadata": {
+      "titulo": "O Jogo do Caminho de Bolinhas de Gude",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_327",
+    "conteudo": "Descrição: Esconda um pequeno objeto no casaco e a criança deve \"encontrá-lo\".",
+    "metadata": {
+      "titulo": "O Jogo do Tesouro do Casaco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_328",
+    "conteudo": "Descrição: A criança pode imitar uma aranha para \"tecer\" a teia em seus pertences.",
+    "metadata": {
+      "titulo": "O Jogo da Aranha Mágica",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_329",
+    "conteudo": "Descrição: A criança pode imitar um soldado que precisa \"proteger\" seus pertences.",
+    "metadata": {
+      "titulo": "O Jogo do Soldado",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_330",
+    "conteudo": "Descrição: Use um barquinho de brinquedo na pia para que a criança \"corra\" com o casaco.",
+    "metadata": {
+      "titulo": "A Corrida de Lanchas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_331",
+    "conteudo": "Descrição: A criança pode imitar uma tartaruga, andando devagar para pegar os pertences.",
+    "metadata": {
+      "titulo": "O Jogo da Tartaruga",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_332",
+    "conteudo": "Descrição: Use uma lanterna para que a criança \"siga a estrela\" e encontre os seus pertences.",
+    "metadata": {
+      "titulo": "O Jogo da Estrela Guia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_333",
+    "conteudo": "Descrição: Esconda uma lua de brinquedo no casaco. A criança deve \"caçá-la\".",
+    "metadata": {
+      "titulo": "O Jogo da Caça à Lua",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_334",
+    "conteudo": "Descrição: A criança pode imitar um caranguejo para pegar os pertences.",
+    "metadata": {
+      "titulo": "O Jogo do Caranguejo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_335",
+    "conteudo": "Descrição: A criança pode imitar uma borboleta para \"voar\" e pegar os pertences.",
+    "metadata": {
+      "titulo": "O Jogo da Borboleta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_336",
+    "conteudo": "Descrição: A criança pode imitar um patinho que \"bebe\" a água da garrafinha.",
+    "metadata": {
+      "titulo": "O Jogo do Patinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_337",
+    "conteudo": "Descrição: A criança é um marinheiro e precisa \"navegar\" para encontrar seus pertences.",
+    "metadata": {
+      "titulo": "A Missão do Marinheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_338",
+    "conteudo": "Descrição: A criança pode imitar um gato que \"caça\" a sua lancheira.",
+    "metadata": {
+      "titulo": "O Jogo do Gato e Rato",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_339",
+    "conteudo": "Descrição: A criança pode imitar um dinossauro que \"encontra\" os seus pertences.",
+    "metadata": {
+      "titulo": "O Jogo do Dinossauro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_340",
+    "conteudo": "Descrição: A criança pode imitar um leão que \"caça\" a sua garrafinha.",
+    "metadata": {
+      "titulo": "O Jogo do Leão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_341",
+    "conteudo": "Descrição: Use as mãos para que a criança \"pesque\" as \"letras\" (restos de papel) que estão na lancheira.",
+    "metadata": {
+      "titulo": "O Jogo da Sopa de Letras",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_342",
+    "conteudo": "Descrição: A criança pode construir um \"castelo\" com areia ou farinha na lancheira e depois limpá-lo.",
+    "metadata": {
+      "titulo": "O Jogo do Castelo de Areia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_343",
+    "conteudo": "Descrição: A criança pode \"tocar\" uma música com o pano na lancheira.",
+    "metadata": {
+      "titulo": "O Jogo do Músico da Limpeza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_344",
+    "conteudo": "Descrição: A lancheira é o jardim. Ela precisa \"regar\" e \"limpar\" o jardim com o pano.",
+    "metadata": {
+      "titulo": "O Jogo do Jardim Encantado",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_345",
+    "conteudo": "Descrição: Diga que a criança tem um amigo invisível que precisa de ajuda para arrumar a lancheira.",
+    "metadata": {
+      "titulo": "O Jogo do Amigo Invisível",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_346",
+    "conteudo": "Descrição: A criança pode soprar a sujeira da lancheira.",
+    "metadata": {
+      "titulo": "O Jogo do Sopro Mágico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_347",
+    "conteudo": "Descrição: Use tinta de banho ou sabonete em barra colorido para que a criança \"pinte\" a lancheira.",
+    "metadata": {
+      "titulo": "O Jogo do Artista do Banho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_348",
+    "conteudo": "Descrição: A criança pode fazer movimentos de sol na lancheira e depois a \"chuva\" de água para enxaguar.",
+    "metadata": {
+      "titulo": "O Jogo do Sol e da Chuva",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_349",
+    "conteudo": "Descrição: A criança pode imitar um robô para arrumar a lancheira.",
+    "metadata": {
+      "titulo": "O Jogo do Robô",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_350",
+    "conteudo": "Descrição: A criança é um super-herói com o poder de deixar a lancheira limpa e brilhante.",
+    "metadata": {
+      "titulo": "O Jogo do Super-Herói",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_351",
+    "conteudo": "Descrição: Diga que a criança é o \"guardião da luz\". Ela precisa \"salvar a energia\" apagando a luz quando saírem da sala.",
+    "metadata": {
+      "titulo": "O Guardião da Luz",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_352",
+    "conteudo": "Descrição: Use um adesivo com um desenho de \"Missão Concluída\" na porta. A criança deve fechar a porta e colar o adesivo para comemorar.",
+    "metadata": {
+      "titulo": "Missão de Fechar a Porta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_353",
+    "conteudo": "Descrição: Espalhe alguns papéis no chão. A criança é um detetive e precisa \"encontrar\" e \"recolher\" todos os papéis para resolver o mistério da bagunça.",
+    "metadata": {
+      "titulo": "O Jogo do Detetive dos Papéis",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_354",
+    "conteudo": "Descrição: A criança é o guarda-costas e precisa \"proteger\" a sala, garantindo que tudo esteja no lugar certo.",
+    "metadata": {
+      "titulo": "O Jogo do Guarda-Costas da Sala",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_355",
+    "conteudo": "Descrição: Em um local com pouca luz, use uma lanterna para iluminar os objetos que precisam ser arrumados. A luz é a \"guia\" mágica.",
+    "metadata": {
+      "titulo": "A Aventura da Lanterna",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_356",
+    "conteudo": "Descrição: A criança é um super-herói com o poder de \"salvar\" a sala da \"bagunça\" arrumando-a.",
+    "metadata": {
+      "titulo": "O Jogo do Super-Herói",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_357",
+    "conteudo": "Descrição: Diga que a criança é um mago e sua \"varinha mágica\" é o pano de limpeza. Ela pode fazer a sujeira \"desaparecer\".",
+    "metadata": {
+      "titulo": "O Jogo do Mago da Organização",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_358",
+    "conteudo": "Descrição: Cronometre a criança para que ela complete uma tarefa em um tempo determinado, tornando o processo uma corrida divertida.",
+    "metadata": {
+      "titulo": "A Corrida das Tarefas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_359",
+    "conteudo": "Descrição: A criança age como um robô, seguindo instruções simples e robóticas, como “Pegar a tesoura. Colocar na caixa.”",
+    "metadata": {
+      "titulo": "O Jogo do Robô Arrumador",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_360",
+    "conteudo": "Descrição: Coloque uma música animada e, durante a canção, a criança deve pegar um objeto e guardá-lo no lugar. Quando a música parar, todos param.",
+    "metadata": {
+      "titulo": "A Dança do Limpa-Tudo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_361",
+    "conteudo": "Descrição: Use espuma de barbear ou sabonete líquido. A criança pode \"desenhar\" a próxima tarefa na espuma.",
+    "metadata": {
+      "titulo": "A Escultura de Espuma",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_362",
+    "conteudo": "Descrição: Crie uma canção simples e curta sobre a rotina de arrumar a sala.",
+    "metadata": {
+      "titulo": "A Canção da Rotina",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_363",
+    "conteudo": "Descrição: Peça para a criança arrumar a sala com um urso de pelúcia ou outro boneco. Diga que o urso precisa de ajuda.",
+    "metadata": {
+      "titulo": "O Jogo do Amigo Urso",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_364",
+    "conteudo": "Descrição: Desenhe um monstrinho na mesa. A criança deve \"alimentar\" o monstro com a sujeira.",
+    "metadata": {
+      "titulo": "O Jogo do Monstro da Bagunça",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_365",
+    "conteudo": "Descrição: Use uma vassoura de brinquedo para que a criança \"varra\" a sujeira da sala.",
+    "metadata": {
+      "titulo": "A Corrida de Vassouras",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_366",
+    "conteudo": "Descrição: Use as mãos para que a criança \"caçe\" os \"ovos de Páscoa\" (pequenos pedaços de papel) que estão no chão.",
+    "metadata": {
+      "titulo": "O Jogo do Coelhinho da Páscoa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_367",
+    "conteudo": "Descrição: A criança pode imitar uma abelha para \"polinizar\" a sala, arrumando-a.",
+    "metadata": {
+      "titulo": "O Jogo da Abelha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_368",
+    "conteudo": "Descrição: A criança pode imitar um macaco que \"colhe\" a sujeira e a leva para a lixeira.",
+    "metadata": {
+      "titulo": "O Jogo do Macaco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_369",
+    "conteudo": "Descrição: A criança pode imitar uma tartaruga, fazendo movimentos devagar para arrumar a sala.",
+    "metadata": {
+      "titulo": "O Jogo da Tartaruga",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_370",
+    "conteudo": "Descrição: Use uma lanterna para iluminar os objetos que precisam ser arrumados. A criança deve \"seguir a estrela\".",
+    "metadata": {
+      "titulo": "O Jogo da Estrela Guia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_371",
+    "conteudo": "Descrição: A criança pode arrumar os objetos na sala como se fossem as pétalas de uma flor.",
+    "metadata": {
+      "titulo": "O Jogo da Flor",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_372",
+    "conteudo": "Descrição: A criança pode fazer o formato do sol com os objetos na sala.",
+    "metadata": {
+      "titulo": "O Jogo do Sol",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_373",
+    "conteudo": "Descrição: A criança pode organizar os objetos por cor, como se fosse um arco-íris.",
+    "metadata": {
+      "titulo": "O Jogo do Arco-Íris",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_374",
+    "conteudo": "Descrição: A criança pode fazer um desenho com os objetos na sala.",
+    "metadata": {
+      "titulo": "O Jogo do Desenho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_375",
+    "conteudo": "Descrição: A criança pode \"cozinhar\" a sala, arrumando-a.",
+    "metadata": {
+      "titulo": "O Jogo do Cozinheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_376",
+    "conteudo": "Descrição: A criança é um soldado e precisa \"conquistar\" a sala.",
+    "metadata": {
+      "titulo": "A Missão do Soldado",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_377",
+    "conteudo": "Descrição: A criança pode usar um pano para simular um trem que \"lava\" a sala.",
+    "metadata": {
+      "titulo": "O Jogo do Trem da Água",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_378",
+    "conteudo": "Descrição: A criança pode imitar um pássaro que \"voa\" para arrumar a sala.",
+    "metadata": {
+      "titulo": "O Jogo do Pássaro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_379",
+    "conteudo": "Descrição: A criança pode imitar um patinho que \"bebe\" a água.",
+    "metadata": {
+      "titulo": "O Jogo do Patinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_380",
+    "conteudo": "Descrição: A criança é um marinheiro e precisa \"navegar\" com o pano para limpar a sala.",
+    "metadata": {
+      "titulo": "A Missão do Marinheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_381",
+    "conteudo": "Descrição: A criança pode imitar um gato que \"caça\" a sujeira.",
+    "metadata": {
+      "titulo": "O Jogo do Gato e Rato",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_382",
+    "conteudo": "Descrição: A criança pode imitar um dinossauro que \"come\" a sujeira.",
+    "metadata": {
+      "titulo": "O Jogo do Dinossauro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_383",
+    "conteudo": "Descrição: A criança pode imitar um leão que \"caça\" a sujeira.",
+    "metadata": {
+      "titulo": "O Jogo do Leão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_384",
+    "conteudo": "Descrição: Use as mãos para que a criança \"pesque\" as \"letras\" (restos de papel) que estão no chão.",
+    "metadata": {
+      "titulo": "O Jogo da Sopa de Letras",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_385",
+    "conteudo": "Descrição: A criança pode construir um \"castelo\" com areia ou farinha na sala e depois limpá-lo.",
+    "metadata": {
+      "titulo": "O Jogo do Castelo de Areia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_386",
+    "conteudo": "Descrição: A criança pode \"tocar\" uma música com o pano na sala.",
+    "metadata": {
+      "titulo": "O Jogo do Músico da Limpeza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_387",
+    "conteudo": "Descrição: A sala é o jardim. Ela precisa \"regar\" e \"limpar\" o jardim com o pano.",
+    "metadata": {
+      "titulo": "O Jogo do Jardim Encantado",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_388",
+    "conteudo": "Descrição: Diga que a criança tem um amigo invisível que precisa de ajuda para arrumar a sala.",
+    "metadata": {
+      "titulo": "O Jogo do Amigo Invisível",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_389",
+    "conteudo": "Descrição: A criança pode soprar a sujeira da sala.",
+    "metadata": {
+      "titulo": "O Jogo do Sopro Mágico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_390",
+    "conteudo": "Descrição: Use tinta de banho ou sabonete em barra colorido para que a criança \"pinte\" a sala.",
+    "metadata": {
+      "titulo": "O Jogo do Artista do Banho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_391",
+    "conteudo": "Descrição: A criança pode fazer movimentos de sol na sala e depois a \"chuva\" de água para enxaguar.",
+    "metadata": {
+      "titulo": "O Jogo do Sol e da Chuva",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_392",
+    "conteudo": "Descrição: A criança pode imitar um caranguejo para arrumar a sala.",
+    "metadata": {
+      "titulo": "O Jogo do Caranguejo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_393",
+    "conteudo": "Descrição: A criança é um astronauta que precisa arrumar a sala na nave espacial.",
+    "metadata": {
+      "titulo": "O Jogo do Astronauta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_394",
+    "conteudo": "Descrição: A criança pode imitar uma borboleta para arrumar a sala.",
+    "metadata": {
+      "titulo": "O Jogo da Borboleta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_395",
+    "conteudo": "Descrição: A criança pode imitar um patinho que \"bebe\" a água.",
+    "metadata": {
+      "titulo": "O Jogo do Patinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_396",
+    "conteudo": "Descrição: A criança é um marinheiro e precisa \"navegar\" com o pano para limpar a sala.",
+    "metadata": {
+      "titulo": "A Missão do Marinheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_397",
+    "conteudo": "Descrição: A criança pode imitar um gato que \"caça\" a sujeira.",
+    "metadata": {
+      "titulo": "O Jogo do Gato e Rato",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_398",
+    "conteudo": "Descrição: A criança pode imitar um dinossauro que \"come\" a sujeira.",
+    "metadata": {
+      "titulo": "O Jogo do Dinossauro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_399",
+    "conteudo": "Descrição: A criança pode imitar um leão que \"caça\" a sujeira.",
+    "metadata": {
+      "titulo": "O Jogo do Leão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_400",
+    "conteudo": "Descrição: Crie um ritual de final de dia onde a última tarefa da criança é apagar a luz e fechar a porta, marcando o fim das atividades.",
+    "metadata": {
+      "titulo": "A Última Tarefa do Dia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  }
+]

@@ -1,0 +1,4402 @@
+[
+  {
+    "id": "autocuidado_5a6_01",
+    "conteudo": "Descrição: Crie um mural com a sequência visual de todas as etapas (pegar a escova, a pasta, escovar, enxaguar, guardar).",
+    "metadata": {
+      "titulo": "O Mural da Escovação",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_02",
+    "conteudo": "Descrição: Diga as palavras de ordem para guiar a criança por cada passo da rotina.",
+    "metadata": {
+      "titulo": "O Jogo do \"Primeiro, Segundo, Terceiro!\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_03",
+    "conteudo": "Descrição: Crie uma música que cobre todas as etapas da rotina, tornando-a previsível e divertida.",
+    "metadata": {
+      "titulo": "A Canção da Escovação Completa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_04",
+    "conteudo": "Descrição: Dê um adesivo para a criança a cada vez que ela completar a rotina sozinha.",
+    "metadata": {
+      "titulo": "O Quadro de Adesivos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_05",
+    "conteudo": "Descrição: Incentive a criança a escovar os dentes com movimentos de robô, tornando a ação mais lúdica.",
+    "metadata": {
+      "titulo": "O Robô Escova",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_06",
+    "conteudo": "Descrição: Esconda um pequeno brinquedo no banheiro. A criança só pode encontrá-lo depois de escovar os dentes.",
+    "metadata": {
+      "titulo": "O Tesouro da Escovação",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_07",
+    "conteudo": "Descrição: Diga que a escova é um \"monstro\" que vai limpar os \"monstrinhos\" dos dentes.",
+    "metadata": {
+      "titulo": "O Monstro da Boca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_08",
+    "conteudo": "Descrição: A criança é o dentista e precisa escovar os dentes de um boneco.",
+    "metadata": {
+      "titulo": "O Dentista de Mentirinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_09",
+    "conteudo": "Descrição: A criança escova os dentes de frente para um espelho e se parabeniza ao final.",
+    "metadata": {
+      "titulo": "O Espelho da Vitória",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_10",
+    "conteudo": "Descrição: Incentive a criança a \"correr\" com a escova para os dentes de cima, depois os de baixo.",
+    "metadata": {
+      "titulo": "A Corrida dos Dentes",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_11",
+    "conteudo": "Descrição: Diga que a escova vai \"falar\" as instruções, como \"escove para a direita\".",
+    "metadata": {
+      "titulo": "A Escova que Fala",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_12",
+    "conteudo": "Descrição: Coloque duas escovas de dentes de cores diferentes e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Sim e Não\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_13",
+    "conteudo": "Descrição: Crie um lugar especial para a escova de dente, ensinando a criança a colocá-la de volta após o uso.",
+    "metadata": {
+      "titulo": "Onde Guardamos a Escova?",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_14",
+    "conteudo": "Descrição: Crie uma canção sobre a limpeza que inclui movimentos para a criança imitar.",
+    "metadata": {
+      "titulo": "A Canção da Limpeza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_15",
+    "conteudo": "Descrição: Use pastas de dente com sabores diferentes para a criança escolher o seu preferido.",
+    "metadata": {
+      "titulo": "A Pasta de Sabor",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_16",
+    "conteudo": "Descrição: Use uma escova de dente elétrica que vibra para a criança se familiarizar com a sensação na boca.",
+    "metadata": {
+      "titulo": "A Escova-Vibradora",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_17",
+    "conteudo": "Descrição: Diga \"vamos fazer uma nuvem de espuma nos dentes\", para tornar a escovação mais divertida.",
+    "metadata": {
+      "titulo": "A Nuvem de Espuma",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_18",
+    "conteudo": "Descrição: Diga que a escova é um \"ladrão de comida\" e que ela precisa \"pegar\" os restos dos dentes.",
+    "metadata": {
+      "titulo": "O Ladrão de Comida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_19",
+    "conteudo": "Descrição: Diga \"faça o som do pato\" e \"agora escove os dentes\", incentivando a imitação.",
+    "metadata": {
+      "titulo": "O Pato Escova",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_20",
+    "conteudo": "Descrição: Diga que os dentes são uma horta e a escova é uma \"enxada\" que vai limpar tudo.",
+    "metadata": {
+      "titulo": "A Horta da Boca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_21",
+    "conteudo": "Descrição: Faça movimentos de robô enquanto a criança escova os dentes, incentivando a imitação.",
+    "metadata": {
+      "titulo": "O Robô Escova",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_22",
+    "conteudo": "Descrição: Faça sombras com a escova na parede e dê instruções para a criança.",
+    "metadata": {
+      "titulo": "O Jogo da Sombra",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_23",
+    "conteudo": "Descrição: A criança escova os dentes de trás, como se estivesse em um túnel.",
+    "metadata": {
+      "titulo": "A Escova no Túnel",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_24",
+    "conteudo": "Descrição: Coloque um pouco de corante alimentício na água para a criança se divertir ao enxaguar a boca.",
+    "metadata": {
+      "titulo": "A Água Mágica",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_25",
+    "conteudo": "Descrição: Diga \"escove o dente de trás\" ou \"escove o dente da frente\", para a criança seguir a instrução.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual Dente?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_26",
+    "conteudo": "Descrição: Faça uma pequena corrida com a escova, do copo de água até a boca.",
+    "metadata": {
+      "titulo": "A Corrida da Escova",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_27",
+    "conteudo": "Descrição: Diga \"vá para os dentes de trás\" e \"volte para os dentes da frente\".",
+    "metadata": {
+      "titulo": "O Jogo do \"Vai e Volta\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_28",
+    "conteudo": "Descrição: Peça para a criança fazer a boca de palhaço, esticando os lábios, para que a escova alcance todos os dentes.",
+    "metadata": {
+      "titulo": "O Sorriso do Palhaço",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_29",
+    "conteudo": "Descrição: Use a sua mão para fazer um \"túnel\" para a escova passar antes de entrar na boca da criança.",
+    "metadata": {
+      "titulo": "O Túnel da Escova",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_30",
+    "conteudo": "Descrição: Deixe a criança colocar e tirar a escova do copo, praticando o movimento.",
+    "metadata": {
+      "titulo": "O Jogo do \"Põe e Tira\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_31",
+    "conteudo": "Descrição: Coloque duas pastas de dente e diga \"pegue a pasta de uva\".",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_32",
+    "conteudo": "Descrição: Diga que a escova é uma varinha de condão que faz mágica.",
+    "metadata": {
+      "titulo": "A Escova-Varinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_33",
+    "conteudo": "Descrição: Peça para a criança fazer o som de \"clac-clac\" com os dentes, imitando o som da escova.",
+    "metadata": {
+      "titulo": "O Jogo do \"Clac-Clac\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_34",
+    "conteudo": "Descrição: Diga \"mostre a sujeira\" e \"agora escove-a\".",
+    "metadata": {
+      "titulo": "O Jogo do \"Onde está a sujeira?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_35",
+    "conteudo": "Descrição: Deixe a criança colocar e tirar a escova da boca.",
+    "metadata": {
+      "titulo": "O Jogo do \"Põe e Tira\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_36",
+    "conteudo": "Descrição: Use o sabonete para fazer espuma na mão da criança.",
+    "metadata": {
+      "titulo": "O Sabonete no Banho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_37",
+    "conteudo": "Descrição: Deixe a criança usar a toalha do professor.",
+    "metadata": {
+      "titulo": "A Toalha do Mestre",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_38",
+    "conteudo": "Descrição: Faça sombras com a toalha na parede.",
+    "metadata": {
+      "titulo": "O Jogo da Sombra",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_39",
+    "conteudo": "Descrição: Coloque duas toalhas e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Sim e Não\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_40",
+    "conteudo": "Descrição: Use a toalha na caixa de areia, para a criança se secar.",
+    "metadata": {
+      "titulo": "A Toalha de Areia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_41",
+    "conteudo": "Descrição: Coloque duas toalhas diferentes e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_42",
+    "conteudo": "Descrição: Permita que a criança brinque com a toalha, colocando-a na mão ou na cabeça.",
+    "metadata": {
+      "titulo": "A Toalha na Mão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_43",
+    "conteudo": "Descrição: Coloque duas toalhas diferentes e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_44",
+    "conteudo": "Descrição: Diga que a toalha vai \"abraçar\" o rosto da criança para secá-lo.",
+    "metadata": {
+      "titulo": "A Toalha que Abraça",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_45",
+    "conteudo": "Descrição: Derrame um pouco de líquido no chão e peça para a criança limpar com a toalha.",
+    "metadata": {
+      "titulo": "O Jogo da Limpeza do Chão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_46",
+    "conteudo": "Descrição: Deixe a criança usar a toalha do professor.",
+    "metadata": {
+      "titulo": "A Toalha do Mestre",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_47",
+    "conteudo": "Descrição: Faça sombras com a toalha na parede.",
+    "metadata": {
+      "titulo": "O Jogo da Sombra",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_48",
+    "conteudo": "Descrição: Coloque duas toalhas e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Sim e Não\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_49",
+    "conteudo": "Descrição: Use a toalha na caixa de areia, para a criança se secar.",
+    "metadata": {
+      "titulo": "A Toalha de Areia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_50",
+    "conteudo": "Descrição: Coloque duas toalhas diferentes e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_51",
+    "conteudo": "Descrição: Crie um mural com a sequência de atividades do dia, e a criança move um cartão para marcar o que já foi feito quando lembrada.",
+    "metadata": {
+      "titulo": "O Mural da Rotina",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_52",
+    "conteudo": "Descrição: Peça para a criança guardar os blocos azuis, depois os vermelhos e assim por diante, separando por cor.",
+    "metadata": {
+      "titulo": "O Jogo das Cores",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_53",
+    "conteudo": "Descrição: Diga que a criança é o \"ajudante do dia\" e tem uma missão, como regar a planta ou organizar os materiais.",
+    "metadata": {
+      "titulo": "O Ajudante do Dia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_54",
+    "conteudo": "Descrição: Crie uma música curta e animada para ser cantada enquanto todos guardam os brinquedos juntos.",
+    "metadata": {
+      "titulo": "A Canção da Limpeza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_55",
+    "conteudo": "Descrição: Diga \"primeiro faz o desenho, depois guarda o material\", ensinando a sequência da rotina.",
+    "metadata": {
+      "titulo": "O Jogo do \"Primeiro e Depois\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_56",
+    "conteudo": "Descrição: Peça para a criança colocar os talheres nos lugares corretos, dando instruções simples e diretas.",
+    "metadata": {
+      "titulo": "O Mestre da Mesa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_57",
+    "conteudo": "Descrição: Use caixas com fotos ou desenhos do que vai dentro para que a criança saiba onde guardar cada material.",
+    "metadata": {
+      "titulo": "A Caixa de Tesouros",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_58",
+    "conteudo": "Descrição: Finja que a criança é um robô que limpa o chão ou a mesa, fazendo movimentos e sons de robô.",
+    "metadata": {
+      "titulo": "O Robô Limpa-Limpa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_59",
+    "conteudo": "Descrição: Faça uma pequena corrida para ver quem guarda o brinquedo mais rápido, sem pressão.",
+    "metadata": {
+      "titulo": "A Corrida da Organização",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_60",
+    "conteudo": "Descrição: Crie um lugar específico para cada material, ensinando a criança a guardá-lo no lugar certo.",
+    "metadata": {
+      "titulo": "Onde Guardamos?",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_61",
+    "conteudo": "Descrição: Diga que o pano é um \"ladrão de sujeira\" que vai pegar tudo que a criança derramar.",
+    "metadata": {
+      "titulo": "O Ladrão de Sujeira",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_62",
+    "conteudo": "Descrição: O professor organiza um item e a criança organiza o próximo, de forma alternada, incentivando a colaboração.",
+    "metadata": {
+      "titulo": "Eu Organizo, Você Organiza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_63",
+    "conteudo": "Descrição: Diga que os brinquedos precisam ir para a \"caverna\" (a caixa) para descansar.",
+    "metadata": {
+      "titulo": "A Caverna dos Brinquedos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_64",
+    "conteudo": "Descrição: Use uma vassoura e uma pá de lixo pequenas para a criança varrer e limpar farelos.",
+    "metadata": {
+      "titulo": "A Vassoura de Brinquedo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_65",
+    "conteudo": "Descrição: Use um tapete de mesa com a silhueta de um prato e um copo para que a criança saiba onde colocar cada item.",
+    "metadata": {
+      "titulo": "O Quebra-Cabeça da Mesa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_66",
+    "conteudo": "Descrição: Use um fantoche para mostrar como guardar os materiais, incentivando a imitação.",
+    "metadata": {
+      "titulo": "O Fantoche Ajudante",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_67",
+    "conteudo": "Descrição: Deixe a criança colocar e tirar os materiais da caixa, praticando o movimento.",
+    "metadata": {
+      "titulo": "O Jogo do \"Põe e Tira\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_68",
+    "conteudo": "Descrição: Encha um balão de ar e use-o para \"empurrar\" o lixo para o cesto.",
+    "metadata": {
+      "titulo": "O Balão da Limpeza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_69",
+    "conteudo": "Descrição: Crie uma canção sobre a importância de jogar o lixo no lixo.",
+    "metadata": {
+      "titulo": "A Canção do Lixo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_70",
+    "conteudo": "Descrição: Finja que você está tentando \"roubar\" a comida e incentive a criança a guardá-la rapidamente.",
+    "metadata": {
+      "titulo": "O Ladrão de Comida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_71",
+    "conteudo": "Descrição: Diga que a vassoura tem o poder de fazer a sujeira \"sumir\".",
+    "metadata": {
+      "titulo": "A Vassoura Mágica",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_72",
+    "conteudo": "Descrição: Diga a cor do material enquanto a criança o guarda.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual Cor?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_73",
+    "conteudo": "Descrição: Crie uma música sobre a limpeza, com gestos para a criança imitar.",
+    "metadata": {
+      "titulo": "A Canção da Limpeza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_74",
+    "conteudo": "Descrição: Cubra um material e diga \"cadê o material?\". Quando a criança o achar, peça para ela guardar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Onde está?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_75",
+    "conteudo": "Descrição: Use fita adesiva para criar uma \"pista\" no chão, e a criança segue a pista para guardar os materiais.",
+    "metadata": {
+      "titulo": "A Pista da Organização",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_76",
+    "conteudo": "Descrição: Diga \"pé, pé!\" e aponte para o pé da criança, incentivando-a a guardar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Pé-Pé\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_77",
+    "conteudo": "Descrição: Coloque os materiais em uma \"linha de gol\" imaginária e incentive a criança a guardá-los.",
+    "metadata": {
+      "titulo": "O Goleiro Guarda",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_78",
+    "conteudo": "Descrição: Deixe a criança colocar e tirar as mãos da sujeira, praticando o movimento.",
+    "metadata": {
+      "titulo": "O Jogo do \"Põe e Tira\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_79",
+    "conteudo": "Descrição: Coloque dois materiais diferentes e peça para a criança escolher qual vai guardar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_80",
+    "conteudo": "Descrição: Use a toalha na caixa de areia, para a criança se secar.",
+    "metadata": {
+      "titulo": "A Toalha de Areia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_81",
+    "conteudo": "Descrição: Coloque duas toalhas diferentes e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_82",
+    "conteudo": "Descrição: Permita que a criança brinque com a toalha, colocando-a na mão ou na cabeça.",
+    "metadata": {
+      "titulo": "A Toalha na Mão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_83",
+    "conteudo": "Descrição: Coloque duas toalhas diferentes e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_84",
+    "conteudo": "Descrição: Diga que a toalha vai \"abraçar\" o rosto da criança para secá-lo.",
+    "metadata": {
+      "titulo": "A Toalha que Abraça",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_85",
+    "conteudo": "Descrição: Derrame um pouco de líquido no chão e peça para a criança limpar com a toalha.",
+    "metadata": {
+      "titulo": "O Jogo da Limpeza do Chão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_86",
+    "conteudo": "Descrição: Deixe a criança usar a toalha do professor.",
+    "metadata": {
+      "titulo": "A Toalha do Mestre",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_87",
+    "conteudo": "Descrição: Faça sombras com a toalha na parede.",
+    "metadata": {
+      "titulo": "O Jogo da Sombra",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_88",
+    "conteudo": "Descrição: Coloque duas toalhas e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Sim e Não\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_89",
+    "conteudo": "Descrição: Use a toalha na caixa de areia, para a criança se secar.",
+    "metadata": {
+      "titulo": "A Toalha de Areia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_90",
+    "conteudo": "Descrição: Coloque duas toalhas diferentes e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_91",
+    "conteudo": "Descrição: Permita que a criança brinque com a toalha, colocando-a na mão ou na cabeça.",
+    "metadata": {
+      "titulo": "A Toalha na Mão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_92",
+    "conteudo": "Descrição: Coloque duas toalhas diferentes e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_93",
+    "conteudo": "Descrição: Diga que a toalha vai \"abraçar\" o rosto da criança para secá-lo.",
+    "metadata": {
+      "titulo": "A Toalha que Abraça",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_94",
+    "conteudo": "Descrição: Derrame um pouco de líquido no chão e peça para a criança limpar com a toalha.",
+    "metadata": {
+      "titulo": "O Jogo da Limpeza do Chão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_95",
+    "conteudo": "Descrição: Deixe a criança usar a toalha do professor.",
+    "metadata": {
+      "titulo": "A Toalha do Mestre",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_96",
+    "conteudo": "Descrição: Faça sombras com a toalha na parede.",
+    "metadata": {
+      "titulo": "O Jogo da Sombra",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_97",
+    "conteudo": "Descrição: Coloque duas toalhas e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Sim e Não\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_98",
+    "conteudo": "Descrição: Use a toalha na caixa de areia, para a criança se secar.",
+    "metadata": {
+      "titulo": "A Toalha de Areia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_99",
+    "conteudo": "Descrição: Coloque duas toalhas diferentes e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_100",
+    "conteudo": "Descrição: Permita que a criança brinque com a toalha, colocando-a na mão ou na cabeça.",
+    "metadata": {
+      "titulo": "A Toalha na Mão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_101",
+    "conteudo": "Descrição: Crie um mapa simples e visual da sala, do assento até a área do lanche, para a criança seguir de forma autônoma.",
+    "metadata": {
+      "titulo": "O Mapa do Lanche",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_102",
+    "conteudo": "Descrição: Diga que a criança é um detetive e deve seguir as pistas (cartões com fotos) para encontrar o lanche.",
+    "metadata": {
+      "titulo": "O Detetive do Lanche",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_103",
+    "conteudo": "Descrição: Crie cartões com fotos dos lanches e a criança pega o cartão do lanche que quer e o leva para a área de serviço.",
+    "metadata": {
+      "titulo": "O Cartão da Comida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_104",
+    "conteudo": "Descrição: Use fita adesiva colorida no chão para criar um caminho seguro que a criança deve seguir para pegar o lanche.",
+    "metadata": {
+      "titulo": "A Pista Colorida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_105",
+    "conteudo": "Descrição: Diga que a criança é o \"ajudante do dia\" e tem a missão especial de pegar os lanches para todos.",
+    "metadata": {
+      "titulo": "O Ajudante do Dia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_106",
+    "conteudo": "Descrição: Use um alarme suave (de um celular ou timer) para marcar a hora do lanche, criando uma rotina previsível.",
+    "metadata": {
+      "titulo": "O Alarme do Lanche",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_107",
+    "conteudo": "Descrição: Comece com o lanche em um pote sem tampa, para facilitar a pega e a autonomia.",
+    "metadata": {
+      "titulo": "O Lanche no Pote Aberto",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_108",
+    "conteudo": "Descrição: Coloque dois lanches diferentes e a criança escolhe qual quer, incentivando a decisão.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual Quer?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_109",
+    "conteudo": "Descrição: Faça movimentos de robô enquanto a criança caminha para a área do lanche, tornando o movimento mais lúdico.",
+    "metadata": {
+      "titulo": "O Robô Pega-Lanche",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_110",
+    "conteudo": "Descrição: Crie uma música sobre a hora do lanche e o ato de pegar a comida, cantando-a na hora certa.",
+    "metadata": {
+      "titulo": "A Canção do Lanche",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_111",
+    "conteudo": "Descrição: Use uma cesta mágica onde os lanches são colocados e a criança os pega de lá.",
+    "metadata": {
+      "titulo": "A Cesta Mágica",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_112",
+    "conteudo": "Descrição: Use um prato com desenhos de divisórias para a criança colocar a comida.",
+    "metadata": {
+      "titulo": "O Quebra-Cabeça da Comida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_113",
+    "conteudo": "Descrição: Use um carrinho de brinquedo para a criança \"transportar\" o lanche da área de serviço para a mesa.",
+    "metadata": {
+      "titulo": "O Lanche no Carrinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_114",
+    "conteudo": "Descrição: Esconda o lanche em um local seguro e a criança precisa seguir as pistas para encontrá-lo.",
+    "metadata": {
+      "titulo": "A Caça ao Tesouro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_115",
+    "conteudo": "Descrição: Diga que a criança é o mestre da refeição e decide o que vai pegar.",
+    "metadata": {
+      "titulo": "O Mestre do Lanche",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_116",
+    "conteudo": "Descrição: Crie um lugar específico para os pratos e talheres, ensinando a criança a pegá-los de lá.",
+    "metadata": {
+      "titulo": "Onde Guardamos?",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_117",
+    "conteudo": "Descrição: Use um avental de brinquedo e diga que a criança é um \"ajudante\" que pega os lanches.",
+    "metadata": {
+      "titulo": "A Roupa de Ajudante",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_118",
+    "conteudo": "Descrição: Mantenha um livro de histórias sobre lanches que só é lido após a criança ter pego o seu.",
+    "metadata": {
+      "titulo": "O Livro do Lanche",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_119",
+    "conteudo": "Descrição: Diga \"pega o lanche e leva para a mesa\", dando instruções simples.",
+    "metadata": {
+      "titulo": "O Jogo do \"Pega e Leva\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_120",
+    "conteudo": "Descrição: Diga \"vá para a mesa amarela e pegue o lanche\".",
+    "metadata": {
+      "titulo": "A Pista de Cores",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_121",
+    "conteudo": "Descrição: Use um fantoche para mostrar como pegar o lanche, incentivando a imitação.",
+    "metadata": {
+      "titulo": "O Fantoche Pega-Lanche",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_122",
+    "conteudo": "Descrição: Pergunte \"Quer lanche?\" e peça para a criança responder com um gesto.",
+    "metadata": {
+      "titulo": "O Jogo do \"Sim e Não\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_123",
+    "conteudo": "Descrição: Use bonecos e crie uma \"fila\" para ir pegar o lanche de brinquedo.",
+    "metadata": {
+      "titulo": "A Fila do Lanche",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_124",
+    "conteudo": "Descrição: Faça sombras de animais na parede e peça para a criança adivinhar o animal enquanto pega o lanche.",
+    "metadata": {
+      "titulo": "A Sombra da Comida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_125",
+    "conteudo": "Descrição: Esconda o lanche e diga \"cadê o lanche?\", para a criança descobrir.",
+    "metadata": {
+      "titulo": "Onde Está o Lanche?",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_126",
+    "conteudo": "Descrição: Use uma caixa de lanche com uma foto do que está dentro para que a criança saiba o que pegar.",
+    "metadata": {
+      "titulo": "A Caixa de Lanche",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_127",
+    "conteudo": "Descrição: Faça uma pequena corrida com a criança até a área do lanche, depois de ela avisar.",
+    "metadata": {
+      "titulo": "A Corrida do Lanche",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_128",
+    "conteudo": "Descrição: Amarre um cordão leve na bolsa de lanche e peça para o ursinho \"puxá-lo\" para a criança.",
+    "metadata": {
+      "titulo": "O Puxão do Ursinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_129",
+    "conteudo": "Descrição: Deixe a criança colocar e tirar o lanche da mesa, praticando o movimento.",
+    "metadata": {
+      "titulo": "O Jogo do \"Põe e Tira\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_130",
+    "conteudo": "Descrição: Coloque dois lanches diferentes e peça para a criança escolher qual pegar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_131",
+    "conteudo": "Descrição: Permita que a criança brinque com a toalha, colocando-a na mão ou na cabeça.",
+    "metadata": {
+      "titulo": "A Toalha na Mão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_132",
+    "conteudo": "Descrição: Coloque dois lanches diferentes e peça para a criança escolher qual pegar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_133",
+    "conteudo": "Descrição: Use um espelho para a criança ver a si mesma pegando o lanche.",
+    "metadata": {
+      "titulo": "A Toalha no Espelho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_134",
+    "conteudo": "Descrição: Cubra a toalha e diga \"cadê a toalha?\".",
+    "metadata": {
+      "titulo": "O Jogo do \"Onde está a toalha?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_135",
+    "conteudo": "Descrição: Diga que a toalha é uma varinha de condão que faz mágica.",
+    "metadata": {
+      "titulo": "A Toalha-Varinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_136",
+    "conteudo": "Descrição: Coloque um tapete de atividades no chão e a toalha em cima, para a criança se secar.",
+    "metadata": {
+      "titulo": "A Toalha no Chão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_137",
+    "conteudo": "Descrição: Peça para a criança pular para a pia.",
+    "metadata": {
+      "titulo": "O Jogo do \"Pula-Pula\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_138",
+    "conteudo": "Descrição: Amarre um cordão leve na bandeja e peça para o ursinho \"puxá-lo\" para a criança.",
+    "metadata": {
+      "titulo": "O Puxão do Ursinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_139",
+    "conteudo": "Descrição: Faça um som divertido enquanto a criança se seca.",
+    "metadata": {
+      "titulo": "A Toalha que Canta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_140",
+    "conteudo": "Descrição: Deixe a criança colocar e tirar a mão da água, praticando o movimento.",
+    "metadata": {
+      "titulo": "O Jogo do \"Põe e Tira\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_141",
+    "conteudo": "Descrição: Use o sabonete para fazer espuma na mão da criança.",
+    "metadata": {
+      "titulo": "O Sabonete no Banho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_142",
+    "conteudo": "Descrição: Deixe a criança usar a toalha do professor.",
+    "metadata": {
+      "titulo": "A Toalha do Mestre",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_143",
+    "conteudo": "Descrição: Faça sombras com a toalha na parede.",
+    "metadata": {
+      "titulo": "O Jogo da Sombra",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_144",
+    "conteudo": "Descrição: Coloque duas toalhas e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Sim e Não\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_145",
+    "conteudo": "Descrição: Use a toalha na caixa de areia, para a criança se secar.",
+    "metadata": {
+      "titulo": "A Toalha de Areia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_146",
+    "conteudo": "Descrição: Coloque duas toalhas diferentes e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_147",
+    "conteudo": "Descrição: Permita que a criança brinque com a toalha, colocando-a na mão ou na cabeça.",
+    "metadata": {
+      "titulo": "A Toalha na Mão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_148",
+    "conteudo": "Descrição: Coloque duas toalhas diferentes e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_149",
+    "conteudo": "Descrição: Diga que a toalha vai \"abraçar\" o rosto da criança para secá-lo.",
+    "metadata": {
+      "titulo": "A Toalha que Abraça",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_150",
+    "conteudo": "Descrição: Derrame um pouco de líquido no chão e peça para a criança limpar com a toalha.",
+    "metadata": {
+      "titulo": "O Jogo da Limpeza do Chão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pega o próprio lanche ou almoço.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_151",
+    "conteudo": "Descrição: Use uma faca de plástico sem ponta para a criança cortar uma banana em rodelas, praticando o movimento de corte.",
+    "metadata": {
+      "titulo": "O Chef Corta Banana",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_152",
+    "conteudo": "Descrição: Use uma caixa de leite já cortada, para a criança praticar a abertura e o movimento de virar a aba.",
+    "metadata": {
+      "titulo": "Abre a Caixa de Leite",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_153",
+    "conteudo": "Descrição: A criança é o \"garçom\" e precisa cortar queijo macio para servir os \"clientes\" (bonecos, ursinhos).",
+    "metadata": {
+      "titulo": "O Garçom do Restaurante",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_154",
+    "conteudo": "Descrição: Use uma faca de plástico para a criança passar a manteiga em um pão ou biscoito, trabalhando a coordenação motora.",
+    "metadata": {
+      "titulo": "A Faca do Manteiga",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_155",
+    "conteudo": "Descrição: Use uma faca segura para a criança cortar legumes cozidos, como batata ou cenoura, que são macios.",
+    "metadata": {
+      "titulo": "Cortando o Legume Cozido",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_156",
+    "conteudo": "Descrição: Incentive a criança a abrir o pote de iogurte sozinha, puxando a tampa.",
+    "metadata": {
+      "titulo": "Abre o Iogurte",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_157",
+    "conteudo": "Descrição: A criança é o \"chef\" e precisa cortar a comida para servir o ursinho de pelúcia.",
+    "metadata": {
+      "titulo": "O Restaurante do Urso",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_158",
+    "conteudo": "Descrição: Use embalagens de comida (de plástico, sem risco) e coloque brinquedos dentro para a criança abrir.",
+    "metadata": {
+      "titulo": "A Embalagem de Tesouros",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_159",
+    "conteudo": "Descrição: Faça uma pequena corrida para ver quem corta a comida mais rápido, sem pressão.",
+    "metadata": {
+      "titulo": "A Corrida do Corte",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_160",
+    "conteudo": "Descrição: O professor corta a comida de forma exagerada e divertida para a criança imitar.",
+    "metadata": {
+      "titulo": "O Mestre do Corte",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_161",
+    "conteudo": "Descrição: Crie uma música sobre cortar a comida, com gestos para a criança imitar.",
+    "metadata": {
+      "titulo": "A Canção do Corte",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_162",
+    "conteudo": "Descrição: Diga as palavras \"abre e fecha\" enquanto a criança abre e fecha uma embalagem.",
+    "metadata": {
+      "titulo": "O Jogo do \"Abre e Fecha\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_163",
+    "conteudo": "Descrição: Use uma mão sobre a da criança para guiá-la no movimento de cortar a comida.",
+    "metadata": {
+      "titulo": "A Faca Guiada",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_164",
+    "conteudo": "Descrição: Use fita adesiva para fazer uma \"pista\" no prato, e a criança segue a pista para cortar o alimento.",
+    "metadata": {
+      "titulo": "O Alimento na Pista",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_165",
+    "conteudo": "Descrição: Esconda alimentos macios e a criança precisa cortá-los para \"pegar o tesouro\".",
+    "metadata": {
+      "titulo": "A Caça aos Alimentos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_166",
+    "conteudo": "Descrição: Use um fantoche para mostrar como cortar a comida e abrir embalagens, incentivando a imitação.",
+    "metadata": {
+      "titulo": "O Fantoche Chef",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_167",
+    "conteudo": "Descrição: Coloque dois alimentos e peça para a criança cortar o que ela quer.",
+    "metadata": {
+      "titulo": "O Jogo do \"Sim e Não\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_168",
+    "conteudo": "Descrição: A criança abre um saco de pão de forma que já foi parcialmente aberto.",
+    "metadata": {
+      "titulo": "Abre o Saco de Pão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_169",
+    "conteudo": "Descrição: Deixe a criança brincar com a faca de plástico em uma massa de modelar, praticando o movimento.",
+    "metadata": {
+      "titulo": "A Faca de Brinquedo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_170",
+    "conteudo": "Descrição: A criança e o professor cortam a comida de frente para um espelho.",
+    "metadata": {
+      "titulo": "Jogo do Espelho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_171",
+    "conteudo": "Descrição: Faça uma sombra da faca na parede e peça para a criança \"cortar\" a sombra.",
+    "metadata": {
+      "titulo": "A Sombra do Corte",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_172",
+    "conteudo": "Descrição: Coloque duas embalagens e peça para a criança escolher qual abrir.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_173",
+    "conteudo": "Descrição: Use uma boneca para mostrar como cortar a comida, e depois a criança o faz sozinha.",
+    "metadata": {
+      "titulo": "O Bebê Corta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_174",
+    "conteudo": "Descrição: Diga que a faca é um \"zíper de mentirinha\" que abre a embalagem.",
+    "metadata": {
+      "titulo": "O Zíper de Mentirinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_175",
+    "conteudo": "Descrição: Use uma faca de plástico para \"cortar\" um quebra-cabeça de papel, com a criança seguindo o desenho.",
+    "metadata": {
+      "titulo": "A Faca no Quebra-Cabeça",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_176",
+    "conteudo": "Descrição: Use uma faca de plástico em uma tábua de cortar e faça um som de \"clac-clac\".",
+    "metadata": {
+      "titulo": "A Faca que Faz Barulho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_177",
+    "conteudo": "Descrição: Diga as palavras \"puxa\" e \"empurra\" enquanto a criança abre a embalagem.",
+    "metadata": {
+      "titulo": "O Jogo do \"Puxa-Puxa-Empurra\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_178",
+    "conteudo": "Descrição: Use um túnel de pano e peça para a criança abrir a embalagem no final.",
+    "metadata": {
+      "titulo": "A Embalagem no Túnel de Pano",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_179",
+    "conteudo": "Descrição: Peça para a criança esticar e encolher os braços para cortar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Estica-Encolhe\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_180",
+    "conteudo": "Descrição: Finja que você está tentando \"roubar\" a comida e incentive a criança a cortá-la rapidamente.",
+    "metadata": {
+      "titulo": "O Ladrão de Comida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_181",
+    "conteudo": "Descrição: Permita que a criança brinque com a comida, cortando-a na mão ou na tábua.",
+    "metadata": {
+      "titulo": "A Comida na Mão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_182",
+    "conteudo": "Descrição: Coloque dois alimentos diferentes e peça para a criança escolher qual cortar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_183",
+    "conteudo": "Descrição: Diga que a faca é uma varinha de condão que faz mágica.",
+    "metadata": {
+      "titulo": "A Faca-Varinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_184",
+    "conteudo": "Descrição: Peça para a criança esticar, encolher e, por fim, puxar a embalagem.",
+    "metadata": {
+      "titulo": "O Jogo do \"Estica-Encolhe-Puxa\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_185",
+    "conteudo": "Descrição: Use fita adesiva para criar uma \"pista\" no chão e a faca é o \"carro\" que segue a pista.",
+    "metadata": {
+      "titulo": "A Faca na Pista",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_186",
+    "conteudo": "Descrição: Diga \"pé, pé!\" e aponte para o pé da criança, incentivando-a a cortar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Pé-Pé\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_187",
+    "conteudo": "Descrição: Coloque a comida em uma \"linha de gol\" imaginária e incentive a criança a cortá-la.",
+    "metadata": {
+      "titulo": "O Goleiro Corta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_188",
+    "conteudo": "Descrição: Faça uma pequena corrida para ver quem corta e tira a roupa mais rápido.",
+    "metadata": {
+      "titulo": "O Jogo do \"Tira a Roupa\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_189",
+    "conteudo": "Descrição: Deixe a criança colocar e tirar a mão da faca, praticando o movimento.",
+    "metadata": {
+      "titulo": "O Jogo do \"Põe e Tira\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_190",
+    "conteudo": "Descrição: Coloque dois alimentos diferentes e peça para a criança escolher qual cortar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_191",
+    "conteudo": "Descrição: Permita que a criança brinque com a faca, colocando-a na mão ou na tábua.",
+    "metadata": {
+      "titulo": "A Faca na Mão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_192",
+    "conteudo": "Descrição: Coloque dois alimentos diferentes e peça para a criança escolher qual cortar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_193",
+    "conteudo": "Descrição: Use um espelho para a criança ver a si mesma cortando a comida.",
+    "metadata": {
+      "titulo": "A Faca no Espelho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_194",
+    "conteudo": "Descrição: Cubra a faca e diga \"cadê a faca?\".",
+    "metadata": {
+      "titulo": "O Jogo do \"Onde está a faca?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_195",
+    "conteudo": "Descrição: Diga que a faca é uma varinha de condão que faz mágica.",
+    "metadata": {
+      "titulo": "A Faca-Varinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_196",
+    "conteudo": "Descrição: Peça para a criança esticar, encolher e, por fim, puxar a faca.",
+    "metadata": {
+      "titulo": "O Jogo do \"Estica-Encolhe-Puxa\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_197",
+    "conteudo": "Descrição: Deixe a criança colocar e tirar a mão da faca, praticando o movimento.",
+    "metadata": {
+      "titulo": "O Jogo do \"Põe e Tira\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_198",
+    "conteudo": "Descrição: Coloque dois alimentos diferentes e peça para a criança escolher qual cortar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_199",
+    "conteudo": "Descrição: Permita que a criança brinque com a faca, colocando-a na mão ou na tábua.",
+    "metadata": {
+      "titulo": "A Faca na Mão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_200",
+    "conteudo": "Descrição: Coloque dois alimentos diferentes e peça para a criança escolher qual cortar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_201",
+    "conteudo": "Descrição: Diga que a criança é um garçom e deve colocar os pratos e talheres nos lugares corretos.",
+    "metadata": {
+      "titulo": "O Jogo do Garçom",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_202",
+    "conteudo": "Descrição: Use um tapete de mesa com a silhueta de um prato e um copo para que a criança saiba onde colocar cada item.",
+    "metadata": {
+      "titulo": "O Quebra-Cabeça da Mesa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_203",
+    "conteudo": "Descrição: Crie uma música sobre arrumar a mesa, com movimentos para a criança imitar.",
+    "metadata": {
+      "titulo": "A Canção da Mesa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_204",
+    "conteudo": "Descrição: Crie uma música curta e divertida para ser cantada enquanto a criança limpa a mesa.",
+    "metadata": {
+      "titulo": "A Canção da Limpeza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_205",
+    "conteudo": "Descrição: Use um carrinho de brinquedo para transportar os pratos sujos, tornando a tarefa mais lúdica.",
+    "metadata": {
+      "titulo": "O Carrinho da Limpeza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_206",
+    "conteudo": "Descrição: Diga que a criança é o \"ajudante do dia\" e tem a missão de arrumar e limpar a mesa.",
+    "metadata": {
+      "titulo": "O Ajudante do Dia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_207",
+    "conteudo": "Descrição: Crie um mural com a sequência visual de arrumar e limpar a mesa, para que a criança siga os passos.",
+    "metadata": {
+      "titulo": "O Mural da Rotina",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_208",
+    "conteudo": "Descrição: Diga que o pano é um \"ladrão de sujeira\" que vai pegar tudo que a criança sujar.",
+    "metadata": {
+      "titulo": "O Ladrão de Sujeira",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_209",
+    "conteudo": "Descrição: O professor arruma a mesa e a criança limpa, de forma alternada, incentivando a colaboração.",
+    "metadata": {
+      "titulo": "Eu Arrumo, Você Limpa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_210",
+    "conteudo": "Descrição: Use um fantoche para mostrar como arrumar e limpar a mesa, incentivando a imitação.",
+    "metadata": {
+      "titulo": "O Fantoche Ajudante",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_211",
+    "conteudo": "Descrição: Faça uma pequena corrida para ver quem arruma ou limpa a mesa mais rápido, sem pressão.",
+    "metadata": {
+      "titulo": "A Corrida da Mesa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_212",
+    "conteudo": "Descrição: Use um alarme sonoro para marcar o final da refeição e o início da limpeza.",
+    "metadata": {
+      "titulo": "O Alarme da Rotina",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_213",
+    "conteudo": "Descrição: Use uma bandeja para a criança transportar os pratos, como um truque de mágica.",
+    "metadata": {
+      "titulo": "A Bandeja Mágica",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_214",
+    "conteudo": "Descrição: Diga \"pegue o copo\" e a criança pega o copo, seguindo a instrução.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual É?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_215",
+    "conteudo": "Descrição: Crie um lugar específico para os pratos e talheres, ensinando a criança a guardá-los no lugar certo.",
+    "metadata": {
+      "titulo": "Onde Guardamos?",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_216",
+    "conteudo": "Descrição: Use um tapete de mesa com a silhueta de um prato e um copo para que a criança saiba onde colocar cada item.",
+    "metadata": {
+      "titulo": "O Quebra-Cabeça da Mesa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_217",
+    "conteudo": "Descrição: Deixe a criança colocar e tirar os materiais da mesa, praticando o movimento.",
+    "metadata": {
+      "titulo": "O Jogo do \"Põe e Tira\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_218",
+    "conteudo": "Descrição: Use uma vassoura e uma pá de lixo pequenas para a criança varrer e limpar farelos.",
+    "metadata": {
+      "titulo": "A Vassoura de Brinquedo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_219",
+    "conteudo": "Descrição: Use fita adesiva para criar uma \"pista\" no chão, e a criança segue a pista para guardar os materiais.",
+    "metadata": {
+      "titulo": "A Pista da Organização",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_220",
+    "conteudo": "Descrição: Diga \"pé, pé!\" e aponte para o pé da criança, incentivando-a a guardar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Pé-Pé\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_221",
+    "conteudo": "Descrição: Coloque os materiais em uma \"linha de gol\" imaginária e incentive a criança a guardá-los.",
+    "metadata": {
+      "titulo": "O Goleiro Guarda",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_222",
+    "conteudo": "Descrição: Deixe a criança colocar e tirar as mãos da sujeira, praticando o movimento.",
+    "metadata": {
+      "titulo": "O Jogo do \"Põe e Tira\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_223",
+    "conteudo": "Descrição: Coloque dois materiais diferentes e peça para a criança escolher qual vai guardar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_224",
+    "conteudo": "Descrição: Use a toalha na caixa de areia, para a criança se secar.",
+    "metadata": {
+      "titulo": "A Toalha de Areia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_225",
+    "conteudo": "Descrição: Coloque duas toalhas diferentes e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_226",
+    "conteudo": "Descrição: Permita que a criança brinque com a toalha, colocando-a na mão ou na cabeça.",
+    "metadata": {
+      "titulo": "A Toalha na Mão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_227",
+    "conteudo": "Descrição: Coloque duas toalhas diferentes e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_228",
+    "conteudo": "Descrição: Diga que a toalha vai \"abraçar\" o rosto da criança para secá-lo.",
+    "metadata": {
+      "titulo": "A Toalha que Abraça",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_229",
+    "conteudo": "Descrição: Derrame um pouco de líquido no chão e peça para a criança limpar com a toalha.",
+    "metadata": {
+      "titulo": "O Jogo da Limpeza do Chão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_230",
+    "conteudo": "Descrição: Deixe a criança usar a toalha do professor.",
+    "metadata": {
+      "titulo": "A Toalha do Mestre",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_231",
+    "conteudo": "Descrição: Faça sombras com a toalha na parede.",
+    "metadata": {
+      "titulo": "O Jogo da Sombra",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_232",
+    "conteudo": "Descrição: Coloque duas toalhas e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Sim e Não\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_233",
+    "conteudo": "Descrição: Use a toalha na caixa de areia, para a criança se secar.",
+    "metadata": {
+      "titulo": "A Toalha de Areia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_234",
+    "conteudo": "Descrição: Coloque duas toalhas diferentes e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_235",
+    "conteudo": "Descrição: Permita que a criança brinque com a toalha, colocando-a na mão ou na cabeça.",
+    "metadata": {
+      "titulo": "A Toalha na Mão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_236",
+    "conteudo": "Descrição: Coloque duas toalhas diferentes e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_237",
+    "conteudo": "Descrição: Diga que a toalha vai \"abraçar\" o rosto da criança para secá-lo.",
+    "metadata": {
+      "titulo": "A Toalha que Abraça",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_238",
+    "conteudo": "Descrição: Derrame um pouco de líquido no chão e peça para a criança limpar com a toalha.",
+    "metadata": {
+      "titulo": "O Jogo da Limpeza do Chão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_239",
+    "conteudo": "Descrição: Deixe a criança usar a toalha do professor.",
+    "metadata": {
+      "titulo": "A Toalha do Mestre",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_240",
+    "conteudo": "Descrição: Faça sombras com a toalha na parede.",
+    "metadata": {
+      "titulo": "O Jogo da Sombra",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_241",
+    "conteudo": "Descrição: Coloque duas toalhas e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Sim e Não\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_242",
+    "conteudo": "Descrição: Use a toalha na caixa de areia, para a criança se secar.",
+    "metadata": {
+      "titulo": "A Toalha de Areia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_243",
+    "conteudo": "Descrição: Coloque duas toalhas diferentes e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_244",
+    "conteudo": "Descrição: Permita que a criança brinque com a toalha, colocando-a na mão ou na cabeça.",
+    "metadata": {
+      "titulo": "A Toalha na Mão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_245",
+    "conteudo": "Descrição: Coloque duas toalhas diferentes e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_246",
+    "conteudo": "Descrição: Diga que a toalha vai \"abraçar\" o rosto da criança para secá-lo.",
+    "metadata": {
+      "titulo": "A Toalha que Abraça",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_247",
+    "conteudo": "Descrição: Derrame um pouco de líquido no chão e peça para a criança limpar com a toalha.",
+    "metadata": {
+      "titulo": "O Jogo da Limpeza do Chão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_248",
+    "conteudo": "Descrição: Deixe a criança usar a toalha do professor.",
+    "metadata": {
+      "titulo": "A Toalha do Mestre",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_249",
+    "conteudo": "Descrição: Faça sombras com a toalha na parede.",
+    "metadata": {
+      "titulo": "O Jogo da Sombra",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_250",
+    "conteudo": "Descrição: Coloque duas toalhas e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Sim e Não\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Arruma a mesa antes e depois das atividades.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_251",
+    "conteudo": "Descrição: Crie um mapa simples e visual da mochila, com fotos dos itens a serem guardados nos compartimentos.",
+    "metadata": {
+      "titulo": "O Mapa da Mochila",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_252",
+    "conteudo": "Descrição: Use fita adesiva colorida para criar uma \"pista\" no chão, e os materiais são os \"carros\" que seguem a pista até a mochila.",
+    "metadata": {
+      "titulo": "A Pista Colorida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_253",
+    "conteudo": "Descrição: Crie uma música curta e alegre sobre a mochila que \"fica cheia\" e \"vai pra casa\".",
+    "metadata": {
+      "titulo": "A Canção da Mochila",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_254",
+    "conteudo": "Descrição: Peça para a criança colocar os cadernos de capa azul, depois os vermelhos, etc., na mochila.",
+    "metadata": {
+      "titulo": "O Jogo das Cores",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_255",
+    "conteudo": "Descrição: Finja que a criança é um robô que organiza a mochila, fazendo movimentos e sons de robô.",
+    "metadata": {
+      "titulo": "O Robô Organiza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_256",
+    "conteudo": "Descrição: Diga \"primeiro coloca o livro, depois o estojo\", ensinando a sequência da rotina.",
+    "metadata": {
+      "titulo": "O Jogo do \"Primeiro e Depois\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_257",
+    "conteudo": "Descrição: Esconda um brinquedo pequeno na mochila. A criança só pode encontrá-lo depois de guardar todos os materiais.",
+    "metadata": {
+      "titulo": "O Tesouro da Mochila",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_258",
+    "conteudo": "Descrição: O professor organiza a própria mochila de forma exagerada e divertida para a criança imitar.",
+    "metadata": {
+      "titulo": "O Mestre da Mochila",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_259",
+    "conteudo": "Descrição: Diga que a criança é o \"ajudante da mochila\" e tem a missão de guardá-la.",
+    "metadata": {
+      "titulo": "O Ajudante da Mochila",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_260",
+    "conteudo": "Descrição: Diga que a mochila é mágica e os materiais precisam ser guardados para a mágica acontecer.",
+    "metadata": {
+      "titulo": "A Mochila Mágica",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_261",
+    "conteudo": "Descrição: Peça para a criança colocar um item por vez, para que a tarefa não seja muito grande.",
+    "metadata": {
+      "titulo": "Um Por Um",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_262",
+    "conteudo": "Descrição: A criança organiza a mochila de um boneco de pelúcia, incentivando a imitação e a diversão.",
+    "metadata": {
+      "titulo": "A Mochila do Ursinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_263",
+    "conteudo": "Descrição: Use um alarme sonoro para marcar o final da aula e o início da arrumação da mochila.",
+    "metadata": {
+      "titulo": "O Alarme da Rotina",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_264",
+    "conteudo": "Descrição: Use um avental de brinquedo e diga que a criança é um \"ajudante\" que organiza a mochila.",
+    "metadata": {
+      "titulo": "A Roupa de Ajudante",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_265",
+    "conteudo": "Descrição: Use um fantoche para mostrar como organizar a mochila, incentivando a imitação.",
+    "metadata": {
+      "titulo": "O Fantoche Organiza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_266",
+    "conteudo": "Descrição: Diga as palavras \"pega e guarda\" enquanto a criança organiza os materiais.",
+    "metadata": {
+      "titulo": "O Jogo do \"Pega e Guarda\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_267",
+    "conteudo": "Descrição: Esconda os materiais na sala e a criança precisa encontrá-los e guardá-los na mochila.",
+    "metadata": {
+      "titulo": "A Caça aos Materiais",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_268",
+    "conteudo": "Descrição: Faça uma pequena corrida para ver quem organiza a mochila mais rápido, sem pressão.",
+    "metadata": {
+      "titulo": "A Corrida da Mochila",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_269",
+    "conteudo": "Descrição: Coloque dois materiais diferentes e peça para a criança escolher qual vai guardar primeiro.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_270",
+    "conteudo": "Descrição: Crie um lugar específico para cada material, ensinando a criança a guardá-lo no lugar certo.",
+    "metadata": {
+      "titulo": "Onde Guardamos?",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_271",
+    "conteudo": "Descrição: Diga \"ziip!\" enquanto a criança fecha a mochila, associando o som à ação.",
+    "metadata": {
+      "titulo": "O Zíper da Mochila",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_272",
+    "conteudo": "Descrição: Use fita adesiva para criar uma \"pista\" no chão, e a mochila é o \"carro\" que segue a pista.",
+    "metadata": {
+      "titulo": "A Pista da Mochila",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_273",
+    "conteudo": "Descrição: Diga \"pé, pé!\" e aponte para o pé da criança, incentivando-a a guardar a mochila.",
+    "metadata": {
+      "titulo": "O Jogo do \"Pé-Pé\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_274",
+    "conteudo": "Descrição: Coloque os materiais em uma \"linha de gol\" imaginária e incentive a criança a guardá-los na mochila.",
+    "metadata": {
+      "titulo": "O Goleiro Guarda",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_275",
+    "conteudo": "Descrição: Deixe a criança colocar e tirar os materiais da mochila, praticando o movimento.",
+    "metadata": {
+      "titulo": "O Jogo do \"Põe e Tira\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_276",
+    "conteudo": "Descrição: Permita que a criança brinque com a mochila, colocando-a nas costas, para se familiarizar com o objeto.",
+    "metadata": {
+      "titulo": "A Mochila na Mão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_277",
+    "conteudo": "Descrição: Coloque dois materiais diferentes e peça para a criança escolher qual vai guardar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_278",
+    "conteudo": "Descrição: Use um espelho para a criança ver a si mesma organizando a mochila.",
+    "metadata": {
+      "titulo": "A Mochila no Espelho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_279",
+    "conteudo": "Descrição: Cubra a mochila e diga \"cadê a mochila?\".",
+    "metadata": {
+      "titulo": "O Jogo do \"Onde está a mochila?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_280",
+    "conteudo": "Descrição: Diga que a mochila é uma varinha de condão que faz mágica.",
+    "metadata": {
+      "titulo": "A Mochila-Varinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_281",
+    "conteudo": "Descrição: Peça para a criança esticar, encolher e, por fim, puxar a mochila.",
+    "metadata": {
+      "titulo": "O Jogo do \"Estica-Encolhe-Puxa\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_282",
+    "conteudo": "Descrição: Use fita adesiva para criar uma \"pista\" no chão e a mochila é o \"carro\" que segue a pista.",
+    "metadata": {
+      "titulo": "A Mochila na Pista",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_283",
+    "conteudo": "Descrição: Diga \"pé, pé!\" e aponte para o pé da criança, incentivando-a a organizar a mochila.",
+    "metadata": {
+      "titulo": "O Jogo do \"Pé-Pé\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_284",
+    "conteudo": "Descrição: Coloque os materiais em uma \"linha de gol\" imaginária e incentive a criança a guardá-los.",
+    "metadata": {
+      "titulo": "O Goleiro Guarda",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_285",
+    "conteudo": "Descrição: Faça uma pequena corrida para ver quem tira a roupa e a guarda mais rápido.",
+    "metadata": {
+      "titulo": "O Jogo do \"Tira a Roupa\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_286",
+    "conteudo": "Descrição: Permita que a criança brinque com a mochila, colocando-a na mão ou nas costas.",
+    "metadata": {
+      "titulo": "A Mochila na Mão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_287",
+    "conteudo": "Descrição: Diga que a mochila é um fantasma que vai sumir quando a criança a guardar.",
+    "metadata": {
+      "titulo": "A Mochila-Fantasma",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_288",
+    "conteudo": "Descrição: Cubra a mochila e diga \"cadê a mochila?\".",
+    "metadata": {
+      "titulo": "O Jogo do \"Onde está a mochila?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_289",
+    "conteudo": "Descrição: Coloque a mochila na cama e incentive a criança a ir até lá e organizá-la.",
+    "metadata": {
+      "titulo": "A Mochila na Cama",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_290",
+    "conteudo": "Descrição: Peça para a criança pular para dentro da mochila.",
+    "metadata": {
+      "titulo": "O Jogo do \"Pula-Pula\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_291",
+    "conteudo": "Descrição: Coloque dois materiais diferentes e peça para a criança escolher qual guardar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_292",
+    "conteudo": "Descrição: Use um túnel de pano e peça para a criança organizar a mochila no final.",
+    "metadata": {
+      "titulo": "A Mochila no Túnel de Pano",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_293",
+    "conteudo": "Descrição: Diga as palavras \"puxa\" e \"empurra\" enquanto a criança fecha a mochila.",
+    "metadata": {
+      "titulo": "O Jogo do \"Puxa-Puxa-Empurra\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_294",
+    "conteudo": "Descrição: Faça um som divertido enquanto a criança organiza a mochila.",
+    "metadata": {
+      "titulo": "A Mochila que Canta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_295",
+    "conteudo": "Descrição: Deixe a criança colocar e tirar as mãos da mochila, praticando o movimento.",
+    "metadata": {
+      "titulo": "O Jogo do \"Põe e Tira\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_296",
+    "conteudo": "Descrição: Coloque dois materiais diferentes e peça para a criança escolher qual guardar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_297",
+    "conteudo": "Descrição: Permita que a criança brinque com a mochila, colocando-a na mão ou nas costas.",
+    "metadata": {
+      "titulo": "A Mochila na Mão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_298",
+    "conteudo": "Descrição: Coloque dois materiais diferentes e peça para a criança escolher qual guardar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_299",
+    "conteudo": "Descrição: Use um espelho para a criança ver a si mesma organizando a mochila.",
+    "metadata": {
+      "titulo": "A Mochila no Espelho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_300",
+    "conteudo": "Descrição: Esconda a agenda e diga \"cadê a agenda?\".",
+    "metadata": {
+      "titulo": "O Jogo do \"Onde está a agenda?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_301",
+    "conteudo": "Descrição: Cole um adesivo de um personagem ou símbolo favorito do aluno em todas as suas coisas, como um sinal secreto.",
+    "metadata": {
+      "titulo": "O Adesivo Mágico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_302",
+    "conteudo": "Descrição: Coloque as garrafinhas de várias crianças em uma mesa e peça para o aluno encontrar a sua.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual É o Meu?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_303",
+    "conteudo": "Descrição: Esconda os pertences da criança na sala e ela precisa seguir as pistas (verbais ou visuais) para encontrá-los.",
+    "metadata": {
+      "titulo": "A Caça ao Tesouro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_304",
+    "conteudo": "Descrição: Diga que a criança é um detetive e deve encontrar todas as suas coisas antes de ir embora.",
+    "metadata": {
+      "titulo": "O Detetive da Sala",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_305",
+    "conteudo": "Descrição: Crie um ponto específico na sala onde a criança deve ir para pegar seus pertences, como um local de encontro.",
+    "metadata": {
+      "titulo": "O Ponto de Encontro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_306",
+    "conteudo": "Descrição: Crie uma música sobre a hora de ir para casa, que inclui pegar a garrafinha, a lancheira e o casaco.",
+    "metadata": {
+      "titulo": "A Canção da Rotina",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_307",
+    "conteudo": "Descrição: Diga que o casaco está \"com frio\" e quer ir para a casa, e a criança precisa encontrá-lo.",
+    "metadata": {
+      "titulo": "O Casaco que Fala",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_308",
+    "conteudo": "Descrição: Escreva o nome da criança em sua lancheira com uma caneta colorida ou com adesivos de letras, para que ela reconheça o nome.",
+    "metadata": {
+      "titulo": "O Nome no Lanche",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_309",
+    "conteudo": "Descrição: Use um fantoche para mostrar como encontrar os pertences, incentivando a imitação e a diversão.",
+    "metadata": {
+      "titulo": "O Fantoche Encontra",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_310",
+    "conteudo": "Descrição: Use uma mochila com o nome da criança para guardar todas as suas coisas, como uma \"maleta mágica\".",
+    "metadata": {
+      "titulo": "A Maleta Mágica",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_311",
+    "conteudo": "Descrição: Diga que a garrafinha da criança é sua \"amiga\" e que precisa ser encontrada antes de ir embora.",
+    "metadata": {
+      "titulo": "A Garrafinha Amiga",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_312",
+    "conteudo": "Descrição: Mostre à criança o casaco dela e depois o esconda para ela encontrar.",
+    "metadata": {
+      "titulo": "O Jogo da Memória",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_313",
+    "conteudo": "Descrição: O professor encontra suas próprias coisas de forma exagerada e divertida para a criança imitar.",
+    "metadata": {
+      "titulo": "O Mestre dos Pertences",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_314",
+    "conteudo": "Descrição: Crie um lugar específico para cada pertence, ensinando a criança a colocá-lo no lugar certo.",
+    "metadata": {
+      "titulo": "Onde Guardamos?",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_315",
+    "conteudo": "Descrição: Faça uma pequena corrida para ver quem encontra a garrafinha mais rápido, sem pressão.",
+    "metadata": {
+      "titulo": "A Corrida da Garrafinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_316",
+    "conteudo": "Descrição: Faça movimentos de robô enquanto a criança procura as suas coisas, tornando a ação mais lúdica.",
+    "metadata": {
+      "titulo": "O Robô Encontra",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_317",
+    "conteudo": "Descrição: Coloque dois casacos diferentes e peça para a criança escolher o seu.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_318",
+    "conteudo": "Descrição: Crie um mural visual com a sequência de \"guardar brinquedo, pegar casaco, pegar lancheira, ir embora\".",
+    "metadata": {
+      "titulo": "A Rotina de Saída",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_319",
+    "conteudo": "Descrição: Prenda um balão na mochila da criança para que ela a encontre facilmente.",
+    "metadata": {
+      "titulo": "O Balão na Mochila",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_320",
+    "conteudo": "Descrição: Cubra o casaco com um pano e diga \"cadê o casaco?\".",
+    "metadata": {
+      "titulo": "O Jogo do \"Onde está o casaco?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_321",
+    "conteudo": "Descrição: Faça um som divertido enquanto a criança pega a mochila, como se ela estivesse cantando.",
+    "metadata": {
+      "titulo": "A Mochila que Canta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_322",
+    "conteudo": "Descrição: Amarre um cordão leve na mochila e peça para o ursinho \"puxá-lo\" para a criança.",
+    "metadata": {
+      "titulo": "O Puxão da Mochila",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_323",
+    "conteudo": "Descrição: Use um espelho para a criança ver a si mesma pegando a mochila.",
+    "metadata": {
+      "titulo": "A Mochila no Espelho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_324",
+    "conteudo": "Descrição: Pergunte \"Este é seu casaco?\" e peça para a criança responder com um gesto.",
+    "metadata": {
+      "titulo": "O Jogo do \"Sim e Não\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_325",
+    "conteudo": "Descrição: Faça um som divertido enquanto a criança pega o casaco.",
+    "metadata": {
+      "titulo": "A Roupa que Canta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_326",
+    "conteudo": "Descrição: Deixe a criança colocar e tirar as mãos da mochila, praticando o movimento.",
+    "metadata": {
+      "titulo": "O Jogo do \"Põe e Tira\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_327",
+    "conteudo": "Descrição: Coloque dois casacos diferentes e peça para a criança escolher qual é o seu.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_328",
+    "conteudo": "Descrição: Permita que a criança brinque com a mochila, colocando-a na mão ou nas costas.",
+    "metadata": {
+      "titulo": "A Mochila na Mão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_329",
+    "conteudo": "Descrição: Coloque dois casacos diferentes e peça para a criança escolher qual é o seu.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_330",
+    "conteudo": "Descrição: Use um espelho para a criança ver a si mesma pegando a mochila.",
+    "metadata": {
+      "titulo": "A Mochila no Espelho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_331",
+    "conteudo": "Descrição: Cubra a mochila e diga \"cadê a mochila?\".",
+    "metadata": {
+      "titulo": "O Jogo do \"Onde está a mochila?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_332",
+    "conteudo": "Descrição: Diga que a mochila é uma varinha de condão que faz mágica.",
+    "metadata": {
+      "titulo": "A Mochila-Varinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_333",
+    "conteudo": "Descrição: Peça para a criança esticar, encolher e, por fim, puxar a mochila.",
+    "metadata": {
+      "titulo": "O Jogo do \"Estica-Encolhe-Puxa\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_334",
+    "conteudo": "Descrição: Use fita adesiva para criar uma \"pista\" no chão e a mochila é o \"carro\" que segue a pista.",
+    "metadata": {
+      "titulo": "A Mochila na Pista",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_335",
+    "conteudo": "Descrição: Diga \"pé, pé!\" e aponte para o pé da criança, incentivando-a a pegar a mochila.",
+    "metadata": {
+      "titulo": "O Jogo do \"Pé-Pé\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_336",
+    "conteudo": "Descrição: Coloque os pertences em uma \"linha de gol\" imaginária e incentive a criança a pegá-los.",
+    "metadata": {
+      "titulo": "O Goleiro Pega a Mochila",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_337",
+    "conteudo": "Descrição: Faça uma pequena corrida para ver quem tira a roupa e a guarda mais rápido.",
+    "metadata": {
+      "titulo": "O Jogo do \"Tira a Roupa\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_338",
+    "conteudo": "Descrição: Permita que a criança brinque com a mochila, colocando-a na mão ou nas costas.",
+    "metadata": {
+      "titulo": "A Mochila na Mão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_339",
+    "conteudo": "Descrição: Diga que a mochila é um fantasma que vai sumir quando a criança a guardar.",
+    "metadata": {
+      "titulo": "A Mochila-Fantasma",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_340",
+    "conteudo": "Descrição: Cubra a mochila e diga \"cadê a mochila?\".",
+    "metadata": {
+      "titulo": "O Jogo do \"Onde está a mochila?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_341",
+    "conteudo": "Descrição: Coloque a mochila na cama e incentive a criança a ir até lá e organizá-la.",
+    "metadata": {
+      "titulo": "A Mochila na Cama",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_342",
+    "conteudo": "Descrição: Peça para a criança pular para dentro da mochila.",
+    "metadata": {
+      "titulo": "O Jogo do \"Pula-Pula\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_343",
+    "conteudo": "Descrição: Coloque dois materiais diferentes e peça para a criança escolher qual guardar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_344",
+    "conteudo": "Descrição: Use um túnel de pano e peça para a criança organizar a mochila no final.",
+    "metadata": {
+      "titulo": "A Mochila no Túnel de Pano",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_345",
+    "conteudo": "Descrição: Diga as palavras \"puxa\" e \"empurra\" enquanto a criança fecha a mochila.",
+    "metadata": {
+      "titulo": "O Jogo do \"Puxa-Puxa-Empurra\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_346",
+    "conteudo": "Descrição: Faça um som divertido enquanto a criança organiza a mochila.",
+    "metadata": {
+      "titulo": "A Mochila que Canta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_347",
+    "conteudo": "Descrição: Deixe a criança colocar e tirar as mãos da mochila, praticando o movimento.",
+    "metadata": {
+      "titulo": "O Jogo do \"Põe e Tira\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_348",
+    "conteudo": "Descrição: Coloque dois materiais diferentes e peça para a criança escolher qual guardar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_349",
+    "conteudo": "Descrição: Permita que a criança brinque com a mochila, colocando-a na mão ou nas costas.",
+    "metadata": {
+      "titulo": "A Mochila na Mão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_350",
+    "conteudo": "Descrição: Coloque dois materiais diferentes e peça para a criança escolher qual guardar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_351",
+    "conteudo": "Descrição: Diga que a criança é um mago e deve \"apagar a luz\" com a varinha mágica de mentirinha para começar a próxima atividade.",
+    "metadata": {
+      "titulo": "O Mago da Luz",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_352",
+    "conteudo": "Descrição: Diga que a criança é o \"guarda da porta\" e tem a missão de fechá-la para que ninguém entre.",
+    "metadata": {
+      "titulo": "O Guarda da Porta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_353",
+    "conteudo": "Descrição: Diga que o lixo é um \"ladrão\" e a criança precisa \"alimentá-lo\" com os papéis que estão no chão.",
+    "metadata": {
+      "titulo": "O Ladrão de Papéis",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_354",
+    "conteudo": "Descrição: A criança apaga a luz e depois a acende, como um jogo, para praticar o movimento.",
+    "metadata": {
+      "titulo": "O Jogo do \"Apaga e Acende\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_355",
+    "conteudo": "Descrição: Crie uma música curta e animada para ser cantada enquanto todos recolhem os papéis.",
+    "metadata": {
+      "titulo": "A Canção da Limpeza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_356",
+    "conteudo": "Descrição: Finja que a criança é um robô que ajuda em todas as tarefas, fazendo movimentos e sons de robô.",
+    "metadata": {
+      "titulo": "O Robô Ajuda",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_357",
+    "conteudo": "Descrição: Crie um mural com a sequência visual de \"apagar a luz, fechar a porta, recolher papéis\" para a criança seguir.",
+    "metadata": {
+      "titulo": "O Mural da Rotina",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_358",
+    "conteudo": "Descrição: Use o som de \"ziip!\" com a boca enquanto a criança fecha a porta, associando o som à ação.",
+    "metadata": {
+      "titulo": "O Zíper da Porta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_359",
+    "conteudo": "Descrição: Faça uma pequena corrida para ver quem recolhe os papéis mais rápido, sem pressão.",
+    "metadata": {
+      "titulo": "A Corrida das Coisas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_360",
+    "conteudo": "Descrição: Diga que a criança é o \"ajudante do dia\" e tem uma missão especial de cuidar da sala.",
+    "metadata": {
+      "titulo": "O Ajudante do Dia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_361",
+    "conteudo": "Descrição: O professor ajuda a criança a apagar a luz, e a criança ajuda o professor a fechar a porta, incentivando a colaboração.",
+    "metadata": {
+      "titulo": "Eu Ajudo, Você Ajuda",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_362",
+    "conteudo": "Descrição: Use um fantoche para mostrar como fazer as tarefas, incentivando a imitação e a diversão.",
+    "metadata": {
+      "titulo": "O Fantoche Ajudante",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_363",
+    "conteudo": "Descrição: Use um cesto de lixo de brinquedo e diga que os papéis são \"tesouros\" que precisam ir para a cesta.",
+    "metadata": {
+      "titulo": "A Cesta de Tesouros",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_364",
+    "conteudo": "Descrição: Use um alarme sonoro para marcar o final da aula e o início da arrumação da sala.",
+    "metadata": {
+      "titulo": "O Alarme da Rotina",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_365",
+    "conteudo": "Descrição: Use uma vassoura e uma pá de lixo pequenas para a criança varrer e recolher farelos.",
+    "metadata": {
+      "titulo": "A Vassoura de Brinquedo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_366",
+    "conteudo": "Descrição: Use fita adesiva para criar uma \"pista\" no chão, e a criança segue a pista para recolher os papéis.",
+    "metadata": {
+      "titulo": "A Pista da Limpeza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_367",
+    "conteudo": "Descrição: Deixe a criança colocar e tirar as mãos da sujeira, praticando o movimento.",
+    "metadata": {
+      "titulo": "O Jogo do \"Põe e Tira\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_368",
+    "conteudo": "Descrição: Coloque dois materiais de lixo e peça para a criança escolher qual recolher.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_369",
+    "conteudo": "Descrição: Faça sombras na parede e peça para a criança \"limpar\" a sombra.",
+    "metadata": {
+      "titulo": "O Jogo da Sombra",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_370",
+    "conteudo": "Descrição: Peça para a criança pular para a porta.",
+    "metadata": {
+      "titulo": "O Jogo do \"Pula-Pula\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_371",
+    "conteudo": "Descrição: Amarre um cordão leve no lixo e peça para o ursinho \"puxá-lo\" para a criança.",
+    "metadata": {
+      "titulo": "O Puxão do Ursinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_372",
+    "conteudo": "Descrição: Crie uma música sobre a limpeza que inclui movimentos para a criança imitar.",
+    "metadata": {
+      "titulo": "A Canção da Limpeza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_373",
+    "conteudo": "Descrição: Deixe a criança colocar e tirar a mão da água, praticando o movimento.",
+    "metadata": {
+      "titulo": "O Jogo do \"Põe e Tira\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_374",
+    "conteudo": "Descrição: Use o sabonete para fazer espuma na mão da criança.",
+    "metadata": {
+      "titulo": "O Sabonete no Banho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_375",
+    "conteudo": "Descrição: Deixe a criança usar a toalha do professor.",
+    "metadata": {
+      "titulo": "A Toalha do Mestre",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_376",
+    "conteudo": "Descrição: Faça sombras com a toalha na parede.",
+    "metadata": {
+      "titulo": "O Jogo da Sombra",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_377",
+    "conteudo": "Descrição: Coloque duas toalhas e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Sim e Não\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_378",
+    "conteudo": "Descrição: Use a toalha na caixa de areia, para a criança se secar.",
+    "metadata": {
+      "titulo": "A Toalha de Areia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_379",
+    "conteudo": "Descrição: Coloque duas toalhas diferentes e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_380",
+    "conteudo": "Descrição: Permita que a criança brinque com a toalha, colocando-a na mão ou na cabeça.",
+    "metadata": {
+      "titulo": "A Toalha na Mão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_381",
+    "conteudo": "Descrição: Coloque duas toalhas diferentes e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_382",
+    "conteudo": "Descrição: Diga que a toalha vai \"abraçar\" o rosto da criança para secá-lo.",
+    "metadata": {
+      "titulo": "A Toalha que Abraça",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_383",
+    "conteudo": "Descrição: Derrame um pouco de líquido no chão e peça para a criança limpar com a toalha.",
+    "metadata": {
+      "titulo": "O Jogo da Limpeza do Chão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_384",
+    "conteudo": "Descrição: Deixe a criança usar a toalha do professor.",
+    "metadata": {
+      "titulo": "A Toalha do Mestre",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_385",
+    "conteudo": "Descrição: Faça sombras com a toalha na parede.",
+    "metadata": {
+      "titulo": "O Jogo da Sombra",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_386",
+    "conteudo": "Descrição: Coloque duas toalhas e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Sim e Não\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_387",
+    "conteudo": "Descrição: Use a toalha na caixa de areia, para a criança se secar.",
+    "metadata": {
+      "titulo": "A Toalha de Areia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_388",
+    "conteudo": "Descrição: Coloque duas toalhas diferentes e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_389",
+    "conteudo": "Descrição: Permita que a criança brinque com a toalha, colocando-a na mão ou na cabeça.",
+    "metadata": {
+      "titulo": "A Toalha na Mão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_390",
+    "conteudo": "Descrição: Coloque duas toalhas diferentes e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_391",
+    "conteudo": "Descrição: Diga que a toalha vai \"abraçar\" o rosto da criança para secá-lo.",
+    "metadata": {
+      "titulo": "A Toalha que Abraça",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_392",
+    "conteudo": "Descrição: Derrame um pouco de líquido no chão e peça para a criança limpar com a toalha.",
+    "metadata": {
+      "titulo": "O Jogo da Limpeza do Chão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_393",
+    "conteudo": "Descrição: Deixe a criança usar a toalha do professor.",
+    "metadata": {
+      "titulo": "A Toalha do Mestre",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_394",
+    "conteudo": "Descrição: Faça sombras com a toalha na parede.",
+    "metadata": {
+      "titulo": "O Jogo da Sombra",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_395",
+    "conteudo": "Descrição: Coloque duas toalhas e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Sim e Não\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_396",
+    "conteudo": "Descrição: Use a toalha na caixa de areia, para a criança se secar.",
+    "metadata": {
+      "titulo": "A Toalha de Areia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_397",
+    "conteudo": "Descrição: Coloque duas toalhas diferentes e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_398",
+    "conteudo": "Descrição: Permita que a criança brinque com a toalha, colocando-a na mão ou na cabeça.",
+    "metadata": {
+      "titulo": "A Toalha na Mão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_399",
+    "conteudo": "Descrição: Coloque duas toalhas diferentes e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "autocuidado_5a6_400",
+    "conteudo": "Descrição: Diga que a toalha vai \"abraçar\" o rosto da criança para secá-lo.",
+    "metadata": {
+      "titulo": "A Toalha que Abraça",
+      "dimensao": "Autocuidado",
+      "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  }
+]

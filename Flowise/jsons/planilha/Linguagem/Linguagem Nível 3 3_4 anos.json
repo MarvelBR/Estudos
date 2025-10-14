@@ -1,0 +1,4402 @@
+[
+  {
+    "id": "linguagem_3a4_01",
+    "conteudo": "Descrição: Use um livro que tenha botões de som. Leia e aperte o som correspondente à página, incentivando a criança a apertar também.",
+    "metadata": {
+      "titulo": "O Livro de Sons",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_02",
+    "conteudo": "Descrição: Coloque objetos relacionados à história (ex: um carro de brinquedo, um pato de borracha) em uma caixa. Tire-os à medida que aparecem na narrativa.",
+    "metadata": {
+      "titulo": "A Caixa Mágica",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_03",
+    "conteudo": "Descrição: Leia o livro com vozes diferentes para cada personagem. Faça a voz do gigante grave e a da formiguinha aguda.",
+    "metadata": {
+      "titulo": "Voz de Personagem",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_04",
+    "conteudo": "Descrição: A cada página, pergunte à criança para apontar para um objeto ou personagem da história (ex: \"Onde está o cachorro?\").",
+    "metadata": {
+      "titulo": "Onde Está?",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_05",
+    "conteudo": "Descrição: Deixe a criança segurar um brinquedo favorito enquanto você lê a história, como se o brinquedo também estivesse ouvindo.",
+    "metadata": {
+      "titulo": "Brinquedo Companheiro",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_06",
+    "conteudo": "Descrição: Use um fantoche. Quando um personagem similar ao fantoche aparece na história, faça o fantoche interagir com o livro.",
+    "metadata": {
+      "titulo": "O Fantoche Acompanha",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_07",
+    "conteudo": "Descrição: Use um celular ou caixa de som com sons da natureza. Quando a história falar sobre chuva, toque o som de chuva.",
+    "metadata": {
+      "titulo": "Sons da Natureza",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_08",
+    "conteudo": "Descrição: Ao ler uma ação (ex: \"o coelho pulou\"), pare e incentive a criança a pular. Depois, continue a ler.",
+    "metadata": {
+      "titulo": "Pausa para Imitar",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_09",
+    "conteudo": "Descrição: Use um livro de pano ou com texturas. Deixe a criança sentir a textura de cada página enquanto você lê.",
+    "metadata": {
+      "titulo": "Livro de Pano",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_10",
+    "conteudo": "Descrição: Use a mão da criança como um \"apontador\". Mova o dedo dela para seguir as figuras no livro enquanto lê.",
+    "metadata": {
+      "titulo": "Lendo com a Mão",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_11",
+    "conteudo": "Descrição: Antes de começar, apresente cartões com figuras de objetos-chave da história. A cada vez que o objeto for mencionado, a criança deve segurar o cartão.",
+    "metadata": {
+      "titulo": "Símbolos da História",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_12",
+    "conteudo": "Descrição: Transforme partes da história em pequenas canções repetitivas.",
+    "metadata": {
+      "titulo": "Cantando a História",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_13",
+    "conteudo": "Descrição: Em um quarto escuro, use uma lanterna para iluminar as figuras do livro enquanto lê.",
+    "metadata": {
+      "titulo": "Luz e Sombra",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_14",
+    "conteudo": "Descrição: Esconda um objeto da história atrás do livro. Quando ele aparecer na história, revele o objeto.",
+    "metadata": {
+      "titulo": "Brinquedo Escondido",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_15",
+    "conteudo": "Descrição: Deixe a criança desenhar livremente em um papel. Peça que ela desenhe algo da história que está sendo lida.",
+    "metadata": {
+      "titulo": "Narrando o Desenho",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_16",
+    "conteudo": "Descrição: Faça perguntas simples de sim/não sobre a história (ex: \"O coelho era vermelho?\").",
+    "metadata": {
+      "titulo": "O Jogo do 'Sim/Não'",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_17",
+    "conteudo": "Descrição: Peça para a criança contar quantos objetos aparecem em cada página (ex: \"Quantas bolas tem aqui?\").",
+    "metadata": {
+      "titulo": "O Jogo de Contar",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_18",
+    "conteudo": "Descrição: Use um pano leve. Quando a história falar sobre vento, mova o pano suavemente.",
+    "metadata": {
+      "titulo": "A História Sentida",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_19",
+    "conteudo": "Descrição: Conte a história para o ursinho de pelúcia. Finja que o ursinho está com sono para mostrar que a história é relaxante.",
+    "metadata": {
+      "titulo": "O Ursinho Dorminhoco",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_20",
+    "conteudo": "Descrição: Leia com a criança no colo. O contato físico pode ajudar a manter o foco.",
+    "metadata": {
+      "titulo": "Leitura no Colo",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_21",
+    "conteudo": "Descrição: Quando a história falar de um carro, faça o som \"Vrum, vrum\" em um tom adequado ao veículo.",
+    "metadata": {
+      "titulo": "A 'Voz' do Carro",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_22",
+    "conteudo": "Descrição: Use um boneco de dedo para representar os personagens da história.",
+    "metadata": {
+      "titulo": "Boneco de Dedo",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_23",
+    "conteudo": "Descrição: Coloque um objeto de textura interessante (ex: massinha, esponja) dentro de um saco. Diga \"O que será que tem aqui?\" quando a história mencionar uma textura similar.",
+    "metadata": {
+      "titulo": "O Saco dos Sentidos",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_24",
+    "conteudo": "Descrição: Comece com histórias muito curtas (1-2 minutos) e aumente o tempo gradualmente.",
+    "metadata": {
+      "titulo": "A História Curta",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_25",
+    "conteudo": "Descrição: Leiam a história em um lugar calmo e aconchegante, como uma cabana feita de cobertas.",
+    "metadata": {
+      "titulo": "Lendo em um Lugar Secreto",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_26",
+    "conteudo": "Descrição: Leia uma história conhecida. Faça uma pausa e pergunte à criança o que acontece a seguir na história.",
+    "metadata": {
+      "titulo": "O Que Vem Depois?",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_27",
+    "conteudo": "Descrição: Use a expressão do rosto para mostrar os sentimentos dos personagens. Incentive a criança a imitar.",
+    "metadata": {
+      "titulo": "Fazer Caretas",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_28",
+    "conteudo": "Descrição: Use a hora do lanche para ler. \"O coelho comeu a cenoura. Vamos comer também?\".",
+    "metadata": {
+      "titulo": "A História do Lanchinho",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_29",
+    "conteudo": "Descrição: Leia a história com um ritmo bem marcado, como uma poesia.",
+    "metadata": {
+      "titulo": "Narrando com Ritmo",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_30",
+    "conteudo": "Descrição: Use um livro com abas que se levantam ou janelas para abrir e fechar.",
+    "metadata": {
+      "titulo": "O Livro Interativo",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_31",
+    "conteudo": "Descrição: Deixe a criança segurar um objeto da história e o coloque de volta quando o objeto não for mais mencionado.",
+    "metadata": {
+      "titulo": "Os Objetos na Mão",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_32",
+    "conteudo": "Descrição: Crie gestos simples para cada verso de uma canção da história.",
+    "metadata": {
+      "titulo": "Cantando com as Mãos",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_33",
+    "conteudo": "Descrição: Conte a história e aponte para as partes do corpo da criança no espelho quando o texto as mencionar.",
+    "metadata": {
+      "titulo": "A História do Espelho",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_34",
+    "conteudo": "Descrição: Ao final de um parágrafo, faça uma pausa. Diga \"Vamos respirar fundo, assim...\" e inspire e expire junto com a criança.",
+    "metadata": {
+      "titulo": "Pausa para a Respiração",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_35",
+    "conteudo": "Descrição: Use um livro velho. Deixe a criança \"rasgar\" ou \"amassar\" um pedaço de papel quando a história mencionar algo que se quebra.",
+    "metadata": {
+      "titulo": "O Livro do Lixo",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_36",
+    "conteudo": "Descrição: Use os dedos para contar os personagens ou objetos que aparecem na história.",
+    "metadata": {
+      "titulo": "Contando com os Dedos",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_37",
+    "conteudo": "Descrição: Leia a história em voz alta, e depois em voz baixa.",
+    "metadata": {
+      "titulo": "A História em Voz Alta e Baixa",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_38",
+    "conteudo": "Descrição: Tenha cartas com figuras da história. Ao ler sobre uma figura, a criança deve encontrar o cartão correspondente.",
+    "metadata": {
+      "titulo": "O Jogo do 'Encontra o Par'",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_39",
+    "conteudo": "Descrição: Use diferentes cores de luz (lanterna colorida) para iluminar as páginas.",
+    "metadata": {
+      "titulo": "A História em Cores",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_40",
+    "conteudo": "Descrição: Crie um gesto simples para cada personagem.",
+    "metadata": {
+      "titulo": "O Gesto da História",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_41",
+    "conteudo": "Descrição: Conte uma história sobre sombras. Aponte para a sombra de um objeto no livro e peça para a criança achar a sombra dela.",
+    "metadata": {
+      "titulo": "Onde Está a Sombra?",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_42",
+    "conteudo": "Descrição: Use bolinhas de gude para \"representar\" os personagens na história.",
+    "metadata": {
+      "titulo": "História com Bolinhas de Gude",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_43",
+    "conteudo": "Descrição: Use pinos de boliche. Derrube um pino quando um personagem cair na história.",
+    "metadata": {
+      "titulo": "A História e os Pinos",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_44",
+    "conteudo": "Descrição: Crie um livro com objetos reais (folhas, pedras pequenas) que podem ser tocados enquanto lê.",
+    "metadata": {
+      "titulo": "O Livro Sensorial",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_45",
+    "conteudo": "Descrição: Bata nas coxas, faça palmas ou estale a língua de acordo com o ritmo da história.",
+    "metadata": {
+      "titulo": "A História e o Ritmo do Corpo",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_46",
+    "conteudo": "Descrição: Use o som da sua voz para imitar o som de uma porta que se fecha, de um carro que passa, etc.",
+    "metadata": {
+      "titulo": "A História do Som",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_47",
+    "conteudo": "Descrição: Cubra uma figura no livro com a mão e descubra, perguntando \"O que é isso?\".",
+    "metadata": {
+      "titulo": "O Jogo de Cobre e Descobre",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_48",
+    "conteudo": "Descrição: Quando um personagem chorar, finja chorar. Quando ele rir, ria junto.",
+    "metadata": {
+      "titulo": "A História do Choro e do Riso",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_49",
+    "conteudo": "Descrição: Use panos com cheiros (ex: baunilha). Quando a história mencionar um cheiro, dê o pano para a criança cheirar.",
+    "metadata": {
+      "titulo": "O Livro do 'Cheiro'",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_50",
+    "conteudo": "Descrição: Deixe a criança seguir seu dedo enquanto você aponta para as palavras e figuras do livro.",
+    "metadata": {
+      "titulo": "O Jogo de Seguir o Dedo",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_51",
+    "conteudo": "Descrição: Cante uma canção simples como \"Olá, olá, [nome completo]!\" em diferentes tons, fazendo pausas para a criança participar.",
+    "metadata": {
+      "titulo": "Canção do Nome Completo",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_52",
+    "conteudo": "Descrição: Fique na frente do espelho com a criança. Aponte para o reflexo dela e diga \"Esse é o(a) [nome completo]!\". Pergunte \"Quem é você?\" e incentive a resposta.",
+    "metadata": {
+      "titulo": "O Espelho da Identidade",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_53",
+    "conteudo": "Descrição: Tenha uma foto grande da criança. Mostre-a e pergunte \"Quem é esta criança?\". Responda \"É o(a) [nome completo]!\".",
+    "metadata": {
+      "titulo": "A Foto da Criança",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_54",
+    "conteudo": "Descrição: Use um telefone de brinquedo. Finja atender e diga \"Alô? É o(a) [nome completo]?\".",
+    "metadata": {
+      "titulo": "O Jogo do Telefone",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_55",
+    "conteudo": "Descrição: Use um fantoche que pergunta, com uma voz engraçada, \"Qual é o seu nome completo?\". A professora modela a resposta para a criança.",
+    "metadata": {
+      "titulo": "O Fantoche Curioso",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_56",
+    "conteudo": "Descrição: Após a criança fazer um desenho, escreva o nome completo dela no papel. Diga \"Este desenho é do(a) [nome completo]!\".",
+    "metadata": {
+      "titulo": "A Assinatura do Desenho",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_57",
+    "conteudo": "Descrição: Durante a roda de conversa, chame a criança pelo nome completo e espere que ela levante a mão ou vocalize.",
+    "metadata": {
+      "titulo": "A Chamada na Roda",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_58",
+    "conteudo": "Descrição: Cante \"Parabéns pra você\" com o nome completo da criança.",
+    "metadata": {
+      "titulo": "A Canção do Aniversário",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_59",
+    "conteudo": "Descrição: Use blocos de montar com as letras do nome completo da criança. Monte-os enquanto diz o nome em ritmo.",
+    "metadata": {
+      "titulo": "Os Blocos do Nome",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_60",
+    "conteudo": "Descrição: Crie uma história curta onde o protagonista tem o nome completo da criança.",
+    "metadata": {
+      "titulo": "A História do Nome",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_61",
+    "conteudo": "Descrição: Sussurre o nome completo da criança no ouvido dela e espere uma reação.",
+    "metadata": {
+      "titulo": "Sussurrando o Nome",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_62",
+    "conteudo": "Descrição: Faça um crachá com o nome completo e uma foto da criança. Aponte para o crachá e diga \"É o(a) [nome completo]\".",
+    "metadata": {
+      "titulo": "O Crachá da Criança",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_63",
+    "conteudo": "Descrição: Cubra a criança com um lençol leve. Pergunte \"Quem está aí?\" e, ao tirar o lençol, diga \"É o(a) [nome completo]!\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Quem é?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_64",
+    "conteudo": "Descrição: Use carimbos com as letras para montar o nome completo da criança em um papel, dizendo cada nome.",
+    "metadata": {
+      "titulo": "O Carimbo do Nome",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_65",
+    "conteudo": "Descrição: Em uma roda, diga \"Olá, [nome completo]!\". Incentive a criança a responder com o nome.",
+    "metadata": {
+      "titulo": "A Roda do 'Oi'",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_66",
+    "conteudo": "Descrição: Balance a criança no colo, dizendo \"Vai e volta, [nome completo]!\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Vai e Volta'",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_67",
+    "conteudo": "Descrição: Pergunte à criança, com tom de voz carinhoso, \"Tudo bem, [nome completo]?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Tudo Bem?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_68",
+    "conteudo": "Descrição: Na hora do lanche, ofereça o prato e diga \"O lanche é do(a) [nome completo]!\".",
+    "metadata": {
+      "titulo": "A Hora do Lanche",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_69",
+    "conteudo": "Descrição: Esconda um brinquedo favorito da criança e diga \"O [brinquedo] está esperando o(a) [nome completo]!\".",
+    "metadata": {
+      "titulo": "O Jogo de Esconder",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_70",
+    "conteudo": "Descrição: Encha um balão para a criança e diga \"Este balão é do(a) [nome completo]!\".",
+    "metadata": {
+      "titulo": "Os Balões do Nome",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_71",
+    "conteudo": "Descrição: Diga \"Um abraço para o(a) [nome completo]!\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Abraço'",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_72",
+    "conteudo": "Descrição: Faça um livro com fotos da criança e do nome completo dela.",
+    "metadata": {
+      "titulo": "O Livro do Nome",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_73",
+    "conteudo": "Descrição: Na hora de ir embora, cante \"Tchau, tchau, [nome completo]!\".",
+    "metadata": {
+      "titulo": "O Canto da Despedida",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_74",
+    "conteudo": "Descrição: A criança aponta para um brinquedo. Você diz \"O(a) [nome completo] quer...\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Quero'",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_75",
+    "conteudo": "Descrição: Aponte para a cadeira da criança e diga \"Essa é a cadeira do(a) [nome completo]!\".",
+    "metadata": {
+      "titulo": "A Cadeira da Criança",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_76",
+    "conteudo": "Descrição: Encha um copo de água e diga \"Água para o(a) [nome completo]!\".",
+    "metadata": {
+      "titulo": "A Água no Copo",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_77",
+    "conteudo": "Descrição: Cante \"Pula, pula, [nome completo]!\".",
+    "metadata": {
+      "titulo": "A Canção do 'Pula'",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_78",
+    "conteudo": "Descrição: Use uma boneca para se apresentar: \"Eu sou a boneca, e você é o(a) [nome completo]!\".",
+    "metadata": {
+      "titulo": "A Boneca que se Apresenta",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_79",
+    "conteudo": "Descrição: Finja dar comida com uma colher. \"Sopa para o(a) [nome completo]!\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Sopa'",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_80",
+    "conteudo": "Descrição: Faça um coelho de brinquedo pular e diga \"O coelho está pulando para o(a) [nome completo]!\".",
+    "metadata": {
+      "titulo": "O Coelho e os Pulos",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_81",
+    "conteudo": "Descrição: Empurre um carrinho e diga \"O carro anda para o(a) [nome completo]!\".",
+    "metadata": {
+      "titulo": "O Carro que Anda",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_82",
+    "conteudo": "Descrição: Diga \"Vamos trocar a fralda do(a) [nome completo]!\".",
+    "metadata": {
+      "titulo": "A Hora de Trocar a Fralda",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_83",
+    "conteudo": "Descrição: Durante o banho, diga \"Hora do banho de bolhas do(a) [nome completo]!\".",
+    "metadata": {
+      "titulo": "O Banho de Bolhas",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_84",
+    "conteudo": "Descrição: Cante uma música sobre aventura e diga \"A aventura é para o(a) [nome completo]!\".",
+    "metadata": {
+      "titulo": "A Música da Aventura",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_85",
+    "conteudo": "Descrição: Entregue uma peça de encaixe e diga \"Esta peça é do(a) [nome completo]!\".",
+    "metadata": {
+      "titulo": "O Jogo de Encaixe",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_86",
+    "conteudo": "Descrição: Penteie o cabelo da criança e diga \"Penteando o cabelo do(a) [nome completo]!\".",
+    "metadata": {
+      "titulo": "O Pente no Cabelo",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_87",
+    "conteudo": "Descrição: Coloque o sapato da criança e diga \"Sapato no pé do(a) [nome completo]!\".",
+    "metadata": {
+      "titulo": "O Sapato no Pé",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_88",
+    "conteudo": "Descrição: Peça para a criança te ajudar com algo, dizendo \"Ajuda a professora, [nome completo]!\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Me Ajuda'",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_89",
+    "conteudo": "Descrição: Aponte para o balde de brinquedos. \"O balde é do(a) [nome completo]!\".",
+    "metadata": {
+      "titulo": "O Balde de Brinquedos",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_90",
+    "conteudo": "Descrição: Empurre um objeto para a criança. \"Olha o objeto do(a) [nome completo]!\".",
+    "metadata": {
+      "titulo": "O Jogo de Empurrar",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_91",
+    "conteudo": "Descrição: Use uma toalha para cobrir a criança. \"Cadê o(a) [nome completo]?\".",
+    "metadata": {
+      "titulo": "A Toalha Mágica",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_92",
+    "conteudo": "Descrição: Cante sobre a família da criança, incluindo o nome completo dela.",
+    "metadata": {
+      "titulo": "A Canção da Família",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_93",
+    "conteudo": "Descrição: Sopre em uma pena e diga \"A pena voa para o(a) [nome completo]!\".",
+    "metadata": {
+      "titulo": "A Brincadeira de 'Sopro'",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_94",
+    "conteudo": "Descrição: Diga \"O(a) [nome completo] não gosta de...\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Não'",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_95",
+    "conteudo": "Descrição: Corram juntos. \"Correndo, correndo, [nome completo]!\".",
+    "metadata": {
+      "titulo": "O Jogo de Correr",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_96",
+    "conteudo": "Descrição: Puxe uma corda de brinquedo. \"Puxa, puxa, [nome completo]!\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Puxa'",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_97",
+    "conteudo": "Descrição: Finja que a criança é um super-herói. \"O super-herói [nome completo] vai salvar o dia!\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Faz de Conta'",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_98",
+    "conteudo": "Descrição: Diga \"Tem uma surpresa no armário para o(a) [nome completo]!\".",
+    "metadata": {
+      "titulo": "A Surpresa no Armário",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_99",
+    "conteudo": "Descrição: Toque na mão da criança. \"Quem tocou? Foi a mão do(a) [nome completo]!\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Toca'",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_100",
+    "conteudo": "Descrição: Escreva o nome completo da criança na areia e diga \"O nome do(a) [nome completo]!\".",
+    "metadata": {
+      "titulo": "O Desenho na Areia",
+      "dimensao": "Linguagem",
+      "habilidade": "Diz seu nome completo quando alguém pergunta.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_101",
+    "conteudo": "Descrição: Pergunte \"Como bate palma?\" e demonstre o movimento. Incentive a criança a imitar o movimento para responder.",
+    "metadata": {
+      "titulo": "Como Bate Palma?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_102",
+    "conteudo": "Descrição: Coloque uma bola na frente da criança e pergunte \"Como a bola rola?\". Mostre o movimento e incentive-a a rolar a bola.",
+    "metadata": {
+      "titulo": "Como A Bola Rola?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_103",
+    "conteudo": "Descrição: Pergunte \"Como a gente pula?\". Pule no lugar com a criança, incentivando-a a imitar para responder.",
+    "metadata": {
+      "titulo": "Como Pula?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_104",
+    "conteudo": "Descrição: Pegue um carrinho de brinquedo. Pergunte \"Como o carro anda?\". Empurre o carrinho e incentive a criança a empurrar.",
+    "metadata": {
+      "titulo": "Como o Carro Anda?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_105",
+    "conteudo": "Descrição: Na hora de lavar as mãos, pergunte \"Como lavamos as mãos?\". Modele a ação e incentive a criança a esfregá-las.",
+    "metadata": {
+      "titulo": "Como Lavar as Mãos?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_106",
+    "conteudo": "Descrição: Na hora da refeição, pegue a colher. Pergunte \"Como comemos?\". Modele a ação de levar a colher à boca.",
+    "metadata": {
+      "titulo": "Como Comer?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_107",
+    "conteudo": "Descrição: Aponte para a porta e pergunte \"Como fazemos tchau?\". Acene e incentive a criança a acenar.",
+    "metadata": {
+      "titulo": "Como Fazer Tchau?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_108",
+    "conteudo": "Descrição: Abra os braços e pergunte \"Como damos um abraço?\". Demonstre o abraço em um ursinho de pelúcia.",
+    "metadata": {
+      "titulo": "Como Dar um Abraço?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_109",
+    "conteudo": "Descrição: Mostre um copo de água e pergunte \"Como bebemos água?\". Modele a ação de beber e incentive a criança.",
+    "metadata": {
+      "titulo": "Como Bebe Água?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_110",
+    "conteudo": "Descrição: Aponte para a cadeira. Pergunte \"Como sentamos?\". Sente-se e incentive a criança a sentar.",
+    "metadata": {
+      "titulo": "Como Senta?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_111",
+    "conteudo": "Descrição: Estando sentados, pergunte \"Como levantamos?\". Modele a ação e incentive a criança a levantar.",
+    "metadata": {
+      "titulo": "Como Levanta?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_112",
+    "conteudo": "Descrição: Aponte para uma figura de gato. Pergunte \"Como o gato faz?\". Modele o som \"miau\" e aponte para a boca.",
+    "metadata": {
+      "titulo": "Como o Gato Faz Miau?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_113",
+    "conteudo": "Descrição: Aponte para a figura de um cachorro. Pergunte \"Como o cachorro faz?\". Modele o som \"au-au\".",
+    "metadata": {
+      "titulo": "Como o Cachorro Faz Au-Au?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_114",
+    "conteudo": "Descrição: Pegue uma colher e pergunte \"Como fazemos aviãozinho?\". Faça o som 'bzzzz' e leve a colher à boca.",
+    "metadata": {
+      "titulo": "Como Faz Aviãozinho?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_115",
+    "conteudo": "Descrição: Use uma escova de brinquedo. Pergunte \"Como escovamos os dentes?\". Modele o movimento na boca.",
+    "metadata": {
+      "titulo": "Como Escovar os Dentes?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_116",
+    "conteudo": "Descrição: Dê massinha de modelar. Pergunte \"Como amassamos a massinha?\". Demonstre o movimento de amassar.",
+    "metadata": {
+      "titulo": "Como Amassar a Massinha?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_117",
+    "conteudo": "Descrição: Aponte para uma porta. Pergunte \"Como fechamos a porta?\". Demonstre o movimento.",
+    "metadata": {
+      "titulo": "Como Fechar a Porta?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_118",
+    "conteudo": "Descrição: Aponte para a porta. Pergunte \"Como abrimos a porta?\". Demonstre o movimento.",
+    "metadata": {
+      "titulo": "Como Abrir a Porta?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_119",
+    "conteudo": "Descrição: Cante uma música curta. Pergunte \"Como cantamos?\". Incentive a criança a fazer sons ou mover a boca.",
+    "metadata": {
+      "titulo": "Como Canta?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_120",
+    "conteudo": "Descrição: Mova as mãos como asas e pergunte \"Como voamos?\". Incentive a criança a imitar.",
+    "metadata": {
+      "titulo": "Como Voa?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_121",
+    "conteudo": "Descrição: Mova a mão como um peixe e pergunte \"Como o peixe nada?\". Incentive a criança a imitar o movimento.",
+    "metadata": {
+      "titulo": "Como o Peixe Nada?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_122",
+    "conteudo": "Descrição: Pule como um coelho. Pergunte \"Como o coelho pula?\". Incentive a criança a pular.",
+    "metadata": {
+      "titulo": "Como o Coelho Pula?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_123",
+    "conteudo": "Descrição: Sopre bolhas de sabão. Pergunte \"Como sopra?\". Demonstre e incentive a criança.",
+    "metadata": {
+      "titulo": "Como Sopra?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_124",
+    "conteudo": "Descrição: Use um pente. Pergunte \"Como penteamos o cabelo?\". Modele a ação em um boneco.",
+    "metadata": {
+      "titulo": "Como Penteia o Cabelo?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_125",
+    "conteudo": "Descrição: Coloque um brinquedo na mesa. Pergunte \"Como pegamos o brinquedo?\". Demonstre a ação.",
+    "metadata": {
+      "titulo": "Como Pega um Brinquedo?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_126",
+    "conteudo": "Descrição: Pegue um livro. Pergunte \"Como viramos a página?\". Demonstre a ação de virar a página.",
+    "metadata": {
+      "titulo": "Como Vira a Página?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_127",
+    "conteudo": "Descrição: Pegue um bloco. Pergunte \"Como fazemos a torre?\". Mostre a ação de empilhar.",
+    "metadata": {
+      "titulo": "Como Faz a Torre?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_128",
+    "conteudo": "Descrição: Use um tambor de brinquedo. Pergunte \"Como batemos o tambor?\". Demonstre a ação.",
+    "metadata": {
+      "titulo": "Como Bate o Tambor?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_129",
+    "conteudo": "Descrição: Finja chupar um canudo. Pergunte \"Como fazemos chup-chup?\". Demonstre o som.",
+    "metadata": {
+      "titulo": "Como Faz Chup-Chup?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_130",
+    "conteudo": "Descrição: Pegue uma flor de brinquedo. Pergunte \"Como sentimos o cheiro?\". Modele a ação.",
+    "metadata": {
+      "titulo": "Como Sente o Cheiro?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_131",
+    "conteudo": "Descrição: Use uma mamadeira de brinquedo. Pergunte \"Como o bebê bebe?\". Demonstre a ação.",
+    "metadata": {
+      "titulo": "Como Bebe com a Mamadeira?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_132",
+    "conteudo": "Descrição: Pegue um sapato da criança. Pergunte \"Como colocamos o sapato?\". Demonstre a ação.",
+    "metadata": {
+      "titulo": "Como Colocar o Sapato?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_133",
+    "conteudo": "Descrição: Use uma vassoura de brinquedo. Pergunte \"Como varremos?\". Demonstre a ação de varrer.",
+    "metadata": {
+      "titulo": "Como Varrer?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_134",
+    "conteudo": "Descrição: Pergunte \"Como o relógio faz?\". Modele o som \"tic tac\".",
+    "metadata": {
+      "titulo": "Como o Relógio Faz?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_135",
+    "conteudo": "Descrição: Dê um chocalho para a criança. Pergunte \"Como chacoalha?\". Demonstre e incentive a criança.",
+    "metadata": {
+      "titulo": "Como Chacoalha o Chocalho?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_136",
+    "conteudo": "Descrição: Use um sino de brinquedo. Pergunte \"Como o sino toca?\". Demonstre o som.",
+    "metadata": {
+      "titulo": "Como o Sino Toca?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_137",
+    "conteudo": "Descrição: Pegue um trenzinho. Pergunte \"Como o trem faz?\". Modele o som \"chu chu\".",
+    "metadata": {
+      "titulo": "Como o Trem Faz?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_138",
+    "conteudo": "Descrição: Faça cócegas leves na criança. Pergunte \"Como fazemos cosquinhas?\". Demonstre e incentive a criança.",
+    "metadata": {
+      "titulo": "Como Fazer Cosquinhas?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_139",
+    "conteudo": "Descrição: Aponte para o interruptor. Pergunte \"Como acende a luz?\". Demonstre a ação.",
+    "metadata": {
+      "titulo": "Como Acende a Luz?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_140",
+    "conteudo": "Descrição: Aponte para o interruptor. Pergunte \"Como desliga a luz?\". Demonstre a ação.",
+    "metadata": {
+      "titulo": "Como Desliga a Luz?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_141",
+    "conteudo": "Descrição: Use um pato de borracha. Pergunte \"Como o pato nada?\". Modele a ação.",
+    "metadata": {
+      "titulo": "Como o Pato Nada?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_142",
+    "conteudo": "Descrição: Use um leão de brinquedo. Pergunte \"Como o leão faz?\". Modele o som \"grrr\".",
+    "metadata": {
+      "titulo": "Como o Leão Faz Grrr?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_143",
+    "conteudo": "Descrição: Pegue um carro de brinquedo. Pergunte \"Como o carro buzina?\". Modele o som \"bi bi\".",
+    "metadata": {
+      "titulo": "Como o Carro Buzina?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_144",
+    "conteudo": "Descrição: Aponte para a figura de um lobo. Pergunte \"Como o lobo uiva?\". Modele o som \"auuuu\".",
+    "metadata": {
+      "titulo": "Como o Lobo Uiva?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_145",
+    "conteudo": "Descrição: Aponte para a figura de um pássaro. Pergunte \"Como o pássaro faz?\". Modele o som \"piu-piu\".",
+    "metadata": {
+      "titulo": "Como o Pássaro Faz Piu-Piu?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_146",
+    "conteudo": "Descrição: Faça um macaco de brinquedo pular. Pergunte \"Como o macaco pula?\". Incentive a criança a pular.",
+    "metadata": {
+      "titulo": "Como o Macaco Pula?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_147",
+    "conteudo": "Descrição: Faça um coelho de brinquedo correr. Pergunte \"Como o coelho corre?\". Incentive a criança a correr.",
+    "metadata": {
+      "titulo": "Como o Coelho Corre?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_148",
+    "conteudo": "Descrição: Use um copo com canudo. Pergunte \"Como bebe no canudo?\". Demonstre a ação.",
+    "metadata": {
+      "titulo": "Como Bebe no Canudo?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_149",
+    "conteudo": "Descrição: Pegue um lenço de papel. Pergunte \"Como limpamos o nariz?\". Demonstre a ação de assoar o nariz.",
+    "metadata": {
+      "titulo": "Como se Limpa o Nariz?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_150",
+    "conteudo": "Descrição: Dê um tapinha suave no bumbum. Pergunte \"Como fazemos o bumbum?\". Demonstre a ação.",
+    "metadata": {
+      "titulo": "Como Faz o Bumbum?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_151",
+    "conteudo": "Descrição: No final do dia, mostre fotos das atividades que a criança fez (ex: brincou no parquinho, almoçou). Pergunte \"O que você fez aqui?\" e ajude-a a narrar os eventos.",
+    "metadata": {
+      "titulo": "O Diário de Fotos",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_152",
+    "conteudo": "Descrição: Durante a roda, pergunte \"O que você comeu no café da manhã?\". Incentive a criança a responder.",
+    "metadata": {
+      "titulo": "A Roda da Conversa",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_153",
+    "conteudo": "Descrição: Diga \"Vamos desenhar o que fizemos hoje!\". Ajude a criança a desenhar e a narrar o que está no desenho.",
+    "metadata": {
+      "titulo": "O Desenho do Dia",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_154",
+    "conteudo": "Descrição: Use um livro com imagens de rotina diária (escovar os dentes, tomar banho). Aponte e diga \"Você fez isso hoje?\".",
+    "metadata": {
+      "titulo": "O Livro do 'Hoje'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_155",
+    "conteudo": "Descrição: Use brinquedos para recriar eventos do dia. \"O boneco foi para o carro! Você foi para o carro hoje?\".",
+    "metadata": {
+      "titulo": "A História com Brinquedos",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_156",
+    "conteudo": "Descrição: Cole imagens de atividades diárias em um caderno. No final do dia, aponte para cada imagem e pergunte \"O que aconteceu aqui?\".",
+    "metadata": {
+      "titulo": "O Álbum de Histórias",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_157",
+    "conteudo": "Descrição: Faça um quebra-cabeça com fotos das atividades do dia. Peça para a criança montar e narrar o quebra-cabeça.",
+    "metadata": {
+      "titulo": "O Quebra-Cabeça do Dia",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_158",
+    "conteudo": "Descrição: Use um pano grande para recriar as atividades do dia. \"Você estava aqui, no pano. O que você fez?\".",
+    "metadata": {
+      "titulo": "A História no Pano",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_159",
+    "conteudo": "Descrição: Use um telefone de brinquedo. Finja que está ligando para a criança e diga \"Alô! O que você fez hoje?\".",
+    "metadata": {
+      "titulo": "O Telefone Falante",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_160",
+    "conteudo": "Descrição: Inicie uma frase com \"Eu hoje fiz...\" e espere que a criança complete com uma atividade.",
+    "metadata": {
+      "titulo": "O Jogo do 'Eu'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_161",
+    "conteudo": "Descrição: Esconda um ursinho de pelúcia em um lugar que a criança esteve (ex: debaixo do escorregador). Pergunte \"Onde o urso estava hoje?\".",
+    "metadata": {
+      "titulo": "Onde Estava o Urso?",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_162",
+    "conteudo": "Descrição: Faça sombras na parede de atividades do dia (ex: alguém correndo). Pergunte \"Quem está correndo?\".",
+    "metadata": {
+      "titulo": "O Jogo de Sombra",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_163",
+    "conteudo": "Descrição: Use um fantoche que pergunta, com uma voz engraçada, \"O que você fez hoje?\".",
+    "metadata": {
+      "titulo": "O Fantoche Curioso",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_164",
+    "conteudo": "Descrição: Coloque carinhas de sentimentos em uma caixa. Tire a carinha feliz e pergunte \"O que te deixou feliz hoje?\".",
+    "metadata": {
+      "titulo": "A Caixa dos Sentimentos",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_165",
+    "conteudo": "Descrição: Cante uma canção sobre a rotina diária (ex: \"Acordei, escovei os dentes...\").",
+    "metadata": {
+      "titulo": "A Canção da Rotina",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_166",
+    "conteudo": "Descrição: Diga para a criança \"Conta para mim o que você fez hoje!\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Conta Pra Mim'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_167",
+    "conteudo": "Descrição: Pergunte \"Foi você que brincou no balanço hoje?\". A criança deve responder \"Sim\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Foi Você?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_168",
+    "conteudo": "Descrição: Coloque uma boneca para \"dormir\" e diga \"A boneca dormiu. O que ela fez hoje?\".",
+    "metadata": {
+      "titulo": "A Cama da Boneca",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_169",
+    "conteudo": "Descrição: Diga \"Hoje eu fui ao parque. E você?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Eu Fui...'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_170",
+    "conteudo": "Descrição: Use comidas de brinquedo. \"O que você comeu hoje?\".",
+    "metadata": {
+      "titulo": "A Comida de Brinquedo",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_171",
+    "conteudo": "Descrição: Coloque um objeto pequeno do dia (ex: uma folha do jardim) em uma caixa. Peça para a criança contar a história.",
+    "metadata": {
+      "titulo": "A Caixa de Tesouros",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_172",
+    "conteudo": "Descrição: Crie uma canção sobre as atividades do dia a dia.",
+    "metadata": {
+      "titulo": "A Canção do 'Dia'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_173",
+    "conteudo": "Descrição: Peça para a criança recriar uma atividade com o corpo (ex: pular, correr). Pergunte \"O que você está fazendo?\".",
+    "metadata": {
+      "titulo": "O Jogo de Recriar",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_174",
+    "conteudo": "Descrição: Pergunte \"Onde estava a mochila hoje?\". Incentive a criança a apontar.",
+    "metadata": {
+      "titulo": "O Jogo do 'Onde Estava?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_175",
+    "conteudo": "Descrição: Mostre a foto de um familiar e pergunte \"Quem estava com você hoje?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Quem?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_176",
+    "conteudo": "Descrição: Diga \"Eu vi você fazendo algo divertido hoje. O que era?\".",
+    "metadata": {
+      "titulo": "O Jogo de Adivinhação",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_177",
+    "conteudo": "Descrição: Tenha um livro de capa dura com o nome da criança. Cole fotos das atividades do dia.",
+    "metadata": {
+      "titulo": "O Livro do 'Eu'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_178",
+    "conteudo": "Descrição: Use cartões com figuras de rotina. Peça para a criança colocá-los na ordem certa.",
+    "metadata": {
+      "titulo": "A Linha do Tempo",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_179",
+    "conteudo": "Descrição: Balance a criança no colo. \"Você foi e voltou de onde?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Vai e Volta'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_180",
+    "conteudo": "Descrição: Use a voz de um carro de brinquedo. \"Bzzzz, bzzzz... Onde você foi hoje?\".",
+    "metadata": {
+      "titulo": "A 'Voz' do Carro",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_181",
+    "conteudo": "Descrição: Pergunte \"O que vimos no caminho para a escola?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'O Que Vimos?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_182",
+    "conteudo": "Descrição: Diga \"Eu lavei as mãos. E você?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Eu Lavei...'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_183",
+    "conteudo": "Descrição: Finja dar comida a um boneco. \"O que a boneca comeu hoje?\".",
+    "metadata": {
+      "titulo": "A Brincadeira da Comida",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_184",
+    "conteudo": "Descrição: Fale sobre algo que aconteceu ontem. \"Ontem comemos pizza. E hoje?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Ontem' e 'Hoje'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_185",
+    "conteudo": "Descrição: Use uma caixa de areia para desenhar os eventos do dia.",
+    "metadata": {
+      "titulo": "A História na Areia",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_186",
+    "conteudo": "Descrição: Quando a criança contar algo, diga \"E então?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'E Então?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_187",
+    "conteudo": "Descrição: Deixe a criança desenhar algo que aconteceu e pergunte \"O que você desenhou?\".",
+    "metadata": {
+      "titulo": "O Livro de Desenho",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_188",
+    "conteudo": "Descrição: Sopre bolinhas de sabão. \"O que te fez feliz hoje?\".",
+    "metadata": {
+      "titulo": "O Jogo de Sopro",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_189",
+    "conteudo": "Descrição: Sente a criança no colo. \"Vamos sentir o que aconteceu hoje?\".",
+    "metadata": {
+      "titulo": "A Brincadeira de 'Sente'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_190",
+    "conteudo": "Descrição: Puxe uma corda. \"O que você fez hoje que precisou de força?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Puxa'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_191",
+    "conteudo": "Descrição: Finja escrever algo no ar com o dedo. \"Vamos escrever o que aconteceu hoje?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Escreve'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_192",
+    "conteudo": "Descrição: \"Eu vi você brincando com a massinha. Você gostou?\".",
+    "metadata": {
+      "titulo": "O Jogo de 'Eu Vi'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_193",
+    "conteudo": "Descrição: \"Você lembra o que comemos no lanche?\".",
+    "metadata": {
+      "titulo": "O Jogo de 'Você Lembra?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_194",
+    "conteudo": "Descrição: \"Me conta uma coisa legal que aconteceu hoje!\".",
+    "metadata": {
+      "titulo": "O Jogo de 'Me Conta'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_195",
+    "conteudo": "Descrição: \"Por que você está feliz?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Por Que?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_196",
+    "conteudo": "Descrição: Pergunte \"Para onde a bola foi?\".",
+    "metadata": {
+      "titulo": "A Brincadeira de 'Para Onde Foi?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_197",
+    "conteudo": "Descrição: \"Quem estava no parquinho hoje?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Quem Estava?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_198",
+    "conteudo": "Descrição: \"O que você fez com o carrinho?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'O Que Você Fez?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_199",
+    "conteudo": "Descrição: \"O que aconteceu com o balão?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'O Que Aconteceu?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_200",
+    "conteudo": "Descrição: Diga \"Eu sei o que você fez!\". E espere a criança contar.",
+    "metadata": {
+      "titulo": "O Jogo de 'Eu Sei'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_201",
+    "conteudo": "Descrição: Na hora da refeição, pegue uma colher e pergunte \"Para que serve a colher?\". Modele a resposta: \"para comer!\".",
+    "metadata": {
+      "titulo": "Para que serve a colher?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_202",
+    "conteudo": "Descrição: Segure um sapato da criança e pergunte \"Para que serve o sapato?\". Modele a resposta: \"para por no pé!\".",
+    "metadata": {
+      "titulo": "Para que serve o sapato?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_203",
+    "conteudo": "Descrição: Pegue uma bola e pergunte \"Para que serve a bola?\". Modele a resposta: \"para jogar!\".",
+    "metadata": {
+      "titulo": "Para que serve a bola?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_204",
+    "conteudo": "Descrição: Pegue um pente e pergunte \"Para que serve o pente?\". Modele a resposta: \"para pentear o cabelo!\".",
+    "metadata": {
+      "titulo": "Para que serve o pente?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_205",
+    "conteudo": "Descrição: Pegue um carrinho de brinquedo e pergunte \"Para que serve o carro?\". Modele a resposta: \"para andar!\".",
+    "metadata": {
+      "titulo": "Para que serve o carro?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_206",
+    "conteudo": "Descrição: Pegue um copo e pergunte \"Para que serve o copo?\". Modele a resposta: \"para beber!\".",
+    "metadata": {
+      "titulo": "Para que serve o copo?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_207",
+    "conteudo": "Descrição: Pegue uma escova de dentes e pergunte \"Para que serve a escova?\". Modele a resposta: \"para escovar os dentes!\".",
+    "metadata": {
+      "titulo": "Para que serve a escova?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_208",
+    "conteudo": "Descrição: Na hora do banho, pegue o sabão e pergunte \"Para que serve o sabão?\". Modele a resposta: \"para lavar!\".",
+    "metadata": {
+      "titulo": "Para que serve o sabão?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_209",
+    "conteudo": "Descrição: Pegue a toalha de banho e pergunte \"Para que serve a toalha?\". Modele a resposta: \"para se secar!\".",
+    "metadata": {
+      "titulo": "Para que serve a toalha?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_210",
+    "conteudo": "Descrição: Aponte para o travesseiro e pergunte \"Para que serve o travesseiro?\". Modele a resposta: \"para dormir!\".",
+    "metadata": {
+      "titulo": "Para que serve o travesseiro?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_211",
+    "conteudo": "Descrição: Pegue uma vassoura de brinquedo e pergunte \"Para que serve a vassoura?\". Modele a resposta: \"para varrer!\".",
+    "metadata": {
+      "titulo": "Para que serve a vassoura?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_212",
+    "conteudo": "Descrição: Pegue um telefone de brinquedo e pergunte \"Para que serve o telefone?\". Modele a resposta: \"para falar!\".",
+    "metadata": {
+      "titulo": "Para que serve o telefone?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_213",
+    "conteudo": "Descrição: Aponte para a porta e pergunte \"Para que serve a porta?\". Modele a resposta: \"para sair!\".",
+    "metadata": {
+      "titulo": "Para que serve a porta?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_214",
+    "conteudo": "Descrição: Aponte para a janela e pergunte \"Para que serve a janela?\". Modele a resposta: \"para olhar!\".",
+    "metadata": {
+      "titulo": "Para que serve a janela?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_215",
+    "conteudo": "Descrição: Pegue um livro e pergunte \"Para que serve o livro?\". Modele a resposta: \"para ler!\".",
+    "metadata": {
+      "titulo": "Para que serve o livro?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_216",
+    "conteudo": "Descrição: Pegue uma caneta ou lápis e pergunte \"Para que serve a caneta?\". Modele a resposta: \"para desenhar!\".",
+    "metadata": {
+      "titulo": "Para que serve a caneta?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_217",
+    "conteudo": "Descrição: Pegue uma tesoura de segurança infantil e pergunte \"Para que serve a tesoura?\". Modele a resposta: \"para cortar!\".",
+    "metadata": {
+      "titulo": "Para que serve a tesoura?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_218",
+    "conteudo": "Descrição: Pegue uma bacia de brinquedo e pergunte \"Para que serve a bacia?\". Modele a resposta: \"para por água!\".",
+    "metadata": {
+      "titulo": "Para que serve a bacia?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_219",
+    "conteudo": "Descrição: Pegue uma mamadeira de brinquedo e pergunte \"Para que serve a mamadeira?\". Modele a resposta: \"para beber!\".",
+    "metadata": {
+      "titulo": "Para que serve a mamadeira?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_220",
+    "conteudo": "Descrição: Aponte para uma cadeira e pergunte \"Para que serve a cadeira?\". Modele a resposta: \"para sentar!\".",
+    "metadata": {
+      "titulo": "Para que serve a cadeira?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_221",
+    "conteudo": "Descrição: Aponte para a mesa e pergunte \"Para que serve a mesa?\". Modele a resposta: \"para comer!\".",
+    "metadata": {
+      "titulo": "Para que serve a mesa?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_222",
+    "conteudo": "Descrição: Pegue um cobertor e pergunte \"Para que serve o cobertor?\". Modele a resposta: \"para se cobrir!\".",
+    "metadata": {
+      "titulo": "Para que serve o cobertor?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_223",
+    "conteudo": "Descrição: Acenda e apague a luz e pergunte \"Para que serve a luz?\". Modele a resposta: \"para enxergar!\".",
+    "metadata": {
+      "titulo": "Para que serve a luz?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_224",
+    "conteudo": "Descrição: Pegue um balão e pergunte \"Para que serve o balão?\". Modele a resposta: \"para brincar!\".",
+    "metadata": {
+      "titulo": "Para que serve o balão?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_225",
+    "conteudo": "Descrição: Pegue uma colher de brinquedo e pergunte \"Para que serve esta colher?\". Modele a resposta: \"para tomar chá!\".",
+    "metadata": {
+      "titulo": "Para que serve a colher de chá?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_226",
+    "conteudo": "Descrição: Pegue uma panela de brinquedo e pergunte \"Para que serve a panela?\". Modele a resposta: \"para cozinhar!\".",
+    "metadata": {
+      "titulo": "Para que serve a panela?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_227",
+    "conteudo": "Descrição: Aponte para o chuveiro e pergunte \"Para que serve o chuveiro?\". Modele a resposta: \"para tomar banho!\".",
+    "metadata": {
+      "titulo": "Para que serve o chuveiro?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_228",
+    "conteudo": "Descrição: Coloque um chapéu na cabeça e pergunte \"Para que serve o chapéu?\". Modele a resposta: \"para usar na cabeça!\".",
+    "metadata": {
+      "titulo": "Para que serve o chapéu?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_229",
+    "conteudo": "Descrição: Coloque uma luva de brinquedo na mão e pergunte \"Para que serve a luva?\". Modele a resposta: \"para usar na mão!\".",
+    "metadata": {
+      "titulo": "Para que serve a luva?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_230",
+    "conteudo": "Descrição: Aponte para um relógio na parede e pergunte \"Para que serve o relógio?\". Modele a resposta: \"para ver as horas!\".",
+    "metadata": {
+      "titulo": "Para que serve o relógio?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_231",
+    "conteudo": "Descrição: Pegue a mochila da criança e pergunte \"Para que serve a mochila?\". Modele a resposta: \"para levar as coisas!\".",
+    "metadata": {
+      "titulo": "Para que serve a mochila?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_232",
+    "conteudo": "Descrição: Pegue uma colher de sopa de brinquedo e pergunte \"Para que serve a colher?\". Modele a resposta: \"para comer sopa!\".",
+    "metadata": {
+      "titulo": "Para que serve a colher de sopa?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_233",
+    "conteudo": "Descrição: Pegue o sabonete e pergunte \"Para que serve o sabonete?\". Modele a resposta: \"para se lavar!\".",
+    "metadata": {
+      "titulo": "Para que serve o sabonete?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_234",
+    "conteudo": "Descrição: Pegue uma escova de cabelo e pergunte \"Para que serve a escova?\". Modele a resposta: \"para escovar o cabelo!\".",
+    "metadata": {
+      "titulo": "Para que serve a escova de cabelo?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_235",
+    "conteudo": "Descrição: Aponte para o balanço no parquinho e pergunte \"Para que serve o balanço?\". Modele a resposta: \"para balançar!\".",
+    "metadata": {
+      "titulo": "Para que serve o balanço?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_236",
+    "conteudo": "Descrição: Aponte para o escorregador e pergunte \"Para que serve o escorregador?\". Modele a resposta: \"para escorregar!\".",
+    "metadata": {
+      "titulo": "Para que serve o escorregador?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_237",
+    "conteudo": "Descrição: Pegue um balde e pergunte \"Para que serve o balde de areia?\". Modele a resposta: \"para por areia!\".",
+    "metadata": {
+      "titulo": "Para que serve o balde de areia?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_238",
+    "conteudo": "Descrição: Pegue um esguicho de brinquedo e pergunte \"Para que serve o esguicho?\". Modele a resposta: \"para esguichar água!\".",
+    "metadata": {
+      "titulo": "Para que serve o esguicho?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_239",
+    "conteudo": "Descrição: Pegue uma tesoura de segurança e um pedaço de papel. Pergunte \"Para que serve a tesoura?\". Modele a resposta: \"para cortar o papel!\".",
+    "metadata": {
+      "titulo": "Para que serve a tesoura de papel?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_240",
+    "conteudo": "Descrição: Pegue uma panela de pressão de brinquedo e pergunte \"Para que serve esta panela?\". Modele a resposta: \"para cozinhar!\".",
+    "metadata": {
+      "titulo": "Para que serve a panela de pressão?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_241",
+    "conteudo": "Descrição: Pegue uma colher de pau de brinquedo e pergunte \"Para que serve a colher de pau?\". Modele a resposta: \"para mexer a comidinha!\".",
+    "metadata": {
+      "titulo": "Para que serve a colher de pau?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_242",
+    "conteudo": "Descrição: Pegue um telefone de brinquedo e pergunte \"Para que serve o telefone?\". Modele a resposta: \"para falar 'alô'!\".",
+    "metadata": {
+      "titulo": "Para que serve o telefone de brinquedo?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_243",
+    "conteudo": "Descrição: Aponte para o balde de brinquedos e pergunte \"Para que serve o balde?\". Modele a resposta: \"para guardar os brinquedos!\".",
+    "metadata": {
+      "titulo": "Para que serve o balde de brinquedos?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_244",
+    "conteudo": "Descrição: Pegue um prendedor de roupa de brinquedo e pergunte \"Para que serve o prendedor?\". Modele a resposta: \"para prender a roupa!\".",
+    "metadata": {
+      "titulo": "Para que serve o prendedor?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_245",
+    "conteudo": "Descrição: Pegue uma panela e pergunte \"Para que serve a panela?\". Modele a resposta: \"para fazer comida!\".",
+    "metadata": {
+      "titulo": "Para que serve a panela de cozinhar?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_246",
+    "conteudo": "Descrição: Pegue uma caneca de brinquedo e pergunte \"Para que serve a caneca?\". Modele a resposta: \"para tomar chá!\".",
+    "metadata": {
+      "titulo": "Para que serve a caneca de chá?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_247",
+    "conteudo": "Descrição: Pegue a colher da criança e pergunte \"Para que serve a sua colher?\". Modele a resposta: \"para comer!\".",
+    "metadata": {
+      "titulo": "Para que serve a colher para comer?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_248",
+    "conteudo": "Descrição: Pegue um garfo de brinquedo e pergunte \"Para que serve o garfo?\". Modele a resposta: \"para espetar!\".",
+    "metadata": {
+      "titulo": "Para que serve o garfo de brinquedo?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_249",
+    "conteudo": "Descrição: Pegue a vassoura de brinquedo e pergunte \"Para que serve a vassoura?\". Modele a resposta: \"para brincar!\".",
+    "metadata": {
+      "titulo": "Para que serve a vassoura de brinquedo?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_250",
+    "conteudo": "Descrição: Pegue um pano limpo e pergunte \"Para que serve o pano?\". Modele a resposta: \"para limpar a sujeira!\".",
+    "metadata": {
+      "titulo": "Para que serve o pano para limpar?",
+      "dimensao": "Linguagem",
+      "habilidade": "Explica para que servem objetos comuns.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_251",
+    "conteudo": "Descrição: Pegue um carrinho e diga \"o carro\". Pegue uma bola e diga \"a bola\". Incentive a criança a escolher e nomear.",
+    "metadata": {
+      "titulo": "O Carro e a Bola",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_252",
+    "conteudo": "Descrição: Mostre fotos ou aponte para os pais da criança. Diga \"o papai\" e \"a mamãe\". Incentive a criança a nomear.",
+    "metadata": {
+      "titulo": "O Papai e a Mamãe",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_253",
+    "conteudo": "Descrição: Use brinquedos de animais. Pegue o pato e diga \"o pato\". Pegue a vaca e diga \"a vaca\".",
+    "metadata": {
+      "titulo": "O Pato e a Vaca",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_254",
+    "conteudo": "Descrição: Na hora de se vestir, pegue um sapato e diga \"o sapato\". Pegue uma meia e diga \"a meia\".",
+    "metadata": {
+      "titulo": "O Sapato e a Meia",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_255",
+    "conteudo": "Descrição: Na hora da refeição, pegue uma colher e diga \"a colher\". Pegue o prato e diga \"o prato\".",
+    "metadata": {
+      "titulo": "A Colher e o Prato",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_256",
+    "conteudo": "Descrição: Mostre figuras do sol e da lua. Aponte para o sol e diga \"o sol\". Aponte para a lua e diga \"a lua\".",
+    "metadata": {
+      "titulo": "O Sol e a Lua",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_257",
+    "conteudo": "Descrição: Pegue um livro, diga \"o livro\". Pegue uma caneta ou lápis e diga \"a caneta\".",
+    "metadata": {
+      "titulo": "O Livro e a Caneta",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_258",
+    "conteudo": "Descrição: Aponte para uma cadeira, diga \"a cadeira\". Aponte para um banquinho pequeno e diga \"o banquinho\".",
+    "metadata": {
+      "titulo": "A Cadeira e o Banquinho",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_259",
+    "conteudo": "Descrição: Pegue um copo, diga \"o copo\". Pegue uma garrafa, diga \"a garrafa\".",
+    "metadata": {
+      "titulo": "O Copo e a Garrafa",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_260",
+    "conteudo": "Descrição: Pegue uma vassoura de brinquedo e diga \"a vassoura\". Pegue um rodo de brinquedo e diga \"o rodo\".",
+    "metadata": {
+      "titulo": "A Vassoura e o Rodo",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_261",
+    "conteudo": "Descrição: Use brinquedos de um gato macho e fêmea. Diga \"o gato\" e \"a gata\".",
+    "metadata": {
+      "titulo": "O Gato e a Gata",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_262",
+    "conteudo": "Descrição: Use brinquedos de um cachorro macho e fêmea. Diga \"o cachorro\" e \"a cachorra\".",
+    "metadata": {
+      "titulo": "O Cachorro e a Cachorra",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_263",
+    "conteudo": "Descrição: Pegue um balão e diga \"o balão\". Pegue uma bola e diga \"a bola\".",
+    "metadata": {
+      "titulo": "O Balão e a Bola",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_264",
+    "conteudo": "Descrição: Pegue um pente e diga \"o pente\". Pegue uma escova de cabelo e diga \"a escova\".",
+    "metadata": {
+      "titulo": "O Pente e a Escova",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_265",
+    "conteudo": "Descrição: Aponte para a cama, diga \"a cama\". Aponte para o travesseiro, diga \"o travesseiro\".",
+    "metadata": {
+      "titulo": "A Cama e o Travesseiro",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_266",
+    "conteudo": "Descrição: Pegue um jogo, diga \"o jogo\". Pegue uma peça do jogo e diga \"a peça\".",
+    "metadata": {
+      "titulo": "O Jogo e a Peça",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_267",
+    "conteudo": "Descrição: Use um biscoito de brinquedo, diga \"o biscoito\". Use um biscoito de outra forma (bolacha) e diga \"a bolacha\".",
+    "metadata": {
+      "titulo": "O Biscoito e a Bolacha",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_268",
+    "conteudo": "Descrição: Pegue uma boneca, diga \"a boneca\". Pegue um ursinho, diga \"o ursinho\".",
+    "metadata": {
+      "titulo": "A Boneca e o Ursinho",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_269",
+    "conteudo": "Descrição: Pegue um chapéu de brinquedo, diga \"o chapéu\". Pegue uma luva de brinquedo, diga \"a luva\".",
+    "metadata": {
+      "titulo": "O Chapéu e a Luva",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_270",
+    "conteudo": "Descrição: Aponte para a luz, diga \"a luz\". Aponte para o abajur, diga \"o abajur\".",
+    "metadata": {
+      "titulo": "A Luz e o Abajur",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_271",
+    "conteudo": "Descrição: Pegue um lápis, diga \"o lápis\". Pegue uma borracha, diga \"a borracha\".",
+    "metadata": {
+      "titulo": "O Lápis e a Borracha",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_272",
+    "conteudo": "Descrição: Pegue um saco de brinquedos, diga \"o saco\". Pegue uma mochila de brinquedos, diga \"a mochila\".",
+    "metadata": {
+      "titulo": "O Saco e a Mochila",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_273",
+    "conteudo": "Descrição: Pegue um pão de brinquedo, diga \"o pão\". Pegue uma maçã de brinquedo e diga \"a maçã\".",
+    "metadata": {
+      "titulo": "O Pão e a Maçã",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_274",
+    "conteudo": "Descrição: Aponte para uma flor, diga \"a flor\". Aponte para o vaso, diga \"o vaso\".",
+    "metadata": {
+      "titulo": "A Flor e o Vaso",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_275",
+    "conteudo": "Descrição: Pegue um gato de brinquedo, diga \"o gato\". Pegue uma ovelha de brinquedo e diga \"a ovelha\".",
+    "metadata": {
+      "titulo": "O Gato e a Ovelha",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_276",
+    "conteudo": "Descrição: Aponte para um pássaro de brinquedo, diga \"o pássaro\". Aponte para uma árvore de brinquedo e diga \"a árvore\".",
+    "metadata": {
+      "titulo": "O Pássaro e a Árvore",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_277",
+    "conteudo": "Descrição: Aponte para a janela, diga \"a janela\". Aponte para o vidro da janela e diga \"o vidro\".",
+    "metadata": {
+      "titulo": "A Janela e o Vidro",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_278",
+    "conteudo": "Descrição: Aponte para um relógio, diga \"o relógio\". Aponte para uma pilha de brinquedo e diga \"a pilha\".",
+    "metadata": {
+      "titulo": "O Relógio e a Pilha",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_279",
+    "conteudo": "Descrição: Pegue um palito de picolé, diga \"o palito\". Pegue uma colher e diga \"a colher\".",
+    "metadata": {
+      "titulo": "O Palito e a Colher",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_280",
+    "conteudo": "Descrição: Toque no dedo, diga \"o dedo\". Toque na unha, diga \"a unha\".",
+    "metadata": {
+      "titulo": "O Dedo e a Unha",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_281",
+    "conteudo": "Descrição: Pegue um peixe de brinquedo, diga \"o peixe\". Aponte para a água na bacia e diga \"a água\".",
+    "metadata": {
+      "titulo": "O Peixe e a Água",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_282",
+    "conteudo": "Descrição: Use figuras de um leão e uma leoa. Diga \"o leão\" e \"a leoa\".",
+    "metadata": {
+      "titulo": "O Leão e a Leoa",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_283",
+    "conteudo": "Descrição: Aponte para a figura de um sapo, diga \"o sapo\". Aponte para a lagoa e diga \"a lagoa\".",
+    "metadata": {
+      "titulo": "O Sapo e a Lagoa",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_284",
+    "conteudo": "Descrição: Pegue um lixo de brinquedo, diga \"o lixo\". Aponte para a lixeira e diga \"a lixeira\".",
+    "metadata": {
+      "titulo": "O Lixo e a Lixeira",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_285",
+    "conteudo": "Descrição: Pegue um caminhão de brinquedo, diga \"o caminhão\". Aponte para a roda e diga \"a roda\".",
+    "metadata": {
+      "titulo": "O Caminhão e a Roda",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_286",
+    "conteudo": "Descrição: Pegue um tênis de brinquedo, diga \"o tênis\". Pegue uma calça de boneca e diga \"a calça\".",
+    "metadata": {
+      "titulo": "O Tênis e a Calça",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_287",
+    "conteudo": "Descrição: Aponte para o braço, diga \"o braço\". Aponte para a mão e diga \"a mão\".",
+    "metadata": {
+      "titulo": "O Braço e a Mão",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_288",
+    "conteudo": "Descrição: Toque no joelho, diga \"o joelho\". Toque na perna e diga \"a perna\".",
+    "metadata": {
+      "titulo": "O Joelho e a Perna",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_289",
+    "conteudo": "Descrição: Pegue um pote, diga \"o pote\". Pegue a tampa e diga \"a tampa\".",
+    "metadata": {
+      "titulo": "O Pote e a Tampa",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_290",
+    "conteudo": "Descrição: Use pão de brinquedo e uma torrada de brinquedo. Diga \"o pão\" e \"a torrada\".",
+    "metadata": {
+      "titulo": "O Pão e a Torrada",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_291",
+    "conteudo": "Descrição: Mostre figuras de um menino e uma menina. Diga \"o menino\" e \"a menina\".",
+    "metadata": {
+      "titulo": "O Menino e a Menina",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_292",
+    "conteudo": "Descrição: Pegue um chapéu de boneca, diga \"o chapéu\". Pegue uma camiseta de boneca e diga \"a camiseta\".",
+    "metadata": {
+      "titulo": "O Chapéu e a Camiseta",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_293",
+    "conteudo": "Descrição: Toque no nariz da criança, diga \"o nariz\". Toque na boca e diga \"a boca\".",
+    "metadata": {
+      "titulo": "O Nariz e a Boca",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_294",
+    "conteudo": "Descrição: Pegue um papel, diga \"o papel\". Pegue uma tesoura de brinquedo e diga \"a tesoura\".",
+    "metadata": {
+      "titulo": "O Papel e a Tesoura",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_295",
+    "conteudo": "Descrição: Pegue um cinto de brinquedo, diga \"o cinto\". Aponte para a fivela e diga \"a fivela\".",
+    "metadata": {
+      "titulo": "O Cinto e a Fivela",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_296",
+    "conteudo": "Descrição: Use pão de brinquedo, diga \"o pão\". Use uma manteiga de brinquedo e diga \"a manteiga\".",
+    "metadata": {
+      "titulo": "O Pão e a Manteiga",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_297",
+    "conteudo": "Descrição: Pegue um copinho de brinquedo, diga \"o copinho\". Pegue uma colherzinha de brinquedo e diga \"a colherzinha\".",
+    "metadata": {
+      "titulo": "O Copinho e a Colherzinha",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_298",
+    "conteudo": "Descrição: Pegue um bolo de brinquedo, diga \"o bolo\". Pegue uma vela de brinquedo e diga \"a vela\".",
+    "metadata": {
+      "titulo": "O Bolo e a Vela",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_299",
+    "conteudo": "Descrição: Pegue um brinquedo, diga \"o brinquedo\". Pegue a caixinha do brinquedo e diga \"a caixinha\".",
+    "metadata": {
+      "titulo": "O Brinquedo e a Caixinha",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_300",
+    "conteudo": "Descrição: Aponte para o banho, diga \"o banho\". Aponte para a banheira e diga \"a banheira\".",
+    "metadata": {
+      "titulo": "O Banho e a Banheira",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_301",
+    "conteudo": "Descrição: Na hora de se vestir, pegue um sapato, diga \"Primeiro o sapato...\". Depois, pegue um tênis e diga \"...depois o tênis!\".",
+    "metadata": {
+      "titulo": "Primeiro o Sapato, Depois o Tênis",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_302",
+    "conteudo": "Descrição: Ao arrumar a cama de boneca, diga \"Primeiro arrumamos a cama...\". Depois, pegue o urso e diga \"...depois colocamos o ursinho!\".",
+    "metadata": {
+      "titulo": "Primeiro a Cama, Depois o Urso",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_303",
+    "conteudo": "Descrição: Na hora da refeição, pegue a água e diga \"Primeiro a água...\". Depois, pegue a sopa e diga \"...depois a sopa!\".",
+    "metadata": {
+      "titulo": "Primeiro a Água, Depois a Sopa",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_304",
+    "conteudo": "Descrição: Pegue um lápis de cor e diga \"Primeiro pintamos...\". Depois, pegue um papel e diga \"...depois desenhamos!\".",
+    "metadata": {
+      "titulo": "Primeiro a Cor, Depois o Desenho",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_305",
+    "conteudo": "Descrição: Pegue um carrinho de brinquedo e diga \"Primeiro o carro anda...\". Depois, aponte para a garagem de brinquedo e diga \"...depois vai para a garagem!\".",
+    "metadata": {
+      "titulo": "Primeiro o Carro, Depois a Garagem",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_306",
+    "conteudo": "Descrição: Na hora do banho, pegue o sabão e diga \"Primeiro o sabão...\". Depois, pegue a toalha e diga \"...depois a toalha!\".",
+    "metadata": {
+      "titulo": "Primeiro o Sabão, Depois a Toalha",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_307",
+    "conteudo": "Descrição: Pegue a massinha de modelar e diga \"Primeiro brincamos com a massinha...\". Depois, aponte para o pote e diga \"...depois guardamos no pote!\".",
+    "metadata": {
+      "titulo": "Primeiro a Massinha, Depois o Pote",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_308",
+    "conteudo": "Descrição: Mostre figuras do sol e da lua. Diga \"Primeiro o sol...\". Depois, aponte para a lua e diga \"...depois a lua!\".",
+    "metadata": {
+      "titulo": "Primeiro o Sol, Depois a Lua",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_309",
+    "conteudo": "Descrição: Use pão e manteiga de brinquedo. Diga \"Primeiro pegamos o pão...\". Depois, pegue a manteiga e diga \"...depois a manteiga!\".",
+    "metadata": {
+      "titulo": "Primeiro o Pão, Depois a Manteiga",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_310",
+    "conteudo": "Descrição: No parquinho, use a pá para pegar areia. Diga \"Primeiro pegamos a areia...\". Depois, coloque a areia no balde e diga \"...depois colocamos no balde!\".",
+    "metadata": {
+      "titulo": "Primeiro a Areia, Depois o Balde",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_311",
+    "conteudo": "Descrição: Aponte para o dente e diga \"Primeiro o dente...\". Depois, pegue a escova de dentes e diga \"...depois a escova!\".",
+    "metadata": {
+      "titulo": "Primeiro o Dente, Depois a Escova",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_312",
+    "conteudo": "Descrição: Aponte para a porta. Diga \"Primeiro fechamos a porta...\". Depois, aponte para a chave e diga \"...depois colocamos a chave!\".",
+    "metadata": {
+      "titulo": "Primeiro a Porta, Depois a Chave",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_313",
+    "conteudo": "Descrição: Pegue um livro e diga \"Primeiro o livro...\". Depois, comece a ler e diga \"...depois a história!\".",
+    "metadata": {
+      "titulo": "Primeiro o Livro, Depois a História",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_314",
+    "conteudo": "Descrição: Pegue um jogo e diga \"Primeiro o jogo...\". Depois, pegue as peças e diga \"...depois as peças!\".",
+    "metadata": {
+      "titulo": "Primeiro o Jogo, Depois as Peças",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_315",
+    "conteudo": "Descrição: Pegue um ursinho de pelúcia e diga \"Primeiro o ursinho...\". Depois, abrace-o e diga \"...depois o abraço!\".",
+    "metadata": {
+      "titulo": "Primeiro o Ursinho, Depois o Abraço",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_316",
+    "conteudo": "Descrição: Pegue um pente e diga \"Primeiro o pente...\". Depois, aponte para o cabelo e diga \"...depois o cabelo!\".",
+    "metadata": {
+      "titulo": "Primeiro o Pente, Depois o Cabelo",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_317",
+    "conteudo": "Descrição: Pule para cima e diga \"Primeiro pulamos...\". Depois, caia no chão e diga \"...depois caímos!\".",
+    "metadata": {
+      "titulo": "Primeiro o Pulo, Depois a Queda",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_318",
+    "conteudo": "Descrição: Pegue um papel amassado e diga \"Primeiro o lixo...\". Depois, coloque na lixeira e diga \"...depois a lixeira!\".",
+    "metadata": {
+      "titulo": "Primeiro o Lixo, Depois a Lixeira",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_319",
+    "conteudo": "Descrição: Pegue um boneco e diga \"Primeiro o boneco...\". Depois, pegue a roupa e diga \"...depois a roupa!\".",
+    "metadata": {
+      "titulo": "Primeiro o Boneco, Depois a Roupa",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_320",
+    "conteudo": "Descrição: Pegue um copo com água e diga \"Primeiro a água...\". Depois, coloque-a na bacia e diga \"...depois a bacia!\".",
+    "metadata": {
+      "titulo": "Primeiro a Água, Depois a Bacia",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_321",
+    "conteudo": "Descrição: Aponte para o travesseiro e diga \"Primeiro o travesseiro...\". Depois, finja dormir e diga \"...depois o sono!\".",
+    "metadata": {
+      "titulo": "Primeiro o Travesseiro, Depois o Sono",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_322",
+    "conteudo": "Descrição: Pegue um carrinho e diga \"Primeiro o carrinho...\". Depois, aponte para a pista e diga \"...depois a pista!\".",
+    "metadata": {
+      "titulo": "Primeiro o Carrinho, Depois a Pista",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_323",
+    "conteudo": "Descrição: No parquinho, balancem-se. Diga \"Primeiro o balanço...\". Depois, parem e diga \"...depois o ponto!\".",
+    "metadata": {
+      "titulo": "Primeiro o Balanço, Depois o Ponto",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_324",
+    "conteudo": "Descrição: Pegue uma roda de brinquedo e diga \"Primeiro a roda...\". Depois, pegue o carro e diga \"...depois o carro!\".",
+    "metadata": {
+      "titulo": "Primeiro a Roda, Depois o Carro",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_325",
+    "conteudo": "Descrição: Pegue uma vela de brinquedo e diga \"Primeiro a vela...\". Depois, coloque-a no bolo de brinquedo e diga \"...depois o bolo!\".",
+    "metadata": {
+      "titulo": "Primeiro a Vela, Depois o Bolo",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_326",
+    "conteudo": "Descrição: Aponte para a figura de um sapo. Diga \"Primeiro o sapo...\". Depois, pule como um sapo e diga \"...depois o pulo!\".",
+    "metadata": {
+      "titulo": "Primeiro o Sapo, Depois o Pulo",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_327",
+    "conteudo": "Descrição: Joguem uma bola de brinquedo. Diga \"Primeiro a bola...\". Depois, coloque a bola no gol de brinquedo e diga \"...depois o gol!\".",
+    "metadata": {
+      "titulo": "Primeiro a Bola, Depois o Gol",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_328",
+    "conteudo": "Descrição: Pegue a massinha e diga \"Primeiro a massinha...\". Depois, use um cortador de massinha e diga \"...depois a forma!\".",
+    "metadata": {
+      "titulo": "Primeiro a Massinha, Depois a Forma",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_329",
+    "conteudo": "Descrição: Aponte para a cama. Diga \"Primeiro a cama...\". Depois, pegue um pijama de boneca e diga \"...depois o pijama!\".",
+    "metadata": {
+      "titulo": "Primeiro a Cama, Depois o Pijama",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_330",
+    "conteudo": "Descrição: Pegue a toalha e diga \"Primeiro a toalha...\". Depois, seque a mão e diga \"...depois a mão!\".",
+    "metadata": {
+      "titulo": "Primeiro a Toalha, Depois a Mão",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_331",
+    "conteudo": "Descrição: Pegue um lápis de cor e diga \"Primeiro o lápis...\". Depois, comece a desenhar e diga \"...depois o desenho!\".",
+    "metadata": {
+      "titulo": "Primeiro o Lápis, Depois o Desenho",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_332",
+    "conteudo": "Descrição: Pegue um chocalho. Diga \"Primeiro o chocalho...\". Depois, balance-o e diga \"...depois o som!\".",
+    "metadata": {
+      "titulo": "Primeiro o Chocalho, Depois o Som",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_333",
+    "conteudo": "Descrição: Pegue um pano. Diga \"Primeiro o pano...\". Depois, limpe uma sujeira de brinquedo e diga \"...depois a limpeza!\".",
+    "metadata": {
+      "titulo": "Primeiro o Pano, Depois a Limpeza",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_334",
+    "conteudo": "Descrição: Pegue um pote de brinquedo. Diga \"Primeiro o pote...\". Depois, pegue uma colher de brinquedo e diga \"...depois a colher!\".",
+    "metadata": {
+      "titulo": "Primeiro o Pote, Depois a Colher",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_335",
+    "conteudo": "Descrição: Use a vassoura de brinquedo. Diga \"Primeiro a vassoura...\". Depois, varra o lixo de brinquedo e diga \"...depois o lixo!\".",
+    "metadata": {
+      "titulo": "Primeiro a Vassoura, Depois o Lixo",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_336",
+    "conteudo": "Descrição: Na hora da refeição, sirva a sopa. Diga \"Primeiro a sopa...\". Depois, sirva o pão e diga \"...depois o pão!\".",
+    "metadata": {
+      "titulo": "Primeiro a Sopa, Depois o Pão",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_337",
+    "conteudo": "Descrição: Use dois jogos diferentes. \"Primeiro jogamos com este jogo...\". Depois, troque de jogo e diga \"...depois com aquele jogo!\".",
+    "metadata": {
+      "titulo": "Primeiro o Jogo, Depois o Jogo",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_338",
+    "conteudo": "Descrição: Finja chorar. \"Primeiro o choro...\". Depois, abrace a criança e diga \"...depois o abraço!\".",
+    "metadata": {
+      "titulo": "Primeiro o Choro, Depois o Abraço",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_339",
+    "conteudo": "Descrição: Ligue uma música e diga \"Primeiro a música...\". Depois, dance com a criança e diga \"...depois a dança!\".",
+    "metadata": {
+      "titulo": "Primeiro a Música, Depois a Dança",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_340",
+    "conteudo": "Descrição: Penteie o cabelo de uma boneca. Diga \"Primeiro o cabelo...\". Depois, coloque um laço e diga \"...depois o laço!\".",
+    "metadata": {
+      "titulo": "Primeiro o Cabelo, Depois o Laço",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_341",
+    "conteudo": "Descrição: Leia um livro. Diga \"Primeiro lemos o livro...\". Depois, guarde o livro na prateleira e diga \"...depois guardamos o livro!\".",
+    "metadata": {
+      "titulo": "Primeiro o Livro, Depois o Guardar",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_342",
+    "conteudo": "Descrição: Pegue um brinquedo. Diga \"Primeiro brincamos...\". Depois, guarde o brinquedo na caixa e diga \"...depois guardamos!\".",
+    "metadata": {
+      "titulo": "Primeiro o Brinquedo, Depois a Caixa",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_343",
+    "conteudo": "Descrição: Vista o pijama na boneca. Diga \"Primeiro o pijama...\". Depois, coloque a boneca na cama e diga \"...depois a cama!\".",
+    "metadata": {
+      "titulo": "Primeiro o Pijama, Depois a Cama",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_344",
+    "conteudo": "Descrição: Use xícara e jarra de brinquedo. \"Primeiro o café...\". Depois, coloque o leite e diga \"...depois o leite!\".",
+    "metadata": {
+      "titulo": "Primeiro o Café, Depois o Leite",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_345",
+    "conteudo": "Descrição: Pegue água em um copo de brinquedo. Diga \"Primeiro a água...\". Depois, coloque a água no regador de brinquedo e diga \"...depois o regador!\".",
+    "metadata": {
+      "titulo": "Primeiro a Água, Depois o Regador",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_346",
+    "conteudo": "Descrição: Empurre um carrinho para a garagem. Diga \"Primeiro o carro...\". Depois, o carro entra na garagem e diga \"...depois a garagem!\".",
+    "metadata": {
+      "titulo": "Primeiro o Carro, Depois a Garagem",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_347",
+    "conteudo": "Descrição: Pegue uma flor de brinquedo. Diga \"Primeiro a flor...\". Depois, coloque no vaso e diga \"...depois o vaso!\".",
+    "metadata": {
+      "titulo": "Primeiro a Flor, Depois o Vaso",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_348",
+    "conteudo": "Descrição: Acenda a luz. \"Primeiro a luz...\". Apague a luz e diga \"...depois a escuridão!\".",
+    "metadata": {
+      "titulo": "Primeiro a Luz, Depois a Escuridão",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_349",
+    "conteudo": "Descrição: Aponte para o dedo. Diga \"Primeiro o dedo...\". Depois, aponte para a mão e diga \"...depois a mão!\".",
+    "metadata": {
+      "titulo": "Primeiro o Dedo, Depois a Mão",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_350",
+    "conteudo": "Descrição: Pegue um cinto de segurança de brinquedo. Diga \"Primeiro o cinto...\". Depois, ponha no boneco e diga \"...depois o carro!\".",
+    "metadata": {
+      "titulo": "Primeiro o Cinto, Depois o Carro",
+      "dimensao": "Linguagem",
+      "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_351",
+    "conteudo": "Descrição: Construa uma torre de blocos. Aponte para o bloco no topo e diga \"em cima!\". Aponte para o bloco da base e diga \"embaixo!\".",
+    "metadata": {
+      "titulo": "A Torre de Blocos",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_352",
+    "conteudo": "Descrição: Coloque um chapéu na sua cabeça e diga \"O chapéu está em cima\". Aponte para o seu sapato e diga \"O sapato está embaixo\".",
+    "metadata": {
+      "titulo": "O Chapéu na Cabeça",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_353",
+    "conteudo": "Descrição: Coloque um urso de pelúcia na cadeira e um livro embaixo dela. Pergunte \"Onde está o urso?\". Modele a resposta: \"Em cima da cadeira!\".",
+    "metadata": {
+      "titulo": "O Jogo da Cadeira",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_354",
+    "conteudo": "Descrição: Coloque uma bola em cima da cesta e um carrinho embaixo. Peça para a criança pegar os objetos, usando as palavras.",
+    "metadata": {
+      "titulo": "O Cesto de Brinquedos",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_355",
+    "conteudo": "Descrição: Aponte para a luz do teto e diga \"A luz está em cima\". Aponte para o chão e diga \"O chão está embaixo\".",
+    "metadata": {
+      "titulo": "A Luz e o Chão",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_356",
+    "conteudo": "Descrição: Aponte para a mesa e diga \"A mesa está em cima\". Aponte para o tapete e diga \"O tapete está embaixo\".",
+    "metadata": {
+      "titulo": "A Mesa e o Tapete",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_357",
+    "conteudo": "Descrição: Coloque um livro em cima da prateleira e outro embaixo. Peça para a criança pegar o livro do local correto.",
+    "metadata": {
+      "titulo": "O Livro na Prateleira",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_358",
+    "conteudo": "Descrição: Coloque a mão em cima da cabeça. Depois, coloque a mão embaixo do queixo.",
+    "metadata": {
+      "titulo": "A Mão na Cabeça",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_359",
+    "conteudo": "Descrição: Coloque um carrinho em cima de uma rampa e depois o faça descer para embaixo.",
+    "metadata": {
+      "titulo": "O Carro na Rampa",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_360",
+    "conteudo": "Descrição: Abra uma gaveta e coloque algo em cima do que está lá dentro. Depois, coloque algo embaixo.",
+    "metadata": {
+      "titulo": "A Gaveta",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_361",
+    "conteudo": "Descrição: Aponte para a parte de cima da janela e para a parte de baixo do peitoril.",
+    "metadata": {
+      "titulo": "A Janela e o Peitoril",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_362",
+    "conteudo": "Descrição: Balance a criança. Diga \"Você está lá em cima!\" quando ela estiver no ponto mais alto, e \"embaixo!\" quando no mais baixo.",
+    "metadata": {
+      "titulo": "O Balanço",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_363",
+    "conteudo": "Descrição: Aponte para as peças de cima do quebra-cabeça e para as de baixo.",
+    "metadata": {
+      "titulo": "O Quebra-Cabeça",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_364",
+    "conteudo": "Descrição: Coloque a mamadeira em cima do suporte. Depois, coloque-a embaixo da mesa.",
+    "metadata": {
+      "titulo": "A Mamadeira e o Suporte",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_365",
+    "conteudo": "Descrição: Aponte para o lençol na parte de cima da cama e para o pé da cama na parte de baixo.",
+    "metadata": {
+      "titulo": "A Cama e o Lençol",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_366",
+    "conteudo": "Descrição: Use uma figura de cobra. Mova-a para em cima e para embaixo de um obstáculo.",
+    "metadata": {
+      "titulo": "O Jogo do 'Cobra'",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_367",
+    "conteudo": "Descrição: Coloque um pato de borracha na bacia de água e diga \"O pato está em cima da água\".",
+    "metadata": {
+      "titulo": "O Pato na Água",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_368",
+    "conteudo": "Descrição: Coloque um copo em cima da mesa. Depois, tire o copo e diga \"O copo está embaixo agora\".",
+    "metadata": {
+      "titulo": "O Copo na Mesa",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_369",
+    "conteudo": "Descrição: Na hora de dormir, pegue o pijama e diga \"O pijama vai em cima\". Pegue o sapato e diga \"O sapato vai embaixo\".",
+    "metadata": {
+      "titulo": "O Pijama e o Sapato",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_370",
+    "conteudo": "Descrição: Faça uma sombra na parte de cima da parede e depois na parte de baixo.",
+    "metadata": {
+      "titulo": "A Sombra na Parede",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_371",
+    "conteudo": "Descrição: Coloque um gato de pelúcia em cima de uma caixa e outro embaixo.",
+    "metadata": {
+      "titulo": "O Gato na Caixa",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_372",
+    "conteudo": "Descrição: Pegue um avião de brinquedo e diga \"O avião está lá em cima\". Pegue um caminhão de brinquedo e diga \"O caminhão está embaixo\".",
+    "metadata": {
+      "titulo": "O Avião e o Caminhão",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_373",
+    "conteudo": "Descrição: Use as mãos para fazer a sombra de um coelho. Mova a sombra para a parte de cima da parede e para a parte de baixo.",
+    "metadata": {
+      "titulo": "O Jogo de Sombra",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_374",
+    "conteudo": "Descrição: Aponte para um balão no teto e diga \"O balão está em cima\". Aponte para a sua mão e diga \"A mão está embaixo\".",
+    "metadata": {
+      "titulo": "O Balão no Teto",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_375",
+    "conteudo": "Descrição: Aponte para o relógio na parede e diga \"O relógio está em cima\". Aponte para o tapete no chão e diga \"O tapete está embaixo\".",
+    "metadata": {
+      "titulo": "O Relógio na Parede",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_376",
+    "conteudo": "Descrição: Sopre uma pena para em cima. Quando ela cair, diga \"embaixo\".",
+    "metadata": {
+      "titulo": "O Jogo de Sopro",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_377",
+    "conteudo": "Descrição: Use uma escada de brinquedo. Coloque um boneco em cima da escada e outro embaixo.",
+    "metadata": {
+      "titulo": "A Escada de Brinquedo",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_378",
+    "conteudo": "Descrição: Coloque um carrinho em cima da sua mão. Depois, coloque o carrinho embaixo da sua mão.",
+    "metadata": {
+      "titulo": "O Carrinho na Mão",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_379",
+    "conteudo": "Descrição: Aponte para a janela e diga \"A janela está em cima\". Aponte para a porta e diga \"A porta está embaixo\".",
+    "metadata": {
+      "titulo": "A Janela e a Porta",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_380",
+    "conteudo": "Descrição: Coloque uma pá em cima do balde. Depois, coloque a pá embaixo do balde.",
+    "metadata": {
+      "titulo": "O Balde e a Areia",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_381",
+    "conteudo": "Descrição: Aponte para a parte de cima da chaminé e para o chão embaixo dela.",
+    "metadata": {
+      "titulo": "O Livro do 'Papai Noel'",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_382",
+    "conteudo": "Descrição: Coloque uma toalha em cima da cesta de pic-nic. Depois, coloque a toalha embaixo.",
+    "metadata": {
+      "titulo": "A Cesta de Pic-nic",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_383",
+    "conteudo": "Descrição: Aponte para a parte de cima do guarda-roupa e para a parte de baixo das gavetas.",
+    "metadata": {
+      "titulo": "O Guarda-Roupa",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_384",
+    "conteudo": "Descrição: Coloque um boneco em cima da caixa de lenços e o tire, dizendo \"embaixo!\".",
+    "metadata": {
+      "titulo": "A Caixa de Lenços",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_385",
+    "conteudo": "Descrição: Coloque um travesseiro na parte de cima da cama da boneca e os sapatos na parte de baixo.",
+    "metadata": {
+      "titulo": "A Cama da Boneca",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_386",
+    "conteudo": "Descrição: Coloque a garrafa de plástico em cima da lixeira e o papel embaixo dela.",
+    "metadata": {
+      "titulo": "O Jogo de Reciclagem",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_387",
+    "conteudo": "Descrição: Cante uma canção sobre a mão, movendo-a para em cima e para embaixo.",
+    "metadata": {
+      "titulo": "A Canção da Mão",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_388",
+    "conteudo": "Descrição: Esconda um objeto pequeno embaixo de um copo e pergunte \"Cadê?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Cadê?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_389",
+    "conteudo": "Descrição: Coloque um ursinho de pelúcia no colo da criança e diga \"O urso está em cima!\".",
+    "metadata": {
+      "titulo": "O Ursinho no Colo",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_390",
+    "conteudo": "Descrição: Aponte para o tampo da mesa e diga \"O tampo está em cima\". Aponte para o tapete e diga \"O tapete está embaixo\".",
+    "metadata": {
+      "titulo": "A Mesa e o Tapete",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_391",
+    "conteudo": "Descrição: Finja que a criança é um balanço. Mova-a para em cima e para embaixo.",
+    "metadata": {
+      "titulo": "O Jogo do 'Vai e Volta'",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_392",
+    "conteudo": "Descrição: Vista a boneca. Diga \"A blusa vai em cima\". Pegue a calça e diga \"A calça vai embaixo\".",
+    "metadata": {
+      "titulo": "A Roupa da Boneca",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_393",
+    "conteudo": "Descrição: Conte uma história sobre uma nuvem que está em cima e um carro que está embaixo.",
+    "metadata": {
+      "titulo": "A História da Nuvem",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_394",
+    "conteudo": "Descrição: Aponte para a sua cabeça e diga \"A sombra da cabeça está em cima\". Aponte para a sombra do pé no chão e diga \"A sombra do pé está embaixo\".",
+    "metadata": {
+      "titulo": "O Jogo de Sombra",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_395",
+    "conteudo": "Descrição: Mostre a água em cima do balde e o chão seco embaixo dele.",
+    "metadata": {
+      "titulo": "O Balde e a Água",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_396",
+    "conteudo": "Descrição: Esconda a mão embaixo de uma toalha.",
+    "metadata": {
+      "titulo": "O Jogo do 'Onde Está a Mão?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_397",
+    "conteudo": "Descrição: Coloque um peixe de brinquedo embaixo de uma rede.",
+    "metadata": {
+      "titulo": "O Jogo do 'Olha o Peixe'",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_398",
+    "conteudo": "Descrição: Derrube um brinquedo e cante \"O brinquedo caiu lá embaixo!\".",
+    "metadata": {
+      "titulo": "A Canção do 'Caiu'",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_399",
+    "conteudo": "Descrição: Pegue a colher e aponte para a sopa. Diga \"A sopa está embaixo na tigela\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Sopa'",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "linguagem_3a4_400",
+    "conteudo": "Descrição: Vire um pote de cabeça para baixo. Depois, vire-o para cima.",
+    "metadata": {
+      "titulo": "O Jogo do 'Vira e Mexe'",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  }
+]

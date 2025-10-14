@@ -1,0 +1,5502 @@
+[
+  {
+    "id": "hm_4a5_01",
+    "conteudo": "Descrição: Diga à criança que ela é o \"guarda-costas do equilíbrio\" e precisa \"proteger\" o corpo, ficando em um pé só por alguns segundos.",
+    "metadata": {
+      "titulo": "O Jogo do Guarda-Costas do Equilíbrio",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_02",
+    "conteudo": "Descrição: Coloque um pequeno \"tesouro\" (um adesivo, por exemplo) na ponta do pé da criança. Ela deve tentar pegá-lo com a mão, equilibrando-se em um pé.",
+    "metadata": {
+      "titulo": "Missão de Pegar o Tesouro no Pé",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_03",
+    "conteudo": "Descrição: Cole adesivos de estrela no chão. Diga que a criança é um detetive e precisa \"pousar\" em cada estrela, ficando em um pé só.",
+    "metadata": {
+      "titulo": "O Jogo do Detetive das Estrelas",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_04",
+    "conteudo": "Descrição: Em um quarto com pouca luz, use uma lanterna para iluminar um círculo no chão. A criança deve ficar em um pé só dentro do círculo.",
+    "metadata": {
+      "titulo": "A Aventura da Lanterna",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_05",
+    "conteudo": "Descrição: A criança é um super-herói com o poder de \"voar\". Incentive-a a ficar em um pé só, como se estivesse \"decolando\".",
+    "metadata": {
+      "titulo": "O Jogo do Super-Herói",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_06",
+    "conteudo": "Descrição: A criança pode imitar um robô, fazendo movimentos rígidos e precisos para se equilibrar em um pé só.",
+    "metadata": {
+      "titulo": "O Jogo do Robô",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_07",
+    "conteudo": "Descrição: Use um brinquedo de abelha. A criança pode imitar uma abelha para \"polinizar\" as \"flores\" (ficar em um pé só) em diferentes locais da sala.",
+    "metadata": {
+      "titulo": "A Dança da Abelha",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_08",
+    "conteudo": "Descrição: A criança pode imitar um macaco que \"colhe o fruto\" (ficar em um pé só) no alto da árvore.",
+    "metadata": {
+      "titulo": "O Jogo do Macaco",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_09",
+    "conteudo": "Descrição: A criança pode imitar uma tartaruga, balançando devagar em um pé só.",
+    "metadata": {
+      "titulo": "O Jogo da Tartaruga",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_10",
+    "conteudo": "Descrição: Use um brinquedo em formato de estrela. A criança deve \"seguir a estrela\" e ficar em um pé só.",
+    "metadata": {
+      "titulo": "O Jogo da Estrela Guia",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_11",
+    "conteudo": "Descrição: A criança pode segurar a bandeja como se fosse a \"lua\" que \"ilumina\" o brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo da Lua",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_12",
+    "conteudo": "Descrição: A criança pode imitar um caranguejo para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Caranguejo",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_13",
+    "conteudo": "Descrição: A criança pode imitar uma borboleta para \"voar\" e pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Borboleta",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_14",
+    "conteudo": "Descrição: A criança pode imitar um patinho que \"bebe\" a água.",
+    "metadata": {
+      "titulo": "O Jogo do Patinho",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_15",
+    "conteudo": "Descrição: A criança é um marinheiro e precisa \"navegar\" para encontrar os brinquedos.",
+    "metadata": {
+      "titulo": "A Missão do Marinheiro",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_16",
+    "conteudo": "Descrição: A criança pode soprar a sujeira para pegar o brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Sopro Mágico",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_17",
+    "conteudo": "Descrição: A criança pode imitar um pássaro que \"voa\" para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Pássaro",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_18",
+    "conteudo": "Descrição: Use carrinhos de brinquedo para que a criança \"dirija\" para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "A Corrida dos Carrinhos",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_19",
+    "conteudo": "Descrição: A criança pode ver o brinquedo como um quebra-cabeça.",
+    "metadata": {
+      "titulo": "O Jogo do Quebra-Cabeça",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_20",
+    "conteudo": "Descrição: Esconda um pequeno \"tesouro\" (um adesivo, um brinquedo pequeno) em um lençol ou cobertor. A criança deve procurar o tesouro.",
+    "metadata": {
+      "titulo": "A Caça ao Tesouro",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_21",
+    "conteudo": "Descrição: Diga que os brinquedos são \"sementes\". A criança deve \"plantá-las\" em uma caixa.",
+    "metadata": {
+      "titulo": "O Jogo do Jardineiro",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_22",
+    "conteudo": "Descrição: Use blocos de montar e peça para a criança \"resgatá-los\".",
+    "metadata": {
+      "titulo": "O Resgate dos Blocos",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_23",
+    "conteudo": "Descrição: Use um prato com divisórias e peça para a criança colocar cada brinquedo em seu lugar.",
+    "metadata": {
+      "titulo": "O Jogo do Encaixe Perfeito",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_24",
+    "conteudo": "Descrição: Use um caminhão de brinquedo e peça para a criança \"recolher\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Caminhão de Lixo",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_25",
+    "conteudo": "Descrição: A criança pode \"caçar\" e pegar pequenos brinquedos com a mão.",
+    "metadata": {
+      "titulo": "O Jogo do Coelhinho da Páscoa",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_26",
+    "conteudo": "Descrição: Faça gestos de como pegar um brinquedo. A criança deve imitar e pegar.",
+    "metadata": {
+      "titulo": "O Jogo do Mímico",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_27",
+    "conteudo": "Descrição: Diga que a criança tem um amigo invisível que precisa de ajuda para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Amigo Invisível",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_28",
+    "conteudo": "Descrição: Use uma balança de brinquedo para que a criança \"pesque\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Balança",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_29",
+    "conteudo": "Descrição: Use uma rede de brinquedo para \"pescar\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Pescador",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_30",
+    "conteudo": "Descrição: A criança pode construir um \"castelo\" com os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Castelo de Brinquedos",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_31",
+    "conteudo": "Descrição: Use uma vassoura de brinquedo para a criança \"varrer\" os brinquedos para um local.",
+    "metadata": {
+      "titulo": "A Corrida de Vassouras",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_32",
+    "conteudo": "Descrição: A criança pode imitar uma abelha para \"polinizar\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Abelha",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_33",
+    "conteudo": "Descrição: A criança pode imitar um macaco que \"colhe\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Macaco",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_34",
+    "conteudo": "Descrição: A criança pode imitar uma tartaruga, andando devagar para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Tartaruga",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_35",
+    "conteudo": "Descrição: Use uma lanterna para que a criança \"siga a estrela\" e encontre os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Estrela Guia",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_36",
+    "conteudo": "Descrição: Use bolinhas de gude que brilham no escuro para criar um caminho com o cadarço.",
+    "metadata": {
+      "titulo": "O Jogo do Caminho de Bolinhas de Gude",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_37",
+    "conteudo": "Descrição: A criança pode imitar um pinguim, andando com as mãos e os pés, para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Pinguim",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_38",
+    "conteudo": "Descrição: A criança pode imitar um gato que \"caça\" um brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Gato e Rato",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_39",
+    "conteudo": "Descrição: A criança pode imitar um cachorrinho que \"pega\" um brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Cachorrinho",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_40",
+    "conteudo": "Descrição: A criança pode imitar um soldado que \"conquista\" um brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Soldado",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_41",
+    "conteudo": "Descrição: A criança pode imitar um leão que \"caça\" um brinquedo.",
+    "metadata": {
+      "titulo": "A Missão do Leão",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_42",
+    "conteudo": "Descrição: A criança pode imitar uma aranha para \"tecer\" a teia em seus brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Aranha Mágica",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_43",
+    "conteudo": "Descrição: A criança pode imitar um dinossauro que \"come\" a sujeira.",
+    "metadata": {
+      "titulo": "O Jogo do Dinossauro",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_44",
+    "conteudo": "Descrição: A criança pode fazer o formato do sol com as mãos e os braços enquanto dança.",
+    "metadata": {
+      "titulo": "O Jogo do Sol",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_45",
+    "conteudo": "Descrição: A criança é um marinheiro e precisa \"navegar\" para encontrar os brinquedos.",
+    "metadata": {
+      "titulo": "A Missão do Marinheiro",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_46",
+    "conteudo": "Descrição: Use um pedaço de feltro como o \"rato\" e um brinquedo como o \"gato\". A criança deve caminhar para \"caçar\" o rato para pegá-lo.",
+    "metadata": {
+      "titulo": "O Jogo do Gato e Rato",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_47",
+    "conteudo": "Descrição: A criança pode imitar um dinossauro, caminhando para \"caçar\" o brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Dinossauro",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_48",
+    "conteudo": "Descrição: A criança pode imitar um leão que \"caça\" um brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Leão",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_49",
+    "conteudo": "Descrição: Coloque dois barquinhos de brinquedo em uma bacia. A criança deve caminhar para \"correr\" para pegar o primeiro.",
+    "metadata": {
+      "titulo": "A Corrida dos Barquinhos",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_50",
+    "conteudo": "Descrição: A criança pode imitar um pássaro que \"voa\" para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Pássaro",
+      "dimensao": "HM",
+      "habilidade": "Mantém-se em um só pé sem apoio por alguns segundos.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_51",
+    "conteudo": "Descrição: Diga que a criança é uma folha levada pelo vento. Incentive-a a correr livremente, com os braços balançando de um lado para o outro, mudando de direção.",
+    "metadata": {
+      "titulo": "O Jogo do Vento",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_52",
+    "conteudo": "Descrição: Use um tapete com diferentes formas e cores. Diga que a criança é um detetive e precisa \"seguir as pistas\", correndo em diferentes direções para chegar ao destino.",
+    "metadata": {
+      "titulo": "O Jogo do Detetive de Pistas",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_53",
+    "conteudo": "Descrição: Coloque pequenos \"tesouros\" (bolas, brinquedos) em diferentes locais da sala. A criança deve correr em diferentes direções para \"pegar o tesouro\".",
+    "metadata": {
+      "titulo": "Missão de Pegar o Tesouro",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_54",
+    "conteudo": "Descrição: Em um local com pouca luz, use uma lanterna para iluminar o caminho que a criança deve seguir. Mova a luz para que a criança tenha que mudar de direção enquanto corre.",
+    "metadata": {
+      "titulo": "A Aventura da Lanterna",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_55",
+    "conteudo": "Descrição: A criança é um super-herói com o poder de \"voar\" pela sala, mudando de direção para salvar o dia.",
+    "metadata": {
+      "titulo": "O Jogo do Super-Herói",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_56",
+    "conteudo": "Descrição: A criança pode imitar um robô, fazendo movimentos rígidos e precisos para mudar de direção enquanto corre.",
+    "metadata": {
+      "titulo": "O Jogo do Robô",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_57",
+    "conteudo": "Descrição: Use um brinquedo de abelha. A criança pode imitar uma abelha para \"polinizar\" as \"flores\" (correndo em diferentes direções).",
+    "metadata": {
+      "titulo": "A Dança da Abelha",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_58",
+    "conteudo": "Descrição: A criança pode imitar um macaco que \"colhe o fruto\" (correndo em diferentes direções) no alto da árvore.",
+    "metadata": {
+      "titulo": "O Jogo do Macaco",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_59",
+    "conteudo": "Descrição: A criança pode imitar uma tartaruga, balançando devagar em um pé só.",
+    "metadata": {
+      "titulo": "O Jogo da Tartaruga",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_60",
+    "conteudo": "Descrição: Use um brinquedo em formato de estrela. A criança deve \"seguir a estrela\" e ficar em um pé só.",
+    "metadata": {
+      "titulo": "O Jogo da Estrela Guia",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_61",
+    "conteudo": "Descrição: A criança pode segurar a bandeja como se fosse a \"lua\" que \"ilumina\" o brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo da Lua",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_62",
+    "conteudo": "Descrição: A criança pode imitar um caranguejo para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Caranguejo",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_63",
+    "conteudo": "Descrição: A criança pode imitar uma borboleta para \"voar\" e pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Borboleta",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_64",
+    "conteudo": "Descrição: A criança pode imitar um patinho que \"bebe\" a água.",
+    "metadata": {
+      "titulo": "O Jogo do Patinho",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_65",
+    "conteudo": "Descrição: A criança é um marinheiro e precisa \"navegar\" para encontrar os brinquedos.",
+    "metadata": {
+      "titulo": "A Missão do Marinheiro",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_66",
+    "conteudo": "Descrição: A criança pode soprar a sujeira para pegar o brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Sopro Mágico",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_67",
+    "conteudo": "Descrição: A criança pode imitar um pássaro que \"voa\" para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Pássaro",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_68",
+    "conteudo": "Descrição: Use carrinhos de brinquedo para que a criança \"dirija\" para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "A Corrida dos Carrinhos",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_69",
+    "conteudo": "Descrição: A criança pode ver o brinquedo como um quebra-cabeça.",
+    "metadata": {
+      "titulo": "O Jogo do Quebra-Cabeça",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_70",
+    "conteudo": "Descrição: Esconda um pequeno \"tesouro\" (um adesivo, um brinquedo pequeno) em um lençol ou cobertor. A criança deve procurar o tesouro.",
+    "metadata": {
+      "titulo": "A Caça ao Tesouro",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_71",
+    "conteudo": "Descrição: Diga que os brinquedos são \"sementes\". A criança deve \"plantá-las\" em uma caixa.",
+    "metadata": {
+      "titulo": "O Jogo do Jardineiro",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_72",
+    "conteudo": "Descrição: Use blocos de montar e peça para a criança \"resgatá-los\".",
+    "metadata": {
+      "titulo": "O Resgate dos Blocos",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_73",
+    "conteudo": "Descrição: Use um prato com divisórias e peça para a criança colocar cada brinquedo em seu lugar.",
+    "metadata": {
+      "titulo": "O Jogo do Encaixe Perfeito",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_74",
+    "conteudo": "Descrição: Use um caminhão de brinquedo e peça para a criança \"recolher\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Caminhão de Lixo",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_75",
+    "conteudo": "Descrição: A criança pode \"caçar\" e pegar pequenos brinquedos com a mão.",
+    "metadata": {
+      "titulo": "O Jogo do Coelhinho da Páscoa",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_76",
+    "conteudo": "Descrição: Faça gestos de como pegar um brinquedo. A criança deve imitar e pegar.",
+    "metadata": {
+      "titulo": "O Jogo do Mímico",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_77",
+    "conteudo": "Descrição: Diga que a criança tem um amigo invisível que precisa de ajuda para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Amigo Invisível",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_78",
+    "conteudo": "Descrição: Use uma balança de brinquedo para que a criança \"pesque\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Balança",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_79",
+    "conteudo": "Descrição: Use uma rede de brinquedo para \"pescar\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Pescador",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_80",
+    "conteudo": "Descrição: A criança pode construir um \"castelo\" com os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Castelo de Brinquedos",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_81",
+    "conteudo": "Descrição: Use uma vassoura de brinquedo para a criança \"varrer\" os brinquedos para um local.",
+    "metadata": {
+      "titulo": "A Corrida de Vassouras",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_82",
+    "conteudo": "Descrição: A criança pode imitar uma abelha para \"polinizar\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Abelha",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_83",
+    "conteudo": "Descrição: A criança pode imitar um macaco que \"colhe\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Macaco",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_84",
+    "conteudo": "Descrição: A criança pode imitar uma tartaruga, andando devagar para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Tartaruga",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_85",
+    "conteudo": "Descrição: Use uma lanterna para que a criança \"siga a estrela\" e encontre os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Estrela Guia",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_86",
+    "conteudo": "Descrição: Use bolinhas de gude que brilham no escuro para criar um caminho com o cadarço.",
+    "metadata": {
+      "titulo": "O Jogo do Caminho de Bolinhas de Gude",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_87",
+    "conteudo": "Descrição: A criança pode imitar um pinguim, andando com as mãos e os pés, para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Pinguim",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_88",
+    "conteudo": "Descrição: A criança pode imitar um gato que \"caça\" um brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Gato e Rato",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_89",
+    "conteudo": "Descrição: A criança pode imitar um cachorrinho que \"pega\" um brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Cachorrinho",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_90",
+    "conteudo": "Descrição: A criança pode imitar um soldado que \"conquista\" um brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Soldado",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_91",
+    "conteudo": "Descrição: A criança pode imitar um leão que \"caça\" um brinquedo.",
+    "metadata": {
+      "titulo": "A Missão do Leão",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_92",
+    "conteudo": "Descrição: A criança pode imitar uma aranha para \"tecer\" a teia em seus brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Aranha Mágica",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_93",
+    "conteudo": "Descrição: A criança pode imitar um dinossauro que \"come\" a sujeira.",
+    "metadata": {
+      "titulo": "O Jogo do Dinossauro",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_94",
+    "conteudo": "Descrição: A criança pode fazer o formato do sol com as mãos e os braços enquanto dança.",
+    "metadata": {
+      "titulo": "O Jogo do Sol",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_95",
+    "conteudo": "Descrição: A criança é um marinheiro e precisa \"navegar\" para encontrar os brinquedos.",
+    "metadata": {
+      "titulo": "A Missão do Marinheiro",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_96",
+    "conteudo": "Descrição: Use um pedaço de feltro como o \"rato\" e um brinquedo como o \"gato\". A criança deve caminhar para \"caçar\" o rato para pegá-lo.",
+    "metadata": {
+      "titulo": "O Jogo do Gato e Rato",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_97",
+    "conteudo": "Descrição: A criança pode imitar um dinossauro, caminhando para \"caçar\" o brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Dinossauro",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_98",
+    "conteudo": "Descrição: A criança pode imitar um leão que \"caça\" um brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Leão",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_99",
+    "conteudo": "Descrição: Coloque dois barquinhos de brinquedo em uma bacia. A criança deve caminhar para \"correr\" para pegar o primeiro.",
+    "metadata": {
+      "titulo": "A Corrida dos Barquinhos",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_100",
+    "conteudo": "Descrição: A criança pode imitar um pássaro que \"voa\" para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Pássaro",
+      "dimensao": "HM",
+      "habilidade": "Varia as direções na hora de correr.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_101",
+    "conteudo": "Descrição: Use uma tábua de madeira no chão ou uma fita crepe. Diga que a criança é o \"guarda-costas do equilíbrio\" e precisa \"proteger\" a si mesma, andando sobre a tábua, corda ou fita sem cair.",
+    "metadata": {
+      "titulo": "O Jogo do Guarda-Costas do Equilíbrio",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_102",
+    "conteudo": "Descrição: Use uma tábua. Diga que a criança é um \"capitão\" e precisa \"atravessar a ponte\" (a tábua) para chegar ao \"outro lado do oceano\".",
+    "metadata": {
+      "titulo": "A Missão do Capitão da Ponte",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_103",
+    "conteudo": "Descrição: Crie um caminho com uma corda no chão. Diga que a criança é um detetive e precisa \"seguir as pistas\" (a corda) para resolver o mistério.",
+    "metadata": {
+      "titulo": "O Jogo do Detetive de Pistas",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_104",
+    "conteudo": "Descrição: Em um local com pouca luz, use uma lanterna para iluminar o caminho que a criança deve seguir. A luz é a \"guia\" mágica.",
+    "metadata": {
+      "titulo": "A Aventura da Lanterna",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_105",
+    "conteudo": "Descrição: A criança é um super-herói com o poder de \"voar\" sobre a viga ou tábua.",
+    "metadata": {
+      "titulo": "O Jogo do Super-Herói",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_106",
+    "conteudo": "Descrição: A criança pode imitar um robô, fazendo movimentos rígidos e precisos para caminhar sobre a tábua.",
+    "metadata": {
+      "titulo": "O Jogo do Robô",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_107",
+    "conteudo": "Descrição: Coloque uma música animada e mostre como a criança pode \"dançar\" sobre a corda, se equilibrando.",
+    "metadata": {
+      "titulo": "A Dança da Corda",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_108",
+    "conteudo": "Descrição: A criança deve caminhar sobre a tábua para \"fugir\" de um \"monstro\" (uma caixa de papelão).",
+    "metadata": {
+      "titulo": "O Jogo do Monstro da Caixa",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_109",
+    "conteudo": "Descrição: Empilhe alguns blocos de montar. Incentive a criança a caminhar sobre a tábua para derrubar a torre.",
+    "metadata": {
+      "titulo": "A Escultura de Blocos",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_110",
+    "conteudo": "Descrição: Balance um chocalho colorido atrás da criança. O som e a cor devem incentivá-la a caminhar de costas para alcançá-lo.",
+    "metadata": {
+      "titulo": "A Dança do Chocalho",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_111",
+    "conteudo": "Descrição: Amarre um brinquedo em um barbante e balance-o a uma curta distância, como se fosse um pássaro voando. Incentive a criança a \"caçar\" o pássaro.",
+    "metadata": {
+      "titulo": "O Jogo do Pássaro",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_112",
+    "conteudo": "Descrição: Use uma flor de plástico ou um objeto colorido. Mostre à criança e a incentive a caminhar para \"colher\" a flor.",
+    "metadata": {
+      "titulo": "O Jogo da Flor",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_113",
+    "conteudo": "Descrição: Use um brinquedo em formato de sol. Brinque com o brinquedo na frente da criança e incentive-a a manter a postura para alcançá-lo.",
+    "metadata": {
+      "titulo": "O Jogo do Sol",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_114",
+    "conteudo": "Descrição: Esconda um pequeno \"tesouro\" (um adesivo, um brinquedo pequeno) em um lençol ou cobertor. A criança deve caminhar para procurar o tesouro.",
+    "metadata": {
+      "titulo": "A Caça ao Tesouro",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_115",
+    "conteudo": "Descrição: A criança é um marinheiro. Use uma bacia com água. Coloque brinquedos flutuantes e incentive-a a \"navegar\" com as mãos para alcançá-los.",
+    "metadata": {
+      "titulo": "A Missão do Marinheiro",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_116",
+    "conteudo": "Descrição: Use um pedaço de feltro como o \"rato\" e um brinquedo como o \"gato\". A criança deve caminhar para \"caçar\" o rato para pegá-lo.",
+    "metadata": {
+      "titulo": "O Jogo do Gato e Rato",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_117",
+    "conteudo": "Descrição: A criança pode imitar um dinossauro, caminhando para \"caçar\" o brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Dinossauro",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_118",
+    "conteudo": "Descrição: A criança pode imitar um leão que \"caça\" um brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Leão",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_119",
+    "conteudo": "Descrição: Coloque dois barquinhos de brinquedo em uma bacia. A criança deve caminhar para \"correr\" para pegar o primeiro.",
+    "metadata": {
+      "titulo": "A Corrida dos Barquinhos",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_120",
+    "conteudo": "Descrição: Em uma bacia, coloque bolinhas de plástico. A criança deve caminhar para \"cozinhar\" as bolinhas.",
+    "metadata": {
+      "titulo": "O Jogo da Sopa de Bolinhas",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_121",
+    "conteudo": "Descrição: A criança deve caminhar para \"destruir\" um castelo de blocos.",
+    "metadata": {
+      "titulo": "O Jogo do Castelo de Blocos",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_122",
+    "conteudo": "Descrição: Use um brinquedo de abelha. A criança pode imitar uma abelha para \"polinizar\" as \"flores\" (brinquedos) para pegá-los.",
+    "metadata": {
+      "titulo": "O Jogo da Abelha",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_123",
+    "conteudo": "Descrição: A criança pode imitar um macaco que \"colhe\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Macaco",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_124",
+    "conteudo": "Descrição: A criança pode imitar uma tartaruga, andando devagar para \"explorar\" o ambiente.",
+    "metadata": {
+      "titulo": "O Jogo da Tartaruga",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_125",
+    "conteudo": "Descrição: Use um brinquedo em formato de estrela. A criança deve \"seguir a estrela\" para pegá-la.",
+    "metadata": {
+      "titulo": "O Jogo da Estrela Guia",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_126",
+    "conteudo": "Descrição: A criança pode segurar a bandeja como se fosse a \"lua\" que \"ilumina\" o brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo da Lua",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_127",
+    "conteudo": "Descrição: A criança pode imitar um caranguejo para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Caranguejo",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_128",
+    "conteudo": "Descrição: A criança pode imitar uma borboleta para \"voar\" e pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Borboleta",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_129",
+    "conteudo": "Descrição: A criança pode imitar um patinho que \"bebe\" a água.",
+    "metadata": {
+      "titulo": "O Jogo do Patinho",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_130",
+    "conteudo": "Descrição: A criança é um marinheiro e precisa \"navegar\" para encontrar os brinquedos.",
+    "metadata": {
+      "titulo": "A Missão do Marinheiro",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_131",
+    "conteudo": "Descrição: A criança pode soprar a sujeira para pegar o brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Sopro Mágico",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_132",
+    "conteudo": "Descrição: A criança pode imitar um pássaro que \"voa\" para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Pássaro",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_133",
+    "conteudo": "Descrição: Use carrinhos de brinquedo para que a criança \"dirija\" para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "A Corrida dos Carrinhos",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_134",
+    "conteudo": "Descrição: A criança pode ver o brinquedo como um quebra-cabeça.",
+    "metadata": {
+      "titulo": "O Jogo do Quebra-Cabeça",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_135",
+    "conteudo": "Descrição: Esconda um pequeno \"tesouro\" (um adesivo, um brinquedo pequeno) em um lençol ou cobertor. A criança deve procurar o tesouro.",
+    "metadata": {
+      "titulo": "A Caça ao Tesouro",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_136",
+    "conteudo": "Descrição: Diga que os brinquedos são \"sementes\". A criança deve \"plantá-las\" em uma caixa.",
+    "metadata": {
+      "titulo": "O Jogo do Jardineiro",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_137",
+    "conteudo": "Descrição: Use blocos de montar e peça para a criança \"resgatá-los\".",
+    "metadata": {
+      "titulo": "O Resgate dos Blocos",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_138",
+    "conteudo": "Descrição: Use um prato com divisórias e peça para a criança colocar cada brinquedo em seu lugar.",
+    "metadata": {
+      "titulo": "O Jogo do Encaixe Perfeito",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_139",
+    "conteudo": "Descrição: Use um caminhão de brinquedo e peça para a criança \"recolher\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Caminhão de Lixo",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_140",
+    "conteudo": "Descrição: A criança pode \"caçar\" e pegar pequenos brinquedos com a mão.",
+    "metadata": {
+      "titulo": "O Jogo do Coelhinho da Páscoa",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_141",
+    "conteudo": "Descrição: Faça gestos de como pegar um brinquedo. A criança deve imitar e pegar.",
+    "metadata": {
+      "titulo": "O Jogo do Mímico",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_142",
+    "conteudo": "Descrição: Diga que a criança tem um amigo invisível que precisa de ajuda para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Amigo Invisível",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_143",
+    "conteudo": "Descrição: Use uma balança de brinquedo para que a criança \"pesque\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Balança",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_144",
+    "conteudo": "Descrição: Use uma rede de brinquedo para \"pescar\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Pescador",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_145",
+    "conteudo": "Descrição: A criança pode construir um \"castelo\" com os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Castelo de Brinquedos",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_146",
+    "conteudo": "Descrição: Use uma vassoura de brinquedo para a criança \"varrer\" os brinquedos para um local.",
+    "metadata": {
+      "titulo": "A Corrida de Vassouras",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_147",
+    "conteudo": "Descrição: A criança pode imitar uma abelha para \"polinizar\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Abelha",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_148",
+    "conteudo": "Descrição: A criança pode imitar um macaco que \"colhe\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Macaco",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_149",
+    "conteudo": "Descrição: A criança pode imitar uma tartaruga, andando devagar para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Tartaruga",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_150",
+    "conteudo": "Descrição: Use uma lanterna para que a criança \"siga a estrela\" e encontre os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Estrela Guia",
+      "dimensao": "HM",
+      "habilidade": "Demonstra equilíbrio ao andar sobre tábuas, vigas ou cordas.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_151",
+    "conteudo": "Descrição: Diga que a criança é um canguru. Incentive-a a pular para frente, como um canguru, para \"chegar à Austrália\".",
+    "metadata": {
+      "titulo": "O Jogo do Canguru Pula-Pula",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_152",
+    "conteudo": "Descrição: Use aros de cores diferentes no chão. A criança é o capitão e precisa \"pular para a frente\" para \"atravessar a ponte\".",
+    "metadata": {
+      "titulo": "A Missão do Capitão da Ponte",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_153",
+    "conteudo": "Descrição: Desenhe pegadas de sapato no chão com giz. Diga que a criança é um detetive e precisa \"seguir as pistas\", pulando de uma pegada para a outra.",
+    "metadata": {
+      "titulo": "O Jogo do Detetive das Pistas",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_154",
+    "conteudo": "Descrição: Em um local com pouca luz, use uma lanterna para iluminar o caminho que a criança deve seguir. A luz é a \"guia\" mágica.",
+    "metadata": {
+      "titulo": "A Aventura da Lanterna",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_155",
+    "conteudo": "Descrição: A criança é um super-herói com o poder de \"voar\" para a frente, pulando.",
+    "metadata": {
+      "titulo": "O Jogo do Super-Herói",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_156",
+    "conteudo": "Descrição: A criança pode imitar um robô, fazendo movimentos rígidos e precisos para pular para a frente.",
+    "metadata": {
+      "titulo": "O Jogo do Robô",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_157",
+    "conteudo": "Descrição: Use um brinquedo de abelha. A criança pode imitar uma abelha para \"polinizar\" as \"flores\" (pular para a frente) em diferentes locais da sala.",
+    "metadata": {
+      "titulo": "A Dança da Abelha",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_158",
+    "conteudo": "Descrição: A criança pode imitar um macaco que \"sobe na árvore\" (pula para a frente) para \"colher o fruto\".",
+    "metadata": {
+      "titulo": "O Jogo do Macaco",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_159",
+    "conteudo": "Descrição: A criança pode imitar uma tartaruga, balançando devagar em um pé só.",
+    "metadata": {
+      "titulo": "O Jogo da Tartaruga",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_160",
+    "conteudo": "Descrição: Use um brinquedo em formato de estrela. A criança deve \"seguir a estrela\" e ficar em um pé só.",
+    "metadata": {
+      "titulo": "O Jogo da Estrela Guia",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_161",
+    "conteudo": "Descrição: A criança pode segurar a bandeja como se fosse a \"lua\" que \"ilumina\" o brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo da Lua",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_162",
+    "conteudo": "Descrição: A criança pode imitar um caranguejo para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Caranguejo",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_163",
+    "conteudo": "Descrição: A criança pode imitar uma borboleta para \"voar\" e pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Borboleta",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_164",
+    "conteudo": "Descrição: A criança pode imitar um patinho que \"bebe\" a água.",
+    "metadata": {
+      "titulo": "O Jogo do Patinho",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_165",
+    "conteudo": "Descrição: A criança é um marinheiro e precisa \"navegar\" para encontrar os brinquedos.",
+    "metadata": {
+      "titulo": "A Missão do Marinheiro",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_166",
+    "conteudo": "Descrição: A criança pode soprar a sujeira para pegar o brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Sopro Mágico",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_167",
+    "conteudo": "Descrição: A criança pode imitar um pássaro que \"voa\" para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Pássaro",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_168",
+    "conteudo": "Descrição: Use carrinhos de brinquedo para que a criança \"dirija\" para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "A Corrida dos Carrinhos",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_169",
+    "conteudo": "Descrição: A criança pode ver o brinquedo como um quebra-cabeça.",
+    "metadata": {
+      "titulo": "O Jogo do Quebra-Cabeça",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_170",
+    "conteudo": "Descrição: Esconda um pequeno \"tesouro\" (um adesivo, um brinquedo pequeno) em um lençol ou cobertor. A criança deve procurar o tesouro.",
+    "metadata": {
+      "titulo": "A Caça ao Tesouro",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_171",
+    "conteudo": "Descrição: Diga que os brinquedos são \"sementes\". A criança deve \"plantá-las\" em uma caixa.",
+    "metadata": {
+      "titulo": "O Jogo do Jardineiro",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_172",
+    "conteudo": "Descrição: Use blocos de montar e peça para a criança \"resgatá-los\".",
+    "metadata": {
+      "titulo": "O Resgate dos Blocos",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_173",
+    "conteudo": "Descrição: Use um prato com divisórias e peça para a criança colocar cada brinquedo em seu lugar.",
+    "metadata": {
+      "titulo": "O Jogo do Encaixe Perfeito",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_174",
+    "conteudo": "Descrição: Use um caminhão de brinquedo e peça para a criança \"recolher\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Caminhão de Lixo",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_175",
+    "conteudo": "Descrição: A criança pode \"caçar\" e pegar pequenos brinquedos com a mão.",
+    "metadata": {
+      "titulo": "O Jogo do Coelhinho da Páscoa",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_176",
+    "conteudo": "Descrição: Faça gestos de como pegar um brinquedo. A criança deve imitar e pegar.",
+    "metadata": {
+      "titulo": "O Jogo do Mímico",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_177",
+    "conteudo": "Descrição: Diga que a criança tem um amigo invisível que precisa de ajuda para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Amigo Invisível",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_178",
+    "conteudo": "Descrição: Use uma balança de brinquedo para que a criança \"pesque\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Balança",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_179",
+    "conteudo": "Descrição: Use uma rede de brinquedo para \"pescar\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Pescador",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_180",
+    "conteudo": "Descrição: A criança pode construir um \"castelo\" com os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Castelo de Brinquedos",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_181",
+    "conteudo": "Descrição: Use uma vassoura de brinquedo para a criança \"varrer\" os brinquedos para um local.",
+    "metadata": {
+      "titulo": "A Corrida de Vassouras",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_182",
+    "conteudo": "Descrição: A criança pode imitar uma abelha para \"polinizar\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Abelha",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_183",
+    "conteudo": "Descrição: A criança pode imitar um macaco que \"colhe\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Macaco",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_184",
+    "conteudo": "Descrição: A criança pode imitar uma tartaruga, andando devagar para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Tartaruga",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_185",
+    "conteudo": "Descrição: Use uma lanterna para que a criança \"siga a estrela\" e encontre os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Estrela Guia",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_186",
+    "conteudo": "Descrição: Use bolinhas de gude que brilham no escuro para criar um caminho com o cadarço.",
+    "metadata": {
+      "titulo": "O Jogo do Caminho de Bolinhas de Gude",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_187",
+    "conteudo": "Descrição: A criança pode imitar um pinguim, andando com as mãos e os pés, para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Pinguim",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_188",
+    "conteudo": "Descrição: A criança pode imitar um gato que \"caça\" um brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Gato e Rato",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_189",
+    "conteudo": "Descrição: A criança pode imitar um cachorrinho que \"pega\" um brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Cachorrinho",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_190",
+    "conteudo": "Descrição: A criança pode imitar um soldado que \"conquista\" um brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Soldado",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_191",
+    "conteudo": "Descrição: A criança pode imitar um leão que \"caça\" um brinquedo.",
+    "metadata": {
+      "titulo": "A Missão do Leão",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_192",
+    "conteudo": "Descrição: A criança pode imitar uma aranha para \"tecer\" a teia em seus brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Aranha Mágica",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_193",
+    "conteudo": "Descrição: A criança pode imitar um dinossauro que \"come\" a sujeira.",
+    "metadata": {
+      "titulo": "O Jogo do Dinossauro",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_194",
+    "conteudo": "Descrição: A criança pode fazer o formato do sol com as mãos e os braços enquanto dança.",
+    "metadata": {
+      "titulo": "O Jogo do Sol",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_195",
+    "conteudo": "Descrição: A criança é um marinheiro e precisa \"navegar\" para encontrar os brinquedos.",
+    "metadata": {
+      "titulo": "A Missão do Marinheiro",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_196",
+    "conteudo": "Descrição: Use um pedaço de feltro como o \"rato\" e um brinquedo como o \"gato\". A criança deve caminhar para \"caçar\" o rato para pegá-lo.",
+    "metadata": {
+      "titulo": "O Jogo do Gato e Rato",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_197",
+    "conteudo": "Descrição: A criança pode imitar um dinossauro, caminhando para \"caçar\" o brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Dinossauro",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_198",
+    "conteudo": "Descrição: A criança pode imitar um leão que \"caça\" um brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Leão",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_199",
+    "conteudo": "Descrição: Coloque dois barquinhos de brinquedo em uma bacia. A criança deve caminhar para \"correr\" para pegar o primeiro.",
+    "metadata": {
+      "titulo": "A Corrida dos Barquinhos",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_200",
+    "conteudo": "Descrição: A criança pode imitar um pássaro que \"voa\" para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Pássaro",
+      "dimensao": "HM",
+      "habilidade": "Pula para frente de forma consecutiva sem cair.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_201",
+    "conteudo": "Descrição: Coloque pequenos objetos (bolas, brinquedos) em um local da sala. A criança é o \"guarda-costas\" e precisa \"proteger\" o tesouro, saltando sobre um pequeno obstáculo (como uma fita no chão) para chegar até ele.",
+    "metadata": {
+      "titulo": "O Jogo do Guarda-Costas do Tesouro",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_202",
+    "conteudo": "Descrição: Diga que a criança é um sapinho. Com o professor agachado e pulando, incentive-a a imitar o sapo, saltando sobre um pequeno obstáculo no chão.",
+    "metadata": {
+      "titulo": "O Jogo do Sapinho Pula-Pula",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_203",
+    "conteudo": "Descrição: Use aros de cores diferentes no chão. A criança é o capitão e precisa \"pular para a frente\" para \"atravessar a ponte\".",
+    "metadata": {
+      "titulo": "Missão de Pegar a Flor",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_204",
+    "conteudo": "Descrição: Em um local com pouca luz, use uma lanterna para iluminar o caminho que a criança deve seguir. A luz é a \"guia\" mágica.",
+    "metadata": {
+      "titulo": "A Aventura da Lanterna",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_205",
+    "conteudo": "Descrição: A criança é um super-herói com o poder de \"voar\" sobre a viga ou tábua.",
+    "metadata": {
+      "titulo": "O Jogo do Super-Herói",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_206",
+    "conteudo": "Descrição: A criança pode imitar um robô, fazendo movimentos rígidos e precisos para caminhar sobre a tábua.",
+    "metadata": {
+      "titulo": "O Jogo do Robô",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_207",
+    "conteudo": "Descrição: Use um brinquedo de abelha. A criança pode imitar uma abelha para \"polinizar\" as \"flores\" (subir e descer) no escorregador.",
+    "metadata": {
+      "titulo": "A Dança da Abelha",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_208",
+    "conteudo": "Descrição: A criança pode imitar um macaco que \"sobe na árvore\" (o escorregador) para \"colher o fruto\" (descer).",
+    "metadata": {
+      "titulo": "O Jogo do Macaco",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_209",
+    "conteudo": "Descrição: A criança pode imitar uma tartaruga, subindo e descendo devagar.",
+    "metadata": {
+      "titulo": "O Jogo da Tartaruga",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_210",
+    "conteudo": "Descrição: Use um brinquedo em formato de estrela. A criança deve \"seguir a estrela\" para subir e descer.",
+    "metadata": {
+      "titulo": "O Jogo da Estrela Guia",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_211",
+    "conteudo": "Descrição: A criança pode segurar a bandeja como se fosse a \"lua\" que \"ilumina\" o brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo da Lua",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_212",
+    "conteudo": "Descrição: A criança pode imitar um caranguejo para subir e descer.",
+    "metadata": {
+      "titulo": "O Jogo do Caranguejo",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_213",
+    "conteudo": "Descrição: A criança pode imitar uma borboleta para \"voar\" e subir e descer.",
+    "metadata": {
+      "titulo": "O Jogo da Borboleta",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_214",
+    "conteudo": "Descrição: A criança pode imitar um patinho que \"bebe\" a água.",
+    "metadata": {
+      "titulo": "O Jogo do Patinho",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_215",
+    "conteudo": "Descrição: A criança é um marinheiro e precisa \"navegar\" para encontrar os brinquedos.",
+    "metadata": {
+      "titulo": "A Missão do Marinheiro",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_216",
+    "conteudo": "Descrição: A criança pode soprar a sujeira para pegar o brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Sopro Mágico",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_217",
+    "conteudo": "Descrição: A criança pode imitar um pássaro que \"voa\" para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Pássaro",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_218",
+    "conteudo": "Descrição: Use carrinhos de brinquedo para que a criança \"dirija\" para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "A Corrida dos Carrinhos",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_219",
+    "conteudo": "Descrição: A criança pode ver o brinquedo como um quebra-cabeça.",
+    "metadata": {
+      "titulo": "O Jogo do Quebra-Cabeça",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_220",
+    "conteudo": "Descrição: Esconda um pequeno \"tesouro\" (um adesivo, um brinquedo pequeno) em um lençol ou cobertor. A criança deve procurar o tesouro.",
+    "metadata": {
+      "titulo": "A Caça ao Tesouro",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_221",
+    "conteudo": "Descrição: Diga que os brinquedos são \"sementes\". A criança deve \"plantá-las\" em uma caixa.",
+    "metadata": {
+      "titulo": "O Jogo do Jardineiro",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_222",
+    "conteudo": "Descrição: Use blocos de montar e peça para a criança \"resgatá-los\".",
+    "metadata": {
+      "titulo": "O Resgate dos Blocos",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_223",
+    "conteudo": "Descrição: Use um prato com divisórias e peça para a criança colocar cada brinquedo em seu lugar.",
+    "metadata": {
+      "titulo": "O Jogo do Encaixe Perfeito",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_224",
+    "conteudo": "Descrição: Use um caminhão de brinquedo e peça para a criança \"recolher\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Caminhão de Lixo",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_225",
+    "conteudo": "Descrição: A criança pode \"caçar\" e pegar pequenos brinquedos com a mão.",
+    "metadata": {
+      "titulo": "O Jogo do Coelhinho da Páscoa",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_226",
+    "conteudo": "Descrição: Faça gestos de como pegar um brinquedo. A criança deve imitar e pegar.",
+    "metadata": {
+      "titulo": "O Jogo do Mímico",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_227",
+    "conteudo": "Descrição: Diga que a criança tem um amigo invisível que precisa de ajuda para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Amigo Invisível",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_228",
+    "conteudo": "Descrição: Use uma balança de brinquedo para que a criança \"pesque\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Balança",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_229",
+    "conteudo": "Descrição: Use uma rede de brinquedo para \"pescar\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Pescador",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_230",
+    "conteudo": "Descrição: A criança pode construir um \"castelo\" com os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Castelo de Brinquedos",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_231",
+    "conteudo": "Descrição: Use uma vassoura de brinquedo para a criança \"varrer\" os brinquedos para um local.",
+    "metadata": {
+      "titulo": "A Corrida de Vassouras",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_232",
+    "conteudo": "Descrição: A criança pode imitar uma abelha para \"polinizar\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Abelha",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_233",
+    "conteudo": "Descrição: A criança pode imitar um macaco que \"colhe\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Macaco",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_234",
+    "conteudo": "Descrição: A criança pode imitar uma tartaruga, andando devagar para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Tartaruga",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_235",
+    "conteudo": "Descrição: Use uma lanterna para que a criança \"siga a estrela\" e encontre os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Estrela Guia",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_236",
+    "conteudo": "Descrição: Use bolinhas de gude que brilham no escuro para criar um caminho com o cadarço.",
+    "metadata": {
+      "titulo": "O Jogo do Caminho de Bolinhas de Gude",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_237",
+    "conteudo": "Descrição: A criança pode imitar um pinguim, andando com as mãos e os pés, para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Pinguim",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_238",
+    "conteudo": "Descrição: A criança pode imitar um gato que \"caça\" um brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Gato e Rato",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_239",
+    "conteudo": "Descrição: A criança pode imitar um cachorrinho que \"pega\" um brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Cachorrinho",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_240",
+    "conteudo": "Descrição: A criança pode imitar um soldado que \"conquista\" um brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Soldado",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_241",
+    "conteudo": "Descrição: A criança pode imitar um leão que \"caça\" um brinquedo.",
+    "metadata": {
+      "titulo": "A Missão do Leão",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_242",
+    "conteudo": "Descrição: A criança pode imitar uma aranha para \"tecer\" a teia em seus brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Aranha Mágica",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_243",
+    "conteudo": "Descrição: A criança pode imitar um dinossauro que \"come\" a sujeira.",
+    "metadata": {
+      "titulo": "O Jogo do Dinossauro",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_244",
+    "conteudo": "Descrição: A criança pode fazer o formato do sol com as mãos e os braços enquanto dança.",
+    "metadata": {
+      "titulo": "O Jogo do Sol",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_245",
+    "conteudo": "Descrição: A criança é um marinheiro e precisa \"navegar\" para encontrar os brinquedos.",
+    "metadata": {
+      "titulo": "A Missão do Marinheiro",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_246",
+    "conteudo": "Descrição: Use um pedaço de feltro como o \"rato\" e um brinquedo como o \"gato\". A criança deve caminhar para \"caçar\" o rato para pegá-lo.",
+    "metadata": {
+      "titulo": "O Jogo do Gato e Rato",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_247",
+    "conteudo": "Descrição: A criança pode imitar um dinossauro, caminhando para \"caçar\" o brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Dinossauro",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_248",
+    "conteudo": "Descrição: A criança pode imitar um leão que \"caça\" um brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Leão",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_249",
+    "conteudo": "Descrição: Coloque dois barquinhos de brinquedo em uma bacia. A criança deve caminhar para \"correr\" para pegar o primeiro.",
+    "metadata": {
+      "titulo": "A Corrida dos Barquinhos",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_250",
+    "conteudo": "Descrição: A criança pode imitar um pássaro que \"voa\" para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Pássaro",
+      "dimensao": "HM",
+      "habilidade": "Salta sobre um pequeno obstáculo.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_251",
+    "conteudo": "Descrição: Diga que a criança é o \"guarda-costas da massinha\". Ela precisa \"proteger\" a massinha, amassando-a e fazendo formas para \"guardar\" os \"tesouros\" (brinquedos pequenos).",
+    "metadata": {
+      "titulo": "O Jogo do Guarda-Costas da Massinha",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_252",
+    "conteudo": "Descrição: Use a massinha para fazer formas simples, como uma bola, um quadrado ou um triângulo. A criança deve imitar e criar as mesmas formas.",
+    "metadata": {
+      "titulo": "Missão de Criar Formas",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_253",
+    "conteudo": "Descrição: Esconda pequenos objetos (botões grandes, miçangas de madeira) na massinha. A criança deve \"desenterrar\" os tesouros e criar formas com a massinha.",
+    "metadata": {
+      "titulo": "O Jogo do Detetive das Formas",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_254",
+    "conteudo": "Descrição: Em um quarto com pouca luz, use uma lanterna para iluminar a massinha. A criança deve seguir a luz com a massinha para \"desenhar\" formas.",
+    "metadata": {
+      "titulo": "A Aventura da Lanterna",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_255",
+    "conteudo": "Descrição: A criança é um super-herói com o poder de \"modelar\" a massinha em formas de super-heróis.",
+    "metadata": {
+      "titulo": "O Jogo do Super-Herói",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_256",
+    "conteudo": "Descrição: A criança pode imitar um robô, fazendo movimentos rígidos e precisos para modelar a massinha.",
+    "metadata": {
+      "titulo": "O Jogo do Robô Modelador",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_257",
+    "conteudo": "Descrição: Coloque uma música animada. A cada pausa na música, a criança deve fazer uma forma com a massinha.",
+    "metadata": {
+      "titulo": "A Dança da Massinha",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_258",
+    "conteudo": "Descrição: A criança é um \"monstro\" que precisa \"comer\" (amassar) a massinha para fazer a sua casa.",
+    "metadata": {
+      "titulo": "O Jogo do Monstro Comilão",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_259",
+    "conteudo": "Descrição: Coloque a massinha a uma curta distância. A criança deve rastejar ou caminhar para pegar a massinha e modelar uma forma.",
+    "metadata": {
+      "titulo": "A Corrida das Formas",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_260",
+    "conteudo": "Descrição: A criança pode \"voar\" com um pedaço de massinha na mão e \"pousar\" no papel, modelando a forma.",
+    "metadata": {
+      "titulo": "O Jogo do Aviãozinho da Massa",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_261",
+    "conteudo": "Descrição: A criança pode imitar um pássaro que \"voa\" para \"bater\" na massinha e criar formas.",
+    "metadata": {
+      "titulo": "O Jogo do Pássaro",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_262",
+    "conteudo": "Descrição: A criança pode fazer um círculo com a massinha, como se fossem as pétalas de uma flor.",
+    "metadata": {
+      "titulo": "O Jogo da Flor",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_263",
+    "conteudo": "Descrição: A criança pode fazer o formato do sol com a massinha.",
+    "metadata": {
+      "titulo": "O Jogo do Sol",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_264",
+    "conteudo": "Descrição: Esconda um pequeno \"tesouro\" (um adesivo, um brinquedo pequeno) na massinha. A criança deve procurar o tesouro.",
+    "metadata": {
+      "titulo": "A Caça ao Tesouro",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_265",
+    "conteudo": "Descrição: A criança é um marinheiro. Use uma bacia com água. Coloque brinquedos flutuantes e incentive-a a \"navegar\" com as mãos para alcançá-los.",
+    "metadata": {
+      "titulo": "A Missão do Marinheiro",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_266",
+    "conteudo": "Descrição: Use um pedaço de feltro como o \"rato\" e um brinquedo como o \"gato\". A criança deve \"caçar\" o rato para pegá-lo.",
+    "metadata": {
+      "titulo": "O Jogo do Gato e Rato",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_267",
+    "conteudo": "Descrição: A criança pode imitar um dinossauro, estendendo os braços para alcançar o brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Dinossauro",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_268",
+    "conteudo": "Descrição: A criança pode imitar um leão que \"caça\" um brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Leão",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_269",
+    "conteudo": "Descrição: Coloque dois barquinhos de brinquedo em uma bacia. A criança deve \"correr\" para pegar o primeiro.",
+    "metadata": {
+      "titulo": "A Corrida dos Barquinhos",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_270",
+    "conteudo": "Descrição: Em uma bacia, coloque bolinhas de plástico. A criança deve \"cozinhar\" as bolinhas.",
+    "metadata": {
+      "titulo": "O Jogo da Sopa de Bolinhas",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_271",
+    "conteudo": "Descrição: A criança deve \"destruir\" um castelo de blocos.",
+    "metadata": {
+      "titulo": "O Jogo do Castelo de Blocos",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_272",
+    "conteudo": "Descrição: Use um brinquedo de abelha. A criança pode imitar uma abelha para \"polinizar\" as \"flores\" (brinquedos) para pegá-los.",
+    "metadata": {
+      "titulo": "O Jogo da Abelha",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_273",
+    "conteudo": "Descrição: A criança pode imitar um macaco que \"colhe\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Macaco",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_274",
+    "conteudo": "Descrição: A criança pode imitar uma tartaruga, andando devagar para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Tartaruga",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_275",
+    "conteudo": "Descrição: Use um brinquedo em formato de estrela. A criança deve \"seguir a estrela\" para pegá-la.",
+    "metadata": {
+      "titulo": "O Jogo da Estrela Guia",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_276",
+    "conteudo": "Descrição: A criança pode segurar a bandeja como se fosse a \"lua\" que \"ilumina\" o brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo da Lua",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_277",
+    "conteudo": "Descrição: A criança pode imitar um caranguejo para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Caranguejo",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_278",
+    "conteudo": "Descrição: A criança pode imitar uma borboleta para \"voar\" e pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Borboleta",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_279",
+    "conteudo": "Descrição: A criança pode imitar um patinho que \"bebe\" a água.",
+    "metadata": {
+      "titulo": "O Jogo do Patinho",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_280",
+    "conteudo": "Descrição: A criança é um marinheiro e precisa \"navegar\" para encontrar os brinquedos.",
+    "metadata": {
+      "titulo": "A Missão do Marinheiro",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_281",
+    "conteudo": "Descrição: A criança pode soprar a sujeira para pegar o brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Sopro Mágico",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_282",
+    "conteudo": "Descrição: A criança pode imitar um pássaro que \"voa\" para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Pássaro",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_283",
+    "conteudo": "Descrição: Use carrinhos de brinquedo para que a criança \"dirija\" para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "A Corrida dos Carrinhos",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_284",
+    "conteudo": "Descrição: A criança pode ver o brinquedo como um quebra-cabeça.",
+    "metadata": {
+      "titulo": "O Jogo do Quebra-Cabeça",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_285",
+    "conteudo": "Descrição: Esconda um pequeno \"tesouro\" (um adesivo, um brinquedo pequeno) em um lençol ou cobertor. A criança deve procurar o tesouro.",
+    "metadata": {
+      "titulo": "A Caça ao Tesouro",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_286",
+    "conteudo": "Descrição: Diga que os brinquedos são \"sementes\". A criança deve \"plantá-las\" em uma caixa.",
+    "metadata": {
+      "titulo": "O Jogo do Jardineiro",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_287",
+    "conteudo": "Descrição: Use blocos de montar e peça para a criança \"resgatá-los\".",
+    "metadata": {
+      "titulo": "O Resgate dos Blocos",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_288",
+    "conteudo": "Descrição: Use um prato com divisórias e peça para a criança colocar cada brinquedo em seu lugar.",
+    "metadata": {
+      "titulo": "O Jogo do Encaixe Perfeito",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_289",
+    "conteudo": "Descrição: Use um caminhão de brinquedo e peça para a criança \"recolher\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Caminhão de Lixo",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_290",
+    "conteudo": "Descrição: A criança pode \"caçar\" e pegar pequenos brinquedos com a mão.",
+    "metadata": {
+      "titulo": "O Jogo do Coelhinho da Páscoa",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_291",
+    "conteudo": "Descrição: Faça gestos de como pegar um brinquedo. A criança deve imitar e pegar.",
+    "metadata": {
+      "titulo": "O Jogo do Mímico",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_292",
+    "conteudo": "Descrição: Diga que a criança tem um amigo invisível que precisa de ajuda para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Amigo Invisível",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_293",
+    "conteudo": "Descrição: Use uma balança de brinquedo para que a criança \"pesque\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Balança",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_294",
+    "conteudo": "Descrição: Use uma rede de brinquedo para \"pescar\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Pescador",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_295",
+    "conteudo": "Descrição: A criança pode construir um \"castelo\" com os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Castelo de Brinquedos",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_296",
+    "conteudo": "Descrição: Use uma vassoura de brinquedo para a criança \"varrer\" os brinquedos para um local.",
+    "metadata": {
+      "titulo": "A Corrida de Vassouras",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_297",
+    "conteudo": "Descrição: A criança pode imitar uma abelha para \"polinizar\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Abelha",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_298",
+    "conteudo": "Descrição: A criança pode imitar um macaco que \"colhe\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Macaco",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_299",
+    "conteudo": "Descrição: A criança pode imitar uma tartaruga, andando devagar para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Tartaruga",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_300",
+    "conteudo": "Descrição: Use uma lanterna para que a criança \"siga a estrela\" e encontre os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Estrela Guia",
+      "dimensao": "HM",
+      "habilidade": "Modela formas para criar figuras com massinha.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_301",
+    "conteudo": "Descrição: Faça um desenho simples (como um círculo ou um quadrado) e diga que a criança é um detetive e precisa \"copiar a pista\" para resolver o mistério.",
+    "metadata": {
+      "titulo": "O Jogo do Detetive dos Desenhos",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_302",
+    "conteudo": "Descrição: A criança deve desenhar uma casa para um \"amigo\" (um boneco), usando formas simples como quadrados e triângulos.",
+    "metadata": {
+      "titulo": "Missão de Desenhar a Casa",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_303",
+    "conteudo": "Descrição: A criança pode imitar um robô, fazendo movimentos rígidos e precisos para desenhar formas simples.",
+    "metadata": {
+      "titulo": "O Jogo do Robô Artista",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_304",
+    "conteudo": "Descrição: Em um ambiente com pouca luz, use uma lanterna para iluminar o desenho. A criança deve seguir a luz com um lápis ou giz para \"desenhar\" a figura.",
+    "metadata": {
+      "titulo": "A Aventura da Lanterna",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_305",
+    "conteudo": "Descrição: Use gizes de cera em formato de ovo ou blocos grandes. Coloque os gizes em uma bandeja e incentive a criança a segurá-los para \"rabiscar\" em um papel grande no chão.",
+    "metadata": {
+      "titulo": "O Jogo do Tesouro Brilhante",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_306",
+    "conteudo": "Descrição: Dê à criança um giz de cera e diga que ela é um \"capitão\" em seu \"navio\" (a mão). Ela precisa \"navegar\" com o giz no papel para fazer \"linhas\" no mapa.",
+    "metadata": {
+      "titulo": "A Missão do Capitão da Pintura",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_307",
+    "conteudo": "Descrição: Faça alguns pontos grandes em um papel com um lápis. Diga que a criança é um detetive e precisa \"conectar\" os pontos para resolver o mistério.",
+    "metadata": {
+      "titulo": "O Jogo do Detetive dos Pontos",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_308",
+    "conteudo": "Descrição: Com a criança sentada, segure um lápis e diga \"Olha o aviãozinho!\". Incentive a criança a segurar o lápis e a \"voar\" com ele no papel.",
+    "metadata": {
+      "titulo": "O Jogo do Aviãozinho da Linha",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_309",
+    "conteudo": "Descrição: Use um giz de cera em formato de carrinho. A criança deve \"dirigir\" o carrinho no papel, fazendo \"pistas de corrida\".",
+    "metadata": {
+      "titulo": "A Corrida dos Carrinhos",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_310",
+    "conteudo": "Descrição: Coloque os gizes de cera dentro de uma caixa de papelão com um buraco grande. Incentive a criança a estender a mão para \"pegar\" o monstro (giz) e a rabiscar com ele.",
+    "metadata": {
+      "titulo": "O Jogo do Monstro da Caixa",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_311",
+    "conteudo": "Descrição: Use gizes de cera de diferentes tamanhos e formatos. A criança pode \"explorar\" os gizes, rabiscando com eles.",
+    "metadata": {
+      "titulo": "A Escultura de Giz",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_312",
+    "conteudo": "Descrição: Coloque uma música animada. A cada pausa na música, a criança deve fazer um \"rabisco\" no papel.",
+    "metadata": {
+      "titulo": "A Dança do Giz",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_313",
+    "conteudo": "Descrição: Amarre um brinquedo em um barbante e balance-o a uma curta distância, como se fosse um pássaro voando. Incentive a criança a \"caçar\" o pássaro.",
+    "metadata": {
+      "titulo": "O Jogo do Pássaro",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_314",
+    "conteudo": "Descrição: A criança pode fazer círculos com o giz no papel, como se fossem as pétalas de uma flor.",
+    "metadata": {
+      "titulo": "O Jogo da Flor",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_315",
+    "conteudo": "Descrição: A criança pode fazer o formato do sol com o giz.",
+    "metadata": {
+      "titulo": "O Jogo do Sol",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_316",
+    "conteudo": "Descrição: Esconda um pequeno \"tesouro\" (um adesivo, um brinquedo pequeno) em um lençol ou cobertor. A criança deve procurar o tesouro.",
+    "metadata": {
+      "titulo": "A Caça ao Tesouro",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_317",
+    "conteudo": "Descrição: A criança é um marinheiro. Use uma bacia com água. Coloque brinquedos flutuantes e incentive-a a \"navegar\" com as mãos para alcançá-los.",
+    "metadata": {
+      "titulo": "A Missão do Marinheiro",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_318",
+    "conteudo": "Descrição: Use um pedaço de feltro como o \"rato\" e um brinquedo como o \"gato\". A criança deve \"caçar\" o rato para pegá-lo.",
+    "metadata": {
+      "titulo": "O Jogo do Gato e Rato",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_319",
+    "conteudo": "Descrição: A criança pode imitar um dinossauro, estendendo os braços para alcançar o brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Dinossauro",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_320",
+    "conteudo": "Descrição: A criança pode imitar um leão que \"caça\" um brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Leão",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_321",
+    "conteudo": "Descrição: Coloque dois barquinhos de brinquedo em uma bacia. A criança deve \"correr\" para pegar o primeiro.",
+    "metadata": {
+      "titulo": "A Corrida dos Barquinhos",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_322",
+    "conteudo": "Descrição: Em uma bacia, coloque bolinhas de plástico. A criança deve \"cozinhar\" as bolinhas.",
+    "metadata": {
+      "titulo": "O Jogo da Sopa de Bolinhas",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_323",
+    "conteudo": "Descrição: A criança deve \"destruir\" um castelo de blocos.",
+    "metadata": {
+      "titulo": "O Jogo do Castelo de Blocos",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_324",
+    "conteudo": "Descrição: Use um brinquedo de abelha. A criança pode imitar uma abelha para \"polinizar\" as \"flores\" (brinquedos) para pegá-los.",
+    "metadata": {
+      "titulo": "O Jogo da Abelha",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_325",
+    "conteudo": "Descrição: A criança pode imitar um macaco que \"colhe\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Macaco",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_326",
+    "conteudo": "Descrição: A criança pode imitar uma tartaruga, andando devagar para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Tartaruga",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_327",
+    "conteudo": "Descrição: Use um brinquedo em formato de estrela. A criança deve \"seguir a estrela\" para pegá-la.",
+    "metadata": {
+      "titulo": "O Jogo da Estrela Guia",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_328",
+    "conteudo": "Descrição: A criança pode segurar a bandeja como se fosse a \"lua\" que \"ilumina\" o brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo da Lua",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_329",
+    "conteudo": "Descrição: A criança pode imitar um caranguejo para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Caranguejo",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_330",
+    "conteudo": "Descrição: A criança pode imitar uma borboleta para \"voar\" e pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Borboleta",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_331",
+    "conteudo": "Descrição: A criança pode imitar um patinho que \"bebe\" a água.",
+    "metadata": {
+      "titulo": "O Jogo do Patinho",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_332",
+    "conteudo": "Descrição: A criança é um marinheiro e precisa \"navegar\" para encontrar os brinquedos.",
+    "metadata": {
+      "titulo": "A Missão do Marinheiro",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_333",
+    "conteudo": "Descrição: A criança pode soprar a sujeira para pegar o brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Sopro Mágico",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_334",
+    "conteudo": "Descrição: A criança pode imitar um pássaro que \"voa\" para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Pássaro",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_335",
+    "conteudo": "Descrição: Use carrinhos de brinquedo para que a criança \"dirija\" para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "A Corrida dos Carrinhos",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_336",
+    "conteudo": "Descrição: A criança pode ver o brinquedo como um quebra-cabeça.",
+    "metadata": {
+      "titulo": "O Jogo do Quebra-Cabeça",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_337",
+    "conteudo": "Descrição: Esconda um pequeno \"tesouro\" (um adesivo, um brinquedo pequeno) em um lençol ou cobertor. A criança deve procurar o tesouro.",
+    "metadata": {
+      "titulo": "A Caça ao Tesouro",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_338",
+    "conteudo": "Descrição: Diga que os brinquedos são \"sementes\". A criança deve \"plantá-las\" em uma caixa.",
+    "metadata": {
+      "titulo": "O Jogo do Jardineiro",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_339",
+    "conteudo": "Descrição: Use blocos de montar e peça para a criança \"resgatá-los\".",
+    "metadata": {
+      "titulo": "O Resgate dos Blocos",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_340",
+    "conteudo": "Descrição: Use um prato com divisórias e peça para a criança colocar cada brinquedo em seu lugar.",
+    "metadata": {
+      "titulo": "O Jogo do Encaixe Perfeito",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_341",
+    "conteudo": "Descrição: Use um caminhão de brinquedo e peça para a criança \"recolher\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Caminhão de Lixo",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_342",
+    "conteudo": "Descrição: A criança pode \"caçar\" e pegar pequenos brinquedos com a mão.",
+    "metadata": {
+      "titulo": "O Jogo do Coelhinho da Páscoa",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_343",
+    "conteudo": "Descrição: Faça gestos de como pegar um brinquedo. A criança deve imitar e pegar.",
+    "metadata": {
+      "titulo": "O Jogo do Mímico",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_344",
+    "conteudo": "Descrição: Diga que a criança tem um amigo invisível que precisa de ajuda para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Amigo Invisível",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_345",
+    "conteudo": "Descrição: Use uma balança de brinquedo para que a criança \"pesque\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Balança",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_346",
+    "conteudo": "Descrição: Use uma rede de brinquedo para \"pescar\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Pescador",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_347",
+    "conteudo": "Descrição: A criança pode construir um \"castelo\" com os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Castelo de Brinquedos",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_348",
+    "conteudo": "Descrição: Use uma vassoura de brinquedo para a criança \"varrer\" os brinquedos para um local.",
+    "metadata": {
+      "titulo": "A Corrida de Vassouras",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_349",
+    "conteudo": "Descrição: A criança pode imitar uma abelha para \"polinizar\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Abelha",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_350",
+    "conteudo": "Descrição: A criança pode imitar um macaco que \"colhe\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Macaco",
+      "dimensao": "HM",
+      "habilidade": "Desenha figuras simples naturalmente reconhecíveis.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_351",
+    "conteudo": "Descrição: Recorte várias formas geométricas (círculos, quadrados, triângulos) e espalhe-as em um papel. A criança é um detetive e precisa \"colar as pistas\" para formar um desenho.",
+    "metadata": {
+      "titulo": "O Jogo do Detetive das Formas",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_352",
+    "conteudo": "Descrição: Use um tubo de cola ou um pote com pincel. Diga que a criança é um capitão e precisa \"navegar\" com a cola no papel para \"plantar\" as figuras.",
+    "metadata": {
+      "titulo": "A Missão do Capitão da Cola",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_353",
+    "conteudo": "Descrição: A criança é um super-herói com o poder de \"salvar\" as figuras, colando-as em um papel.",
+    "metadata": {
+      "titulo": "O Jogo do Super-Herói",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_354",
+    "conteudo": "Descrição: Em um ambiente com pouca luz, use uma lanterna para iluminar as figuras. A criança deve seguir a luz e colar as figuras no local iluminado.",
+    "metadata": {
+      "titulo": "A Aventura da Lanterna",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_355",
+    "conteudo": "Descrição: Use cola com glitter ou lantejoulas. Incentive a criança a fazer colagens com \"tesouros brilhantes\".",
+    "metadata": {
+      "titulo": "O Jogo do Tesouro Brilhante",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_356",
+    "conteudo": "Descrição: A criança pode imitar um robô, fazendo movimentos rígidos e precisos para colar as figuras.",
+    "metadata": {
+      "titulo": "O Jogo do Robô Artista",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_357",
+    "conteudo": "Descrição: Use um brinquedo de abelha. A criança pode imitar uma abelha para \"polinizar\" as \"flores\" (colar figuras de flores) no papel.",
+    "metadata": {
+      "titulo": "A Dança da Abelha",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_358",
+    "conteudo": "Descrição: A criança pode imitar um macaco que \"colhe os frutos\" (figuras) e os \"cola\" na árvore.",
+    "metadata": {
+      "titulo": "O Jogo do Macaco",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_359",
+    "conteudo": "Descrição: A criança pode imitar uma tartaruga, colando as figuras devagar.",
+    "metadata": {
+      "titulo": "O Jogo da Tartaruga",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_360",
+    "conteudo": "Descrição: Use um brinquedo em formato de estrela. A criança deve \"seguir a estrela\" e colar as figuras.",
+    "metadata": {
+      "titulo": "O Jogo da Estrela Guia",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_361",
+    "conteudo": "Descrição: A criança pode segurar a bandeja como se fosse a \"lua\" que \"ilumina\" o brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo da Lua",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_362",
+    "conteudo": "Descrição: A criança pode imitar um caranguejo para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Caranguejo",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_363",
+    "conteudo": "Descrição: A criança pode imitar uma borboleta para \"voar\" e pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Borboleta",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_364",
+    "conteudo": "Descrição: A criança pode imitar um patinho que \"bebe\" a água.",
+    "metadata": {
+      "titulo": "O Jogo do Patinho",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_365",
+    "conteudo": "Descrição: A criança é um marinheiro e precisa \"navegar\" para encontrar os brinquedos.",
+    "metadata": {
+      "titulo": "A Missão do Marinheiro",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_366",
+    "conteudo": "Descrição: A criança pode soprar a sujeira para pegar o brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Sopro Mágico",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_367",
+    "conteudo": "Descrição: A criança pode imitar um pássaro que \"voa\" para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Pássaro",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_368",
+    "conteudo": "Descrição: Use carrinhos de brinquedo para que a criança \"dirija\" para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "A Corrida dos Carrinhos",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_369",
+    "conteudo": "Descrição: A criança pode ver o brinquedo como um quebra-cabeça.",
+    "metadata": {
+      "titulo": "O Jogo do Quebra-Cabeça",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_370",
+    "conteudo": "Descrição: Esconda um pequeno \"tesouro\" (um adesivo, um brinquedo pequeno) em um lençol ou cobertor. A criança deve procurar o tesouro.",
+    "metadata": {
+      "titulo": "A Caça ao Tesouro",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_371",
+    "conteudo": "Descrição: Diga que os brinquedos são \"sementes\". A criança deve \"plantá-las\" em uma caixa.",
+    "metadata": {
+      "titulo": "O Jogo do Jardineiro",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_372",
+    "conteudo": "Descrição: Use blocos de montar e peça para a criança \"resgatá-los\".",
+    "metadata": {
+      "titulo": "O Resgate dos Blocos",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_373",
+    "conteudo": "Descrição: Use um prato com divisórias e peça para a criança colocar cada brinquedo em seu lugar.",
+    "metadata": {
+      "titulo": "O Jogo do Encaixe Perfeito",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_374",
+    "conteudo": "Descrição: Use um caminhão de brinquedo e peça para a criança \"recolher\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Caminhão de Lixo",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_375",
+    "conteudo": "Descrição: A criança pode \"caçar\" e pegar pequenos brinquedos com a mão.",
+    "metadata": {
+      "titulo": "O Jogo do Coelhinho da Páscoa",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_376",
+    "conteudo": "Descrição: Faça gestos de como pegar um brinquedo. A criança deve imitar e pegar.",
+    "metadata": {
+      "titulo": "O Jogo do Mímico",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_377",
+    "conteudo": "Descrição: Diga que a criança tem um amigo invisível que precisa de ajuda para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Amigo Invisível",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_378",
+    "conteudo": "Descrição: Use uma balança de brinquedo para que a criança \"pesque\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Balança",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_379",
+    "conteudo": "Descrição: Use uma rede de brinquedo para \"pescar\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Pescador",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_380",
+    "conteudo": "Descrição: A criança pode construir um \"castelo\" com os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Castelo de Brinquedos",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_381",
+    "conteudo": "Descrição: Use uma vassoura de brinquedo para a criança \"varrer\" os brinquedos para um local.",
+    "metadata": {
+      "titulo": "A Corrida de Vassouras",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_382",
+    "conteudo": "Descrição: A criança pode imitar uma abelha para \"polinizar\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Abelha",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_383",
+    "conteudo": "Descrição: A criança pode imitar um macaco que \"colhe\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Macaco",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_384",
+    "conteudo": "Descrição: A criança pode imitar uma tartaruga, andando devagar para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Tartaruga",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_385",
+    "conteudo": "Descrição: Use uma lanterna para que a criança \"siga a estrela\" e encontre os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Estrela Guia",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_386",
+    "conteudo": "Descrição: Use bolinhas de gude que brilham no escuro para criar um caminho com o cadarço.",
+    "metadata": {
+      "titulo": "O Jogo do Caminho de Bolinhas de Gude",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_387",
+    "conteudo": "Descrição: A criança pode imitar um pinguim, andando com as mãos e os pés, para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Pinguim",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_388",
+    "conteudo": "Descrição: A criança pode imitar um gato que \"caça\" um brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Gato e Rato",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_389",
+    "conteudo": "Descrição: A criança pode imitar um cachorrinho que \"pega\" um brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Cachorrinho",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_390",
+    "conteudo": "Descrição: A criança pode imitar um soldado que \"conquista\" um brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Soldado",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_391",
+    "conteudo": "Descrição: A criança pode imitar um leão que \"caça\" um brinquedo.",
+    "metadata": {
+      "titulo": "A Missão do Leão",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_392",
+    "conteudo": "Descrição: A criança pode imitar uma aranha para \"tecer\" a teia em seus brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Aranha Mágica",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_393",
+    "conteudo": "Descrição: A criança pode imitar um dinossauro que \"come\" a sujeira.",
+    "metadata": {
+      "titulo": "O Jogo do Dinossauro",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_394",
+    "conteudo": "Descrição: A criança pode fazer o formato do sol com as mãos e os braços enquanto dança.",
+    "metadata": {
+      "titulo": "O Jogo do Sol",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_395",
+    "conteudo": "Descrição: A criança é um marinheiro e precisa \"navegar\" para encontrar os brinquedos.",
+    "metadata": {
+      "titulo": "A Missão do Marinheiro",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_396",
+    "conteudo": "Descrição: Use um pedaço de feltro como o \"rato\" e um brinquedo como o \"gato\". A criança deve caminhar para \"caçar\" o rato para pegá-lo.",
+    "metadata": {
+      "titulo": "O Jogo do Gato e Rato",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_397",
+    "conteudo": "Descrição: A criança pode imitar um dinossauro, caminhando para \"caçar\" o brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Dinossauro",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_398",
+    "conteudo": "Descrição: A criança pode imitar um leão que \"caça\" um brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Leão",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_399",
+    "conteudo": "Descrição: Coloque dois barquinhos de brinquedo em uma bacia. A criança deve caminhar para \"correr\" para pegar o primeiro.",
+    "metadata": {
+      "titulo": "A Corrida dos Barquinhos",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_400",
+    "conteudo": "Descrição: A criança pode imitar um pássaro que \"voa\" para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Pássaro",
+      "dimensao": "HM",
+      "habilidade": "Faz colagens de figuras.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_401",
+    "conteudo": "Descrição: Diga que a criança é o \"guarda-costas da cor\". Ela precisa \"proteger\" a cor, garantindo que ela não \"escape\" para fora das linhas do desenho.",
+    "metadata": {
+      "titulo": "O Jogo do Guarda-Costas da Cor",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_402",
+    "conteudo": "Descrição: Desenhe um contorno grosso em um papel. A criança é o capitão e precisa \"navegar\" com o lápis de cor \"dentro do barco\" (o contorno).",
+    "metadata": {
+      "titulo": "A Missão do Capitão da Linha",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_403",
+    "conteudo": "Descrição: Use um papel com formas geométricas. Diga que a criança é um detetive e precisa \"pintar as pistas\" dentro dos contornos para resolver o mistério.",
+    "metadata": {
+      "titulo": "O Jogo do Detetive das Formas",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_404",
+    "conteudo": "Descrição: Em um quarto com pouca luz, use uma lanterna para iluminar o interior de um desenho. A criança deve \"seguir a luz\" e colorir o local iluminado.",
+    "metadata": {
+      "titulo": "A Aventura da Lanterna",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_405",
+    "conteudo": "Descrição: A criança é um super-herói com o poder de \"salvar o desenho\" da \"bagunça\" (pintar fora do contorno).",
+    "metadata": {
+      "titulo": "O Jogo do Super-Herói",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_406",
+    "conteudo": "Descrição: A criança pode imitar um robô, fazendo movimentos rígidos e precisos para colorir dentro dos limites.",
+    "metadata": {
+      "titulo": "O Jogo do Robô Artista",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_407",
+    "conteudo": "Descrição: Use um brinquedo de abelha. A criança pode imitar uma abelha para \"polinizar\" as \"flores\" (colorir dentro dos contornos de flores).",
+    "metadata": {
+      "titulo": "A Dança da Abelha",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_408",
+    "conteudo": "Descrição: A criança pode imitar um macaco que \"colhe o fruto\" (colorir dentro dos limites de um desenho de fruta).",
+    "metadata": {
+      "titulo": "O Jogo do Macaco",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_409",
+    "conteudo": "Descrição: A criança pode imitar uma tartaruga, colorindo devagar para \"explorar\" o contorno.",
+    "metadata": {
+      "titulo": "O Jogo da Tartaruga",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_410",
+    "conteudo": "Descrição: Use um brinquedo em formato de estrela. A criança deve \"seguir a estrela\" e colorir dentro dos contornos de uma estrela.",
+    "metadata": {
+      "titulo": "O Jogo da Estrela Guia",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_411",
+    "conteudo": "Descrição: A criança pode fazer o formato da lua e depois colorir dentro dela.",
+    "metadata": {
+      "titulo": "O Jogo da Lua",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_412",
+    "conteudo": "Descrição: A criança pode imitar um caranguejo para colorir dentro dos limites.",
+    "metadata": {
+      "titulo": "O Jogo do Caranguejo",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_413",
+    "conteudo": "Descrição: A criança pode imitar uma borboleta para \"voar\" e colorir dentro dos contornos.",
+    "metadata": {
+      "titulo": "O Jogo da Borboleta",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_414",
+    "conteudo": "Descrição: A criança pode imitar um patinho que \"bebe\" a água.",
+    "metadata": {
+      "titulo": "O Jogo do Patinho",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_415",
+    "conteudo": "Descrição: A criança é um marinheiro e precisa \"navegar\" para encontrar os brinquedos.",
+    "metadata": {
+      "titulo": "A Missão do Marinheiro",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_416",
+    "conteudo": "Descrição: A criança pode soprar a sujeira para pegar o brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Sopro Mágico",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_417",
+    "conteudo": "Descrição: A criança pode imitar um pássaro que \"voa\" para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Pássaro",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_418",
+    "conteudo": "Descrição: Use carrinhos de brinquedo para que a criança \"dirija\" para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "A Corrida dos Carrinhos",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_419",
+    "conteudo": "Descrição: A criança pode ver o brinquedo como um quebra-cabeça.",
+    "metadata": {
+      "titulo": "O Jogo do Quebra-Cabeça",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_420",
+    "conteudo": "Descrição: Esconda um pequeno \"tesouro\" (um adesivo, um brinquedo pequeno) em um lençol ou cobertor. A criança deve procurar o tesouro.",
+    "metadata": {
+      "titulo": "A Caça ao Tesouro",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_421",
+    "conteudo": "Descrição: Diga que os brinquedos são \"sementes\". A criança deve \"plantá-las\" em uma caixa.",
+    "metadata": {
+      "titulo": "O Jogo do Jardineiro",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_422",
+    "conteudo": "Descrição: Use blocos de montar e peça para a criança \"resgatá-los\".",
+    "metadata": {
+      "titulo": "O Resgate dos Blocos",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_423",
+    "conteudo": "Descrição: Use um prato com divisórias e peça para a criança colocar cada brinquedo em seu lugar.",
+    "metadata": {
+      "titulo": "O Jogo do Encaixe Perfeito",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_424",
+    "conteudo": "Descrição: Use um caminhão de brinquedo e peça para a criança \"recolher\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Caminhão de Lixo",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_425",
+    "conteudo": "Descrição: A criança pode \"caçar\" e pegar pequenos brinquedos com a mão.",
+    "metadata": {
+      "titulo": "O Jogo do Coelhinho da Páscoa",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_426",
+    "conteudo": "Descrição: Faça gestos de como pegar um brinquedo. A criança deve imitar e pegar.",
+    "metadata": {
+      "titulo": "O Jogo do Mímico",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_427",
+    "conteudo": "Descrição: Diga que a criança tem um amigo invisível que precisa de ajuda para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Amigo Invisível",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_428",
+    "conteudo": "Descrição: Use uma balança de brinquedo para que a criança \"pesque\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Balança",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_429",
+    "conteudo": "Descrição: Use uma rede de brinquedo para \"pescar\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Pescador",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_430",
+    "conteudo": "Descrição: A criança pode construir um \"castelo\" com os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Castelo de Brinquedos",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_431",
+    "conteudo": "Descrição: Use uma vassoura de brinquedo para a criança \"varrer\" os brinquedos para um local.",
+    "metadata": {
+      "titulo": "A Corrida de Vassouras",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_432",
+    "conteudo": "Descrição: A criança pode imitar uma abelha para \"polinizar\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Abelha",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_433",
+    "conteudo": "Descrição: A criança pode imitar um macaco que \"colhe\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Macaco",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_434",
+    "conteudo": "Descrição: A criança pode imitar uma tartaruga, andando devagar para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Tartaruga",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_435",
+    "conteudo": "Descrição: Use uma lanterna para que a criança \"siga a estrela\" e encontre os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Estrela Guia",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_436",
+    "conteudo": "Descrição: Use bolinhas de gude que brilham no escuro para criar um caminho com o cadarço.",
+    "metadata": {
+      "titulo": "O Jogo do Caminho de Bolinhas de Gude",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_437",
+    "conteudo": "Descrição: A criança pode imitar um pinguim, andando com as mãos e os pés, para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Pinguim",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_438",
+    "conteudo": "Descrição: A criança pode imitar um gato que \"caça\" um brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Gato e Rato",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_439",
+    "conteudo": "Descrição: A criança pode imitar um cachorrinho que \"pega\" um brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Cachorrinho",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_440",
+    "conteudo": "Descrição: A criança pode imitar um soldado que \"conquista\" um brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Soldado",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_441",
+    "conteudo": "Descrição: A criança pode imitar um leão que \"caça\" um brinquedo.",
+    "metadata": {
+      "titulo": "A Missão do Leão",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_442",
+    "conteudo": "Descrição: A criança pode imitar uma aranha para \"tecer\" a teia em seus brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Aranha Mágica",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_443",
+    "conteudo": "Descrição: A criança pode imitar um dinossauro que \"come\" a sujeira.",
+    "metadata": {
+      "titulo": "O Jogo do Dinossauro",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_444",
+    "conteudo": "Descrição: A criança pode fazer o formato do sol com as mãos e os braços enquanto dança.",
+    "metadata": {
+      "titulo": "O Jogo do Sol",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_445",
+    "conteudo": "Descrição: A criança é um marinheiro e precisa \"navegar\" para encontrar os brinquedos.",
+    "metadata": {
+      "titulo": "A Missão do Marinheiro",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_446",
+    "conteudo": "Descrição: Use um pedaço de feltro como o \"rato\" e um brinquedo como o \"gato\". A criança deve caminhar para \"caçar\" o rato para pegá-lo.",
+    "metadata": {
+      "titulo": "O Jogo do Gato e Rato",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_447",
+    "conteudo": "Descrição: A criança pode imitar um dinossauro, caminhando para \"caçar\" o brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Dinossauro",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_448",
+    "conteudo": "Descrição: A criança pode imitar um leão que \"caça\" um brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Leão",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_449",
+    "conteudo": "Descrição: Coloque dois barquinhos de brinquedo em uma bacia. A criança deve caminhar para \"correr\" para pegar o primeiro.",
+    "metadata": {
+      "titulo": "A Corrida dos Barquinhos",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_450",
+    "conteudo": "Descrição: A criança pode imitar um pássaro que \"voa\" para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Pássaro",
+      "dimensao": "HM",
+      "habilidade": "Desenha e colore dentro de limites.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_451",
+    "conteudo": "Descrição: Escreva o nome da criança em um papel e depois o separe em letras individuais. Diga que a criança é um detetive e precisa \"colar as pistas\" para formar o seu nome.",
+    "metadata": {
+      "titulo": "O Jogo do Detetive das Letras",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_452",
+    "conteudo": "Descrição: Escreva o nome da criança em um papel com um lápis. Diga que a criança é um explorador e precisa \"escrever o nome no mapa do tesouro\" para encontrar o tesouro.",
+    "metadata": {
+      "titulo": "Missão de Escrever o Nome no Tesouro",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_453",
+    "conteudo": "Descrição: A criança pode imitar um robô, fazendo movimentos rígidos e precisos para escrever as letras do nome.",
+    "metadata": {
+      "titulo": "O Jogo do Robô Escritor",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_454",
+    "conteudo": "Descrição: Em um ambiente com pouca luz, use uma lanterna para iluminar o nome da criança. A criança deve seguir a luz com um lápis ou giz para \"desenhar\" as letras.",
+    "metadata": {
+      "titulo": "A Aventura da Lanterna",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_455",
+    "conteudo": "Descrição: A criança é um super-herói com o poder de \"salvar o dia\" escrevendo o seu nome.",
+    "metadata": {
+      "titulo": "O Jogo do Super-Herói",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_456",
+    "conteudo": "Descrição: Coloque uma música animada. A cada pausa na música, a criança deve escrever uma letra do nome.",
+    "metadata": {
+      "titulo": "A Dança das Letras",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_457",
+    "conteudo": "Descrição: Desenhe um monstro com uma boca grande em um papel. A criança é o monstro e precisa \"comer\" (escrever as letras) para \"alimentar\" o monstro.",
+    "metadata": {
+      "titulo": "O Jogo do Monstro Comilão",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_458",
+    "conteudo": "Descrição: Coloque as letras do nome da criança a uma curta distância. A criança deve rastejar ou caminhar para pegar as letras e escrever o nome.",
+    "metadata": {
+      "titulo": "A Corrida das Letras",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_459",
+    "conteudo": "Descrição: A criança pode \"voar\" com o lápis. Incentive-a a \"pousar\" no papel e a escrever as letras do nome.",
+    "metadata": {
+      "titulo": "O Jogo do Aviãozinho do Lápis",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_460",
+    "conteudo": "Descrição: A criança pode imitar um pássaro que \"voa\" para \"bater\" no papel e escrever as letras do nome.",
+    "metadata": {
+      "titulo": "O Jogo do Pássaro",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_461",
+    "conteudo": "Descrição: A criança pode fazer círculos com o lápis no papel, como se fossem as pétalas de uma flor, para escrever o nome.",
+    "metadata": {
+      "titulo": "O Jogo da Flor",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_462",
+    "conteudo": "Descrição: A criança pode fazer o formato do sol com o lápis e depois escrever o nome.",
+    "metadata": {
+      "titulo": "O Jogo do Sol",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_463",
+    "conteudo": "Descrição: Esconda um pequeno \"tesouro\" (um adesivo, um brinquedo pequeno) em um papel. A criança deve \"recortar o mapa do tesouro\" para encontrar o tesouro.",
+    "metadata": {
+      "titulo": "A Caça ao Tesouro",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_464",
+    "conteudo": "Descrição: A criança é um marinheiro. Use uma bacia com água. Coloque brinquedos flutuantes e incentive-a a \"navegar\" com as mãos para alcançá-los.",
+    "metadata": {
+      "titulo": "A Missão do Marinheiro",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_465",
+    "conteudo": "Descrição: Use um pedaço de feltro como o \"rato\" e um brinquedo como o \"gato\". A criança deve \"caçar\" o rato para pegá-lo.",
+    "metadata": {
+      "titulo": "O Jogo do Gato e Rato",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_466",
+    "conteudo": "Descrição: A criança pode imitar um dinossauro, estendendo os braços para alcançar o brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Dinossauro",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_467",
+    "conteudo": "Descrição: A criança pode imitar um leão que \"caça\" um brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Leão",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_468",
+    "conteudo": "Descrição: Coloque dois barquinhos de brinquedo em uma bacia. A criança deve \"correr\" para pegar o primeiro.",
+    "metadata": {
+      "titulo": "A Corrida dos Barquinhos",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_469",
+    "conteudo": "Descrição: Em uma bacia, coloque bolinhas de plástico. A criança deve \"cozinhar\" as bolinhas.",
+    "metadata": {
+      "titulo": "O Jogo da Sopa de Bolinhas",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_470",
+    "conteudo": "Descrição: A criança deve \"destruir\" um castelo de blocos.",
+    "metadata": {
+      "titulo": "O Jogo do Castelo de Blocos",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_471",
+    "conteudo": "Descrição: Use um brinquedo de abelha. A criança pode imitar uma abelha para \"polinizar\" as \"flores\" (brinquedos) para pegá-los.",
+    "metadata": {
+      "titulo": "O Jogo da Abelha",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_472",
+    "conteudo": "Descrição: A criança pode imitar um macaco que \"colhe\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Macaco",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_473",
+    "conteudo": "Descrição: A criança pode imitar uma tartaruga, andando devagar para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Tartaruga",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_474",
+    "conteudo": "Descrição: Use um brinquedo em formato de estrela. A criança deve \"seguir a estrela\" para pegá-la.",
+    "metadata": {
+      "titulo": "O Jogo da Estrela Guia",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_475",
+    "conteudo": "Descrição: A criança pode segurar a bandeja como se fosse a \"lua\" que \"ilumina\" o brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo da Lua",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_476",
+    "conteudo": "Descrição: A criança pode imitar um caranguejo para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Caranguejo",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_477",
+    "conteudo": "Descrição: A criança pode imitar uma borboleta para \"voar\" e pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Borboleta",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_478",
+    "conteudo": "Descrição: A criança pode imitar um patinho que \"bebe\" a água.",
+    "metadata": {
+      "titulo": "O Jogo do Patinho",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_479",
+    "conteudo": "Descrição: A criança é um marinheiro e precisa \"navegar\" para encontrar os brinquedos.",
+    "metadata": {
+      "titulo": "A Missão do Marinheiro",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_480",
+    "conteudo": "Descrição: A criança pode soprar a sujeira para pegar o brinquedo.",
+    "metadata": {
+      "titulo": "O Jogo do Sopro Mágico",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_481",
+    "conteudo": "Descrição: A criança pode imitar um pássaro que \"voa\" para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Pássaro",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_482",
+    "conteudo": "Descrição: Use carrinhos de brinquedo para que a criança \"dirija\" para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "A Corrida dos Carrinhos",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_483",
+    "conteudo": "Descrição: A criança pode ver o brinquedo como um quebra-cabeça.",
+    "metadata": {
+      "titulo": "O Jogo do Quebra-Cabeça",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_484",
+    "conteudo": "Descrição: Esconda um pequeno \"tesouro\" (um adesivo, um brinquedo pequeno) em um lençol ou cobertor. A criança deve procurar o tesouro.",
+    "metadata": {
+      "titulo": "A Caça ao Tesouro",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_485",
+    "conteudo": "Descrição: Diga que os brinquedos são \"sementes\". A criança deve \"plantá-las\" em uma caixa.",
+    "metadata": {
+      "titulo": "O Jogo do Jardineiro",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_486",
+    "conteudo": "Descrição: Use blocos de montar e peça para a criança \"resgatá-los\".",
+    "metadata": {
+      "titulo": "O Resgate dos Blocos",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_487",
+    "conteudo": "Descrição: Use um prato com divisórias e peça para a criança colocar cada brinquedo em seu lugar.",
+    "metadata": {
+      "titulo": "O Jogo do Encaixe Perfeito",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_488",
+    "conteudo": "Descrição: Use um caminhão de brinquedo e peça para a criança \"recolher\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Caminhão de Lixo",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_489",
+    "conteudo": "Descrição: A criança pode \"caçar\" e pegar pequenos brinquedos com a mão.",
+    "metadata": {
+      "titulo": "O Jogo do Coelhinho da Páscoa",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_490",
+    "conteudo": "Descrição: Faça gestos de como pegar um brinquedo. A criança deve imitar e pegar.",
+    "metadata": {
+      "titulo": "O Jogo do Mímico",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_491",
+    "conteudo": "Descrição: Diga que a criança tem um amigo invisível que precisa de ajuda para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Amigo Invisível",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_492",
+    "conteudo": "Descrição: Use uma balança de brinquedo para que a criança \"pesque\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Balança",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_493",
+    "conteudo": "Descrição: Use uma rede de brinquedo para \"pescar\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Pescador",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_494",
+    "conteudo": "Descrição: A criança pode construir um \"castelo\" com os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Castelo de Brinquedos",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_495",
+    "conteudo": "Descrição: Use uma vassoura de brinquedo para a criança \"varrer\" os brinquedos para um local.",
+    "metadata": {
+      "titulo": "A Corrida de Vassouras",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_496",
+    "conteudo": "Descrição: A criança pode imitar uma abelha para \"polinizar\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Abelha",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_497",
+    "conteudo": "Descrição: A criança pode imitar um macaco que \"colhe\" os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo do Macaco",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_498",
+    "conteudo": "Descrição: A criança pode imitar uma tartaruga, andando devagar para pegar os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Tartaruga",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_499",
+    "conteudo": "Descrição: Use uma lanterna para que a criança \"siga a estrela\" e encontre os brinquedos.",
+    "metadata": {
+      "titulo": "O Jogo da Estrela Guia",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "hm_4a5_500",
+    "conteudo": "Descrição: Use bolinhas de gude que brilham no escuro para criar um caminho com o cadarço.",
+    "metadata": {
+      "titulo": "O Jogo do Caminho de Bolinhas de Gude",
+      "dimensao": "HM",
+      "habilidade": "Escreve o próprio nome em letras de forma.",
+      "nivel": "Nível 2",
+      "idade": "4 a 5 anos"
+    }
+  }
+]

@@ -1,0 +1,3852 @@
+[
+  {
+    "id": "cognicao_2a3_01",
+    "conteudo": "Descrição: Coloque alguns livros de cores diferentes em uma prateleira baixa. Peça à criança para pegar o livro vermelho.",
+    "metadata": {
+      "titulo": "Ache o Livro Vermelho",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_02",
+    "conteudo": "Descrição: Tenha alguns livros de animais. Diga à criança: \"Vamos ler sobre o cachorro. Pegue o livro do cachorro.\"",
+    "metadata": {
+      "titulo": "Vamos Ler sobre o Cachorro",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_03",
+    "conteudo": "Descrição: Diga à criança: \"Vamos ler um livro. O livro está na prateleira. Pegue o livro na prateleira.\"",
+    "metadata": {
+      "titulo": "Livro na Prateleira",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_04",
+    "conteudo": "Descrição: Coloque alguns livros em um cesto de brinquedos. Peça à criança para \"pegar o livro no cesto\".",
+    "metadata": {
+      "titulo": "O Livro no Cesto",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_05",
+    "conteudo": "Descrição: Deixe um livro em uma mesa ao alcance da criança. Peça a ela para pegar o livro que está na mesa.",
+    "metadata": {
+      "titulo": "Livro na Mesa",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_06",
+    "conteudo": "Descrição: Tenha vários livros e nomeie um deles como \"livro de histórias\". Peça à criança para pegá-lo.",
+    "metadata": {
+      "titulo": "O Livro de Histórias",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_07",
+    "conteudo": "Descrição: Dê duas opções de livros, um fino e um grosso. Peça à criança para pegar o livro fino.",
+    "metadata": {
+      "titulo": "Ache o Livro Fino",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_08",
+    "conteudo": "Descrição: Use um livro com diferentes texturas. Peça à criança para \"pegar o livro que faz barulho\" ou \"o livro macio\".",
+    "metadata": {
+      "titulo": "O Livro de Texturas",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_09",
+    "conteudo": "Descrição: Peça à criança para pegar o livro com a figura de uma maçã na capa.",
+    "metadata": {
+      "titulo": "Livro de Figuras",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_10",
+    "conteudo": "Descrição: Estabeleça um livro específico para ser lido em um momento do dia. Peça para a criança ir até ele e pegá-lo.",
+    "metadata": {
+      "titulo": "O Livro da Tarde",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_11",
+    "conteudo": "Descrição: Dê duas opções de livros, um grande e um pequeno. Peça à criança para pegar o livro grande.",
+    "metadata": {
+      "titulo": "Pegue o Livro Grande",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_12",
+    "conteudo": "Descrição: Peça à criança para pegar o livro de plástico que ela usa na hora do banho.",
+    "metadata": {
+      "titulo": "O Livro do Banho",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_13",
+    "conteudo": "Descrição: Use um livro cartonado com imagens de bebês. Peça à criança para encontrá-lo.",
+    "metadata": {
+      "titulo": "Ache o Livro do Bebê",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_14",
+    "conteudo": "Descrição: Coloque um ursinho de pelúcia em cima de um livro. Peça à criança para \"pegar o livro que o ursinho está lendo\".",
+    "metadata": {
+      "titulo": "Livro do Ursinho",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_15",
+    "conteudo": "Descrição: Use um livro com a figura de um lápis na capa. Peça à criança para pegá-lo.",
+    "metadata": {
+      "titulo": "O Livro do Lápis",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_16",
+    "conteudo": "Descrição: Peça à criança para pegar o livro de pano no cesto.",
+    "metadata": {
+      "titulo": "Ache o Livro de Pano",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_17",
+    "conteudo": "Descrição: Diga à criança: \"Vamos ler sobre carros. Pegue o livro dos veículos.\"",
+    "metadata": {
+      "titulo": "O Livro dos Veículos",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_18",
+    "conteudo": "Descrição: Coloque um livro perto de uma janela. Peça à criança para pegar o livro que está perto da janela.",
+    "metadata": {
+      "titulo": "Livro da Janela",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_19",
+    "conteudo": "Descrição: Peça à criança para pegar o livro que tem o desenho de uma vaca na capa.",
+    "metadata": {
+      "titulo": "O Livro da Fazenda",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_20",
+    "conteudo": "Descrição: Dê duas opções de livros, um fino e um grosso. Peça à criança para pegar o livro grosso.",
+    "metadata": {
+      "titulo": "Ache o Livro Grosso",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_21",
+    "conteudo": "Descrição: Diga: \"O nosso amigo [nome de um boneco] quer ler um livro. Pegue um livro para ele.\"",
+    "metadata": {
+      "titulo": "Livro do Amigo",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_22",
+    "conteudo": "Descrição: Peça à criança para pegar o livro que tem a figura de um pássaro na capa.",
+    "metadata": {
+      "titulo": "O Livro dos Pássaros",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_23",
+    "conteudo": "Descrição: Use um livro com botões de som. Peça à criança para pegar \"o livro que faz barulho\".",
+    "metadata": {
+      "titulo": "Livro com Som",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_24",
+    "conteudo": "Descrição: Coloque alguns livros de cores diferentes e peça à criança para pegar o livro verde.",
+    "metadata": {
+      "titulo": "Ache o Livro Verde",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_25",
+    "conteudo": "Descrição: Deixe um livro sobre uma cadeira. Peça à criança para pegar o livro que está na cadeira.",
+    "metadata": {
+      "titulo": "O Livro da Cadeira",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_26",
+    "conteudo": "Descrição: Coloque um livro em uma caixinha de brinquedos. Peça à criança para \"pegar o livro na caixinha\".",
+    "metadata": {
+      "titulo": "Livro da Caixinha",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_27",
+    "conteudo": "Descrição: Coloque alguns livros de cores diferentes. Peça à criança para pegar o livro azul.",
+    "metadata": {
+      "titulo": "Ache o Livro Azul",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_28",
+    "conteudo": "Descrição: Use um livro sobre o sol e a lua. Peça à criança para pegar \"o livro do sol\".",
+    "metadata": {
+      "titulo": "O Livro do Sol",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_29",
+    "conteudo": "Descrição: Peça à criança para pegar o livro que tem a capa cheia de cores.",
+    "metadata": {
+      "titulo": "Livro de Cores",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_30",
+    "conteudo": "Descrição: Use um livro com figuras para o dedo. Peça à criança para pegar \"o livro do dedo\".",
+    "metadata": {
+      "titulo": "O Livro do Dedo",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_31",
+    "conteudo": "Descrição: Peça à criança para pegar o livro que tem formas geométricas na capa.",
+    "metadata": {
+      "titulo": "Ache o Livro das Formas",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_32",
+    "conteudo": "Descrição: Deixe um livro sobre um banquinho pequeno. Peça à criança para pegar o livro.",
+    "metadata": {
+      "titulo": "Livro do Banquinho",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_33",
+    "conteudo": "Descrição: Diga: \"Vamos ler um livro com musiquinhas. Pegue o livro de rimas.\"",
+    "metadata": {
+      "titulo": "O Livro de Rimas",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_34",
+    "conteudo": "Descrição: Estabeleça um livro para a hora de dormir. Peça à criança para pegá-lo.",
+    "metadata": {
+      "titulo": "Livro do Pijama",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_35",
+    "conteudo": "Descrição: Peça à criança para pegar o livro que tem uma borboleta na capa.",
+    "metadata": {
+      "titulo": "Ache o Livro da Borboleta",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_36",
+    "conteudo": "Descrição: Coloque um livro na mesinha da criança. Peça para ela pegá-lo.",
+    "metadata": {
+      "titulo": "Livro da Mesinha",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_37",
+    "conteudo": "Descrição: Use um livro de vida marinha. Peça à criança para pegar o livro do peixe.",
+    "metadata": {
+      "titulo": "O Livro do Peixe",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_38",
+    "conteudo": "Descrição: Peça à criança para pegar o livro com a figura de um pato na capa.",
+    "metadata": {
+      "titulo": "Livro do Pato",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_39",
+    "conteudo": "Descrição: Peça à criança para pegar o livro que não se molha.",
+    "metadata": {
+      "titulo": "Ache o Livro de Plástico",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_40",
+    "conteudo": "Descrição: Use um livro sobre trens. Peça à criança para pegar o livro do trem.",
+    "metadata": {
+      "titulo": "O Livro do Trem",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_41",
+    "conteudo": "Descrição: Peça à criança para pegar o livro que tem um bebê na capa.",
+    "metadata": {
+      "titulo": "Livro do Bebê",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_42",
+    "conteudo": "Descrição: Coloque livros de cores diferentes. Peça à criança para pegar o livro marrom.",
+    "metadata": {
+      "titulo": "Ache o Livro Marrom",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_43",
+    "conteudo": "Descrição: Use um livro de transportes. Peça à criança para pegar o livro do avião.",
+    "metadata": {
+      "titulo": "O Livro do Avião",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_44",
+    "conteudo": "Descrição: Peça à criança para pegar o livro que tem a figura de uma árvore na capa.",
+    "metadata": {
+      "titulo": "Livro da Floresta",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_45",
+    "conteudo": "Descrição: Use um livro com figuras de contos de fadas. Peça à criança para pegar o livro da princesa.",
+    "metadata": {
+      "titulo": "Ache o Livro da Princesa",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_46",
+    "conteudo": "Descrição: Peça à criança para pegar o livro que tem a figura de uma colher na capa.",
+    "metadata": {
+      "titulo": "Livro da Cozinha",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_47",
+    "conteudo": "Descrição: Coloque alguns livros de cores diferentes. Peça à criança para pegar o livro amarelo.",
+    "metadata": {
+      "titulo": "O Livro Amarelo",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_48",
+    "conteudo": "Descrição: Peça à criança para pegar o livro que tem um gato na capa.",
+    "metadata": {
+      "titulo": "Livro do Gato",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_49",
+    "conteudo": "Descrição: Use um livro com figuras de água. Peça à criança para pegar o livro da água.",
+    "metadata": {
+      "titulo": "Ache o Livro da Água",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_50",
+    "conteudo": "Descrição: Peça à criança para pegar o livro com a figura de uma vaca na capa.",
+    "metadata": {
+      "titulo": "Livro da Vaca",
+      "dimensao": "Cognição",
+      "habilidade": "Localiza livros quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_51",
+    "conteudo": "Descrição: Use um quebra-cabeça de madeira simples com apenas duas peças grandes. Incentive a criança a encaixá-las.",
+    "metadata": {
+      "titulo": "Quebra-Cabeça de 2 Peças",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_52",
+    "conteudo": "Descrição: Ofereça blocos de encaixe grandes (tipo LEGO DUPLO) e mostre como encaixar duas ou três peças.",
+    "metadata": {
+      "titulo": "Blocos de Encaixe Grandes",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_53",
+    "conteudo": "Descrição: Use uma caixa de encaixe de formas simples, com peças de no máximo 4 formas (círculo, quadrado, triângulo).",
+    "metadata": {
+      "titulo": "Encaixe de Formas",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_54",
+    "conteudo": "Descrição: Ofereça um quebra-cabeça de pinos com figuras fáceis de reconhecer (ex: um carro, uma fruta). Incentive a criança a colocar a peça no lugar.",
+    "metadata": {
+      "titulo": "Quebra-Cabeça de Pinos",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_55",
+    "conteudo": "Descrição: Ofereça 3 ou 4 blocos de madeira e incentive a criança a empilhá-los para formar uma torre.",
+    "metadata": {
+      "titulo": "Montando a Torre",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_56",
+    "conteudo": "Descrição: Use uma casinha de boneca de encaixe com 2 ou 3 peças grandes e fáceis de montar.",
+    "metadata": {
+      "titulo": "Casinha de Boneca",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_57",
+    "conteudo": "Descrição: Use um quebra-cabeça de animais com no máximo 4 peças, onde cada peça é um animal.",
+    "metadata": {
+      "titulo": "Quebra-Cabeça de Animais",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_58",
+    "conteudo": "Descrição: Ofereça um trem de brinquedo com vagões que se encaixam e desencaixam facilmente.",
+    "metadata": {
+      "titulo": "Encaixando o Trem",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_59",
+    "conteudo": "Descrição: Use um quebra-cabeça de 3 peças com figuras de frutas. Peça à criança para montar a maçã ou a banana.",
+    "metadata": {
+      "titulo": "Quebra-Cabeça de Frutas",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_60",
+    "conteudo": "Descrição: Use um boneco de montar com 3 ou 4 partes que se encaixam (cabeça, tronco, pernas).",
+    "metadata": {
+      "titulo": "Montando o Boneco",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_61",
+    "conteudo": "Descrição: Use um quebra-cabeça com encaixes em uma prancha, com apenas 3 peças diferentes.",
+    "metadata": {
+      "titulo": "Quebra-Cabeça de Encaixe",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_62",
+    "conteudo": "Descrição: Use um brinquedo de empilhar com 3 ou 4 argolas e um pino central. Incentive a criança a colocar as argolas no lugar.",
+    "metadata": {
+      "titulo": "Empilhando Argolas",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_63",
+    "conteudo": "Descrição: Use um carrinho de brinquedo que se desmonta em 3 peças e incentive a criança a encaixá-las novamente.",
+    "metadata": {
+      "titulo": "Montando o Carro",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_64",
+    "conteudo": "Descrição: Use um quebra-cabeça de 4 peças com figuras de meios de transporte (carro, avião, trem).",
+    "metadata": {
+      "titulo": "Quebra-Cabeça de Meios de Transporte",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_65",
+    "conteudo": "Descrição: Use um brinquedo em formato de queijo com buracos e peças de encaixe (ex: um ratinho).",
+    "metadata": {
+      "titulo": "Encaixando o Queijo",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_66",
+    "conteudo": "Descrição: Use um robô de brinquedo com 4 partes que se encaixam e se desencaixam facilmente.",
+    "metadata": {
+      "titulo": "Montando o Robô",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_67",
+    "conteudo": "Descrição: Use um quebra-cabeça de um pato com 2 peças que se encaixam.",
+    "metadata": {
+      "titulo": "Quebra-Cabeça de Pato",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_68",
+    "conteudo": "Descrição: Ofereça 3 ou 4 copos de plástico que se encaixam um dentro do outro.",
+    "metadata": {
+      "titulo": "Encaixe de Copos",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_69",
+    "conteudo": "Descrição: Use um quebra-cabeça com peças de cores diferentes que se encaixam para formar um quadrado.",
+    "metadata": {
+      "titulo": "Quebra-Cabeça de Cores",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_70",
+    "conteudo": "Descrição: Use blocos de construção para montar um castelo simples com 3 ou 4 peças.",
+    "metadata": {
+      "titulo": "Montando o Castelo",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_71",
+    "conteudo": "Descrição: Use um brinquedo que tenha 3 ou 4 buracos e incentive a criança a encaixar bolinhas.",
+    "metadata": {
+      "titulo": "Encaixando a Bola",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_72",
+    "conteudo": "Descrição: Use um quebra-cabeça de 4 peças com figuras de peixes.",
+    "metadata": {
+      "titulo": "Quebra-Cabeça de Peixes",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_73",
+    "conteudo": "Descrição: Use um avião de brinquedo que se desmonta em 3 ou 4 peças.",
+    "metadata": {
+      "titulo": "Montando o Avião",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_74",
+    "conteudo": "Descrição: Use um quebra-cabeça com peças redondas que se encaixam em uma prancha.",
+    "metadata": {
+      "titulo": "Quebra-Cabeça de Círculos",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_75",
+    "conteudo": "Descrição: Use uma boneca que tem 3 peças de encaixe (cabelo, vestido, sapato).",
+    "metadata": {
+      "titulo": "Encaixando a Boneca",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_76",
+    "conteudo": "Descrição: Use um caminhão de brinquedo que se desmonta em 3 peças e se encaixa.",
+    "metadata": {
+      "titulo": "Montando o Caminhão",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_77",
+    "conteudo": "Descrição: Use um quebra-cabeça de 4 peças com a figura de um trem.",
+    "metadata": {
+      "titulo": "Quebra-Cabeça de Trem",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_78",
+    "conteudo": "Descrição: Use um brinquedo sonoro que se encaixa em 3 partes.",
+    "metadata": {
+      "titulo": "Encaixando o Brinquedo Sonoro",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_79",
+    "conteudo": "Descrição: Use um brinquedo de montar com 4 peças que formam uma girafa.",
+    "metadata": {
+      "titulo": "Montando a Girafa",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_80",
+    "conteudo": "Descrição: Use um quebra-cabeça de 3 peças com a figura de um elefante.",
+    "metadata": {
+      "titulo": "Quebra-Cabeça de Elefante",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_81",
+    "conteudo": "Descrição: Use 4 cubos de plástico que se encaixam para formar uma estrutura.",
+    "metadata": {
+      "titulo": "Encaixando o Cubo",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_82",
+    "conteudo": "Descrição: Use um brinquedo de encaixe com 3 peças que formam uma joaninha.",
+    "metadata": {
+      "titulo": "Montando a Joaninha",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_83",
+    "conteudo": "Descrição: Use um quebra-cabeça de 4 peças com a figura de uma casa.",
+    "metadata": {
+      "titulo": "Quebra-Cabeça de Casa",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_84",
+    "conteudo": "Descrição: Use um brinquedo de encaixe com 3 peças que formam um caranguejo.",
+    "metadata": {
+      "titulo": "Encaixando o Caranguejo",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_85",
+    "conteudo": "Descrição: Use um barco de brinquedo que se desmonta em 4 peças.",
+    "metadata": {
+      "titulo": "Montando o Barco",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_86",
+    "conteudo": "Descrição: Use um quebra-cabeça de 3 peças com a figura de um sol.",
+    "metadata": {
+      "titulo": "Quebra-Cabeça de Sol",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_87",
+    "conteudo": "Descrição: Use 3 potes que se encaixam um dentro do outro.",
+    "metadata": {
+      "titulo": "Encaixando o Pote",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_88",
+    "conteudo": "Descrição: Use um brinquedo de encaixe de 4 peças que formam uma estrela.",
+    "metadata": {
+      "titulo": "Montando a Estrela",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_89",
+    "conteudo": "Descrição: Use um quebra-cabeça de 3 peças com a figura de uma flor.",
+    "metadata": {
+      "titulo": "Quebra-Cabeça de Flor",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_90",
+    "conteudo": "Descrição: Use um brinquedo de encaixe com 4 peças que formam um pássaro.",
+    "metadata": {
+      "titulo": "Encaixando o Pássaro",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_91",
+    "conteudo": "Descrição: Use um brinquedo de encaixe de 3 peças que formam um rato.",
+    "metadata": {
+      "titulo": "Montando o Rato",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_92",
+    "conteudo": "Descrição: Use um quebra-cabeça de 4 peças com a figura de um gato.",
+    "metadata": {
+      "titulo": "Quebra-Cabeça de Gato",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_93",
+    "conteudo": "Descrição: Use um brinquedo de encaixe de 3 peças que formam uma coroa.",
+    "metadata": {
+      "titulo": "Encaixando a Coroa",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_94",
+    "conteudo": "Descrição: Use um brinquedo de montar com 4 peças que formam um peixe.",
+    "metadata": {
+      "titulo": "Montando o Peixe",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_95",
+    "conteudo": "Descrição: Use um quebra-cabeça de 3 peças com a figura de uma nuvem.",
+    "metadata": {
+      "titulo": "Quebra-Cabeça de Nuvem",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_96",
+    "conteudo": "Descrição: Use um brinquedo de empilhar com 3 peças que se encaixam em um cone.",
+    "metadata": {
+      "titulo": "Encaixando o Cone",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_97",
+    "conteudo": "Descrição: Use um quebra-cabeça de 4 peças que formam uma árvore.",
+    "metadata": {
+      "titulo": "Montando a Árvore",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_98",
+    "conteudo": "Descrição: Use um quebra-cabeça de 3 peças com a figura de um avião.",
+    "metadata": {
+      "titulo": "Quebra-Cabeça de Avião",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_99",
+    "conteudo": "Descrição: Use um brinquedo de encaixe com 4 peças que formam uma abelha.",
+    "metadata": {
+      "titulo": "Encaixando a Abelha",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_100",
+    "conteudo": "Descrição: Use um brinquedo de montar com 3 peças que formam um coelho.",
+    "metadata": {
+      "titulo": "Montando o Coelhinho",
+      "dimensao": "Cognição",
+      "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_101",
+    "conteudo": "Descrição: Desenhe uma linha reta em um papel. Incentive a criança a desenhar uma linha reta ao seu lado, imitando o seu movimento.",
+    "metadata": {
+      "titulo": "Linha Reta",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_102",
+    "conteudo": "Descrição: Desenhe um círculo no papel. Diga \"olha, uma bolinha!\". Incentive a criança a desenhar um círculo ao lado.",
+    "metadata": {
+      "titulo": "Bolinha de Sabão",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_103",
+    "conteudo": "Descrição: Desenhe um círculo e adicione alguns traços curtos ao redor. Diga que é o sol e incentive a criança a copiar.",
+    "metadata": {
+      "titulo": "Fazendo o Sol",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_104",
+    "conteudo": "Descrição: Use giz de cera grosso para desenhar rabiscos grandes. O giz é mais fácil de segurar e o traço é mais visível.",
+    "metadata": {
+      "titulo": "Desenho com Giz Grosso",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_105",
+    "conteudo": "Descrição: Desenhe uma linha curva no papel. Diga \"uma cobrinha!\" e incentive a criança a fazer uma linha parecida.",
+    "metadata": {
+      "titulo": "Linha Curva",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_106",
+    "conteudo": "Descrição: Desenhe várias linhas verticais curtas. Diga que é a chuva e peça para a criança desenhar a chuva.",
+    "metadata": {
+      "titulo": "Fazendo a Chuva",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_107",
+    "conteudo": "Descrição: Use tinta atóxica para dedo. Faça um rabisco simples com o seu dedo e peça para a criança fazer o mesmo.",
+    "metadata": {
+      "titulo": "Desenho com Tinta Dedo",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_108",
+    "conteudo": "Descrição: Desenhe um quadrado e ligue-o a outro quadrado com uma linha. Diga \"é o trem!\" e incentive a criança a imitar.",
+    "metadata": {
+      "titulo": "Fazendo o Trem",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_109",
+    "conteudo": "Descrição: Use um pincel grosso e tinta. Faça um traço no papel e mostre à criança como fazer um traço igual.",
+    "metadata": {
+      "titulo": "Pintura com Pincel",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_110",
+    "conteudo": "Descrição: Desenhe um círculo. Diga \"é um balão!\". Ajude a criança a segurar o lápis e a desenhar o seu próprio balão.",
+    "metadata": {
+      "titulo": "Círculos do Balão",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_111",
+    "conteudo": "Descrição: Desenhe um círculo e algumas pétalas simples. Diga \"olha a flor!\" e incentive a criança a imitar.",
+    "metadata": {
+      "titulo": "Desenho de Flor",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_112",
+    "conteudo": "Descrição: Desenhe duas linhas que se cruzam. Diga \"é um X!\" e incentive a criança a fazer o mesmo.",
+    "metadata": {
+      "titulo": "Linhas Cruzadas",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_113",
+    "conteudo": "Descrição: Desenhe uma espiral no papel. Diga \"um caracol!\" e ajude a criança a fazer o movimento circular.",
+    "metadata": {
+      "titulo": "Fazendo o Caracol",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_114",
+    "conteudo": "Descrição: Use a lousa mágica. Faça um desenho simples e apague. Peça à criança para fazer o mesmo desenho.",
+    "metadata": {
+      "titulo": "Desenho na Lousa Mágica",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_115",
+    "conteudo": "Descrição: Use uma bandeja com areia. Faça um desenho simples com o dedo na areia. Incentive a criança a copiar.",
+    "metadata": {
+      "titulo": "O Dedo na Areia",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_116",
+    "conteudo": "Descrição: Use um lápis de cor. Desenhe uma linha reta e peça para a criança fazer uma linha igual, com a mesma cor.",
+    "metadata": {
+      "titulo": "Linhas de Lápis de Cor",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_117",
+    "conteudo": "Descrição: Desenhe um tronco e uma nuvem em cima. Diga que é uma árvore e incentive a criança a imitar.",
+    "metadata": {
+      "titulo": "Fazendo a Árvore",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_118",
+    "conteudo": "Descrição: Desenhe uma forma circular com um nariz. Diga que é um palhaço e peça para a criança imitar a forma.",
+    "metadata": {
+      "titulo": "O Rabisco do Palhaço",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_119",
+    "conteudo": "Descrição: Corte uma esponja. Molhe-a na tinta e faça um desenho simples no papel. Incentive a criança a copiar.",
+    "metadata": {
+      "titulo": "Pintura com Esponja",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_120",
+    "conteudo": "Descrição: Desenhe uma linha vertical de cima para baixo. Diga \"linha em pé!\" e incentive a criança a imitar.",
+    "metadata": {
+      "titulo": "Linhas na Vertical",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_121",
+    "conteudo": "Descrição: Desenhe uma sequência de bolinhas interligadas. Diga que é uma lagarta e peça para a criança desenhar uma também.",
+    "metadata": {
+      "titulo": "Fazendo a Lagarta",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_122",
+    "conteudo": "Descrição: Desenhe um quadrado e um triângulo em cima. Diga \"olha a casinha!\" e ajude a criança a fazer uma igual.",
+    "metadata": {
+      "titulo": "Desenho de Casinha",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_123",
+    "conteudo": "Descrição: Desenhe um círculo e orelhas triangulares. Diga \"é um cachorro!\" e incentive a criança a imitar.",
+    "metadata": {
+      "titulo": "Fazendo um Cachorro",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_124",
+    "conteudo": "Descrição: Desenhe uma linha horizontal da esquerda para a direita. Diga \"linha deitada!\" e incentive a criança a imitar.",
+    "metadata": {
+      "titulo": "Linhas na Horizontal",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_125",
+    "conteudo": "Descrição: Use um pompom preso a um pregador de roupa. Molhe na tinta e faça um desenho simples no papel. Incentive a criança a copiar.",
+    "metadata": {
+      "titulo": "Desenho com Pompom",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_126",
+    "conteudo": "Descrição: Desenhe um semicírculo. Diga que é a lua e incentive a criança a fazer o mesmo.",
+    "metadata": {
+      "titulo": "Fazendo a Lua",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_127",
+    "conteudo": "Descrição: Desenhe uma nuvem com traços circulares. Peça para a criança fazer uma igual.",
+    "metadata": {
+      "titulo": "Desenho de Nuvem",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_128",
+    "conteudo": "Descrição: Desenhe uma forma de 8. Diga \"olha o pato!\" e ajude a criança a desenhar um pato.",
+    "metadata": {
+      "titulo": "Fazendo um Pato",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_129",
+    "conteudo": "Descrição: Use um pote de iogurte vazio. Molhe a borda na tinta e faça um círculo no papel. Incentive a criança a fazer o mesmo.",
+    "metadata": {
+      "titulo": "Pintura com Pote de Iogurte",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_130",
+    "conteudo": "Descrição: Desenhe um triângulo com uma linha. Diga \"é uma seta!\" e incentive a criança a copiar.",
+    "metadata": {
+      "titulo": "Desenho de Seta",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_131",
+    "conteudo": "Descrição: Desenhe várias linhas verticais. Diga que é uma cerca e peça para a criança imitar.",
+    "metadata": {
+      "titulo": "Fazendo a Cerca",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_132",
+    "conteudo": "Descrição: Use um pedaço de papelão. Desenhe um quadrado e incentive a criança a fazer um igual.",
+    "metadata": {
+      "titulo": "Desenho no Papelão",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_133",
+    "conteudo": "Descrição: Use um rolo de pintura pequeno. Molhe na tinta e faça um rabisco. Incentive a criança a rolar o pincel para imitar.",
+    "metadata": {
+      "titulo": "Pintura com Rolo",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_134",
+    "conteudo": "Descrição: Desenhe um círculo com uma ponta. Diga que é uma folha e incentive a criança a fazer uma igual.",
+    "metadata": {
+      "titulo": "Fazendo a Folha",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_135",
+    "conteudo": "Descrição: Use cotonetes e tinta. Faça um desenho com vários pontos. Peça para a criança imitar.",
+    "metadata": {
+      "titulo": "Desenho com Cotonetes",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_136",
+    "conteudo": "Descrição: Desenhe dois círculos e duas asas. Diga \"olha a borboleta!\". Incentive a criança a imitar.",
+    "metadata": {
+      "titulo": "Fazendo a Borboleta",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_137",
+    "conteudo": "Descrição: Desenhe um triângulo com pontas. Diga que é uma cenoura e incentive a criança a fazer uma igual.",
+    "metadata": {
+      "titulo": "Desenho de Cenoura",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_138",
+    "conteudo": "Descrição: Molhe um barbante grosso na tinta e faça um rabisco no papel. Incentive a criança a arrastar o barbante para imitar.",
+    "metadata": {
+      "titulo": "Pintura com Barbante",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_139",
+    "conteudo": "Descrição: Desenhe um quadrado e um triângulo. Adicione uma porta e janelas. Incentive a criança a fazer igual.",
+    "metadata": {
+      "titulo": "Fazendo a Casa de Boneca",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_140",
+    "conteudo": "Descrição: Desenhe vários retângulos interligados. Diga que é um trem e ajude a criança a fazer um.",
+    "metadata": {
+      "titulo": "Desenho de Trem",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_141",
+    "conteudo": "Descrição: Desenhe um círculo e duas orelhas grandes. Diga \"olha o coelho!\". Peça para a criança imitar.",
+    "metadata": {
+      "titulo": "Fazendo o Coelho",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_142",
+    "conteudo": "Descrição: Coloque tinta em um saco plástico e lacre. A criança pode fazer rabiscos com o dedo sobre o plástico.",
+    "metadata": {
+      "titulo": "Desenho no Saco Plástico",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_143",
+    "conteudo": "Descrição: Desenhe um círculo com um triângulo. Diga \"olha o peixe!\". Incentive a criança a imitar.",
+    "metadata": {
+      "titulo": "Fazendo o Peixe",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_144",
+    "conteudo": "Descrição: Use uma caixa de areia. Faça um desenho simples na areia com o dedo e incentive a criança a imitar.",
+    "metadata": {
+      "titulo": "Desenho na Areia",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_145",
+    "conteudo": "Descrição: Desenhe uma linha curva e diga \"uma cobra!\". Peça para a criança desenhar uma.",
+    "metadata": {
+      "titulo": "Fazendo a Cobra",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_146",
+    "conteudo": "Descrição: Desenhe um semicírculo e algumas bolinhas. Diga \"uma joaninha!\". Incentive a criança a imitar.",
+    "metadata": {
+      "titulo": "Desenho de Joaninha",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_147",
+    "conteudo": "Descrição: Use uma tampinha de garrafa. Molhe na tinta e carimbe um círculo no papel. Incentive a criança a fazer o mesmo.",
+    "metadata": {
+      "titulo": "Pintura com Carimbo",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_148",
+    "conteudo": "Descrição: Desenhe um círculo e dois triângulos. Diga \"é um gato!\". Incentive a criança a imitar.",
+    "metadata": {
+      "titulo": "Fazendo o Gato",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_149",
+    "conteudo": "Descrição: Desenhe um círculo e uma linha. Diga \"um balão!\" e ajude a criança a desenhar um igual.",
+    "metadata": {
+      "titulo": "Desenho de Balão",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_150",
+    "conteudo": "Descrição: Faça uma mistura de sabão, água e tinta. Use um canudo para soprar e fazer rabiscos no papel. Incentive a criança a fazer o mesmo.",
+    "metadata": {
+      "titulo": "Pintura com Bolha de Sabão",
+      "dimensao": "Cognição",
+      "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_151",
+    "conteudo": "Descrição: Ofereça uma bola grande e uma pequena. Peça à criança para pegar a \"bola grande\". Depois, peça para pegar a \"bola pequena\".",
+    "metadata": {
+      "titulo": "A Bolinha Grande e Pequena",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_152",
+    "conteudo": "Descrição: Tenha um ursinho de pelúcia grande e outro pequeno. Diga à criança: \"Vamos abraçar o ursinho grande!\" e, em seguida, \"Pegue o ursinho pequeno!\".",
+    "metadata": {
+      "titulo": "O Ursinho Gigante",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_153",
+    "conteudo": "Descrição: Use dois blocos de construção, um grande e um pequeno. Diga: \"Pegue o bloco grande!\". Repita com o bloco pequeno.",
+    "metadata": {
+      "titulo": "Pega o Bloco",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_154",
+    "conteudo": "Descrição: Use um carrinho de brinquedo grande e um carrinho pequeno. Peça à criança para empurrar o \"carrinho grande\" e depois o \"carrinho pequeno\".",
+    "metadata": {
+      "titulo": "O Carrinho Família",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_155",
+    "conteudo": "Descrição: Aponte para uma cadeira de adulto e para uma cadeira de criança. Diga: \"Olha a cadeira grande!\" e \"Olha a cadeira pequena!\". Peça para a criança apontar para a cadeira grande.",
+    "metadata": {
+      "titulo": "A Cadeira do Papai",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_156",
+    "conteudo": "Descrição: Use dois potes de plástico, um grande e um pequeno. Diga: \"Onde está o pote grande?\". Peça para a criança apontar.",
+    "metadata": {
+      "titulo": "Potes Grandes e Pequenos",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_157",
+    "conteudo": "Descrição: Ofereça dois livros, um grande e um pequeno. Peça à criança para pegar o \"livro grande\". Repita com o livro pequeno.",
+    "metadata": {
+      "titulo": "O Livro Gigante",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_158",
+    "conteudo": "Descrição: Use um garfo e uma colher de brinquedo, um grande e um pequeno. Peça: \"Pegue o garfo pequeno!\".",
+    "metadata": {
+      "titulo": "Vamos Comer!",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_159",
+    "conteudo": "Descrição: Use um par de sapatos de adulto e um par de sapatos de criança. Peça para a criança apontar para os \"sapatos grandes\".",
+    "metadata": {
+      "titulo": "Os Sapatos da Mamãe",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_160",
+    "conteudo": "Descrição: Ofereça duas colheres, uma de sopa e uma de chá. Peça à criança para pegar a \"colher grande\".",
+    "metadata": {
+      "titulo": "A Colher de Sopa",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_161",
+    "conteudo": "Descrição: Use duas caixas, uma grande e uma pequena. Diga: \"Vamos guardar os brinquedos na caixa grande!\".",
+    "metadata": {
+      "titulo": "Vamos Guardar!",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_162",
+    "conteudo": "Descrição: Use duas bolinhas de plástico, uma grande e uma pequena. Peça à criança para rolar a \"bolinha grande\".",
+    "metadata": {
+      "titulo": "As Bolinhas de Plástico",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_163",
+    "conteudo": "Descrição: Use flores de plástico, uma grande e uma pequena. Peça à criança para cheirar a \"flor grande\".",
+    "metadata": {
+      "titulo": "A Flor do Jardim",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_164",
+    "conteudo": "Descrição: Use um copo grande e um copo pequeno. Diga: \"Pegue o copo pequeno!\".",
+    "metadata": {
+      "titulo": "Os Copos para o Chá",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_165",
+    "conteudo": "Descrição: Use um balde de praia grande e um pequeno. Peça à criança para encher o \"balde pequeno\".",
+    "metadata": {
+      "titulo": "O Balde da Praia",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_166",
+    "conteudo": "Descrição: Use uma boneca de pano grande e outra pequena. Peça à criança para dar um abraço na \"boneca grande\".",
+    "metadata": {
+      "titulo": "A Boneca de Pano",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_167",
+    "conteudo": "Descrição: Aponte para uma janela e para um quadro pequeno. Diga: \"Olha a janela grande!\". Peça para a criança apontar para o quadro pequeno.",
+    "metadata": {
+      "titulo": "A Janela e o Quadrinho",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_168",
+    "conteudo": "Descrição: Use um prato grande e um prato pequeno de brinquedo. Peça à criança para colocar um pedaço de fruta no \"prato pequeno\".",
+    "metadata": {
+      "titulo": "Os Pratos da Cozinha",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_169",
+    "conteudo": "Descrição: Use um pão de brinquedo grande e um pequeno. Peça à criança para pegar o \"pãozinho pequeno\".",
+    "metadata": {
+      "titulo": "O Pãozinho do Lanche",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_170",
+    "conteudo": "Descrição: Use um bloco de LEGO grande e outro pequeno. Peça: \"Pegue o Lego grande para a nossa torre!\".",
+    "metadata": {
+      "titulo": "Os Legos da Torre",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_171",
+    "conteudo": "Descrição: Use uma tampa grande de pote e uma pequena de garrafa. Peça à criança para pegar a \"tampinha pequena\".",
+    "metadata": {
+      "titulo": "As Tampinhas",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_172",
+    "conteudo": "Descrição: Use um patinho de borracha grande e um pequeno. Peça à criança para pegar o \"patinho pequeno\".",
+    "metadata": {
+      "titulo": "Os Patinhos de Borracha",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_173",
+    "conteudo": "Descrição: Use duas conchas, uma grande e uma pequena. Peça à criança para colocar a \"concha grande\" na caixa.",
+    "metadata": {
+      "titulo": "As Conchas da Praia",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_174",
+    "conteudo": "Descrição: Use duas peças de encaixe, uma grande e uma pequena. Diga: \"Encaixe a peça grande!\".",
+    "metadata": {
+      "titulo": "Os Brinquedos de Encaixe",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_175",
+    "conteudo": "Descrição: Use um pincel grande e um pequeno. Peça à criança para pegar o \"pincel pequeno\".",
+    "metadata": {
+      "titulo": "Os Pincéis de Pintura",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_176",
+    "conteudo": "Descrição: Use uma folha grande e uma pequena de plástico. Diga: \"Pegue a folha grande!\".",
+    "metadata": {
+      "titulo": "As Folhas do Chão",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_177",
+    "conteudo": "Descrição: Use um cubo grande e um pequeno. Diga: \"Vamos construir com o cubo pequeno!\".",
+    "metadata": {
+      "titulo": "Os Cubos da Construção",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_178",
+    "conteudo": "Descrição: Use uma garrafa de água grande e uma pequena. Peça à criança para pegar a \"garrafa pequena\".",
+    "metadata": {
+      "titulo": "As Garrafas de Água",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_179",
+    "conteudo": "Descrição: Use um bloco de montar grande e um pequeno. Peça para a criança empilhar o \"bloco grande\".",
+    "metadata": {
+      "titulo": "Os Blocos de Montar",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_180",
+    "conteudo": "Descrição: Use duas moedas de brinquedo, uma grande e uma pequena. Peça à criança para colocar a \"moeda pequena\" no porquinho.",
+    "metadata": {
+      "titulo": "As Moedas de Brinquedo",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_181",
+    "conteudo": "Descrição: Use um chaveiro grande e um pequeno. Peça à criança para pegar o \"chaveiro pequeno\".",
+    "metadata": {
+      "titulo": "As Chaves de Brinquedo",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_182",
+    "conteudo": "Descrição: Use um vaso de planta de brinquedo grande e um pequeno. Peça à criança para colocar uma flor no \"vaso pequeno\".",
+    "metadata": {
+      "titulo": "Os Vasos de Planta",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_183",
+    "conteudo": "Descrição: Use uma esponja grande e uma pequena. Peça à criança para pegar a \"esponja grande\".",
+    "metadata": {
+      "titulo": "As Esponjas do Banho",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_184",
+    "conteudo": "Descrição: Use um pote de creme grande e um pequeno. Peça à criança para fechar o \"pote grande\".",
+    "metadata": {
+      "titulo": "Os Potes de Creme",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_185",
+    "conteudo": "Descrição: Use um balão grande e um pequeno. Peça à criança para soprar o \"balão pequeno\".",
+    "metadata": {
+      "titulo": "Os Balões do Céu",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_186",
+    "conteudo": "Descrição: Use duas sementes de brinquedo, uma grande e uma pequena. Peça à criança para pegar a \"semente pequena\".",
+    "metadata": {
+      "titulo": "As Sementes da Terra",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_187",
+    "conteudo": "Descrição: Use um porco grande e um porco pequeno de brinquedo. Peça à criança para pegar o \"porco grande\".",
+    "metadata": {
+      "titulo": "Os Animais da Fazenda",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_188",
+    "conteudo": "Descrição: Use uma chupeta grande e uma pequena. Peça à criança para dar a \"chupeta pequena\" para o boneco.",
+    "metadata": {
+      "titulo": "As Chupetas dos Bonecos",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_189",
+    "conteudo": "Descrição: Use uma caixa grande e uma pequena. Peça à criança para entrar na \"caixa pequena\".",
+    "metadata": {
+      "titulo": "As Caixas de Papelão",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_190",
+    "conteudo": "Descrição: Use uma almofada grande e uma pequena. Diga: \"Deite a cabeça na almofada grande!\".",
+    "metadata": {
+      "titulo": "As Almofadas da Cama",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_191",
+    "conteudo": "Descrição: Use um quadro grande e um pequeno. Peça para a criança apontar para o \"quadro pequeno\".",
+    "metadata": {
+      "titulo": "Os Quadros da Parede",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_192",
+    "conteudo": "Descrição: Use uma bolinha de gude grande e uma pequena. Peça à criança para pegar a \"bolinha grande\".",
+    "metadata": {
+      "titulo": "As Bolinhas de Gude",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_193",
+    "conteudo": "Descrição: Use um pote de iogurte grande e um pequeno. Peça à criança para encher o \"pote grande\".",
+    "metadata": {
+      "titulo": "Os Potes de Iogurte",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_194",
+    "conteudo": "Descrição: Use uma bola de meia grande e uma pequena. Peça à criança para pegar a \"bola de meia pequena\".",
+    "metadata": {
+      "titulo": "As Bolas de Meia",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_195",
+    "conteudo": "Descrição: Use uma telha de brinquedo grande e uma pequena. Peça para a criança colocar a \"telha grande\" na casa.",
+    "metadata": {
+      "titulo": "Os Telhados da Casa",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_196",
+    "conteudo": "Descrição: Use uma forma de madeira grande e uma pequena. Peça para a criança encaixar a \"forma pequena\".",
+    "metadata": {
+      "titulo": "As Formas de Madeira",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_197",
+    "conteudo": "Descrição: Use uma maçã de brinquedo grande e uma pequena. Peça para a criança morder a \"maçã pequena\".",
+    "metadata": {
+      "titulo": "As Maçãs da Fruteira",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_198",
+    "conteudo": "Descrição: Use um pote de tinta grande e um pequeno. Peça para a criança pegar o \"pote de tinta grande\".",
+    "metadata": {
+      "titulo": "Os Potes de Tinta",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_199",
+    "conteudo": "Descrição: Use um pedaço de papel grande e um pequeno. Peça para a criança amassar o \"pedaço de papel pequeno\".",
+    "metadata": {
+      "titulo": "Os Pedaços de Papel",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_200",
+    "conteudo": "Descrição: Use um bloco grande e um pequeno. Peça para a criança encaixar o \"bloco grande\".",
+    "metadata": {
+      "titulo": "Os Blocos de Encaixe",
+      "dimensao": "Cognição",
+      "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_201",
+    "conteudo": "Descrição: Use uma caixa aberta e uma bola. Diga à criança: \"Coloque a bola dentro da caixa\".",
+    "metadata": {
+      "titulo": "Coloca a Bola Dentro da Caixa",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_202",
+    "conteudo": "Descrição: Use um banco ou uma cadeira. Diga à criança: \"Sente-se em cima do banco\".",
+    "metadata": {
+      "titulo": "Senta no Banco",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_203",
+    "conteudo": "Descrição: Esconda um brinquedo debaixo de uma cadeira. Peça à criança para \"achar o brinquedo que está embaixo da cadeira\".",
+    "metadata": {
+      "titulo": "Ache o Brinquedo Embaixo da Cadeira",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_204",
+    "conteudo": "Descrição: Use um pato de borracha e uma bacia. Diga à criança: \"Põe o pato dentro da banheira\".",
+    "metadata": {
+      "titulo": "Põe o Pato na Banheira",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_205",
+    "conteudo": "Descrição: Coloque um livro na mesa. Peça à criança: \"Pegue o livro que está em cima da mesa\".",
+    "metadata": {
+      "titulo": "O Livro Em Cima da Mesa",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_206",
+    "conteudo": "Descrição: Esconda um carrinho debaixo de um lençol. Peça à criança para \"pegar o carrinho que está embaixo do lençol\".",
+    "metadata": {
+      "titulo": "O Carrinho Debaixo do Lençol",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_207",
+    "conteudo": "Descrição: Use uma caixa de papelão grande. Peça à criança para entrar \"dentro da caixinha\".",
+    "metadata": {
+      "titulo": "Vamos para Dentro da Caixinha?",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_208",
+    "conteudo": "Descrição: Aponte para a cabeça da criança. Diga: \"Coloque a mão em cima da sua cabeça\".",
+    "metadata": {
+      "titulo": "A Mão na Cabeça",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_209",
+    "conteudo": "Descrição: Esconda um bloco debaixo de uma almofada. Peça à criança para \"tirar o bloco que está embaixo da almofada\".",
+    "metadata": {
+      "titulo": "O Bloco Debaixo da Almofada",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_210",
+    "conteudo": "Descrição: Use um balde. Peça à criança para colocar os pés \"dentro do balde\".",
+    "metadata": {
+      "titulo": "Os Pés Dentro do Balde",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_211",
+    "conteudo": "Descrição: Peça à criança para colocar o telefone de brinquedo em cima da mesa.",
+    "metadata": {
+      "titulo": "O Telefone na Mesa",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_212",
+    "conteudo": "Descrição: Use um pote com água. Diga: \"Põe o pato dentro da água\".",
+    "metadata": {
+      "titulo": "O Pato na Água",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_213",
+    "conteudo": "Descrição: Peça à criança para colocar um pano dobrado em cima da cadeira.",
+    "metadata": {
+      "titulo": "O Pano Em Cima da Cadeira",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_214",
+    "conteudo": "Descrição: Esconda um brinquedo debaixo do sofá. Peça à criança para \"pegar o brinquedo embaixo do sofá\".",
+    "metadata": {
+      "titulo": "O Brinquedo Debaixo do Sofá",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_215",
+    "conteudo": "Descrição: Use uma caixa pequena. Peça à criança para colocar os pés \"dentro da caixa\".",
+    "metadata": {
+      "titulo": "Os Pés na Caixa",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_216",
+    "conteudo": "Descrição: Coloque uma bola em cima de uma prateleira baixa. Peça à criança para pegá-la.",
+    "metadata": {
+      "titulo": "A Bola Em Cima da Prateleira",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_217",
+    "conteudo": "Descrição: Esconda um chocalho debaixo de uma toalha. Peça à criança para \"achar o chocalho embaixo da toalha\".",
+    "metadata": {
+      "titulo": "O Chocalho Debaixo da Toalha",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_218",
+    "conteudo": "Descrição: Use um ursinho de pelúcia e uma cesta. Diga: \"Coloque o ursinho dentro da cesta\".",
+    "metadata": {
+      "titulo": "O Ursinho na Cesta",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_219",
+    "conteudo": "Descrição: Use dois livros. Peça à criança para colocar um livro em cima do outro.",
+    "metadata": {
+      "titulo": "O Livro Em Cima do Livro",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_220",
+    "conteudo": "Descrição: Esconda um lápis de cera debaixo da cama. Peça à criança para \"encontrar o lápis embaixo da cama\".",
+    "metadata": {
+      "titulo": "O Lápis Debaixo da Cama",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_221",
+    "conteudo": "Descrição: Use uma caixa. Peça à criança para colocar a mão \"dentro da caixa\".",
+    "metadata": {
+      "titulo": "Põe a Mão na Caixa",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_222",
+    "conteudo": "Descrição: Use uma flor de plástico. Peça à criança para colocar a flor em cima do vaso.",
+    "metadata": {
+      "titulo": "A Flor Em Cima do Vaso",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_223",
+    "conteudo": "Descrição: Use dois blocos de construção. Diga: \"Coloque o bloco azul embaixo do bloco vermelho\".",
+    "metadata": {
+      "titulo": "O Bloco Debaixo do Bloco",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_224",
+    "conteudo": "Descrição: Use uma luva. Diga à criança: \"Coloque os dedos dentro da luva\".",
+    "metadata": {
+      "titulo": "Os Dedos na Luva",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_225",
+    "conteudo": "Descrição: Peça à criança para colocar uma colher de brinquedo dentro da tigela.",
+    "metadata": {
+      "titulo": "A Colher na Tigela",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_226",
+    "conteudo": "Descrição: Use um carro e um bloco. Peça à criança para colocar o carro em cima do bloco.",
+    "metadata": {
+      "titulo": "O Carro Em Cima do Bloco",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_227",
+    "conteudo": "Descrição: Esconda a mochila da criança debaixo da mesa. Peça para ela \"achar a mochila embaixo da mesa\".",
+    "metadata": {
+      "titulo": "A Mochila Debaixo da Mesa",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_228",
+    "conteudo": "Descrição: Use uma gaveta. Peça à criança para colocar um livro dentro da gaveta.",
+    "metadata": {
+      "titulo": "O Livro na Gaveta",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_229",
+    "conteudo": "Descrição: Peça à criança para colocar um pãozinho de brinquedo em cima do prato.",
+    "metadata": {
+      "titulo": "O Pão no Prato",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_230",
+    "conteudo": "Descrição: Esconda chaves de brinquedo debaixo de um pote. Peça à criança para \"pegar as chaves embaixo do pote\".",
+    "metadata": {
+      "titulo": "As Chaves Debaixo do Pote",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_231",
+    "conteudo": "Descrição: Peça à criança para colocar a bola dentro da cesta de brinquedos.",
+    "metadata": {
+      "titulo": "A Bola na Cesta",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_232",
+    "conteudo": "Descrição: Diga à criança: \"Coloque o chapéu em cima da sua cabeça\".",
+    "metadata": {
+      "titulo": "O Chapéu na Cabeça",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_233",
+    "conteudo": "Descrição: Esconda uma meia debaixo de um pano. Peça à criança para \"achar a meia embaixo do pano\".",
+    "metadata": {
+      "titulo": "A Meia Debaixo do Pano",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_234",
+    "conteudo": "Descrição: Peça à criança para colocar todos os brinquedos dentro do baú.",
+    "metadata": {
+      "titulo": "Os Brinquedos no Baú",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_235",
+    "conteudo": "Descrição: Peça à criança para colocar o pato de borracha em cima do livro.",
+    "metadata": {
+      "titulo": "O Pato Em Cima do Livro",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_236",
+    "conteudo": "Descrição: Esconda um bloco de encaixe debaixo de um pote. Peça para a criança pegar o bloco que está embaixo do pote.",
+    "metadata": {
+      "titulo": "O Bloco Debaixo do Pote",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_237",
+    "conteudo": "Descrição: Use uma caixa. Peça à criança para colocar um brinquedo dentro da caixa.",
+    "metadata": {
+      "titulo": "O Brinquedo Dentro da Caixa de Papelão",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_238",
+    "conteudo": "Descrição: Peça à criança para colocar o ursinho em cima de outro brinquedo.",
+    "metadata": {
+      "titulo": "O Ursinho Em Cima do Brinquedo",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_239",
+    "conteudo": "Descrição: Esconda uma bola debaixo de um pano. Peça à criança para \"pegar a bola embaixo do pano\".",
+    "metadata": {
+      "titulo": "A Bola Debaixo do Pano",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_240",
+    "conteudo": "Descrição: Use uma moeda de brinquedo. Peça à criança para colocar a moeda dentro do pote.",
+    "metadata": {
+      "titulo": "A Moeda no Pote",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_241",
+    "conteudo": "Descrição: Peça à criança para colocar o livro em cima da cadeira.",
+    "metadata": {
+      "titulo": "O Livro Em Cima da Cadeira",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_242",
+    "conteudo": "Descrição: Esconda a mochila debaixo de um livro grande. Peça para a criança \"achar a mochila embaixo do livro\".",
+    "metadata": {
+      "titulo": "A Mochila Debaixo do Livro",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_243",
+    "conteudo": "Descrição: Peça à criança para colocar o brinquedo dentro da sacola.",
+    "metadata": {
+      "titulo": "O Brinquedo Dentro da Sacola",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_244",
+    "conteudo": "Descrição: Peça à criança para colocar o chapeuzinho em cima da sua cabeça.",
+    "metadata": {
+      "titulo": "O Chapeuzinho Na Cabeça",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_245",
+    "conteudo": "Descrição: Esconda uma chave de brinquedo debaixo do tapete. Peça à criança para \"pegar a chave embaixo do tapete\".",
+    "metadata": {
+      "titulo": "A Chave Debaixo do Tapete",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_246",
+    "conteudo": "Descrição: Diga à criança: \"Coloque os pés dentro do sapato\".",
+    "metadata": {
+      "titulo": "Os Pés Dentro do Sapato",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_247",
+    "conteudo": "Descrição: Peça à criança para colocar a mão em cima de um brinquedo.",
+    "metadata": {
+      "titulo": "A Mão Em Cima do Brinquedo",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_248",
+    "conteudo": "Descrição: Esconda um brinquedo debaixo da mesa. Peça à criança para \"achar o brinquedo embaixo da mesa\".",
+    "metadata": {
+      "titulo": "O Brinquedo Debaixo da Mesa",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_249",
+    "conteudo": "Descrição: Use um túnel de brinquedo. Peça à criança para colocar um brinquedo dentro do túnel.",
+    "metadata": {
+      "titulo": "O Brinquedo Dentro do Túnel",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_250",
+    "conteudo": "Descrição: Peça à criança para colocar o travesseiro em cima do colchonete.",
+    "metadata": {
+      "titulo": "O Travesseiro Em Cima do Colchonete",
+      "dimensao": "Cognição",
+      "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_251",
+    "conteudo": "Descrição: Mostre uma figura de um bebê comendo. Pergunte: \"O que o bebê está fazendo?\". Dê a dica: \"Está comendo!\".",
+    "metadata": {
+      "titulo": "O Bebê Comendo",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_252",
+    "conteudo": "Descrição: Mostre uma figura de um cachorro correndo. Pergunte: \"O que o cachorro está fazendo?\". Dê a dica: \"Está correndo!\".",
+    "metadata": {
+      "titulo": "O Cachorro Correndo",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_253",
+    "conteudo": "Descrição: Mostre uma figura de um menino dormindo na cama. Pergunte: \"O que ele está fazendo?\". Dê a dica: \"Está dormindo!\".",
+    "metadata": {
+      "titulo": "O Menino Dormindo",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_254",
+    "conteudo": "Descrição: Mostre uma figura de uma menina brincando com blocos. Pergunte: \"O que ela está fazendo?\". Dê a dica: \"Está brincando!\".",
+    "metadata": {
+      "titulo": "A Menina Brincando",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_255",
+    "conteudo": "Descrição: Mostre uma figura de um pai lendo um livro. Pergunte: \"O que o papai está fazendo?\". Dê a dica: \"Está lendo!\".",
+    "metadata": {
+      "titulo": "O Papai Lendo",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_256",
+    "conteudo": "Descrição: Mostre uma figura de uma mãe cantando para o bebê. Pergunte: \"O que ela está fazendo?\". Dê a dica: \"Está cantando!\".",
+    "metadata": {
+      "titulo": "A Mamãe Cantando",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_257",
+    "conteudo": "Descrição: Mostre uma figura de uma criança no banho. Pergunte: \"O que a criança está fazendo?\". Dê a dica: \"Está tomando banho!\".",
+    "metadata": {
+      "titulo": "A Criança Tomando Banho",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_258",
+    "conteudo": "Descrição: Mostre uma figura de um menino pulando na cama elástica. Pergunte: \"O que ele está fazendo?\". Dê a dica: \"Está pulando!\".",
+    "metadata": {
+      "titulo": "O Menino Pulando",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_259",
+    "conteudo": "Descrição: Mostre uma figura de uma menina desenhando em um papel. Pergunte: \"O que ela está fazendo?\". Dê a dica: \"Está desenhando!\".",
+    "metadata": {
+      "titulo": "A Menina Desenhando",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_260",
+    "conteudo": "Descrição: Mostre uma figura de um gato bebendo leite em uma tigela. Pergunte: \"O que o gato está fazendo?\". Dê a dica: \"Está bebendo!\".",
+    "metadata": {
+      "titulo": "O Gato Bebendo Leite",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_261",
+    "conteudo": "Descrição: Mostre uma figura de um pássaro voando no céu. Pergunte: \"O que o pássaro está fazendo?\". Dê a dica: \"Está voando!\".",
+    "metadata": {
+      "titulo": "O Pássaro Voando",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_262",
+    "conteudo": "Descrição: Mostre uma figura de uma vaca comendo capim. Pergunte: \"O que a vaca está fazendo?\". Dê a dica: \"Está comendo!\".",
+    "metadata": {
+      "titulo": "A Vaca Comendo Capim",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_263",
+    "conteudo": "Descrição: Mostre uma figura de um peixe nadando na água. Pergunte: \"O que o peixe está fazendo?\". Dê a dica: \"Está nadando!\".",
+    "metadata": {
+      "titulo": "O Peixe Nadando",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_264",
+    "conteudo": "Descrição: Mostre uma figura de uma criança escovando os dentes. Pergunte: \"O que ela está fazendo?\". Dê a dica: \"Está escovando!\".",
+    "metadata": {
+      "titulo": "A Criança Escovando os Dentes",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_265",
+    "conteudo": "Descrição: Mostre uma figura de um menino chutando a bola. Pergunte: \"O que ele está fazendo?\". Dê a dica: \"Está chutando!\".",
+    "metadata": {
+      "titulo": "O Menino Chutando a Bola",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_266",
+    "conteudo": "Descrição: Mostre uma figura de uma menina abraçando um ursinho. Pergunte: \"O que ela está fazendo?\". Dê a dica: \"Está abraçando!\".",
+    "metadata": {
+      "titulo": "A Menina Abraçando o Ursinho",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_267",
+    "conteudo": "Descrição: Mostre uma figura de um coelho pulando no jardim. Pergunte: \"O que ele está fazendo?\". Dê a dica: \"Está pulando!\".",
+    "metadata": {
+      "titulo": "O Coelho Pulando",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_268",
+    "conteudo": "Descrição: Mostre uma figura de um cão latindo. Pergunte: \"O que o cão está fazendo?\". Dê a dica: \"Está latindo!\".",
+    "metadata": {
+      "titulo": "O Cão Latindo",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_269",
+    "conteudo": "Descrição: Mostre uma figura de uma criança lavando as mãos. Pergunte: \"O que a criança está fazendo?\". Dê a dica: \"Está lavando!\".",
+    "metadata": {
+      "titulo": "A Criança Lavando as Mãos",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_270",
+    "conteudo": "Descrição: Mostre uma figura de um pato nadando em um lago. Pergunte: \"O que o pato está fazendo?\". Dê a dica: \"Está nadando!\".",
+    "metadata": {
+      "titulo": "O Pato Nadando",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_271",
+    "conteudo": "Descrição: Mostre uma figura de um bebê engatinhando. Pergunte: \"O que o bebê está fazendo?\". Dê a dica: \"Está engatinhando!\".",
+    "metadata": {
+      "titulo": "O Bebê Engatinhando",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_272",
+    "conteudo": "Descrição: Mostre uma figura de uma criança chorando. Pergunte: \"O que ela está fazendo?\". Dê a dica: \"Está chorando!\".",
+    "metadata": {
+      "titulo": "A Criança Chorando",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_273",
+    "conteudo": "Descrição: Mostre uma figura de um menino subindo uma escada. Pergunte: \"O que ele está fazendo?\". Dê a dica: \"Está subindo!\".",
+    "metadata": {
+      "titulo": "O Menino Subindo a Escada",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_274",
+    "conteudo": "Descrição: Mostre uma figura de uma menina descendo um escorregador. Pergunte: \"O que ela está fazendo?\". Dê a dica: \"Está descendo!\".",
+    "metadata": {
+      "titulo": "A Menina Descendo o Escorregador",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_275",
+    "conteudo": "Descrição: Mostre uma figura do sol brilhando no céu. Pergunte: \"O que o sol está fazendo?\". Dê a dica: \"Está brilhando!\".",
+    "metadata": {
+      "titulo": "O Sol Brilhando",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_276",
+    "conteudo": "Descrição: Mostre uma figura da lua no céu noturno. Pergunte: \"O que a lua está fazendo?\". Dê a dica: \"Está brilhando!\".",
+    "metadata": {
+      "titulo": "A Lua Brilhando",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_277",
+    "conteudo": "Descrição: Mostre uma figura de uma criança se vestindo. Pergunte: \"O que ela está fazendo?\". Dê a dica: \"Está se vestindo!\".",
+    "metadata": {
+      "titulo": "A Criança Vestindo a Roupa",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_278",
+    "conteudo": "Descrição: Mostre uma figura de um menino tirando o sapato. Pergunte: \"O que ele está fazendo?\". Dê a dica: \"Está tirando!\".",
+    "metadata": {
+      "titulo": "O Menino Tirando o Sapato",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_279",
+    "conteudo": "Descrição: Mostre uma figura de uma menina andando de bicicleta. Pergunte: \"O que ela está fazendo?\". Dê a dica: \"Está andando!\".",
+    "metadata": {
+      "titulo": "A Menina Andando de Bicicleta",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_280",
+    "conteudo": "Descrição: Mostre uma figura de um bebê sentado no chão. Pergunte: \"O que o bebê está fazendo?\". Dê a dica: \"Está sentado!\".",
+    "metadata": {
+      "titulo": "O Bebê Sentado",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_281",
+    "conteudo": "Descrição: Mostre uma figura de uma criança em pé. Pergunte: \"O que ela está fazendo?\". Dê a dica: \"Está em pé!\".",
+    "metadata": {
+      "titulo": "A Criança em Pé",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_282",
+    "conteudo": "Descrição: Mostre uma figura de um menino saltando sobre uma poça. Pergunte: \"O que ele está fazendo?\". Dê a dica: \"Está saltando!\".",
+    "metadata": {
+      "titulo": "O Menino Saltando",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_283",
+    "conteudo": "Descrição: Mostre uma figura de uma menina segurando uma bola. Pergunte: \"O que ela está fazendo?\". Dê a dica: \"Está segurando!\".",
+    "metadata": {
+      "titulo": "A Menina Segurando a Bola",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_284",
+    "conteudo": "Descrição: Mostre uma figura de um bebê engatinhando no chão. Pergunte: \"O que o bebê está fazendo?\". Dê a dica: \"Está engatinhando!\".",
+    "metadata": {
+      "titulo": "O Bebê Engatinhando no Chão",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_285",
+    "conteudo": "Descrição: Mostre uma figura de uma criança chorando. Pergunte: \"O que a criança está fazendo?\". Dê a dica: \"Está chorando!\".",
+    "metadata": {
+      "titulo": "A Criança Chorando",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_286",
+    "conteudo": "Descrição: Mostre uma figura de um menino subindo uma escada. Pergunte: \"O que ele está fazendo?\". Dê a dica: \"Está subindo!\".",
+    "metadata": {
+      "titulo": "O Menino Subindo a Escada",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_287",
+    "conteudo": "Descrição: Mostre uma figura de uma menina descendo um escorregador. Pergunte: \"O que ela está fazendo?\". Dê a dica: \"Está descendo!\".",
+    "metadata": {
+      "titulo": "A Menina Descendo o Escorregador",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_288",
+    "conteudo": "Descrição: Mostre uma figura do sol brilhando no céu. Pergunte: \"O que o sol está fazendo?\". Dê a dica: \"Está brilhando!\".",
+    "metadata": {
+      "titulo": "O Sol Brilhando",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_289",
+    "conteudo": "Descrição: Mostre uma figura da lua no céu noturno. Pergunte: \"O que a lua está fazendo?\". Dê a dica: \"Está brilhando!\".",
+    "metadata": {
+      "titulo": "A Lua Brilhando",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_290",
+    "conteudo": "Descrição: Mostre uma figura de uma criança se vestindo. Pergunte: \"O que ela está fazendo?\". Dê a dica: \"Está se vestindo!\".",
+    "metadata": {
+      "titulo": "A Criança Vestindo a Roupa",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_291",
+    "conteudo": "Descrição: Mostre uma figura de um menino tirando o sapato. Pergunte: \"O que ele está fazendo?\". Dê a dica: \"Está tirando!\".",
+    "metadata": {
+      "titulo": "O Menino Tirando o Sapato",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_292",
+    "conteudo": "Descrição: Mostre uma figura de uma menina andando de bicicleta. Pergunte: \"O que ela está fazendo?\". Dê a dica: \"Está andando!\".",
+    "metadata": {
+      "titulo": "A Menina Andando de Bicicleta",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_293",
+    "conteudo": "Descrição: Mostre uma figura de um bebê sentado no chão. Pergunte: \"O que o bebê está fazendo?\". Dê a dica: \"Está sentado!\".",
+    "metadata": {
+      "titulo": "O Bebê Sentado",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_294",
+    "conteudo": "Descrição: Mostre uma figura de uma criança em pé. Pergunte: \"O que ela está fazendo?\". Dê a dica: \"Está em pé!\".",
+    "metadata": {
+      "titulo": "A Criança em Pé",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_295",
+    "conteudo": "Descrição: Mostre uma figura de um menino saltando sobre uma poça. Pergunte: \"O que ele está fazendo?\". Dê a dica: \"Está saltando!\".",
+    "metadata": {
+      "titulo": "O Menino Saltando",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_296",
+    "conteudo": "Descrição: Mostre uma figura de uma menina segurando uma bola. Pergunte: \"O que ela está fazendo?\". Dê a dica: \"Está segurando!\".",
+    "metadata": {
+      "titulo": "A Menina Segurando a Bola",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_297",
+    "conteudo": "Descrição: Mostre uma figura de um bebê engatinhando no chão. Pergunte: \"O que o bebê está fazendo?\". Dê a dica: \"Está engatinhando!\".",
+    "metadata": {
+      "titulo": "O Bebê Engatinhando no Chão",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_298",
+    "conteudo": "Descrição: Mostre uma figura de um menino tomando leite em uma mamadeira. Pergunte: \"O que ele está fazendo?\". Dê a dica: \"Está tomando!\".",
+    "metadata": {
+      "titulo": "O Menino Tomando Leite",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_299",
+    "conteudo": "Descrição: Mostre uma figura de uma criança escovando o cabelo. Pergunte: \"O que ela está fazendo?\". Dê a dica: \"Está escovando!\".",
+    "metadata": {
+      "titulo": "A Criança Escovando o Cabelo",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_300",
+    "conteudo": "Descrição: Mostre uma figura de um bebê rastejando no chão. Pergunte: \"O que o bebê está fazendo?\". Dê a dica: \"Está rastejando!\".",
+    "metadata": {
+      "titulo": "O Bebê Rastejando",
+      "dimensao": "Cognição",
+      "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_301",
+    "conteudo": "Descrição: Tenha uma figura de círculo vermelho em um cartão e uma forma de círculo vermelho. Peça para a criança pegar a forma e colocar em cima da figura.",
+    "metadata": {
+      "titulo": "Ache o Círculo Vermelho",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_302",
+    "conteudo": "Descrição: Mostre uma figura de um quadrado azul e dê uma forma de quadrado azul para a criança. Incentive-a a colocar a forma em cima da figura.",
+    "metadata": {
+      "titulo": "Pareando Quadrados Azuis",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_303",
+    "conteudo": "Descrição: Use um quebra-cabeça de formas com figuras impressas na base. Peça para a criança encaixar o triângulo verde no lugar.",
+    "metadata": {
+      "titulo": "Encaixe o Triângulo Verde",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_304",
+    "conteudo": "Descrição: Tenha uma figura de estrela amarela e uma forma de estrela amarela. Peça para a criança parear.",
+    "metadata": {
+      "titulo": "Ache a Estrela Amarela",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_305",
+    "conteudo": "Descrição: Use figuras de retângulos em cartões e formas de retângulos. Incentive a criança a parear as cores e as formas.",
+    "metadata": {
+      "titulo": "Pareando Retângulos",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_306",
+    "conteudo": "Descrição: Tenha uma figura de coração rosa em um cartão e uma forma de coração rosa. Peça para a criança colocar a forma na figura.",
+    "metadata": {
+      "titulo": "Encontre o Coração Rosa",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_307",
+    "conteudo": "Descrição: Use círculos de feltro de cores diferentes. Peça para a criança parear as formas e as cores com figuras de círculos em papel.",
+    "metadata": {
+      "titulo": "Pareando Círculos de Feltro",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_308",
+    "conteudo": "Descrição: Use uma figura de oval roxo e uma forma de oval roxo. Peça para a criança parear as duas.",
+    "metadata": {
+      "titulo": "Ache o Oval Roxo",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_309",
+    "conteudo": "Descrição: Tenha cartões com círculos e bolinhas. Peça para a criança colocar a bolinha em cima do círculo correspondente.",
+    "metadata": {
+      "titulo": "Pareando Círculos e Bolinhas",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_310",
+    "conteudo": "Descrição: Tenha uma figura de quadrado marrom e uma forma de quadrado marrom. Peça para a criança parear as duas.",
+    "metadata": {
+      "titulo": "Ache o Quadrado Marrom",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_311",
+    "conteudo": "Descrição: Corte triângulos de papelão. Tenha figuras de triângulos em papel. Incentive a criança a colocar o triângulo de papelão na figura.",
+    "metadata": {
+      "titulo": "Pareando Triângulos de Papelão",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_312",
+    "conteudo": "Descrição: Tenha uma figura de estrela laranja e uma forma de estrela laranja. Peça para a criança parear.",
+    "metadata": {
+      "titulo": "Encontre a Estrela Laranja",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_313",
+    "conteudo": "Descrição: Use blocos retangulares. Peça para a criança colocar o bloco em cima da figura de retângulo correspondente.",
+    "metadata": {
+      "titulo": "Pareando Retângulos de Blocos",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_314",
+    "conteudo": "Descrição: Tenha uma figura de coração vermelho e uma forma de coração vermelho. Peça para a criança parear.",
+    "metadata": {
+      "titulo": "Ache o Coração Vermelho",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_315",
+    "conteudo": "Descrição: Modele ovals com massinha. Tenha figuras de ovals em cartões. Incentive a criança a colocar a massinha na figura.",
+    "metadata": {
+      "titulo": "Pareando Orais de Massinha",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_316",
+    "conteudo": "Descrição: Tenha uma figura de círculo azul e uma forma de círculo azul. Peça para a criança parear.",
+    "metadata": {
+      "titulo": "Encontre o Círculo Azul",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_317",
+    "conteudo": "Descrição: Use quadrados de pano. Tenha figuras de quadrados em papel. Incentive a criança a colocar o pano na figura.",
+    "metadata": {
+      "titulo": "Pareando Quadrados de Pano",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_318",
+    "conteudo": "Descrição: Tenha uma figura de triângulo amarelo e uma forma de triângulo amarelo. Peça para a criança parear.",
+    "metadata": {
+      "titulo": "Ache o Triângulo Amarelo",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_319",
+    "conteudo": "Descrição: Use estrelas de plástico. Tenha figuras de estrelas em cartões. Incentive a criança a colocar a forma na figura.",
+    "metadata": {
+      "titulo": "Pareando Estrelas de Plástico",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_320",
+    "conteudo": "Descrição: Tenha uma figura de retângulo roxo e uma forma de retângulo roxo. Peça para a criança parear.",
+    "metadata": {
+      "titulo": "Encontre o Retângulo Roxo",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_321",
+    "conteudo": "Descrição: Use corações de borracha. Tenha figuras de corações em papel. Incentive a criança a colocar a forma na figura.",
+    "metadata": {
+      "titulo": "Pareando Corações de Borracha",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_322",
+    "conteudo": "Descrição: Tenha uma figura de oval verde e uma forma de oval verde. Peça para a criança parear.",
+    "metadata": {
+      "titulo": "Ache o Oval Verde",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_323",
+    "conteudo": "Descrição: Use tampinhas de garrafa. Tenha figuras de círculos em cartões. Peça para a criança colocar a tampinha em cima da figura.",
+    "metadata": {
+      "titulo": "Pareando Círculos em Tampinhas",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_324",
+    "conteudo": "Descrição: Tenha uma figura de quadrado rosa e uma forma de quadrado rosa. Peça para a criança parear.",
+    "metadata": {
+      "titulo": "Ache o Quadrado Rosa",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_325",
+    "conteudo": "Descrição: Use triângulos de esponja. Tenha figuras de triângulos em papel. Incentive a criança a colocar a esponja na figura.",
+    "metadata": {
+      "titulo": "Pareando Triângulos de Esponja",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_326",
+    "conteudo": "Descrição: Tenha uma figura de estrela branca e uma forma de estrela branca. Peça para a criança parear.",
+    "metadata": {
+      "titulo": "Encontre a Estrela Branca",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_327",
+    "conteudo": "Descrição: Use retângulos de madeira. Tenha figuras de retângulos em cartões. Peça para a criança colocar a forma na figura.",
+    "metadata": {
+      "titulo": "Pareando Retângulos de Madeira",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_328",
+    "conteudo": "Descrição: Tenha uma figura de coração preto e uma forma de coração preto. Peça para a criança parear.",
+    "metadata": {
+      "titulo": "Ache o Coração Preto",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_329",
+    "conteudo": "Descrição: Use ovals cortados de papel. Tenha figuras de ovals em papel. Incentive a criança a colocar o oval na figura.",
+    "metadata": {
+      "titulo": "Pareando Orais de Papel",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_330",
+    "conteudo": "Descrição: Tenha uma figura de círculo branco e uma forma de círculo branco. Peça para a criança parear.",
+    "metadata": {
+      "titulo": "Encontre o Círculo Branco",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_331",
+    "conteudo": "Descrição: Use quadrados de EVA. Tenha figuras de quadrados em cartões. Peça para a criança colocar a forma na figura.",
+    "metadata": {
+      "titulo": "Pareando Quadrados de EVA",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_332",
+    "conteudo": "Descrição: Tenha uma figura de triângulo laranja e uma forma de triângulo laranja. Peça para a criança parear.",
+    "metadata": {
+      "titulo": "Ache o Triângulo Laranja",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_333",
+    "conteudo": "Descrição: Modele estrelas com massinha. Tenha figuras de estrelas em cartões. Incentive a criança a colocar a massinha na figura.",
+    "metadata": {
+      "titulo": "Pareando Estrelas de Massinha",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_334",
+    "conteudo": "Descrição: Tenha uma figura de retângulo amarelo e uma forma de retângulo amarelo. Peça para a criança parear.",
+    "metadata": {
+      "titulo": "Encontre o Retângulo Amarelo",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_335",
+    "conteudo": "Descrição: Use corações de pano. Tenha figuras de corações em papel. Incentive a criança a colocar a forma na figura.",
+    "metadata": {
+      "titulo": "Pareando Corações de Pano",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_336",
+    "conteudo": "Descrição: Tenha uma figura de oval preto e uma forma de oval preto. Peça para a criança parear.",
+    "metadata": {
+      "titulo": "Ache o Oval Preto",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_337",
+    "conteudo": "Descrição: Use moedas de brinquedo. Tenha figuras de círculos em cartões. Peça para a criança colocar a moeda em cima da figura.",
+    "metadata": {
+      "titulo": "Pareando Círculos e Moedas",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_338",
+    "conteudo": "Descrição: Tenha uma figura de quadrado laranja e uma forma de quadrado laranja. Peça para a criança parear.",
+    "metadata": {
+      "titulo": "Ache o Quadrado Laranja",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_339",
+    "conteudo": "Descrição: Use triângulos de borracha. Tenha figuras de triângulos em papel. Incentive a criança a colocar a forma na figura.",
+    "metadata": {
+      "titulo": "Pareando Triângulos de Borracha",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_340",
+    "conteudo": "Descrição: Tenha uma figura de estrela verde e uma forma de estrela verde. Peça para a criança parear.",
+    "metadata": {
+      "titulo": "Encontre a Estrela Verde",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_341",
+    "conteudo": "Descrição: Use retângulos de plástico. Tenha figuras de retângulos em cartões. Peça para a criança colocar a forma na figura.",
+    "metadata": {
+      "titulo": "Pareando Retângulos de Plástico",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_342",
+    "conteudo": "Descrição: Tenha uma figura de coração amarelo e uma forma de coração amarelo. Peça para a criança parear.",
+    "metadata": {
+      "titulo": "Ache o Coração Amarelo",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_343",
+    "conteudo": "Descrição: Use ovals de EVA. Tenha figuras de ovals em papel. Incentive a criança a colocar a forma na figura.",
+    "metadata": {
+      "titulo": "Pareando Orais de EVA",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_344",
+    "conteudo": "Descrição: Tenha uma figura de círculo preto e uma forma de círculo preto. Peça para a criança parear.",
+    "metadata": {
+      "titulo": "Encontre o Círculo Preto",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_345",
+    "conteudo": "Descrição: Use quadrados de borracha. Tenha figuras de quadrados em cartões. Peça para a criança colocar a forma na figura.",
+    "metadata": {
+      "titulo": "Pareando Quadrados de Borracha",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_346",
+    "conteudo": "Descrição: Tenha uma figura de triângulo branco e uma forma de triângulo branco. Peça para a criança parear.",
+    "metadata": {
+      "titulo": "Ache o Triângulo Branco",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_347",
+    "conteudo": "Descrição: Use estrelas de pano. Tenha figuras de estrelas em papel. Incentive a criança a colocar a forma na figura.",
+    "metadata": {
+      "titulo": "Pareando Estrelas de Pano",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_348",
+    "conteudo": "Descrição: Tenha uma figura de retângulo branco e uma forma de retângulo branco. Peça para a criança parear.",
+    "metadata": {
+      "titulo": "Encontre o Retângulo Branco",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_349",
+    "conteudo": "Descrição: Use corações de EVA. Tenha figuras de corações em papel. Incentive a criança a colocar a forma na figura.",
+    "metadata": {
+      "titulo": "Pareando Corações de EVA",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  },
+  {
+    "id": "cognicao_2a3_350",
+    "conteudo": "Descrição: Tenha uma figura de oval amarelo e uma forma de oval amarelo. Peça para a criança parear.",
+    "metadata": {
+      "titulo": "Ache o Oval Amarelo",
+      "dimensao": "Cognição",
+      "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
+      "nivel": "Nível 1",
+      "idade": "2 a 3 anos"
+    }
+  }
+]

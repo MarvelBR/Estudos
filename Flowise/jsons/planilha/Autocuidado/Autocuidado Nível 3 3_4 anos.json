@@ -1,0 +1,4952 @@
+[
+  {
+    "id": "autocuidado_3a4_01",
+    "conteudo": "Descrição: Use uma toalha com cores vibrantes ou personagens e diga que ela tem o poder de fazer a água \"sumir\".",
+    "metadata": {
+      "titulo": "A Toalha Mágica",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_02",
+    "conteudo": "Descrição: Incentive a criança a usar a toalha para \"pegar\" todas as gotinhas de água das mãos e do rosto.",
+    "metadata": {
+      "titulo": "O Jogo do \"Tira a Gotinha!\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_03",
+    "conteudo": "Descrição: Incentive a criança a passar a toalha no rosto com as mãos, como se fosse um gatinho se limpando.",
+    "metadata": {
+      "titulo": "O Gato Lava o Rosto",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_04",
+    "conteudo": "Descrição: Crie uma música sobre a toalha que \"abraça\" as mãos e o rosto para secá-los.",
+    "metadata": {
+      "titulo": "A Canção da Toalha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_05",
+    "conteudo": "Descrição: Use toalhas de diferentes texturas (macia, felpuda, de microfibra) para estimular o tato da criança.",
+    "metadata": {
+      "titulo": "Toalha de Textura",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_06",
+    "conteudo": "Descrição: Guie a mão da criança com a toalha, fazendo movimentos e sons de robô para secar.",
+    "metadata": {
+      "titulo": "O Robô Seca-Seca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_07",
+    "conteudo": "Descrição: O professor seca as mãos e o rosto de forma exagerada e divertida para a criança imitar.",
+    "metadata": {
+      "titulo": "O Mestre da Toalha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_08",
+    "conteudo": "Descrição: A criança e o professor secam as mãos e o rosto de frente para o espelho, incentivando a imitação.",
+    "metadata": {
+      "titulo": "Jogo do Espelho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_09",
+    "conteudo": "Descrição: Cubra o rosto da criança com a toalha e diga \"cadê o rosto?\", incentivando-a a tirá-la para se secar.",
+    "metadata": {
+      "titulo": "Onde Está o Rosto?",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_10",
+    "conteudo": "Descrição: Deixe a criança segurar a toalha e, em seguida, solte a mão para que ela termine de secar sozinha.",
+    "metadata": {
+      "titulo": "Quase Sozinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_11",
+    "conteudo": "Descrição: O professor mostra como secar as mãos de um boneco, e depois a criança seca as mãos do ursinho dela.",
+    "metadata": {
+      "titulo": "Secando o Ursinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_12",
+    "conteudo": "Descrição: Use a toalha morna e gelada para a criança sentir a diferença de temperatura.",
+    "metadata": {
+      "titulo": "A Toalha Quente e Fria",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_13",
+    "conteudo": "Descrição: Faça o som de \"zip\" enquanto a criança move a toalha para secar o rosto.",
+    "metadata": {
+      "titulo": "O Zíper de Toalha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_14",
+    "conteudo": "Descrição: Coloque a toalha no chão e diga que as gotas de água precisam ir para a \"pista\" para serem secas.",
+    "metadata": {
+      "titulo": "Gotas na Pista",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_15",
+    "conteudo": "Descrição: Peça para a criança esticar e depois encolher os braços para secar as mãos.",
+    "metadata": {
+      "titulo": "O Jogo do \"Estica-Encolhe\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_16",
+    "conteudo": "Descrição: Diga que a toalha está \"com sede\" e precisa \"beber\" a água do rosto e das mãos.",
+    "metadata": {
+      "titulo": "A Toalha que Fala",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_17",
+    "conteudo": "Descrição: Peça para a criança fazer caretas e mover o rosto para que a toalha alcance todas as áreas.",
+    "metadata": {
+      "titulo": "Fazendo Caretas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_18",
+    "conteudo": "Descrição: Use um fantoche para mostrar como secar as mãos e o rosto, incentivando a imitação.",
+    "metadata": {
+      "titulo": "O Fantoche Seca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_19",
+    "conteudo": "Descrição: Faça o som de \"piu-piu\" enquanto a criança seca o rosto, como se a toalha fosse um pássaro que bebe água.",
+    "metadata": {
+      "titulo": "O Pássaro que Bebe",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_20",
+    "conteudo": "Descrição: Diga a palavra \"esfrega\" enquanto a criança esfrega as mãos na toalha.",
+    "metadata": {
+      "titulo": "O Jogo do \"Esfrega-Esfrega\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_21",
+    "conteudo": "Descrição: Incentive a criança a passar a toalha no rosto com os dedos, como se fosse um coelhinho se limpando.",
+    "metadata": {
+      "titulo": "O Coelhinho Seca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_22",
+    "conteudo": "Descrição: Finja que você está tentando \"roubar\" as gotas de água das mãos da criança.",
+    "metadata": {
+      "titulo": "O Ladrão de Gotas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_23",
+    "conteudo": "Descrição: Esconda um brinquedo pequeno sob a toalha e a criança precisa secar para encontrá-lo.",
+    "metadata": {
+      "titulo": "A Toalha do Tesouro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_24",
+    "conteudo": "Descrição: Deixe a criança colocar e tirar a mão da toalha, praticando o movimento.",
+    "metadata": {
+      "titulo": "O Jogo do \"Põe e Tira\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_25",
+    "conteudo": "Descrição: Crie um lugar especial para a toalha, ensinando a criança a colocá-la de volta após o uso.",
+    "metadata": {
+      "titulo": "Onde Guardamos?",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_26",
+    "conteudo": "Descrição: Incentive a criança a secar o rosto com movimentos suaves, como asas de borboleta.",
+    "metadata": {
+      "titulo": "A Toalha de Borboleta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_27",
+    "conteudo": "Descrição: Use uma garrafa spray para fazer gotinhas de água na mão da criança, incentivando-a a secar.",
+    "metadata": {
+      "titulo": "A Chuva na Mão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_28",
+    "conteudo": "Descrição: Encha um balão de ar e use-o para \"empurrar\" a mão da criança para a toalha.",
+    "metadata": {
+      "titulo": "O Balão na Mão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_29",
+    "conteudo": "Descrição: Amarre um cordão leve na toalha e peça para o ursinho \"puxá-lo\" para a criança.",
+    "metadata": {
+      "titulo": "O Puxão do Ursinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_30",
+    "conteudo": "Descrição: Faça sombras na parede e peça para a criança secar as mãos enquanto assiste.",
+    "metadata": {
+      "titulo": "O Jogo da Sombra",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_31",
+    "conteudo": "Descrição: Faça um som divertido enquanto a criança se seca.",
+    "metadata": {
+      "titulo": "A Toalha que Canta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_32",
+    "conteudo": "Descrição: Diga \"pé, pé!\" e aponte para o pé da criança, incentivando-a a se secar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Pé-Pé\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_33",
+    "conteudo": "Descrição: Coloque a toalha em uma \"linha de gol\" imaginária e incentive a criança a secar.",
+    "metadata": {
+      "titulo": "O Goleiro Seca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_34",
+    "conteudo": "Descrição: Diga que a toalha é uma lagarta que se estica e se encolhe.",
+    "metadata": {
+      "titulo": "A Toalha-Lagarta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_35",
+    "conteudo": "Descrição: Use um espelho para a criança ver a si mesma se secando.",
+    "metadata": {
+      "titulo": "A Toalha no Espelho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_36",
+    "conteudo": "Descrição: Cubra a toalha e diga \"cadê a água?\".",
+    "metadata": {
+      "titulo": "O Jogo do \"Onde está a água?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_37",
+    "conteudo": "Descrição: Diga que a toalha é uma varinha de condão que faz mágica.",
+    "metadata": {
+      "titulo": "A Toalha-Varinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_38",
+    "conteudo": "Descrição: Coloque um tapete de atividades no chão e a toalha em cima, para a criança se secar.",
+    "metadata": {
+      "titulo": "A Toalha no Chão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_39",
+    "conteudo": "Descrição: Peça para a criança pular para a pia.",
+    "metadata": {
+      "titulo": "O Jogo do \"Pula-Pula\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_40",
+    "conteudo": "Descrição: Diga que a toalha vai \"abraçar\" o rosto da criança para secá-lo.",
+    "metadata": {
+      "titulo": "A Toalha que Abraça",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_41",
+    "conteudo": "Descrição: Deixe a criança colocar e tirar a mão da toalha, praticando o movimento.",
+    "metadata": {
+      "titulo": "O Jogo do \"Põe e Tira\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_42",
+    "conteudo": "Descrição: Use o sabonete para fazer espuma na mão da criança, incentivando-a a se secar.",
+    "metadata": {
+      "titulo": "O Sabonete no Banho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_43",
+    "conteudo": "Descrição: Deixe a criança usar a toalha do professor.",
+    "metadata": {
+      "titulo": "A Toalha do Mestre",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_44",
+    "conteudo": "Descrição: Faça sombras com a toalha na parede.",
+    "metadata": {
+      "titulo": "O Jogo da Sombra",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_45",
+    "conteudo": "Descrição: Coloque duas toalhas e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Sim e Não\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_46",
+    "conteudo": "Descrição: Use a toalha na caixa de areia, para a criança se secar.",
+    "metadata": {
+      "titulo": "A Toalha de Areia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_47",
+    "conteudo": "Descrição: Coloque duas toalhas diferentes e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_48",
+    "conteudo": "Descrição: Permita que a criança brinque com a toalha, colocando-a na mão ou na cabeça.",
+    "metadata": {
+      "titulo": "A Toalha na Mão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_49",
+    "conteudo": "Descrição: Coloque duas toalhas diferentes e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_50",
+    "conteudo": "Descrição: Diga que a toalha vai \"abraçar\" o rosto da criança para secá-lo.",
+    "metadata": {
+      "titulo": "A Toalha que Abraça",
+      "dimensao": "Autocuidado",
+      "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_51",
+    "conteudo": "Descrição: Deixe o casaco no chão com a parte de trás para cima e peça para a criança enfiar os braços nas mangas, como orelhas de coelho, antes de virar a peça sobre a cabeça.",
+    "metadata": {
+      "titulo": "O Casaco do Coelhinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_52",
+    "conteudo": "Descrição: Segure a manga da blusa como um túnel e diga \"passe por aqui!\" para que a criança estique o braço e a vista.",
+    "metadata": {
+      "titulo": "O Túnel da Manga",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_53",
+    "conteudo": "Descrição: Crie uma música curta e alegre sobre vestir a roupa, com movimentos para a criança imitar.",
+    "metadata": {
+      "titulo": "A Canção da Roupa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_54",
+    "conteudo": "Descrição: Diga que a roupa é uma fantasia e a criança precisa vesti-la para ter superpoderes, tornando a tarefa emocionante.",
+    "metadata": {
+      "titulo": "A Roupa de Super-Herói",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_55",
+    "conteudo": "Descrição: A criança e o professor vestem a blusa juntos de frente para um espelho, incentivando a imitação e a consciência do movimento.",
+    "metadata": {
+      "titulo": "Jogo do Espelho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_56",
+    "conteudo": "Descrição: Deixe a blusa no chão e diga \"a roupa sumiu!\". Quando a criança a pegar, diga \"achou!\" e incentive-a a vestir.",
+    "metadata": {
+      "titulo": "A Roupa que Sumiu",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_57",
+    "conteudo": "Descrição: Mostre como vestir uma blusa em um boneco de pelúcia, e depois peça para a criança vestir o ursinho dela.",
+    "metadata": {
+      "titulo": "O Ursinho se Veste",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_58",
+    "conteudo": "Descrição: Incentive a criança a jogar a blusa sobre a cabeça e depois puxá-la para baixo para vestir.",
+    "metadata": {
+      "titulo": "Joga e Veste",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_59",
+    "conteudo": "Descrição: Ao colocar a cabeça na gola, diga \"cuidado para não esmagar o pescoço!\", tornando o momento divertido.",
+    "metadata": {
+      "titulo": "O Jogo do \"Cuidado com o Pescoço!\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_60",
+    "conteudo": "Descrição: Faça uma pequena corrida para ver quem veste a roupa mais rápido, sem pressão.",
+    "metadata": {
+      "titulo": "A Corrida da Roupa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_61",
+    "conteudo": "Descrição: Esconda um brinquedo pequeno no bolso do casaco e peça para a criança vestir para encontrá-lo.",
+    "metadata": {
+      "titulo": "A Roupa Surpresa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_62",
+    "conteudo": "Descrição: Faça movimentos de robô enquanto a criança veste a blusa, incentivando a imitação.",
+    "metadata": {
+      "titulo": "O Robô se Veste",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_63",
+    "conteudo": "Descrição: Use roupas com diferentes texturas (felpuda, lisa) para estimular o tato da criança durante o processo.",
+    "metadata": {
+      "titulo": "Roupa com Textura",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_64",
+    "conteudo": "Descrição: Crie um lugar especial para a roupa, incentivando a criança a pegá-la de lá e vesti-la.",
+    "metadata": {
+      "titulo": "Onde Guardamos?",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_65",
+    "conteudo": "Descrição: Incentive a criança a esticar os braços como se fossem asas de pássaro ao colocar as mangas.",
+    "metadata": {
+      "titulo": "O Pássaro Voa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_66",
+    "conteudo": "Descrição: Diga para a criança que a roupa está \"com frio\" e quer ser vestida.",
+    "metadata": {
+      "titulo": "A Roupa que Fala",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_67",
+    "conteudo": "Descrição: Peça para a criança escolher qual braço vai colocar na manga primeiro, para que ela tenha autonomia.",
+    "metadata": {
+      "titulo": "Qual Braço Vai Primeiro?",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_68",
+    "conteudo": "Descrição: Coloque duas camisetas e peça para a criança mostrar \"sim\" com a mão esticada para a que ela quer vestir.",
+    "metadata": {
+      "titulo": "Jogo do \"Sim e Não\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_69",
+    "conteudo": "Descrição: Deixe a blusa quase toda no corpo e peça para a criança terminar de vesti-la.",
+    "metadata": {
+      "titulo": "Blusa Quase no Corpo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_70",
+    "conteudo": "Descrição: Se o casaco tiver zíper, ajude a fechar, incentivando a criança a fazer o movimento final.",
+    "metadata": {
+      "titulo": "O Zíper Mágico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_71",
+    "conteudo": "Descrição: Use a sua mão para guiar a mão da criança para colocar o braço na manga.",
+    "metadata": {
+      "titulo": "A Mão Ajuda",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_72",
+    "conteudo": "Descrição: Se a roupa tiver zíper ou botões, crie uma música sobre \"abrir e fechar\".",
+    "metadata": {
+      "titulo": "A Canção do Fecho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_73",
+    "conteudo": "Descrição: Faça um \"trilho\" no chão com a roupa e incentive a criança a \"dirigir\" o corpo para vesti-la.",
+    "metadata": {
+      "titulo": "O Trem da Roupa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_74",
+    "conteudo": "Descrição: Use roupas com cores ou formatos engraçados para tornar o momento de vestir mais divertido.",
+    "metadata": {
+      "titulo": "A Roupa de Palhaço",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_75",
+    "conteudo": "Descrição: Use fita adesiva para fazer uma \"pista\" no chão, e a criança segue a pista para vestir a roupa.",
+    "metadata": {
+      "titulo": "A Pista da Roupa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_76",
+    "conteudo": "Descrição: Diga que a roupa é uma fantasia de um personagem, como um \"traje de astronauta\" para ser vestido.",
+    "metadata": {
+      "titulo": "A Roupa-Fantasia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_77",
+    "conteudo": "Descrição: Prenda pequenos adesivos que brilham no escuro na roupa para que a criança queira vesti-la.",
+    "metadata": {
+      "titulo": "A Roupa que Pisca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_78",
+    "conteudo": "Descrição: Peça para a criança esticar os braços e as pernas antes de vestir.",
+    "metadata": {
+      "titulo": "O Jogo do \"Estica-Encolhe\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_79",
+    "conteudo": "Descrição: Finja que você está tentando roubar a roupa e incentive a criança a vesti-la rapidamente.",
+    "metadata": {
+      "titulo": "O Ladrão de Roupa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_80",
+    "conteudo": "Descrição: Diga que a criança é um coelhinho e que ela precisa vestir a roupa para pular.",
+    "metadata": {
+      "titulo": "O Coelhinho se Veste",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_81",
+    "conteudo": "Descrição: Se a roupa tiver botões de pressão, faça o som de \"clac-clac\" ao fechá-los.",
+    "metadata": {
+      "titulo": "O Jogo do \"Clac-Clac\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_82",
+    "conteudo": "Descrição: Use uma boneca para demonstrar o processo de vestir, pedindo para o aluno observar a boneca esticando os braços.",
+    "metadata": {
+      "titulo": "O Bebê se Veste",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_83",
+    "conteudo": "Descrição: Coloque as roupas em uma cesta de brinquedo para que a criança as pegue e se familiarize com o objeto.",
+    "metadata": {
+      "titulo": "A Roupa na Cesta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_84",
+    "conteudo": "Descrição: Diga que a criança é um gatinho e deve esticar os braços e as pernas antes de vestir, como um alongamento.",
+    "metadata": {
+      "titulo": "O Gato se Estica",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_85",
+    "conteudo": "Descrição: Use fita adesiva no chão para criar uma \"pista\" para o aluno, incentivando-o a esticar o corpo para caminhar e pegar a roupa.",
+    "metadata": {
+      "titulo": "O Robô na Pista",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_86",
+    "conteudo": "Descrição: Use a calça como um saco de corrida e incentive a criança a \"pular\" para dentro dela.",
+    "metadata": {
+      "titulo": "A Calça do Saco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_87",
+    "conteudo": "Descrição: Amarre um cordão leve na blusa e peça para o ursinho \"puxá-lo\" para a criança.",
+    "metadata": {
+      "titulo": "O Puxão do Ursinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_88",
+    "conteudo": "Descrição: Faça sombras na parede e peça para a criança vestir a blusa enquanto assiste.",
+    "metadata": {
+      "titulo": "O Jogo da Sombra",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_89",
+    "conteudo": "Descrição: Faça um som divertido enquanto a criança veste a blusa.",
+    "metadata": {
+      "titulo": "A Roupa que Canta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_90",
+    "conteudo": "Descrição: Deixe a criança colocar e tirar a blusa, praticando o movimento.",
+    "metadata": {
+      "titulo": "O Jogo do \"Põe e Tira\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_91",
+    "conteudo": "Descrição: Use um túnel de pano e peça para a criança vestir a blusa no final.",
+    "metadata": {
+      "titulo": "A Roupa no Túnel de Pano",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_92",
+    "conteudo": "Descrição: Amarre um cordão leve na blusa e peça para a criança puxar.",
+    "metadata": {
+      "titulo": "O Puxão da Roupa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_93",
+    "conteudo": "Descrição: Use um casaco que faça um som divertido (ex: um zíper com um guizo) ao ser vestido.",
+    "metadata": {
+      "titulo": "A Roupa que Faz Barulho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_94",
+    "conteudo": "Descrição: Diga \"pé, pé!\" e aponte para o pé da criança, incentivando-a a vestir a roupa.",
+    "metadata": {
+      "titulo": "O Jogo do \"Pé-Pé\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_95",
+    "conteudo": "Descrição: Coloque a roupa em uma \"linha de gol\" imaginária e incentive a criança a vesti-la.",
+    "metadata": {
+      "titulo": "O Goleiro Veste",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_96",
+    "conteudo": "Descrição: Diga que a roupa é uma lagarta que se estica e se encolhe.",
+    "metadata": {
+      "titulo": "A Roupa-Lagarta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_97",
+    "conteudo": "Descrição: Use um espelho para a criança ver a si mesma vestindo a roupa.",
+    "metadata": {
+      "titulo": "A Roupa no Espelho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_98",
+    "conteudo": "Descrição: Cubra a roupa e diga \"cadê a roupa?\".",
+    "metadata": {
+      "titulo": "O Jogo do \"Onde está a roupa?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_99",
+    "conteudo": "Descrição: Diga que a roupa é uma varinha de condão que faz mágica.",
+    "metadata": {
+      "titulo": "A Roupa-Varinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_100",
+    "conteudo": "Descrição: Peça para a criança esticar, encolher e, por fim, puxar a roupa.",
+    "metadata": {
+      "titulo": "O Jogo do \"Estica-Encolhe-Puxa\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_101",
+    "conteudo": "Descrição: Use uma camisa com um botão grande e colorido na frente, dizendo que ele é o \"botão mágico\" que indica o lado certo.",
+    "metadata": {
+      "titulo": "O Botão Mágico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_102",
+    "conteudo": "Descrição: Cole um adesivo de estrela ou de um personagem favorito na frente da roupa, e diga que a estrela brilha na frente.",
+    "metadata": {
+      "titulo": "O Adesivo de Estrela",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_103",
+    "conteudo": "Descrição: Diga que a etiqueta na parte de trás da gola é um \"segredo\" e que a frente da roupa não tem esse segredo.",
+    "metadata": {
+      "titulo": "A Etiqueta Secreta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_104",
+    "conteudo": "Descrição: Crie uma música sobre \"encontrar a frente da roupa\" e cante-a enquanto se veste.",
+    "metadata": {
+      "titulo": "A Canção da Frente",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_105",
+    "conteudo": "Descrição: Desenhe um rosto feliz na frente da roupa e um triste atrás para a criança saber o lado certo.",
+    "metadata": {
+      "titulo": "O Rosto Feliz",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_106",
+    "conteudo": "Descrição: Mostre a frente da roupa do ursinho de pelúcia, e depois peça para a criança fazer o mesmo com a dela.",
+    "metadata": {
+      "titulo": "A Roupa do Ursinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_107",
+    "conteudo": "Descrição: Diga que a criança é um detetive e deve encontrar a \"pista\" (o adesivo, o botão) na frente da roupa.",
+    "metadata": {
+      "titulo": "O Jogo do Detetive",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_108",
+    "conteudo": "Descrição: Ao colocar a cabeça na gola, diga \"cuidado para não esmagar o pescoço!\", incentivando a criança a identificar a frente da roupa.",
+    "metadata": {
+      "titulo": "O Jogo do \"Cuidado com o Pescoço!\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_109",
+    "conteudo": "Descrição: O professor mostra a frente da própria roupa de forma exagerada e divertida para a criança imitar.",
+    "metadata": {
+      "titulo": "O Mestre da Roupa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_110",
+    "conteudo": "Descrição: O professor e a criança olham a frente da roupa juntos no espelho, incentivando a consciência corporal.",
+    "metadata": {
+      "titulo": "Jogo do Espelho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_111",
+    "conteudo": "Descrição: Esconda um brinquedo pequeno no bolso da frente da calça e incentive a criança a encontrá-lo.",
+    "metadata": {
+      "titulo": "O Tesouro na Frente",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_112",
+    "conteudo": "Descrição: Vire a roupa do avesso e diga que ela é um túnel que precisa ser virado para o lado certo.",
+    "metadata": {
+      "titulo": "O Túnel da Roupa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_113",
+    "conteudo": "Descrição: Faça um som divertido quando a criança encontrar a frente da roupa.",
+    "metadata": {
+      "titulo": "A Roupa que Canta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_114",
+    "conteudo": "Descrição: Incentive a criança a se virar como um gato, e depois de se virar, encontrar a frente da roupa.",
+    "metadata": {
+      "titulo": "O Gato se Vira",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_115",
+    "conteudo": "Descrição: Deixe a roupa no chão e peça para a criança virá-la para encontrar a frente.",
+    "metadata": {
+      "titulo": "Onde Está a Roupa?",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_116",
+    "conteudo": "Descrição: Use uma lanterna para iluminar a frente da roupa e peça para a criança tocá-la.",
+    "metadata": {
+      "titulo": "O Ponto de Luz",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_117",
+    "conteudo": "Descrição: Coloque duas camisetas, uma virada para a frente e outra para trás, e peça para a criança apontar qual é a frente.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_118",
+    "conteudo": "Descrição: Use uma foto da criança vestindo a roupa e peça para ela olhar a foto para encontrar a frente.",
+    "metadata": {
+      "titulo": "O Quebra-Cabeça da Roupa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_119",
+    "conteudo": "Descrição: Incentive a criança a fazer a roupa \"dançar\" e depois a ajeitá-la para a frente.",
+    "metadata": {
+      "titulo": "A Roupa que Dança",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_120",
+    "conteudo": "Descrição: Coloque uma camisa virada para trás e pergunte \"está certa?\". Quando a criança disser \"não\", peça para ela arrumar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Sim e Não\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_121",
+    "conteudo": "Descrição: Use fita adesiva para criar uma \"pista\" na frente da roupa e a criança a segue com o dedo.",
+    "metadata": {
+      "titulo": "A Pista na Roupa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_122",
+    "conteudo": "Descrição: Vista um ursinho com a roupa virada para a frente e peça para a criança fazer o mesmo.",
+    "metadata": {
+      "titulo": "A Roupa do Ursinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_123",
+    "conteudo": "Descrição: Diga que a roupa é uma fantasia de um personagem e o \"símbolo\" do herói fica na frente.",
+    "metadata": {
+      "titulo": "A Roupa-Fantasia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_124",
+    "conteudo": "Descrição: Use uma casinha de boneca e coloque as roupas viradas para a frente para o aluno brincar.",
+    "metadata": {
+      "titulo": "A Casa da Boneca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_125",
+    "conteudo": "Descrição: Faça sombras na parede e peça para a criança vestir a roupa na sombra, encontrando a frente.",
+    "metadata": {
+      "titulo": "O Jogo da Sombra",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_126",
+    "conteudo": "Descrição: Faça uma pequena corrida para ver quem encontra a frente da roupa mais rápido.",
+    "metadata": {
+      "titulo": "A Corrida da Roupa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_127",
+    "conteudo": "Descrição: Diga \"pé, pé!\" e aponte para o pé da criança, incentivando-a a encontrar a frente da calça.",
+    "metadata": {
+      "titulo": "O Jogo do \"Pé-Pé\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_128",
+    "conteudo": "Descrição: Use um casaco que faça um som divertido (ex: um zíper com um guizo) ao ser colocado no lado certo.",
+    "metadata": {
+      "titulo": "A Roupa que Faz Barulho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_129",
+    "conteudo": "Descrição: Finja que você está tentando \"roubar\" a roupa e incentive a criança a vestir, encontrando a frente rapidamente.",
+    "metadata": {
+      "titulo": "O Ladrão de Roupa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_130",
+    "conteudo": "Descrição: Diga que a criança é um coelhinho e precisa encontrar a frente da roupa para pular.",
+    "metadata": {
+      "titulo": "O Coelhinho se Veste",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_131",
+    "conteudo": "Descrição: Coloque as roupas em um cesto de brinquedo e a criança deve pegá-las e encontrar a frente.",
+    "metadata": {
+      "titulo": "A Roupa no Cesto",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_132",
+    "conteudo": "Descrição: Amarre um cordão leve na frente da roupa e peça para a criança puxar.",
+    "metadata": {
+      "titulo": "O Puxão da Roupa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_133",
+    "conteudo": "Descrição: Deixe a criança colocar e tirar a blusa, praticando o movimento de encontrar a frente.",
+    "metadata": {
+      "titulo": "O Jogo do \"Põe e Tira\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_134",
+    "conteudo": "Descrição: Use um túnel de pano e peça para a criança encontrar a frente da roupa no final.",
+    "metadata": {
+      "titulo": "A Roupa no Túnel de Pano",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_135",
+    "conteudo": "Descrição: Peça para a criança esticar e encolher os braços para vestir, encontrando a frente.",
+    "metadata": {
+      "titulo": "O Jogo do \"Estica-Encolhe\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_136",
+    "conteudo": "Descrição: Diga que a roupa da criança é um traje especial que a protege de perigos, e a frente é o \"símbolo\" da proteção.",
+    "metadata": {
+      "titulo": "A Roupa-Protetora",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_137",
+    "conteudo": "Descrição: Diga que a roupa é uma lagarta que se estica e se encolhe, e a cabeça da lagarta é a frente.",
+    "metadata": {
+      "titulo": "A Roupa-Lagarta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_138",
+    "conteudo": "Descrição: Use um espelho para a criança ver a si mesma vestindo a roupa, encontrando a frente.",
+    "metadata": {
+      "titulo": "A Roupa no Espelho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_139",
+    "conteudo": "Descrição: Cubra a roupa e diga \"cadê a frente?\".",
+    "metadata": {
+      "titulo": "O Jogo do \"Onde está a frente?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_140",
+    "conteudo": "Descrição: Diga que a roupa é uma varinha de condão que faz mágica.",
+    "metadata": {
+      "titulo": "A Roupa-Varinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_141",
+    "conteudo": "Descrição: Peça para a criança esticar, encolher e, por fim, puxar a roupa.",
+    "metadata": {
+      "titulo": "O Jogo do \"Estica-Encolhe-Puxa\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_142",
+    "conteudo": "Descrição: Use fita adesiva para criar uma \"pista\" no chão e a roupa é o \"carro\" que segue a pista.",
+    "metadata": {
+      "titulo": "A Roupa na Pista",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_143",
+    "conteudo": "Descrição: Diga \"pé, pé!\" e aponte para o pé da criança, incentivando-a a encontrar a frente da calça.",
+    "metadata": {
+      "titulo": "O Jogo do \"Pé-Pé\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_144",
+    "conteudo": "Descrição: Coloque a roupa em uma \"linha de gol\" imaginária e incentive a criança a vesti-la, encontrando a frente.",
+    "metadata": {
+      "titulo": "O Goleiro Veste",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_145",
+    "conteudo": "Descrição: Faça uma pequena corrida para ver quem tira a roupa, encontrando a frente e o verso.",
+    "metadata": {
+      "titulo": "O Jogo do \"Tire a Roupa\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_146",
+    "conteudo": "Descrição: Permita que a criança brinque com a roupa, colocando-a na mão ou na cabeça, para se familiarizar com o objeto.",
+    "metadata": {
+      "titulo": "A Roupa na Mão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_147",
+    "conteudo": "Descrição: Diga que a roupa é um fantasma que vai sumir quando a criança encontrar a frente.",
+    "metadata": {
+      "titulo": "A Roupa-Fantasma",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_148",
+    "conteudo": "Descrição: Cubra a roupa e diga \"cadê a roupa?\".",
+    "metadata": {
+      "titulo": "O Jogo do \"Onde está a roupa?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_149",
+    "conteudo": "Descrição: Coloque a roupa na cama e incentive a criança a ir até lá e vestir, encontrando a frente.",
+    "metadata": {
+      "titulo": "A Roupa na Cama",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_150",
+    "conteudo": "Descrição: Coloque duas roupas diferentes e peça para a criança escolher qual vestir.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Reconhece a frente das roupas ao se vestir.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_151",
+    "conteudo": "Descrição: Use um timer visual (ampulheta, timer de areia) para mostrar o tempo da refeição, tornando a duração previsível.",
+    "metadata": {
+      "titulo": "O Timer da Refeição",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_152",
+    "conteudo": "Descrição: Dê um adesivo para a criança a cada 2 ou 3 minutos de alimentação independente.",
+    "metadata": {
+      "titulo": "O Quadro de Adesivos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_153",
+    "conteudo": "Descrição: Diga que há um pequeno \"tesouro\" (brinquedo ou lanche favorito) no final da refeição se ela comer sozinha.",
+    "metadata": {
+      "titulo": "O Tesouro do Final",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_154",
+    "conteudo": "Descrição: Divida o prato em seções com diferentes alimentos, como \"ilhas\" a serem visitadas com a colher.",
+    "metadata": {
+      "titulo": "A Ilha do Prato",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_155",
+    "conteudo": "Descrição: Toque uma música curta e calma durante a refeição, e quando a música parar, o lanche acaba.",
+    "metadata": {
+      "titulo": "A Música da Refeição",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_156",
+    "conteudo": "Descrição: Crie uma música que fale sobre a colher que \"dança\" para pegar a comida, incentivando a coordenação.",
+    "metadata": {
+      "titulo": "A Canção da Colher",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_157",
+    "conteudo": "Descrição: Desenhe um relógio em um papel e diga \"quando o ponteiro pequeno chegar aqui, a refeição acaba\".",
+    "metadata": {
+      "titulo": "O Relógio da Comida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_158",
+    "conteudo": "Descrição: Use os alimentos para criar um rosto de monstro no prato e peça para a criança \"alimentá-lo\" sozinha.",
+    "metadata": {
+      "titulo": "A Comida do Monstro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_159",
+    "conteudo": "Descrição: Crie um passaporte com carimbos para cada refeição completa e independente.",
+    "metadata": {
+      "titulo": "O \"Passaporte\" da Refeição",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_160",
+    "conteudo": "Descrição: O professor come um pedaço e a criança come o dela, de forma alternada, incentivando a imitação.",
+    "metadata": {
+      "titulo": "Eu Como, Você Come",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_161",
+    "conteudo": "Descrição: Converse com a criança sobre a comida, fazendo perguntas simples (ex: \"é bom?\", \"o que é isso?\").",
+    "metadata": {
+      "titulo": "A Conversa da Refeição",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_162",
+    "conteudo": "Descrição: Incentive a criança a comer como um robô, com movimentos e sons de robô.",
+    "metadata": {
+      "titulo": "O Robô Comilão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_163",
+    "conteudo": "Descrição: Arrume a mesa como um restaurante, com pratos e talheres especiais, para tornar a refeição um evento.",
+    "metadata": {
+      "titulo": "A Mesa do Restaurante",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_164",
+    "conteudo": "Descrição: Coloque um pequeno pedaço de alimento favorito no meio do prato, como um \"tesouro\" a ser alcançado com a colher.",
+    "metadata": {
+      "titulo": "A Ilha do Tesouro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_165",
+    "conteudo": "Descrição: Incentive a criança a lamber o prato como um gatinho depois de comer.",
+    "metadata": {
+      "titulo": "O Gato Come",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_166",
+    "conteudo": "Descrição: Use a colher para fazer \"pegadas\" na comida, como se fosse um animal.",
+    "metadata": {
+      "titulo": "A Comida na Pista",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_167",
+    "conteudo": "Descrição: Crie um lugar especial para a colher, ensinando a criança a colocá-la de volta após o uso.",
+    "metadata": {
+      "titulo": "Onde Guardamos?",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_168",
+    "conteudo": "Descrição: Use uma colher com cores ou desenhos vibrantes, dizendo que ela tem poderes para levar a comida à boca.",
+    "metadata": {
+      "titulo": "A Colher Mágica",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_169",
+    "conteudo": "Descrição: A criança usa a colher como um \"aviãozinho\" que voa até a boca, com sua orientação verbal.",
+    "metadata": {
+      "titulo": "O Aviãozinho na Boca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_170",
+    "conteudo": "Descrição: Diga que o copo ou caneca tem o \"poder da independência\" para a refeição.",
+    "metadata": {
+      "titulo": "A Caneca do Sucesso",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_171",
+    "conteudo": "Descrição: A criança come de frente para um espelho, incentivando a imitação e a consciência do movimento.",
+    "metadata": {
+      "titulo": "Jogo do Espelho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_172",
+    "conteudo": "Descrição: Enrole a comida em bolinhas para a criança pegar com a colher.",
+    "metadata": {
+      "titulo": "A Bola de Comida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_173",
+    "conteudo": "Descrição: Use um fantoche para interagir com o aluno e \"comer\" a comida.",
+    "metadata": {
+      "titulo": "O Fantoche Comilão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_174",
+    "conteudo": "Descrição: Corte pedaços de alimentos em formato de coelho e a criança usa a colher para comê-los.",
+    "metadata": {
+      "titulo": "O Coelhinho Come",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_175",
+    "conteudo": "Descrição: Coloque dois potes de comida e peça para a criança usar a colher para pegar a que ela quer.",
+    "metadata": {
+      "titulo": "O Jogo do \"Sim e Não\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_176",
+    "conteudo": "Descrição: Use a colher na caixa de areia, para que a criança pratique o movimento de escavar em um contexto de brincadeira.",
+    "metadata": {
+      "titulo": "Colher de Areia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_177",
+    "conteudo": "Descrição: Finja que você está tentando roubar a colher de comida e incentive a criança a levá-la rapidamente para a boca.",
+    "metadata": {
+      "titulo": "O Ladrão de Comida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_178",
+    "conteudo": "Descrição: Peça para a criança espetar um alimento que ela não gosta e fazer uma careta de \"eca!\", sem a obrigação de comer.",
+    "metadata": {
+      "titulo": "O Jogo do \"Eca!\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_179",
+    "conteudo": "Descrição: Mova o garfo como se ele estivesse dançando no ar antes de levá-lo à boca.",
+    "metadata": {
+      "titulo": "O Garfo Dançarino",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_180",
+    "conteudo": "Descrição: Use fita adesiva para criar uma \"pista\" no prato, e a criança usa a colher para seguir a pista.",
+    "metadata": {
+      "titulo": "O Robô na Pista",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_181",
+    "conteudo": "Descrição: Crie uma canção sobre \"colher\" a comida com a colher.",
+    "metadata": {
+      "titulo": "A Canção da Colheita",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_182",
+    "conteudo": "Descrição: Coloque a comida em uma tigela verde e diga que é uma \"floresta\", e a colher é um animal.",
+    "metadata": {
+      "titulo": "A Comida na Floresta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_183",
+    "conteudo": "Descrição: Faça uma pequena corrida com a colher, do prato até a boca da criança, em um movimento rápido e divertido.",
+    "metadata": {
+      "titulo": "A Corrida da Colher",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_184",
+    "conteudo": "Descrição: Use um prato com desenhos de quebra-cabeça e incentive a criança a \"montá-los\" com a comida.",
+    "metadata": {
+      "titulo": "O Quebra-Cabeça do Prato",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_185",
+    "conteudo": "Descrição: Use alimentos em cubos para criar uma \"escada\" no prato.",
+    "metadata": {
+      "titulo": "A Escada de Comida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_186",
+    "conteudo": "Descrição: Coloque vários alimentos em potes e peça para a criança usar a colher para pegar o que ela quer.",
+    "metadata": {
+      "titulo": "O Jogo do \"Comer o Quê?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_187",
+    "conteudo": "Descrição: Diga \"a colher vai desaparecer na boca!\" e incentive a criança a levar a colher até lá.",
+    "metadata": {
+      "titulo": "A Colher Desaparece",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_188",
+    "conteudo": "Descrição: Deixe a criança colocar e tirar a colher da boca, praticando o movimento.",
+    "metadata": {
+      "titulo": "O Jogo do \"Põe e Tira\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_189",
+    "conteudo": "Descrição: Cubra o prato com um pano e diga \"cadê a comida?\", para a criança descobrir.",
+    "metadata": {
+      "titulo": "Onde Está a Comida?",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_190",
+    "conteudo": "Descrição: Faça um som de \"zip\" enquanto a criança move a colher para a boca.",
+    "metadata": {
+      "titulo": "O Zíper da Colher",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_191",
+    "conteudo": "Descrição: Cante uma música sobre a colher que está \"com fome\" e precisa de comida.",
+    "metadata": {
+      "titulo": "A Canção da Colher Vazia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_192",
+    "conteudo": "Descrição: Use a colher na caixa de areia, para que a criança pratique o movimento de escavar.",
+    "metadata": {
+      "titulo": "A Colher de Areia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_193",
+    "conteudo": "Descrição: Peça para a criança pular para dentro da cadeira para a refeição.",
+    "metadata": {
+      "titulo": "O Jogo do \"Pula-Pula\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_194",
+    "conteudo": "Descrição: Permita que a criança pegue um pouco da comida na sua mão antes de você guiar a colher.",
+    "metadata": {
+      "titulo": "A Comida na Mão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_195",
+    "conteudo": "Descrição: Diga que a colher é uma varinha de condão que faz mágica.",
+    "metadata": {
+      "titulo": "A Colher-Varinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_196",
+    "conteudo": "Descrição: Use um túnel de pano e peça para a criança comer no final.",
+    "metadata": {
+      "titulo": "A Comida no Túnel de Pano",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_197",
+    "conteudo": "Descrição: Amarre um cordão leve na colher e peça para o ursinho \"puxá-lo\" para a criança.",
+    "metadata": {
+      "titulo": "O Puxão do Ursinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_198",
+    "conteudo": "Descrição: Faça um som divertido enquanto a criança come.",
+    "metadata": {
+      "titulo": "A Colher que Canta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_199",
+    "conteudo": "Descrição: Deixe a criança colocar e tirar a mão da colher, praticando o movimento.",
+    "metadata": {
+      "titulo": "O Jogo do \"Põe e Tira\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_200",
+    "conteudo": "Descrição: Coloque dois potes de comida e peça para a criança escolher qual comer.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_201",
+    "conteudo": "Descrição: Coloque um pequeno alvo de papel higiênico, um pedaço de cereal ou um alvo de borracha no vaso sanitário para a criança tentar acertar.",
+    "metadata": {
+      "titulo": "O Alvo do Banheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_202",
+    "conteudo": "Descrição: Chame o xixi de \"chafariz mágico\" que faz a água se mover e faça o som de \"shhh\" enquanto a criança urina.",
+    "metadata": {
+      "titulo": "O Chafariz Mágico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_203",
+    "conteudo": "Descrição: Use uma bolinha de pingue-pongue no vaso sanitário e incentive a criança a tentar acertá-la para fazê-la \"dançar\".",
+    "metadata": {
+      "titulo": "A Bolinha no Vaso",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_204",
+    "conteudo": "Descrição: Use um pato de borracha e diga que ele precisa ir para o \"lago\" (o vaso) para fazer xixi.",
+    "metadata": {
+      "titulo": "O Boneco Pato",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_205",
+    "conteudo": "Descrição: Coloque um brinquedo pequeno que flutue na água do vaso e a criança precisa \"pegar\" o tesouro com o xixi.",
+    "metadata": {
+      "titulo": "A Caça ao Tesouro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_206",
+    "conteudo": "Descrição: Faça movimentos de robô enquanto o professor ou um boneco \"faz xixi\", incentivando a imitação e a diversão.",
+    "metadata": {
+      "titulo": "O Robô Faz Xixi",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_207",
+    "conteudo": "Descrição: Crie uma música curta e alegre sobre fazer xixi em pé e cante-a na hora certa.",
+    "metadata": {
+      "titulo": "A Música do Xixi",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_208",
+    "conteudo": "Descrição: Diga que a criança é um bombeiro e deve \"apagar o fogo\" no vaso, tornando a ação mais lúdica.",
+    "metadata": {
+      "titulo": "O Bombeiro Faz Xixi",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_209",
+    "conteudo": "Descrição: Use fita adesiva para criar uma \"pista\" no chão do banheiro, levando até o vaso sanitário.",
+    "metadata": {
+      "titulo": "A Pista da Água",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_210",
+    "conteudo": "Descrição: Use corante alimentício para colorir a água do vaso e a criança tenta acertar a cor.",
+    "metadata": {
+      "titulo": "O Alvo Colorido",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_211",
+    "conteudo": "Descrição: Faça o som de \"clac-clac\" com os dentes, imitando o som da descarga, depois que a criança urinar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Clac-Clac\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_212",
+    "conteudo": "Descrição: Use uma boneca de brinquedo e diga que ela precisa ir ao banheiro para \"fazer xixi\".",
+    "metadata": {
+      "titulo": "O Bebê Faz Xixi",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_213",
+    "conteudo": "Descrição: Deixe uma toalha pequena no chão do banheiro e diga que ela serve para \"pegar\" as gotas.",
+    "metadata": {
+      "titulo": "A Toalha para as Gotas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_214",
+    "conteudo": "Descrição: Use um brinquedo pequeno que flutue na água do vaso para a criança tentar acertar.",
+    "metadata": {
+      "titulo": "O Alvo Flutuante",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_215",
+    "conteudo": "Descrição: Aponte para o vaso sanitário e diga \"onde está o xixi?\", incentivando a criança a ir.",
+    "metadata": {
+      "titulo": "O Jogo do \"Onde está o xixi?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_216",
+    "conteudo": "Descrição: Use um banquinho para a criança subir e se sentir mais segura.",
+    "metadata": {
+      "titulo": "A Escada do Vaso",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_217",
+    "conteudo": "Descrição: Faça um som de fantasma enquanto a criança urina, tornando o som menos assustador.",
+    "metadata": {
+      "titulo": "O Fantasma Faz Xixi",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_218",
+    "conteudo": "Descrição: Use um ursinho de pelúcia e diga que ele precisa ir ao banheiro, e a criança deve levá-lo.",
+    "metadata": {
+      "titulo": "O Trajeto do Ursinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_219",
+    "conteudo": "Descrição: Faça sombras na parede do banheiro e peça para a criança urinar.",
+    "metadata": {
+      "titulo": "A Sombra do Xixi",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_220",
+    "conteudo": "Descrição: Mantenha um quebra-cabeça de poucas peças que só é montado após o sucesso no banheiro.",
+    "metadata": {
+      "titulo": "O Quebra-Cabeça da Vitória",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_221",
+    "conteudo": "Descrição: Se houver um vaso sanitário colorido, use a cor para atrair a atenção da criança.",
+    "metadata": {
+      "titulo": "O Vaso de Cores",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_222",
+    "conteudo": "Descrição: Se houver uma janela, aponte para objetos fora, distraindo a criança.",
+    "metadata": {
+      "titulo": "A Janela do Banheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_223",
+    "conteudo": "Descrição: Pergunte \"Quer fazer xixi?\" e peça para a criança responder com um gesto.",
+    "metadata": {
+      "titulo": "O Jogo do \"Sim e Não\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_224",
+    "conteudo": "Descrição: Use um pato de borracha e diga que ele precisa de água para nadar.",
+    "metadata": {
+      "titulo": "O Pato na Banheira",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_225",
+    "conteudo": "Descrição: Diga que a roupa da criança é uma fantasia e o super-herói precisa usar o vaso.",
+    "metadata": {
+      "titulo": "A Roupa de Super-Herói",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_226",
+    "conteudo": "Descrição: Diga as palavras \"abre\" e \"fecha\" enquanto a criança urina, associando as palavras à ação.",
+    "metadata": {
+      "titulo": "O Jogo do \"Abre e Fecha\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_227",
+    "conteudo": "Descrição: Diga que o xixi vai para um \"lugar mágico\" e a criança precisa ir para lá.",
+    "metadata": {
+      "titulo": "Onde Guardamos o Xixi?",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_228",
+    "conteudo": "Descrição: Diga que a água que a criança bebe vai para o banheiro.",
+    "metadata": {
+      "titulo": "A Caneca da Água",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_229",
+    "conteudo": "Descrição: Diga que uma fada vai deixar um pequeno brinquedo no banheiro quando a criança urinar.",
+    "metadata": {
+      "titulo": "A Fada do Banheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_230",
+    "conteudo": "Descrição: Mostre dois alvos diferentes e peça para a criança escolher qual ela quer.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_231",
+    "conteudo": "Descrição: Use um pequeno sino para marcar o momento de ir ao banheiro.",
+    "metadata": {
+      "titulo": "O Sino do Banheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_232",
+    "conteudo": "Descrição: Conte uma história sobre a água que vai \"passear\" pelo corpo e precisa ir para o banheiro.",
+    "metadata": {
+      "titulo": "A História da Água",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_233",
+    "conteudo": "Descrição: Diga que a criança é um pássaro e o penico é um ninho seguro onde ela pode ir.",
+    "metadata": {
+      "titulo": "O Pássaro no Ninho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_234",
+    "conteudo": "Descrição: Deixe a criança escolher um babador ou um acessório que só pode ser usado na hora de ir ao banheiro.",
+    "metadata": {
+      "titulo": "A Roupa do Banheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_235",
+    "conteudo": "Descrição: Peça para a criança fazer o som de \"clac-clac\" com a língua e os dentes, imitando o som da descarga.",
+    "metadata": {
+      "titulo": "O Jogo do \"Clac-Clac-Clac!\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_236",
+    "conteudo": "Descrição: Encha um balão de ar e diga \"sua bexiga é como um balão que enche e precisa ser esvaziado.\"",
+    "metadata": {
+      "titulo": "O Balão da Bexiga",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_237",
+    "conteudo": "Descrição: Diga \"pé, pé!\" e aponte para o pé da criança, incentivando-a a ir ao banheiro.",
+    "metadata": {
+      "titulo": "O Jogo do \"Pé-Pé\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_238",
+    "conteudo": "Descrição: Coloque um cartão do banheiro em uma \"linha de gol\" e incentive a criança a pegá-lo.",
+    "metadata": {
+      "titulo": "O Goleiro Pega o Banheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_239",
+    "conteudo": "Descrição: Faça movimentos de robô enquanto avisa que precisa ir ao banheiro.",
+    "metadata": {
+      "titulo": "O Robô Avisa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_240",
+    "conteudo": "Descrição: Faça uma pequena corrida com a criança até o banheiro, depois de ela avisar.",
+    "metadata": {
+      "titulo": "A Corrida do Banheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_241",
+    "conteudo": "Descrição: Dê um pedaço de jornal para a criança e peça para ela amassá-lo enquanto espera no banheiro.",
+    "metadata": {
+      "titulo": "O Papel de Jornal",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_242",
+    "conteudo": "Descrição: Peça para a criança avisar um amigo de pelúcia que ela vai ao banheiro.",
+    "metadata": {
+      "titulo": "O Amigo Avisa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_243",
+    "conteudo": "Descrição: Diga que a água que a criança bebe vai para o banheiro.",
+    "metadata": {
+      "titulo": "A Caneca da Água",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_244",
+    "conteudo": "Descrição: Use bonecos e crie uma \"fila\" para ir ao banheiro de brinquedo.",
+    "metadata": {
+      "titulo": "A Fila do Banheiro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_245",
+    "conteudo": "Descrição: Peça para a criança fazer o som de \"clac-clac\" com a língua.",
+    "metadata": {
+      "titulo": "O Jogo do \"Clac-Clac\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_246",
+    "conteudo": "Descrição: Diga que a água tem o poder de \"lavar\" a sujeira e que a criança precisa avisar para que a torneira seja aberta.",
+    "metadata": {
+      "titulo": "A Água que Limpa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_247",
+    "conteudo": "Descrição: Deixe a criança colocar e tirar a mão da água.",
+    "metadata": {
+      "titulo": "O Jogo do \"Põe e Tira\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_248",
+    "conteudo": "Descrição: Use um telefone de brinquedo e diga que o \"Mickey\" ou outro personagem favorito vai ligar para parabenizar.",
+    "metadata": {
+      "titulo": "O Telefone Mágico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_249",
+    "conteudo": "Descrição: Diga as palavras \"abre\" e \"fecha\" enquanto a criança urina, associando as palavras à ação.",
+    "metadata": {
+      "titulo": "O Jogo do \"Abre e Fecha\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_250",
+    "conteudo": "Descrição: Coloque dois alvos diferentes e peça para a criança escolher qual ela quer.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Para meninos, urina em pé no vaso sanitário.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_251",
+    "conteudo": "Descrição: Use um lenço de papel com cores ou personagens, dizendo que ele tem o poder de fazer o catarro \"sumir\".",
+    "metadata": {
+      "titulo": "O Lenço Mágico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_252",
+    "conteudo": "Descrição: Diga que a mão da criança é um rato que vai pegar o catarro do nariz, incentivando a coordenação.",
+    "metadata": {
+      "titulo": "O Rato Pega-Catarro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_253",
+    "conteudo": "Descrição: Segure um lenço de papel como um túnel e peça para a criança assoar o nariz por ele.",
+    "metadata": {
+      "titulo": "O Túnel do Nariz",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_254",
+    "conteudo": "Descrição: Crie uma música curta e divertida sobre assoar o nariz, com gestos para a criança imitar.",
+    "metadata": {
+      "titulo": "A Canção do Nariz",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_255",
+    "conteudo": "Descrição: Use um fantoche para mostrar como assoar o nariz, incentivando a imitação e a diversão.",
+    "metadata": {
+      "titulo": "O Fantoche que Assua",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_256",
+    "conteudo": "Descrição: Use lenços de papel com diferentes texturas (macios, com relevo) para a criança se familiarizar com a sensação.",
+    "metadata": {
+      "titulo": "Lenço de Textura",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_257",
+    "conteudo": "Descrição: O professor assoa o nariz de forma exagerada e divertida, fazendo caretas para a criança imitar.",
+    "metadata": {
+      "titulo": "O Mestre do Nariz",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_258",
+    "conteudo": "Descrição: Mostre como assoar o nariz de um boneco de pelúcia, e depois a criança assoa o nariz do ursinho dela.",
+    "metadata": {
+      "titulo": "Assoando o Ursinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_259",
+    "conteudo": "Descrição: Diga \"espirro!\" e incentive a criança a usar o lenço para limpar o nariz.",
+    "metadata": {
+      "titulo": "O Jogo do \"Espirro!\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_260",
+    "conteudo": "Descrição: Incentive a criança a puxar o lenço da caixa de forma divertida, como um jogo.",
+    "metadata": {
+      "titulo": "O Puxa-Puxa do Lenço",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_261",
+    "conteudo": "Descrição: A criança e o professor limpam o nariz de frente para um espelho, incentivando a imitação e a consciência corporal.",
+    "metadata": {
+      "titulo": "Jogo do Espelho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_262",
+    "conteudo": "Descrição: Crie um lugar especial para o lenço de papel, ensinando a criança a colocá-lo de volta na caixa.",
+    "metadata": {
+      "titulo": "Onde Guardamos o Lenço?",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_263",
+    "conteudo": "Descrição: Finja que você está tentando \"roubar\" as gotas do nariz e incentive a criança a limpá-lo rapidamente.",
+    "metadata": {
+      "titulo": "O Ladrão de Gotas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_264",
+    "conteudo": "Descrição: Faça uma pequena corrida para ver quem limpa o nariz mais rápido, sem pressão.",
+    "metadata": {
+      "titulo": "A Corrida do Lenço",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_265",
+    "conteudo": "Descrição: Faça movimentos de robô enquanto a criança assoa o nariz, incentivando a imitação.",
+    "metadata": {
+      "titulo": "O Robô Assua",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_266",
+    "conteudo": "Descrição: Deixe a criança segurar o lenço e, em seguida, solte-a para que ela termine de secar sozinha.",
+    "metadata": {
+      "titulo": "Quase Sozinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_267",
+    "conteudo": "Descrição: Em vez de guiar toda a mão da criança, use apenas um dedo para guiar o pulso, diminuindo a ajuda.",
+    "metadata": {
+      "titulo": "O Dedo Guia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_268",
+    "conteudo": "Descrição: Deixe a criança colocar e tirar o lenço do nariz, praticando o movimento.",
+    "metadata": {
+      "titulo": "Jogo do \"Põe e Tira\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_269",
+    "conteudo": "Descrição: Crie uma música sobre a limpeza do nariz que inclui movimentos para a criança imitar.",
+    "metadata": {
+      "titulo": "A Canção da Limpeza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_270",
+    "conteudo": "Descrição: Diga que a criança é um coelhinho e que precisa assoar o nariz para pular.",
+    "metadata": {
+      "titulo": "O Coelhinho Assua",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_271",
+    "conteudo": "Descrição: Faça o som de \"clac-clac\" com os dentes, imitando o som do lenço ao ser amassado.",
+    "metadata": {
+      "titulo": "O Jogo do \"Clac-Clac\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_272",
+    "conteudo": "Descrição: Use um fantoche para mostrar como limpar o nariz, incentivando a imitação e a diversão.",
+    "metadata": {
+      "titulo": "O Fantoche Limpa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_273",
+    "conteudo": "Descrição: Use um lenço morno e gelado para a criança sentir a diferença de temperatura e se familiarizar com o objeto.",
+    "metadata": {
+      "titulo": "Lenço Quente e Frio",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_274",
+    "conteudo": "Descrição: Faça a sombra do nariz na parede e peça para a criança \"limpá-la\" com o lenço.",
+    "metadata": {
+      "titulo": "A Sombra do Nariz",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_275",
+    "conteudo": "Descrição: Coloque dois lenços diferentes (com cor ou textura) e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_276",
+    "conteudo": "Descrição: Amarre um cordão leve no lenço e peça para o ursinho \"puxá-lo\" para a criança.",
+    "metadata": {
+      "titulo": "O Puxão do Ursinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_277",
+    "conteudo": "Descrição: Incentive a criança a amassar o lenço em uma bolinha após o uso.",
+    "metadata": {
+      "titulo": "A Bolinha de Lenço",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_278",
+    "conteudo": "Descrição: Pergunte \"Quer assoar o nariz?\" e peça para a criança responder com um gesto.",
+    "metadata": {
+      "titulo": "O Jogo do \"Sim e Não\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_279",
+    "conteudo": "Descrição: Finja que você está tentando roubar o lenço e incentive a criança a usá-lo rapidamente.",
+    "metadata": {
+      "titulo": "O Ladrão de Lenço",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_280",
+    "conteudo": "Descrição: Deixe a criança colocar e tirar o lenço do nariz, praticando o movimento.",
+    "metadata": {
+      "titulo": "O Jogo do \"Põe e Tira\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_281",
+    "conteudo": "Descrição: Faça um som de \"miau\" enquanto a criança limpa o nariz.",
+    "metadata": {
+      "titulo": "A Canção do Gato",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_282",
+    "conteudo": "Descrição: Peça para a criança esticar e encolher os braços para pegar o lenço.",
+    "metadata": {
+      "titulo": "O Jogo do \"Estica-Encolhe\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_283",
+    "conteudo": "Descrição: Diga que a criança é um coelhinho e que precisa assoar o nariz para pular.",
+    "metadata": {
+      "titulo": "O Coelhinho Assua",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_284",
+    "conteudo": "Descrição: Permita que a criança brinque com o lenço, colocando-o na mão ou na cabeça.",
+    "metadata": {
+      "titulo": "A Meia na Mão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_285",
+    "conteudo": "Descrição: Coloque dois lenços diferentes e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_286",
+    "conteudo": "Descrição: Crie uma canção sobre o sabonete que \"abraça\" o nariz.",
+    "metadata": {
+      "titulo": "A Canção do Sabonete",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_287",
+    "conteudo": "Descrição: Faça sombras com a mão na parede e peça para a criança \"limpar\" a sombra.",
+    "metadata": {
+      "titulo": "O Jogo da Sombra",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_288",
+    "conteudo": "Descrição: Peça para a criança pular para a pia.",
+    "metadata": {
+      "titulo": "O Jogo do \"Pula-Pula\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_289",
+    "conteudo": "Descrição: Amarre um cordão leve no lenço e peça para o ursinho \"puxá-lo\" para a criança.",
+    "metadata": {
+      "titulo": "O Puxão do Ursinho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_290",
+    "conteudo": "Descrição: Faça um som divertido enquanto a criança limpa o nariz.",
+    "metadata": {
+      "titulo": "A Toalha que Canta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_291",
+    "conteudo": "Descrição: Deixe a criança colocar e tirar a mão da água, praticando o movimento.",
+    "metadata": {
+      "titulo": "O Jogo do \"Põe e Tira\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_292",
+    "conteudo": "Descrição: Use o sabonete para fazer espuma na mão da criança.",
+    "metadata": {
+      "titulo": "O Sabonete no Banho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_293",
+    "conteudo": "Descrição: Deixe a criança usar a toalha do professor.",
+    "metadata": {
+      "titulo": "A Toalha do Mestre",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_294",
+    "conteudo": "Descrição: Faça sombras com a toalha na parede.",
+    "metadata": {
+      "titulo": "O Jogo da Sombra",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_295",
+    "conteudo": "Descrição: Coloque duas toalhas e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Sim e Não\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_296",
+    "conteudo": "Descrição: Use a toalha na caixa de areia, para a criança se secar.",
+    "metadata": {
+      "titulo": "A Toalha de Areia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_297",
+    "conteudo": "Descrição: Coloque duas toalhas diferentes e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_298",
+    "conteudo": "Descrição: Permita que a criança brinque com a toalha, colocando-a na mão ou na cabeça.",
+    "metadata": {
+      "titulo": "A Toalha na Mão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_299",
+    "conteudo": "Descrição: Coloque duas toalhas diferentes e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_300",
+    "conteudo": "Descrição: Diga que a toalha vai \"abraçar\" o nariz da criança para secá-lo.",
+    "metadata": {
+      "titulo": "A Toalha que Abraça",
+      "dimensao": "Autocuidado",
+      "habilidade": "Limpa ou assoa o nariz quando lembrado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_301",
+    "conteudo": "Descrição: Use um cabide com um formato de macaco ou outro animal e peça para a criança pendurar a blusa, como se estivesse pendurando o animal.",
+    "metadata": {
+      "titulo": "O Cabide do Macaco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_302",
+    "conteudo": "Descrição: Diga que o armário é mágico e as roupas precisam ser guardadas para que a mágica aconteça, tornando a tarefa emocionante.",
+    "metadata": {
+      "titulo": "O Roupeiro Mágico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_303",
+    "conteudo": "Descrição: Crie uma música curta sobre \"pegar\" a roupa e \"pendurar\" no cabide, com movimentos para a criança imitar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Pega e Pendura\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_304",
+    "conteudo": "Descrição: Esconda um brinquedo pequeno na gaveta vazia e peça para a criança colocar a roupa para \"guardar o tesouro\".",
+    "metadata": {
+      "titulo": "O Tesouro na Gaveta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_305",
+    "conteudo": "Descrição: Diga que a gaveta é uma \"caverna\" onde as roupas precisam ir para dormir.",
+    "metadata": {
+      "titulo": "A Caverna das Roupas",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_306",
+    "conteudo": "Descrição: Use cabides de cores diferentes e incentive a criança a pendurar as roupas na cor correspondente.",
+    "metadata": {
+      "titulo": "Cabides Coloridos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_307",
+    "conteudo": "Descrição: Diga que a roupa é um trem que precisa ser \"guardado\" na estação (a gaveta) para descansar.",
+    "metadata": {
+      "titulo": "A Roupa-Trem",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_308",
+    "conteudo": "Descrição: Use uma boneca para mostrar como pendurar roupas e guardar nas gavetas, incentivando a imitação.",
+    "metadata": {
+      "titulo": "O Bebê Guarda a Roupa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_309",
+    "conteudo": "Descrição: Faça uma pequena corrida para ver quem guarda a roupa mais rápido, sem pressão.",
+    "metadata": {
+      "titulo": "A Corrida da Roupa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_310",
+    "conteudo": "Descrição: Crie um lugar especial para a roupa suja e incentive a criança a jogar a roupa lá depois de tirar.",
+    "metadata": {
+      "titulo": "Onde Guardamos?",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_311",
+    "conteudo": "Descrição: O professor pendura e guarda as próprias roupas de forma exagerada para a criança imitar.",
+    "metadata": {
+      "titulo": "O Mestre do Armário",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_312",
+    "conteudo": "Descrição: Diga as palavras \"dobra\" e \"guarda\" enquanto a criança dobra e coloca a roupa na gaveta.",
+    "metadata": {
+      "titulo": "A Dobra Mágica",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_313",
+    "conteudo": "Descrição: Coloque duas roupas e peça para a criança apontar qual ela quer guardar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Sim e Não\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_314",
+    "conteudo": "Descrição: Faça o som de \"ziip!\" com a boca enquanto a criança fecha a porta do armário.",
+    "metadata": {
+      "titulo": "O Zíper do Armário",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_315",
+    "conteudo": "Descrição: Use fita adesiva para criar uma \"pista\" no chão, e a criança segue a pista para guardar a roupa.",
+    "metadata": {
+      "titulo": "A Pista da Roupa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_316",
+    "conteudo": "Descrição: Diga que a roupa é um fantasma que vai sumir quando a criança a pendurar.",
+    "metadata": {
+      "titulo": "A Roupa-Fantasma",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_317",
+    "conteudo": "Descrição: Diga que a criança é um coelhinho e precisa guardar a roupa para pular.",
+    "metadata": {
+      "titulo": "O Coelhinho Guarda",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_318",
+    "conteudo": "Descrição: Incentive a criança a pegar a roupa, correr para o armário e guardá-la.",
+    "metadata": {
+      "titulo": "O Jogo do \"Pega-Pega-Guarda\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_319",
+    "conteudo": "Descrição: Diga para a criança que a roupa está \"com frio\" e quer ser guardada no armário.",
+    "metadata": {
+      "titulo": "A Roupa que Fala",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_320",
+    "conteudo": "Descrição: O professor e a criança penduram a roupa de frente para um espelho.",
+    "metadata": {
+      "titulo": "Jogo do Espelho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_321",
+    "conteudo": "Descrição: Crie uma canção sobre a importância de pendurar e guardar as roupas.",
+    "metadata": {
+      "titulo": "A Canção da Limpeza",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_322",
+    "conteudo": "Descrição: Esconda a roupa e peça para a criança encontrá-la e guardá-la.",
+    "metadata": {
+      "titulo": "Onde Está a Roupa?",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_323",
+    "conteudo": "Descrição: Amarre um cordão leve no cabide e peça para a criança puxá-lo.",
+    "metadata": {
+      "titulo": "O Puxão do Cabide",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_324",
+    "conteudo": "Descrição: Finja que você está tentando roubar a roupa e incentive a criança a guardá-la rapidamente.",
+    "metadata": {
+      "titulo": "O Ladrão de Roupa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_325",
+    "conteudo": "Descrição: Coloque duas roupas diferentes e peça para a criança escolher qual guardar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_326",
+    "conteudo": "Descrição: Use roupas com cores vibrantes para atrair a atenção da criança.",
+    "metadata": {
+      "titulo": "A Roupa-Vibrante",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_327",
+    "conteudo": "Descrição: Deixe a criança colocar e tirar a roupa da gaveta, praticando o movimento.",
+    "metadata": {
+      "titulo": "O Jogo do \"Põe e Tira\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_328",
+    "conteudo": "Descrição: Use um túnel de pano e peça para a criança guardar a roupa no final.",
+    "metadata": {
+      "titulo": "A Roupa no Túnel de Pano",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_329",
+    "conteudo": "Descrição: Peça para a criança esticar e encolher os braços para pendurar a roupa.",
+    "metadata": {
+      "titulo": "O Jogo do \"Estica-Encolhe\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_330",
+    "conteudo": "Descrição: Diga que a criança é um coelhinho e precisa guardar a roupa para pular.",
+    "metadata": {
+      "titulo": "O Coelhinho Guarda",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_331",
+    "conteudo": "Descrição: Coloque as roupas em um cesto de brinquedo para que a criança as pegue e guarde.",
+    "metadata": {
+      "titulo": "A Roupa no Cesto",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_332",
+    "conteudo": "Descrição: Amarre um cordão leve no cabide e peça para a criança puxá-lo para pendurar a roupa.",
+    "metadata": {
+      "titulo": "O Puxão do Cabide",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_333",
+    "conteudo": "Descrição: Faça sombras na parede e peça para a criança guardar a roupa na sombra.",
+    "metadata": {
+      "titulo": "O Jogo da Sombra",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_334",
+    "conteudo": "Descrição: Faça um som divertido enquanto a criança guarda a roupa.",
+    "metadata": {
+      "titulo": "A Roupa que Canta",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_335",
+    "conteudo": "Descrição: Deixe a criança colocar e tirar a mão da roupa, praticando o movimento.",
+    "metadata": {
+      "titulo": "O Jogo do \"Põe e Tira\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_336",
+    "conteudo": "Descrição: Coloque duas roupas diferentes e peça para a criança escolher qual guardar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_337",
+    "conteudo": "Descrição: Permita que a criança brinque com a roupa, colocando-a na mão ou na cabeça, para se familiarizar com o objeto.",
+    "metadata": {
+      "titulo": "A Roupa na Mão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_338",
+    "conteudo": "Descrição: Coloque duas roupas diferentes e peça para a criança escolher qual guardar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_339",
+    "conteudo": "Descrição: Use um espelho para a criança ver a si mesma guardando a roupa.",
+    "metadata": {
+      "titulo": "A Roupa no Espelho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_340",
+    "conteudo": "Descrição: Cubra a roupa e diga \"cadê a roupa?\".",
+    "metadata": {
+      "titulo": "O Jogo do \"Onde está a roupa?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_341",
+    "conteudo": "Descrição: Diga que a roupa é uma varinha de condão que faz mágica.",
+    "metadata": {
+      "titulo": "A Roupa-Varinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_342",
+    "conteudo": "Descrição: Peça para a criança esticar, encolher e, por fim, puxar a roupa para guardar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Estica-Encolhe-Puxa\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_343",
+    "conteudo": "Descrição: Use fita adesiva para criar uma \"pista\" no chão e a roupa é o \"carro\" que segue a pista.",
+    "metadata": {
+      "titulo": "A Roupa na Pista",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_344",
+    "conteudo": "Descrição: Diga \"pé, pé!\" e aponte para o pé da criança, incentivando-a a guardar a roupa.",
+    "metadata": {
+      "titulo": "O Jogo do \"Pé-Pé\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_345",
+    "conteudo": "Descrição: Coloque a roupa em uma \"linha de gol\" imaginária e incentive a criança a guardá-la.",
+    "metadata": {
+      "titulo": "O Goleiro Guarda",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_346",
+    "conteudo": "Descrição: Faça uma pequena corrida para ver quem tira a roupa e a guarda mais rápido.",
+    "metadata": {
+      "titulo": "O Jogo do \"Tira a Roupa\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_347",
+    "conteudo": "Descrição: Permita que a criança brinque com a roupa, colocando-a na mão ou na cabeça.",
+    "metadata": {
+      "titulo": "A Roupa na Mão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_348",
+    "conteudo": "Descrição: Diga que a roupa é um fantasma que vai sumir quando a criança a guardar.",
+    "metadata": {
+      "titulo": "A Roupa-Fantasma",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_349",
+    "conteudo": "Descrição: Cubra a roupa e diga \"cadê a roupa?\".",
+    "metadata": {
+      "titulo": "O Jogo do \"Onde está a roupa?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_350",
+    "conteudo": "Descrição: Coloque a roupa na cama e incentive a criança a ir até lá e guardar.",
+    "metadata": {
+      "titulo": "A Roupa na Cama",
+      "dimensao": "Autocuidado",
+      "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_351",
+    "conteudo": "Descrição: Diga \"pegue a escova\" e espere a criança pegar. Em seguida, diga \"coloque a pasta\".",
+    "metadata": {
+      "titulo": "O Mestre da Escova",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_352",
+    "conteudo": "Descrição: Diga \"o carro vai para os dentes de cima\" e depois \"agora para os dentes de baixo\", com a criança seguindo a instrução.",
+    "metadata": {
+      "titulo": "O Carro na Pista",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_353",
+    "conteudo": "Descrição: Diga \"primeiro pegue a escova, depois coloque a pasta\", ensinando a sequência.",
+    "metadata": {
+      "titulo": "Primeiro e Depois",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_354",
+    "conteudo": "Descrição: Diga \"abra a boca\" e depois \"feche a boca\", incentivando a criança a seguir a instrução.",
+    "metadata": {
+      "titulo": "O Zíper de Boca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_355",
+    "conteudo": "Descrição: Coloque duas escovas de cores diferentes e diga \"pegue a escova azul\", incentivando a criança a reconhecer as cores.",
+    "metadata": {
+      "titulo": "Escova de Cores",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_356",
+    "conteudo": "Descrição: Crie uma música com instruções embutidas, como \"escova para cima, escova para baixo\".",
+    "metadata": {
+      "titulo": "A Canção da Escovação",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_357",
+    "conteudo": "Descrição: Diga \"o monstro vai limpar os dentes de trás\", para a criança seguir a instrução.",
+    "metadata": {
+      "titulo": "O Monstro da Boca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_358",
+    "conteudo": "Descrição: Diga \"agora você é o dentista, escove os dentes do ursinho\", para a criança seguir a instrução.",
+    "metadata": {
+      "titulo": "O Dentista de Mentirinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_359",
+    "conteudo": "Descrição: Diga \"o robô vai seguir as instruções: escove os dentes da frente\".",
+    "metadata": {
+      "titulo": "O Robô Segue Instruções",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_360",
+    "conteudo": "Descrição: Faça uma pequena corrida com a escova, com as instruções \"vá\", \"pare\" e \"vire\".",
+    "metadata": {
+      "titulo": "A Corrida da Escova",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_361",
+    "conteudo": "Descrição: Diga \"os dentes de cima?\" e \"os dentes de baixo?\", para a criança responder com a ação.",
+    "metadata": {
+      "titulo": "Jogo do \"Sim ou Não\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_362",
+    "conteudo": "Descrição: Diga que a escova vai \"falar\" as instruções, como \"escove para a direita\".",
+    "metadata": {
+      "titulo": "A Escova que Fala",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_363",
+    "conteudo": "Descrição: Diga \"enxágue a escova\" e depois \"coloque-a no lugar certo\", ensinando a rotina.",
+    "metadata": {
+      "titulo": "Onde Guardamos?",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_364",
+    "conteudo": "Descrição: Use um lixo de brinquedo e diga \"jogue a escova no lixo\" e depois \"pegue de volta\", praticando o movimento.",
+    "metadata": {
+      "titulo": "Escova no Lixo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_365",
+    "conteudo": "Descrição: O professor e a criança escovam os dentes de frente para o espelho, com o professor dando instruções.",
+    "metadata": {
+      "titulo": "Jogo do Espelho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_366",
+    "conteudo": "Descrição: Diga \"pegue a pasta de morango\", para a criança pegar o sabor preferido.",
+    "metadata": {
+      "titulo": "A Pasta de Sabor",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_367",
+    "conteudo": "Descrição: Diga \"coloque a escova no dedo\" e depois \"esfregue o dedo\", para a criança seguir a instrução.",
+    "metadata": {
+      "titulo": "Escovando o Dedo",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_368",
+    "conteudo": "Descrição: Use um boneco e diga \"agora é a vez do bebê, escove os dentes dele\".",
+    "metadata": {
+      "titulo": "O Bebê Escova",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_369",
+    "conteudo": "Descrição: Diga \"levante a escova\" e \"abaixe a escova\", praticando a coordenação.",
+    "metadata": {
+      "titulo": "O Jogo do \"Levanta e Abaixa\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_370",
+    "conteudo": "Descrição: Diga \"vá para os dentes de trás\" e \"volte para os dentes da frente\".",
+    "metadata": {
+      "titulo": "O Jogo do \"Vai e Volta\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_371",
+    "conteudo": "Descrição: Diga que a escova é um \"ladrão de comida\" e que ela precisa \"pegar\" os restos.",
+    "metadata": {
+      "titulo": "O Ladrão de Comida",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_372",
+    "conteudo": "Descrição: Diga \"abra a torneira para a chuva de água\" e \"feche a torneira\".",
+    "metadata": {
+      "titulo": "A Chuva de Água",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_373",
+    "conteudo": "Descrição: Diga \"faça a escova dançar para cima e para baixo\".",
+    "metadata": {
+      "titulo": "A Escova que Dança",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_374",
+    "conteudo": "Descrição: Diga \"o barquinho vai para o lado esquerdo\" e \"o barquinho vai para o lado direito\".",
+    "metadata": {
+      "titulo": "O Barquinho na Boca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_375",
+    "conteudo": "Descrição: Diga que a escova vai \"limpar a horta\" da boca.",
+    "metadata": {
+      "titulo": "A Horta da Boca",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_376",
+    "conteudo": "Descrição: Diga que a escova é um monstro que \"come\" a sujeira dos dentes.",
+    "metadata": {
+      "titulo": "O Monstro Come Sujeira",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_377",
+    "conteudo": "Descrição: Diga \"vamos fazer uma nuvem de espuma nos dentes\".",
+    "metadata": {
+      "titulo": "A Nuvem de Espuma",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_378",
+    "conteudo": "Descrição: Diga \"faça a boca de palhaço\" e depois \"escove os dentes\".",
+    "metadata": {
+      "titulo": "O Palhaço Escova",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_379",
+    "conteudo": "Descrição: Diga \"faça o som do pato\" e \"agora escove os dentes\".",
+    "metadata": {
+      "titulo": "O Pato Escova",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_380",
+    "conteudo": "Descrição: Diga \"faça o som do coelhinho\" e \"agora escove os dentes\".",
+    "metadata": {
+      "titulo": "O Coelhinho Escova",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_381",
+    "conteudo": "Descrição: Diga \"faça o som de 'clac-clac'\" e \"agora escove\".",
+    "metadata": {
+      "titulo": "O Jogo do \"Clac-Clac\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_382",
+    "conteudo": "Descrição: Diga \"mostre a sujeira\" e \"agora escove-a\".",
+    "metadata": {
+      "titulo": "O Jogo do \"Onde está a sujeira?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_383",
+    "conteudo": "Descrição: Diga \"coloque a escova na boca\" e \"tire a escova da boca\".",
+    "metadata": {
+      "titulo": "O Jogo do \"Põe e Tira\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_384",
+    "conteudo": "Descrição: Coloque duas pastas de dente e diga \"pegue a pasta de uva\".",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_385",
+    "conteudo": "Descrição: Diga \"escove o dente de trás\" ou \"escove o dente da frente\".",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual Dente?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_386",
+    "conteudo": "Descrição: Faça movimentos de robô enquanto a criança escova os dentes.",
+    "metadata": {
+      "titulo": "O Robô Escova",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_387",
+    "conteudo": "Descrição: Diga que a escova vai \"falar\" as instruções, como \"escove para a direita\".",
+    "metadata": {
+      "titulo": "A Escova que Fala",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_388",
+    "conteudo": "Descrição: Faça sombras com a escova na parede e dê instruções.",
+    "metadata": {
+      "titulo": "O Jogo da Sombra",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_389",
+    "conteudo": "Descrição: Peça para a criança pular e depois escovar os dentes.",
+    "metadata": {
+      "titulo": "O Jogo do \"Pula-Pula\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_390",
+    "conteudo": "Descrição: Deixe a criança colocar e tirar a escova da boca.",
+    "metadata": {
+      "titulo": "O Jogo do \"Põe e Tira\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_391",
+    "conteudo": "Descrição: Diga que a escova é uma varinha de condão que faz mágica.",
+    "metadata": {
+      "titulo": "A Escova-Varinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_392",
+    "conteudo": "Descrição: Deixe a criança colocar e tirar a escova da boca.",
+    "metadata": {
+      "titulo": "O Jogo do \"Põe e Tira\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_393",
+    "conteudo": "Descrição: Use o sabonete para fazer espuma na mão da criança.",
+    "metadata": {
+      "titulo": "O Sabonete no Banho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_394",
+    "conteudo": "Descrição: Deixe a criança usar a toalha do professor.",
+    "metadata": {
+      "titulo": "A Toalha do Mestre",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_395",
+    "conteudo": "Descrição: Faça sombras com a toalha na parede.",
+    "metadata": {
+      "titulo": "O Jogo da Sombra",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_396",
+    "conteudo": "Descrição: Coloque duas toalhas e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Sim e Não\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_397",
+    "conteudo": "Descrição: Use a toalha na caixa de areia, para a criança se secar.",
+    "metadata": {
+      "titulo": "A Toalha de Areia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_398",
+    "conteudo": "Descrição: Coloque duas toalhas diferentes e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_399",
+    "conteudo": "Descrição: Permita que a criança brinque com a toalha, colocando-a na mão ou na cabeça.",
+    "metadata": {
+      "titulo": "A Toalha na Mão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_400",
+    "conteudo": "Descrição: Coloque duas toalhas diferentes e peça para a criança escolher qual usar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Escova os dentes seguindo instruções.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_401",
+    "conteudo": "Descrição: Use um painel de atividades com botões grandes e fáceis de manipular para que a criança pratique o movimento.",
+    "metadata": {
+      "titulo": "O Botão Gigante",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_402",
+    "conteudo": "Descrição: Use uma caixa de tecido com botões grandes para \"esconder\" um brinquedo, e a criança precisa desabotoar para encontrá-lo.",
+    "metadata": {
+      "titulo": "A Caixa de Tesouros",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_403",
+    "conteudo": "Descrição: Crie uma música curta e alegre sobre \"abrir e fechar o botão\".",
+    "metadata": {
+      "titulo": "A Canção do Botão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_404",
+    "conteudo": "Descrição: Use uma mochila com botões e finja que é a boca de um monstro que a criança precisa desabotoar.",
+    "metadata": {
+      "titulo": "A Boca do Monstro",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_405",
+    "conteudo": "Descrição: Use botões de diferentes cores em um tecido para atrair a atenção visual e a exploração.",
+    "metadata": {
+      "titulo": "Botões Coloridos",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_406",
+    "conteudo": "Descrição: Use uma boneca com roupa de botões e peça para a criança desabotoar para \"trocar a roupa do bebê\".",
+    "metadata": {
+      "titulo": "A Roupa do Bebê",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_407",
+    "conteudo": "Descrição: Incentive a criança a fazer o som de \"clic!\" com a boca enquanto ela abotoa o botão, associando o som à ação.",
+    "metadata": {
+      "titulo": "O Jogo do \"Clica!\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_408",
+    "conteudo": "Descrição: Esconda um objeto pequeno no bolso da roupa e a criança precisa desabotoar o botão para encontrá-lo.",
+    "metadata": {
+      "titulo": "A Roupa de Surpresa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_409",
+    "conteudo": "Descrição: Use uma mão sobre a da criança para guiá-la no movimento de empurrar o botão através do orifício.",
+    "metadata": {
+      "titulo": "Botão Guiado",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_410",
+    "conteudo": "Descrição: Deixe o botão quase todo abotoado e peça para a criança terminar o movimento.",
+    "metadata": {
+      "titulo": "O Botão Quase Abotoado",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_411",
+    "conteudo": "Descrição: Use uma casinha de boneca com botões e diga que a criança precisa desabotoar a \"porta\" para o boneco entrar.",
+    "metadata": {
+      "titulo": "A Casa do Boneco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_412",
+    "conteudo": "Descrição: O professor abotoa e desabotoa um botão de forma exagerada e divertida para a criança imitar.",
+    "metadata": {
+      "titulo": "O Mestre do Botão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_413",
+    "conteudo": "Descrição: A criança e o professor abotoam e desabotoam botões juntos de frente para um espelho, incentivando a imitação.",
+    "metadata": {
+      "titulo": "Jogo do Espelho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_414",
+    "conteudo": "Descrição: Use o orifício do botão como um túnel para um brinquedo pequeno passar, tornando a tarefa mais divertida.",
+    "metadata": {
+      "titulo": "O Túnel do Botão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_415",
+    "conteudo": "Descrição: Diga que o botão está \"com fome\" e precisa ser desabotoado para \"comer\" a comida.",
+    "metadata": {
+      "titulo": "O Botão que Fala",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_416",
+    "conteudo": "Descrição: Use botões com relevos ou texturas diferentes para estimular o tato.",
+    "metadata": {
+      "titulo": "Botão de Textura",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_417",
+    "conteudo": "Descrição: Faça uma pequena \"corrida\" para ver quem consegue abotoar ou desabotoar um botão mais rápido.",
+    "metadata": {
+      "titulo": "A Corrida do Botão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_418",
+    "conteudo": "Descrição: Cubra o botão com a sua mão e peça para a criança tocar e adivinhar o que é.",
+    "metadata": {
+      "titulo": "O Jogo do \"Quem É?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_419",
+    "conteudo": "Descrição: Use fita adesiva para criar uma \"pista\" na roupa e a criança segue o trajeto com o dedo até o botão.",
+    "metadata": {
+      "titulo": "A Roupa na Pista",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_420",
+    "conteudo": "Descrição: Diga que a roupa é uma fantasia de um personagem e o \"símbolo\" do herói precisa ser abotoado.",
+    "metadata": {
+      "titulo": "A Roupa-Fantasia",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_421",
+    "conteudo": "Descrição: Use um fantoche para mostrar como abotoar e desabotoar, incentivando a imitação.",
+    "metadata": {
+      "titulo": "O Fantoche Abotoa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_422",
+    "conteudo": "Descrição: Faça uma sombra do botão na parede e peça para a criança abotoá-lo e desabotoá-lo na sombra.",
+    "metadata": {
+      "titulo": "A Sombra do Botão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_423",
+    "conteudo": "Descrição: Cole um botão grande em um balão de ar para que a criança pratique o movimento.",
+    "metadata": {
+      "titulo": "O Botão no Balão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_424",
+    "conteudo": "Descrição: Coloque dois botões diferentes e peça para a criança apontar qual ela quer abotoar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Sim e Não\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_425",
+    "conteudo": "Descrição: Coloque vários botões em uma caixa e deixe a criança brincar de colocar e tirar.",
+    "metadata": {
+      "titulo": "A Caixa de Botões",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_426",
+    "conteudo": "Descrição: Amarre um cordão leve no botão e peça para a criança puxar para desabotoar.",
+    "metadata": {
+      "titulo": "O Botão-Cordão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_427",
+    "conteudo": "Descrição: Diga as palavras \"abrir\" e \"fechar\" enquanto a criança manipula o botão, associando as palavras à ação.",
+    "metadata": {
+      "titulo": "O Jogo do \"Abrir e Fechar\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_428",
+    "conteudo": "Descrição: Diga as palavras \"puxa\" e \"empurra\" enquanto a criança manipula o botão.",
+    "metadata": {
+      "titulo": "O Jogo do \"Puxa-Puxa-Empurra\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_429",
+    "conteudo": "Descrição: Use botões de plástico em vez de metal, para que a criança não sinta o frio.",
+    "metadata": {
+      "titulo": "O Botão de Plástico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_430",
+    "conteudo": "Descrição: Faça sombras com as mãos na parede e peça para a criança abotoar e desabotoar o botão na sombra.",
+    "metadata": {
+      "titulo": "O Jogo da Sombra",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_431",
+    "conteudo": "Descrição: Deixe a criança colocar e tirar as mãos do botão, praticando o movimento.",
+    "metadata": {
+      "titulo": "O Jogo do \"Põe e Tira\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_432",
+    "conteudo": "Descrição: Use o botão como um saco de corrida e incentive a criança a \"pular\" para fora dele.",
+    "metadata": {
+      "titulo": "O Botão no Saco",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_433",
+    "conteudo": "Descrição: Diga as palavras \"puxa\" e \"empurra\" enquanto a criança manipula o botão.",
+    "metadata": {
+      "titulo": "O Jogo do \"Puxa-Puxa-Empurra\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_434",
+    "conteudo": "Descrição: Use botões de plástico em vez de metal, para que a criança não sinta o frio.",
+    "metadata": {
+      "titulo": "O Botão de Plástico",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_435",
+    "conteudo": "Descrição: Faça sombras com as mãos na parede e peça para a criança abotoar e desabotoar o botão na sombra.",
+    "metadata": {
+      "titulo": "O Jogo da Sombra",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_436",
+    "conteudo": "Descrição: Use um cesto de tecido com botões para que a criança guarde e retire seus brinquedos.",
+    "metadata": {
+      "titulo": "O Botão no Cesto",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_437",
+    "conteudo": "Descrição: Deixe a criança colocar e tirar a mão do botão, praticando o movimento.",
+    "metadata": {
+      "titulo": "O Jogo do \"Põe e Tira\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_438",
+    "conteudo": "Descrição: Coloque dois botões diferentes e peça para a criança escolher qual abotoar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_439",
+    "conteudo": "Descrição: Permita que a criança brinque com o botão, colocando-o na mão ou na cabeça.",
+    "metadata": {
+      "titulo": "O Botão na Mão",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_440",
+    "conteudo": "Descrição: Coloque dois botões diferentes e peça para a criança escolher qual abotoar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_441",
+    "conteudo": "Descrição: Use um espelho para a criança ver a si mesma abotoando e desabotoando.",
+    "metadata": {
+      "titulo": "O Botão no Espelho",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_442",
+    "conteudo": "Descrição: Cubra o botão e diga \"cadê o botão?\".",
+    "metadata": {
+      "titulo": "O Jogo do \"Onde está o botão?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_443",
+    "conteudo": "Descrição: Diga que o botão é uma varinha de condão que faz mágica.",
+    "metadata": {
+      "titulo": "O Botão-Varinha",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_444",
+    "conteudo": "Descrição: Peça para a criança esticar, encolher e, por fim, puxar o botão.",
+    "metadata": {
+      "titulo": "O Jogo do \"Estica-Encolhe-Puxa\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_445",
+    "conteudo": "Descrição: Use fita adesiva para criar uma \"pista\" no chão e o botão é o \"carro\" que segue a pista.",
+    "metadata": {
+      "titulo": "O Botão na Pista",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_446",
+    "conteudo": "Descrição: Diga \"pé, pé!\" e aponte para o pé da criança, incentivando-a a abotoar o botão.",
+    "metadata": {
+      "titulo": "O Jogo do \"Pé-Pé\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_447",
+    "conteudo": "Descrição: Coloque o botão em uma \"linha de gol\" imaginária e incentive a criança a abotoá-lo.",
+    "metadata": {
+      "titulo": "O Goleiro Abotoa",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_448",
+    "conteudo": "Descrição: Faça uma pequena corrida para ver quem desabotoa e tira a roupa mais rápido.",
+    "metadata": {
+      "titulo": "O Jogo do \"Tira a Roupa\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_449",
+    "conteudo": "Descrição: Deixe a criança colocar e tirar a mão do botão, praticando o movimento.",
+    "metadata": {
+      "titulo": "O Jogo do \"Põe e Tira\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  },
+  {
+    "id": "autocuidado_3a4_450",
+    "conteudo": "Descrição: Coloque dois botões diferentes e peça para a criança escolher qual abotoar.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual?\"",
+      "dimensao": "Autocuidado",
+      "habilidade": "Desabotoa e abotoa botões.",
+      "nivel": "Nível 3",
+      "idade": "3 a 4 anos"
+    }
+  }
+]

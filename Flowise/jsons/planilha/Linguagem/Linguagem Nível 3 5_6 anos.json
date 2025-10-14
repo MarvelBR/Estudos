@@ -1,0 +1,3852 @@
+[
+  {
+    "id": "linguagem_5a6_01",
+    "conteudo": "Descrição: Crie uma melodia simples com o endereço da criança (ex: \"Moro na Rua dos Pássaros, número 123...\"). Cante-a frequentemente.",
+    "metadata": {
+      "titulo": "A Canção do Endereço",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_02",
+    "conteudo": "Descrição: Faça uma plaquinha de brinquedo com o nome da rua e o número da casa da criança. Brinque de \"entrega de cartas\" e peça para ela dizer o endereço.",
+    "metadata": {
+      "titulo": "A Placa da Casa",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_03",
+    "conteudo": "Descrição: Use um boneco de carteiro de brinquedo. Peça para a criança \"entregar\" cartas para as \"casas\" da sala, falando o endereço de cada uma (que você pode inventar).",
+    "metadata": {
+      "titulo": "O Jogo do Carteiro",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_04",
+    "conteudo": "Descrição: Use um carrinho de brinquedo. \"O carrinho quer ir para a casa do [nome da criança]. Qual é o endereço?\".",
+    "metadata": {
+      "titulo": "O Carro que Sabe o Caminho",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_05",
+    "conteudo": "Descrição: Conte uma história sobre um personagem que precisa voltar para casa e pergunta o endereço. Peça para a criança dizer o próprio endereço para ajudar o personagem.",
+    "metadata": {
+      "titulo": "A História do Endereço",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_06",
+    "conteudo": "Descrição: Faça cartões com o nome da rua, o número e a cidade da criança. Peça para ela virar os cartões e memorizar o endereço.",
+    "metadata": {
+      "titulo": "O Jogo da Memória",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_07",
+    "conteudo": "Descrição: Crie uma música curta e repetitiva com o nome da rua e o número da casa.",
+    "metadata": {
+      "titulo": "A Música da Rua",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_08",
+    "conteudo": "Descrição: Peça para a criança construir sua casa com massinha. Pergunte \"Onde você mora?\".",
+    "metadata": {
+      "titulo": "A Casa de Massinha",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_09",
+    "conteudo": "Descrição: Sussurre o endereço no ouvido da criança e peça para ela repetir.",
+    "metadata": {
+      "titulo": "O Telefone Sem Fio",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_10",
+    "conteudo": "Descrição: Comece a frase \"A minha casa é na Rua...\" e a criança completa com o nome da rua.",
+    "metadata": {
+      "titulo": "O Jogo do 'A Casa É...'",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_11",
+    "conteudo": "Descrição: Use um pato de brinquedo na bacia de água. \"O pato quer ir para a casa do [nome da criança]... Qual é o endereço?\".",
+    "metadata": {
+      "titulo": "O Pato na Lagoa",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_12",
+    "conteudo": "Descrição: Crie rimas simples com o endereço. \"Na Rua das Flores, onde moram os amores\".",
+    "metadata": {
+      "titulo": "A Rima do Endereço",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_13",
+    "conteudo": "Descrição: Diga \"É uma rua... que tem flores\". Espere a criança dizer o nome da rua.",
+    "metadata": {
+      "titulo": "O Jogo da Adivinhação",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_14",
+    "conteudo": "Descrição: Desenhe um mapa simples da sala. Peça para a criança mostrar onde é a casa dela no mapa.",
+    "metadata": {
+      "titulo": "O Mapa da Sala",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_15",
+    "conteudo": "Descrição: Sopre em uma bolinha de papel e diga \"A bolinha vai para a sua casa. Qual é o endereço?\".",
+    "metadata": {
+      "titulo": "O Jogo de Sopro",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_16",
+    "conteudo": "Descrição: Use uma escada de brinquedo. A cada degrau, diga uma parte do endereço (ex: \"Rua... [nome da rua]... número...\").",
+    "metadata": {
+      "titulo": "O Jogo da Escada",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_17",
+    "conteudo": "Descrição: Finja que você está perdido e precisa de ajuda para chegar na casa da criança.",
+    "metadata": {
+      "titulo": "O Jogo do 'Como Chega Lá?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_18",
+    "conteudo": "Descrição: Use um balão de brinquedo. \"O balão vai para a sua casa! Qual é o endereço?\".",
+    "metadata": {
+      "titulo": "O Balão Voador",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_19",
+    "conteudo": "Descrição: Simule uma situação em que a criança se perdeu e precisa dizer o endereço para a polícia.",
+    "metadata": {
+      "titulo": "O Jogo do 'Se Perdermos...'",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_20",
+    "conteudo": "Descrição: Construa um caminho de blocos até a \"casa\" da criança. A cada bloco, diga uma parte do endereço.",
+    "metadata": {
+      "titulo": "O Caminho de Blocos",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_21",
+    "conteudo": "Descrição: Conte uma história sobre um carteiro que se esqueceu do endereço.",
+    "metadata": {
+      "titulo": "A História do Carteiro Atrasado",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_22",
+    "conteudo": "Descrição: Use massinha para criar a casa e o bairro da criança.",
+    "metadata": {
+      "titulo": "O Jogo de Recriar",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_23",
+    "conteudo": "Descrição: Brinque com um telefone de brinquedo. \"Olá, qual é o seu endereço?\".",
+    "metadata": {
+      "titulo": "O Telefone de Emergência",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_24",
+    "conteudo": "Descrição: Crie uma canção sobre a família da criança e onde eles moram.",
+    "metadata": {
+      "titulo": "A Canção da Família",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_25",
+    "conteudo": "Descrição: Peça para a criança desenhar a rua onde ela mora e falar o endereço.",
+    "metadata": {
+      "titulo": "O Desenho da Rua",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_26",
+    "conteudo": "Descrição: Diga \"Onde mora o passarinho? E o gatinho?\". Depois, \"E onde você mora?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Onde Moram os Animais?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_27",
+    "conteudo": "Descrição: Faça uma plaquinha com o nome do bairro da criança.",
+    "metadata": {
+      "titulo": "A Placa do Bairro",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_28",
+    "conteudo": "Descrição: Desenhe a rua da criança com giz de cera e fale o endereço.",
+    "metadata": {
+      "titulo": "A Rua de Giz de Cera",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_29",
+    "conteudo": "Descrição: \"Conta pra mim, qual é o seu endereço?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Conta Pra Mim'",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_30",
+    "conteudo": "Descrição: Diga \"Eu moro em Campo Mourão... E você?\".",
+    "metadata": {
+      "titulo": "O Jogo de 'Eu Moro em...'",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_31",
+    "conteudo": "Descrição: Use plaquinhas com o nome de diferentes ruas. A criança deve achar a plaquinha da sua rua.",
+    "metadata": {
+      "titulo": "O Jogo da Memória com Placas",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_32",
+    "conteudo": "Descrição: O ursinho está perdido e precisa saber onde mora.",
+    "metadata": {
+      "titulo": "A História do Ursinho Perdido",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_33",
+    "conteudo": "Descrição: Caminhe pela sala. A cada passo, diga uma parte do endereço.",
+    "metadata": {
+      "titulo": "O Jogo de 'Me Siga'",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_34",
+    "conteudo": "Descrição: Use uma chave de brinquedo. Diga \"A chave abre a porta da sua casa. Qual é o endereço da sua casa?\".",
+    "metadata": {
+      "titulo": "A História da Chave",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_35",
+    "conteudo": "Descrição: Diga \"A Rua dos Pássaros, número...\". Incentive a criança a completar.",
+    "metadata": {
+      "titulo": "O Jogo do 'Qual É o Próximo?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_36",
+    "conteudo": "Descrição: Brinque de ligar para a emergência e dizer o endereço.",
+    "metadata": {
+      "titulo": "O Jogo do 'Telefone de Socorro'",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_37",
+    "conteudo": "Descrição: Crie uma canção sobre a cidade onde a criança mora.",
+    "metadata": {
+      "titulo": "A Música da Cidade",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_38",
+    "conteudo": "Descrição: Esconda uma figura da casa da criança. Peça para ela encontrar, falando o endereço.",
+    "metadata": {
+      "titulo": "O Jogo do 'Encontre a Casa'",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_39",
+    "conteudo": "Descrição: \"Quando a vovó ligar, o que você vai dizer?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Conta pra Vovó'",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_40",
+    "conteudo": "Descrição: O mapa do tesouro leva à casa da criança. Qual é o endereço do tesouro?",
+    "metadata": {
+      "titulo": "A História do Mapa do Tesouro",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_41",
+    "conteudo": "Descrição: Use blocos de madeira para escrever o nome da rua e o número.",
+    "metadata": {
+      "titulo": "O Jogo de Recriar o Endereço",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_42",
+    "conteudo": "Descrição: \"O seu amigo novo te pergunta onde você mora. O que você diz?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Amigo Novo'",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_43",
+    "conteudo": "Descrição: Conte a história de um bichinho que não sabe voltar para casa.",
+    "metadata": {
+      "titulo": "A História do 'Não Sei Voltar'",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_44",
+    "conteudo": "Descrição: Construa uma maquete simples do bairro da criança.",
+    "metadata": {
+      "titulo": "O Jogo da Maquete",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_45",
+    "conteudo": "Descrição: \"Eu moro na escola. Onde você mora?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Quem Moro Onde?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_46",
+    "conteudo": "Descrição: Diga o endereço e peça para a criança repetir.",
+    "metadata": {
+      "titulo": "O Jogo de 'Repete Pra Mim'",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_47",
+    "conteudo": "Descrição: Use um caminhão de brinquedo. \"O caminhão vai para a sua casa. Qual é o endereço?\".",
+    "metadata": {
+      "titulo": "A História do 'Onde Vai o Caminhão?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_48",
+    "conteudo": "Descrição: Vende os olhos da criança e peça para ela se orientar na sala dizendo o endereço.",
+    "metadata": {
+      "titulo": "O Jogo do 'Cabra-Cega'",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_49",
+    "conteudo": "Descrição: Crie um pequeno livro com fotos da casa e o endereço.",
+    "metadata": {
+      "titulo": "O Livro do Endereço",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_50",
+    "conteudo": "Descrição: Faça a sombra de uma casa na parede. \"Qual é o endereço desta casa?\".",
+    "metadata": {
+      "titulo": "O Jogo de Sombra",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_51",
+    "conteudo": "Descrição: Coloque uma bola em um cesto e várias em outro. Pergunte \"Onde tem mais bolas?\". Incentive a criança a apontar para o cesto correto.",
+    "metadata": {
+      "titulo": "A Cesta de Bolas",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_52",
+    "conteudo": "Descrição: Faça uma torre com poucos blocos e outra com muitos. Pergunte \"Qual torre tem menos blocos?\".",
+    "metadata": {
+      "titulo": "O Jogo dos Blocos",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_53",
+    "conteudo": "Descrição: Dê um biscoito para um urso de pelúcia e três para outro. Pergunte \"Quem tem mais biscoitos?\".",
+    "metadata": {
+      "titulo": "Comida para o Ursinho",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_54",
+    "conteudo": "Descrição: Solte alguns balões. Quando um balão estiver mais baixo, aponte e diga \"Este balão tem menos ar\". Quando um estiver mais alto, \"Este tem mais ar\".",
+    "metadata": {
+      "titulo": "Balões no Ar",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_55",
+    "conteudo": "Descrição: Faça uma fila com poucos carrinhos e outra com muitos. Pergunte \"Qual fila tem mais carrinhos?\".",
+    "metadata": {
+      "titulo": "Carrinhos em Fila",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_56",
+    "conteudo": "Descrição: Dê um pedaço grande de massinha para a criança. Pegue um pedaço pequeno para você. Pergunte \"Quem tem menos massinha?\".",
+    "metadata": {
+      "titulo": "O Jogo da Massinha",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_57",
+    "conteudo": "Descrição: Desenhe uma folha com poucos pontos e outra com muitos. Pergunte \"Qual folha tem mais pontos?\".",
+    "metadata": {
+      "titulo": "Os Desenhos",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_58",
+    "conteudo": "Descrição: Faça o som de chuva batendo nas mãos. \"A chuva está mais forte\". Depois, bata de leve. \"Agora está menos forte\".",
+    "metadata": {
+      "titulo": "A Chuva Forte e Fraca",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_59",
+    "conteudo": "Descrição: Pegue um pote com pouco giz de cera e outro com muito. Pergunte \"Qual pote tem mais giz?\".",
+    "metadata": {
+      "titulo": "O Pote de Giz",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_60",
+    "conteudo": "Descrição: Sopre em duas penas. Uma vai mais longe que a outra. Pergunte \"Qual pena voou mais?\".",
+    "metadata": {
+      "titulo": "A Brincadeira de 'Sopro'",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_61",
+    "conteudo": "Descrição: Coloque poucos botões em um prato e muitos em outro. Pergunte \"Onde tem menos botões?\".",
+    "metadata": {
+      "titulo": "O Jogo dos Botões",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_62",
+    "conteudo": "Descrição: Coloque poucas bolinhas em uma bacia e muitas na piscina. Pergunte \"Onde tem mais bolinhas?\".",
+    "metadata": {
+      "titulo": "A Piscina de Bolinhas",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_63",
+    "conteudo": "Descrição: Dê duas caixas de quebra-cabeça. Uma tem poucas peças, outra tem muitas. Pergunte \"Qual quebra-cabeça tem mais peças?\".",
+    "metadata": {
+      "titulo": "O Quebra-Cabeça",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_64",
+    "conteudo": "Descrição: Pegue poucas folhas do chão e muitas. Pergunte \"Qual monte tem mais folhas?\".",
+    "metadata": {
+      "titulo": "As Folhas no Chão",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_65",
+    "conteudo": "Descrição: Mostre duas páginas de um livro. Uma com poucas figuras, outra com muitas. Pergunte \"Qual página tem menos figuras?\".",
+    "metadata": {
+      "titulo": "O Livro de Fotos",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_66",
+    "conteudo": "Descrição: Coloque poucos pinos de boliche e muitos. Pergunte \"Onde tem mais pinos?\".",
+    "metadata": {
+      "titulo": "O Jogo dos Pinos",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_67",
+    "conteudo": "Descrição: Dê um doce para a criança e pegue dois para você. Pergunte \"Quem tem mais doces?\".",
+    "metadata": {
+      "titulo": "Os Doces",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_68",
+    "conteudo": "Descrição: Cante uma canção sobre a mão. Mova os dedos. \"Aqui tem mais dedos\". Esconda um. \"Agora tem menos\".",
+    "metadata": {
+      "titulo": "A Canção das Mãos",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_69",
+    "conteudo": "Descrição: Use uma balança de brinquedo. Coloque poucos blocos de um lado e muitos de outro. Pergunte \"Onde tem mais peso?\".",
+    "metadata": {
+      "titulo": "O Jogo da Balança",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_70",
+    "conteudo": "Descrição: Balance a criança poucas vezes. \"Fizemos menos balanços\". Balance muitas vezes. \"Fizemos mais balanços!\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Vai e Volta'",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_71",
+    "conteudo": "Descrição: Encha um balde com pouca água e outro com muita. Pergunte \"Qual balde tem mais água?\".",
+    "metadata": {
+      "titulo": "O Balde de Água",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_72",
+    "conteudo": "Descrição: Use figuras de animais. Coloque poucos animais em um canto e muitos em outro. Pergunte \"Onde tem mais animais?\".",
+    "metadata": {
+      "titulo": "Os Animais na Fazenda",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_73",
+    "conteudo": "Descrição: Coloque poucas roupas na cesta. \"Tem menos roupas\". Coloque muitas. \"Agora tem mais\".",
+    "metadata": {
+      "titulo": "A Cesta de Roupas",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_74",
+    "conteudo": "Descrição: Use as mãos para fazer poucas sombras e muitas. Pergunte \"Qual sombra tem mais dedos?\".",
+    "metadata": {
+      "titulo": "O Jogo de Sombra",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_75",
+    "conteudo": "Descrição: Coloque pouco lixo em uma sacola e muito em outra. Pergunte \"Qual sacola tem mais lixo?\".",
+    "metadata": {
+      "titulo": "O Cesto de Lixo",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_76",
+    "conteudo": "Descrição: Coloque poucos plásticos em uma lixeira e muitos papéis em outra. Pergunte \"Onde tem mais papel?\".",
+    "metadata": {
+      "titulo": "O Jogo de Reciclagem",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_77",
+    "conteudo": "Descrição: Encha um pote com poucos grãos e outro com muitos. Pergunte \"Onde tem menos grãos?\".",
+    "metadata": {
+      "titulo": "O Pote de Grãos",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_78",
+    "conteudo": "Descrição: Use potes de massinha. Um tem pouca massinha, o outro tem muita. Pergunte \"Qual pote tem mais massinha?\".",
+    "metadata": {
+      "titulo": "O Jogo dos Potes",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_79",
+    "conteudo": "Descrição: Coloque poucos alimentos de brinquedo em um prato e muitos em outro. Pergunte \"Qual prato tem mais comida?\".",
+    "metadata": {
+      "titulo": "O Piquenique",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_80",
+    "conteudo": "Descrição: Use duas colheres. Em uma, coloque poucas bolinhas. Na outra, muitas. Pergunte \"Onde tem mais bolinhas?\".",
+    "metadata": {
+      "titulo": "O Jogo da Colher",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_81",
+    "conteudo": "Descrição: Coloque poucos tênis em um canto e muitos em outro. Pergunte \"Onde tem menos tênis?\".",
+    "metadata": {
+      "titulo": "O Jogo dos Tênis",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_82",
+    "conteudo": "Descrição: Pegue um lápis grande e um pequeno. Diga \"O lápis grande tem mais ponta\". O lápis pequeno, menos.",
+    "metadata": {
+      "titulo": "A História do Lápis",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_83",
+    "conteudo": "Descrição: Faça uma torre com poucas canecas e outra com muitas. Pergunte \"Qual torre tem mais canecas?\".",
+    "metadata": {
+      "titulo": "A Torre de Canecas",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_84",
+    "conteudo": "Descrição: Mostre que você tem mais dedos que a criança. Diga \"Eu tenho mais dedos!\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Eu Tenho...'",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_85",
+    "conteudo": "Descrição: Use duas cordas. Uma é mais longa que a outra. Pergunte \"Qual corda tem mais corda?\".",
+    "metadata": {
+      "titulo": "O Jogo da Corda",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_86",
+    "conteudo": "Descrição: Coloque poucas cadeiras em uma fila e muitas em outra. Pergunte \"Qual fila tem mais cadeiras?\".",
+    "metadata": {
+      "titulo": "O Jogo das Cadeiras",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_87",
+    "conteudo": "Descrição: Aponte para um cabelo curto e um cabelo comprido. Diga \"O cabelo comprido tem mais cabelo\".",
+    "metadata": {
+      "titulo": "O Jogo dos Cabelos",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_88",
+    "conteudo": "Descrição: Use duas vassouras. Uma tem mais cerdas que a outra. Pergunte \"Qual vassoura tem mais cerdas?\".",
+    "metadata": {
+      "titulo": "O Jogo da Vassoura",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_89",
+    "conteudo": "Descrição: Coloque um punhado de bolas em cada mão. Deixe a criança adivinhar onde tem mais.",
+    "metadata": {
+      "titulo": "O Jogo da Adivinhação",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_90",
+    "conteudo": "Descrição: Sopre em um monte de confetes. Faça um monte maior que o outro. \"Qual monte tem mais confetes?\".",
+    "metadata": {
+      "titulo": "O Jogo de Sopro",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_91",
+    "conteudo": "Descrição: Coloque mais 'sopa' de brinquedo em um prato que no outro. Pergunte \"Qual prato tem mais sopa?\".",
+    "metadata": {
+      "titulo": "A Brincadeira de 'Sopa'",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_92",
+    "conteudo": "Descrição: Mostre suas duas mãos. \"Uma mão tem cinco dedos\". Junte as duas. \"Agora tem dez dedos, tem mais!\".",
+    "metadata": {
+      "titulo": "O Jogo das Mãos",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_93",
+    "conteudo": "Descrição: Diga \"Acabou a massinha, tem menos agora\".",
+    "metadata": {
+      "titulo": "A História do que Acabou",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_94",
+    "conteudo": "Descrição: Use a balança para mostrar que o lado com mais objetos desce.",
+    "metadata": {
+      "titulo": "O Jogo da Balança",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_95",
+    "conteudo": "Descrição: Cole poucos adesivos em uma folha e muitos em outra. Pergunte \"Qual folha tem mais adesivos?\".",
+    "metadata": {
+      "titulo": "O Jogo dos Adesivos",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_96",
+    "conteudo": "Descrição: Dê um sino e uma caixa com muitos sinos. Pergunte \"Onde tem mais sinos?\".",
+    "metadata": {
+      "titulo": "O Jogo dos Sinos",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_97",
+    "conteudo": "Descrição: Coloque poucas conchas em um balde e muitas em outro. Pergunte \"Qual balde tem menos conchas?\".",
+    "metadata": {
+      "titulo": "O Jogo das Conchas",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_98",
+    "conteudo": "Descrição: Diga \"Primeiro pegamos mais blocos, depois pegamos menos\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Primeiro e Depois'",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_99",
+    "conteudo": "Descrição: Esconda um brinquedo. Mostre onde tem menos e depois onde tem mais.",
+    "metadata": {
+      "titulo": "O Jogo do 'Onde Está o Mais?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_100",
+    "conteudo": "Descrição: Coloque um casaco grosso e uma blusa fina. Diga \"O casaco tem mais tecido!\".",
+    "metadata": {
+      "titulo": "O Jogo das Roupas",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_101",
+    "conteudo": "Descrição: No final do dia, olhem fotos tiradas das atividades da escola (brincar no parquinho, almoçar). Aponte para uma foto e pergunte \"O que fizemos aqui?\".",
+    "metadata": {
+      "titulo": "O Álbum do Dia",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_102",
+    "conteudo": "Descrição: Peça para a criança desenhar algo que ela fez naquele dia. Incentive-a a explicar o desenho, perguntando \"O que você desenhou?\".",
+    "metadata": {
+      "titulo": "O Desenho da Aventura",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_103",
+    "conteudo": "Descrição: Use os brinquedos da criança para recriar um evento recente (ex: a ida ao mercado). Pergunte \"O que o carrinho fez?\".",
+    "metadata": {
+      "titulo": "A História com Brinquedos",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_104",
+    "conteudo": "Descrição: Durante a roda, comece a falar sobre algo que você fez (ex: \"Eu comi pão no café da manhã\"). Depois, pergunte à criança \"O que você comeu?\".",
+    "metadata": {
+      "titulo": "O Jogo da Roda",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_105",
+    "conteudo": "Descrição: Use um fantoche. O fantoche \"entrevista\" a criança com perguntas simples: \"O que você brincou hoje?\".",
+    "metadata": {
+      "titulo": "O Fantoche Repórter",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_106",
+    "conteudo": "Descrição: Coloque na cesta um objeto que a criança usou (ex: um bloco, uma folha). Peça para ela tirar o objeto e contar a história dele.",
+    "metadata": {
+      "titulo": "A Cesta de Objetos",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_107",
+    "conteudo": "Descrição: Cante uma canção simples sobre o dia (ex: \"Acordei, comi, e agora estou aqui...\"). Deixe a criança completar.",
+    "metadata": {
+      "titulo": "A Canção do Meu Dia",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_108",
+    "conteudo": "Descrição: Use cartões com figuras de rotina (ex: café da manhã, escovar os dentes). Peça para a criança colocar na ordem e contar o que fez.",
+    "metadata": {
+      "titulo": "O Jogo do 'Primeiro e Depois'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_109",
+    "conteudo": "Descrição: Esconda um ursinho de pelúcia em um lugar onde a criança esteve (ex: na caixa de areia). Peça para ela contar a história de como o urso foi parar lá.",
+    "metadata": {
+      "titulo": "Onde Estava o Urso?",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_110",
+    "conteudo": "Descrição: Use um pano grande como cenário. Peça para a criança recriar uma história do dia, como a ida ao parque.",
+    "metadata": {
+      "titulo": "A História no Pano",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_111",
+    "conteudo": "Descrição: Pergunte \"Conta pra mim uma coisa legal que você fez hoje!\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Conta Pra Mim'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_112",
+    "conteudo": "Descrição: Faça um quebra-cabeça com fotos das atividades da criança. Peça para ela montar e narrar as fotos.",
+    "metadata": {
+      "titulo": "O Quebra-Cabeça da Rotina",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_113",
+    "conteudo": "Descrição: Use um telefone de brinquedo. Finja que está ligando para a criança e diga \"Alô! Conta pra mim o que você fez!\".",
+    "metadata": {
+      "titulo": "O Telefone Falante",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_114",
+    "conteudo": "Descrição: Peça para a criança contar algo que aconteceu e fazer um som para a história (ex: \"O carro fez 'vrum!'\").",
+    "metadata": {
+      "titulo": "A História com Sons",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_115",
+    "conteudo": "Descrição: Tenha um livro de capa dura e cole fotos ou desenhos das atividades do dia.",
+    "metadata": {
+      "titulo": "O Livro do 'Hoje'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_116",
+    "conteudo": "Descrição: Conte uma história do dia de forma errada (ex: \"O papai comeu a bola!\"). Espere a criança te corrigir.",
+    "metadata": {
+      "titulo": "O Jogo do 'Tudo Errado'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_117",
+    "conteudo": "Descrição: Aponte para uma palavra em uma frase (ex: \"parque\"). Peça para a criança contar o que ela fez no parquinho.",
+    "metadata": {
+      "titulo": "Onde Moram as Palavras?",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_118",
+    "conteudo": "Descrição: Faça mímica de algo que a criança fez. Peça para ela adivinhar e contar o que aconteceu.",
+    "metadata": {
+      "titulo": "A Mímica do Dia",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_119",
+    "conteudo": "Descrição: Quando a criança contar uma parte de sua história, diga \"E então?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'E Então?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_120",
+    "conteudo": "Descrição: Pergunte à criança \"O que você gostou mais de fazer hoje?\".",
+    "metadata": {
+      "titulo": "A Hora da Decisão",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_121",
+    "conteudo": "Descrição: Use comida de brinquedo para recriar o lanche que a criança comeu.",
+    "metadata": {
+      "titulo": "O Jogo de Recriar o Lanche",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_122",
+    "conteudo": "Descrição: Faça um quebra-cabeça com uma foto de uma atividade da criança. Peça para ela montar e contar a história da foto.",
+    "metadata": {
+      "titulo": "O Quebra-Cabeça de Fotos",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_123",
+    "conteudo": "Descrição: Mostre a foto de um colega e pergunte \"Quem estava brincando com você?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Quem?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_124",
+    "conteudo": "Descrição: Diga \"Eu fui ao mercado... e você?\".",
+    "metadata": {
+      "titulo": "O Jogo de 'Eu Fui...'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_125",
+    "conteudo": "Descrição: Pergunte \"Onde nós brincamos hoje?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Onde?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_126",
+    "conteudo": "Descrição: Pergunte \"Com quem você brincou?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Com Quem?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_127",
+    "conteudo": "Descrição: Mostre um brinquedo da sala e pergunte \"O que você fez com ele hoje?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'O Que?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_128",
+    "conteudo": "Descrição: Faça uma pergunta do tipo \"Por que você está feliz?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Por Que?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_129",
+    "conteudo": "Descrição: Use a mesa como cenário para recriar uma história do dia.",
+    "metadata": {
+      "titulo": "A História na Mesa",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_130",
+    "conteudo": "Descrição: Diga \"Hoje nós brincamos. Amanhã nós vamos...\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Passado e Futuro'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_131",
+    "conteudo": "Descrição: Pergunte \"O que vimos na janela hoje?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'O que Vimos?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_132",
+    "conteudo": "Descrição: Cante uma canção sobre o que aconteceu no dia.",
+    "metadata": {
+      "titulo": "A Canção do 'Onde Está?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_133",
+    "conteudo": "Descrição: \"Eu lembro que você brincou na areia!\". Incentive a criança a se lembrar de outra coisa.",
+    "metadata": {
+      "titulo": "O Jogo de 'Eu Lembro'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_134",
+    "conteudo": "Descrição: Aponte para uma letra (ex: 'P'). Pergunte \"O que fizemos que começa com 'P'?\".",
+    "metadata": {
+      "titulo": "O Jogo de 'Primeiro a Letra'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_135",
+    "conteudo": "Descrição: Use a mão para recriar a história do dia. \"A mãozinha foi para a escola...\".",
+    "metadata": {
+      "titulo": "A História na Mão",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_136",
+    "conteudo": "Descrição: Diga \"Eu vou adivinhar o que você fez... você comeu biscoito!\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Adivinha'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_137",
+    "conteudo": "Descrição: Use cartões com figuras de ações (correr, pular). Peça para a criança escolher um e contar a história.",
+    "metadata": {
+      "titulo": "O Jogo de Cartões",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_138",
+    "conteudo": "Descrição: Pergunte \"Qual sentimento você sentiu hoje?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Qual Sentimento?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_139",
+    "conteudo": "Descrição: \"Eu queria ter feito... e você?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Queria Ter Feito...'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_140",
+    "conteudo": "Descrição: Use a voz de um boneco. O boneco adivinha o que a criança fez.",
+    "metadata": {
+      "titulo": "O Jogo da Adivinhação com a Voz",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_141",
+    "conteudo": "Descrição: \"O que você viu na TV hoje?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'O Que Você Viu?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_142",
+    "conteudo": "Descrição: Peça para a criança fazer um objeto com massinha e contar a história dele.",
+    "metadata": {
+      "titulo": "A História na Massinha",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_143",
+    "conteudo": "Descrição: Diga \"Você e eu brincamos com a bola. Você gostou?\".",
+    "metadata": {
+      "titulo": "O Jogo de 'Você e Eu'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_144",
+    "conteudo": "Descrição: Sente a criança no colo e pergunte \"Me conta o que você fez sentada?\".",
+    "metadata": {
+      "titulo": "O Jogo de Sentar na Cadeira",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_145",
+    "conteudo": "Descrição: Pergunte \"Onde você foi hoje?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Onde Você Foi?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_146",
+    "conteudo": "Descrição: Cante uma canção para lembrar as atividades do dia.",
+    "metadata": {
+      "titulo": "A Canção do 'Vamos Lembrar'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_147",
+    "conteudo": "Descrição: Finja que a criança é um super-herói. \"O que o super-herói fez hoje?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Faz de Conta'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_148",
+    "conteudo": "Descrição: Peça para a criança fazer a mímica de uma parte do dia.",
+    "metadata": {
+      "titulo": "O Jogo de Mímica",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_149",
+    "conteudo": "Descrição: Use um livro sem figuras. Peça para a criança criar a própria história do dia.",
+    "metadata": {
+      "titulo": "A História no Livro Vazio",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_150",
+    "conteudo": "Descrição: Use as palavras \"primeiro\" e \"depois\" para contar uma história do dia.",
+    "metadata": {
+      "titulo": "O Jogo do 'Primeiro e Depois'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_151",
+    "conteudo": "Descrição: Coloque um casaco em um ursinho de pelúcia. Pergunte \"Por que o ursinho está com casaco?\". Modele a resposta: \"Porque ele está com frio!\".",
+    "metadata": {
+      "titulo": "O Ursinho com Frio",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_152",
+    "conteudo": "Descrição: Use uma colher para \"mexer\" uma sopa de brinquedo. Pergunte \"Por que a sopa está quente?\". Modele a resposta: \"Porque o papai a esquentou!\".",
+    "metadata": {
+      "titulo": "A Sopa Quente",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_153",
+    "conteudo": "Descrição: Lave um boneco de plástico. Pergunte \"Por que o boneco está tomando banho?\". Modele a resposta: \"Porque ele está sujo!\".",
+    "metadata": {
+      "titulo": "O Banho do Boneco",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_154",
+    "conteudo": "Descrição: Mostre a figura de um guarda-chuva. Pergunte \"Por que usamos guarda-chuva?\". Modele a resposta: \"Para não nos molharmos!\".",
+    "metadata": {
+      "titulo": "A Chuva e o Guarda-Chuva",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_155",
+    "conteudo": "Descrição: Jogue um papel na lixeira. Pergunte \"Por que jogamos o lixo na lixeira?\". Modele a resposta: \"Para a casa ficar limpa!\".",
+    "metadata": {
+      "titulo": "O Lixo na Lixeira",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_156",
+    "conteudo": "Descrição: Aponte para a sombra. Pergunte \"Por que tem sombra?\". Modele a resposta: \"Porque o sol está lá!\".",
+    "metadata": {
+      "titulo": "O Sol e a Sombra",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_157",
+    "conteudo": "Descrição: Jogue uma bola para o ar e a pegue. Pergunte \"Por que a bola caiu?\". Modele a resposta: \"Porque a gente a jogou para cima!\".",
+    "metadata": {
+      "titulo": "A Bola Voadora",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_158",
+    "conteudo": "Descrição: Mostre a figura de um pneu vazio de bicicleta. Pergunte \"Por que o pneu está vazio?\". Modele a resposta: \"Porque ele furou!\".",
+    "metadata": {
+      "titulo": "O Pneu Vazio",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_159",
+    "conteudo": "Descrição: Aponte para a cama. Pergunte \"Por que dormimos na cama?\". Modele a resposta: \"Para descansar!\".",
+    "metadata": {
+      "titulo": "A Cama da Noite",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_160",
+    "conteudo": "Descrição: Pegue um lanche. Pergunte \"Por que vamos comer?\". Modele a resposta: \"Porque estamos com fome!\".",
+    "metadata": {
+      "titulo": "O Lanche da Fome",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_161",
+    "conteudo": "Descrição: Mostre a figura de um leão. Pergunte \"Por que o leão é forte?\". Modele a resposta: \"Porque ele come muita carne!\".",
+    "metadata": {
+      "titulo": "O Leão Forte",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_162",
+    "conteudo": "Descrição: Deixe um livro cair. Pergunte \"Por que o livro caiu?\". Modele a resposta: \"Porque eu o soltei!\".",
+    "metadata": {
+      "titulo": "O Livro no Chão",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_163",
+    "conteudo": "Descrição: Aponte para uma árvore. Pergunte \"Por que a árvore é tão grande?\". Modele a resposta: \"Porque ela cresceu!\".",
+    "metadata": {
+      "titulo": "A Árvore Grande",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_164",
+    "conteudo": "Descrição: Molhe uma toalha. Pergunte \"Por que a toalha está molhada?\". Modele a resposta: \"Porque a gente a molhou!\".",
+    "metadata": {
+      "titulo": "A Toalha Molhada",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_165",
+    "conteudo": "Descrição: Aponte para o sapato no pé da criança. Pergunte \"Por que o sapato vai no pé?\". Modele a resposta: \"Para a gente andar!\".",
+    "metadata": {
+      "titulo": "O Sapato no Pé",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_166",
+    "conteudo": "Descrição: Empurre um carrinho devagar. Pergunte \"Por que o carro está devagar?\". Modele a resposta: \"Porque eu o empurrei devagar!\".",
+    "metadata": {
+      "titulo": "O Carro Lento",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_167",
+    "conteudo": "Descrição: Use um telefone de brinquedo. Pergunte \"Por que o telefone tocou?\". Modele a resposta: \"Porque alguém ligou!\".",
+    "metadata": {
+      "titulo": "O Telefone Tocou",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_168",
+    "conteudo": "Descrição: Jogue água de brinquedo no chão. Pergunte \"Por que o chão está molhado?\". Modele a resposta: \"Porque a gente derramou água!\".",
+    "metadata": {
+      "titulo": "A Água do Chão",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_169",
+    "conteudo": "Descrição: Quebre um pão de brinquedo. Pergunte \"Por que o pão quebrou?\". Modele a resposta: \"Porque a gente o quebrou!\".",
+    "metadata": {
+      "titulo": "O Pão Quebrado",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_170",
+    "conteudo": "Descrição: Aponte para um gato de pelúcia. Pergunte \"Por que o gato faz 'miau'?\". Modele a resposta: \"Porque ele é um gato!\".",
+    "metadata": {
+      "titulo": "O Gato Miau",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_171",
+    "conteudo": "Descrição: Use uma tesoura de segurança. Pergunte \"Por que usamos a tesoura?\". Modele a resposta: \"Para cortar o papel!\".",
+    "metadata": {
+      "titulo": "A Tesoura na Mão",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_172",
+    "conteudo": "Descrição: Mostre um balão vazio. Pergunte \"Por que o balão está vazio?\". Modele a resposta: \"Porque o ar saiu!\".",
+    "metadata": {
+      "titulo": "O Balão Vazio",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_173",
+    "conteudo": "Descrição: Coloque um pouco de leite de brinquedo na caneca. Pergunte \"Por que a caneca tem leite?\". Modele a resposta: \"Porque a gente colocou!\".",
+    "metadata": {
+      "titulo": "O Leite na Caneca",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_174",
+    "conteudo": "Descrição: Aponte para um cachorro de brinquedo. Pergunte \"Por que o cachorro late?\". Modele a resposta: \"Porque ele está feliz!\".",
+    "metadata": {
+      "titulo": "O Cachorro Late",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_175",
+    "conteudo": "Descrição: Mostre a figura de uma borboleta. Pergunte \"Por que a borboleta está no jardim?\". Modele a resposta: \"Porque ela gosta das flores!\".",
+    "metadata": {
+      "titulo": "A Borboleta no Jardim",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_176",
+    "conteudo": "Descrição: Use um casaco grosso. Pergunte \"Por que o casaco é quente?\". Modele a resposta: \"Porque é de lã!\".",
+    "metadata": {
+      "titulo": "O Casaco Quente",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_177",
+    "conteudo": "Descrição: Pegue um pente. Pergunte \"Por que usamos o pente?\". Modele a resposta: \"Para arrumar o cabelo!\".",
+    "metadata": {
+      "titulo": "O Pente no Cabelo",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_178",
+    "conteudo": "Descrição: Use uma vassoura de brinquedo. Pergunte \"Por que a vassoura varre?\". Modele a resposta: \"Para a gente limpar!\".",
+    "metadata": {
+      "titulo": "A Vassoura Varre",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_179",
+    "conteudo": "Descrição: Acenda a luz. Pergunte \"Por que a luz está ligada?\". Modele a resposta: \"Para a gente poder ver!\".",
+    "metadata": {
+      "titulo": "A Luz Ligada",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_180",
+    "conteudo": "Descrição: Finja escovar os dentes. Pergunte \"Por que escovamos os dentes?\". Modele a resposta: \"Para a boca ficar limpa!\".",
+    "metadata": {
+      "titulo": "O Dente Escovado",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_181",
+    "conteudo": "Descrição: Feche um pote. Pergunte \"Por que o pote está fechado?\". Modele a resposta: \"Para não cair a massinha!\".",
+    "metadata": {
+      "titulo": "O Pote Fechado",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_182",
+    "conteudo": "Descrição: Mostre a figura de uma maçã na árvore. Pergunte \"Por que a maçã está na árvore?\". Modele a resposta: \"Porque ela cresceu lá!\".",
+    "metadata": {
+      "titulo": "A Maçã na Árvore",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_183",
+    "conteudo": "Descrição: Arrume a cama de uma boneca. Pergunte \"Por que arrumamos a cama?\". Modele a resposta: \"Para ficar bonita!\".",
+    "metadata": {
+      "titulo": "A Cama Arrumada",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_184",
+    "conteudo": "Descrição: Feche um livro. Pergunte \"Por que fechamos o livro?\". Modele a resposta: \"Porque a história acabou!\".",
+    "metadata": {
+      "titulo": "O Livro Fechado",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_185",
+    "conteudo": "Descrição: Amasse um pão de brinquedo. Pergunte \"Por que o pão faz barulho?\". Modele a resposta: \"Porque ele é crocante!\".",
+    "metadata": {
+      "titulo": "O Barulho do Pão",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_186",
+    "conteudo": "Descrição: Pegue uma roupa limpa. Pergunte \"Por que a roupa está limpa?\". Modele a resposta: \"Porque a mamãe a lavou!\".",
+    "metadata": {
+      "titulo": "A Roupa Limpa",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_187",
+    "conteudo": "Descrição: Finja que a panela está no fogo. Pergunte \"Por que a panela vai no fogão?\". Modele a resposta: \"Para cozinhar!\".",
+    "metadata": {
+      "titulo": "O Fogo no Fogão",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_188",
+    "conteudo": "Descrição: Coloque uma flor de plástico no vaso. Pergunte \"Por que a flor está no vaso?\". Modele a resposta: \"Porque ela gosta de água!\".",
+    "metadata": {
+      "titulo": "A Flor no Vaso",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_189",
+    "conteudo": "Descrição: Jogue um brinquedo no chão. Pergunte \"Por que o brinquedo está no chão?\". Modele a resposta: \"Porque eu o soltei!\".",
+    "metadata": {
+      "titulo": "O Brinquedo no Chão",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_190",
+    "conteudo": "Descrição: Finja que um rádio de brinquedo está ligado. Pergunte \"Por que a música está tocando?\". Modele a resposta: \"Porque a gente ligou!\".",
+    "metadata": {
+      "titulo": "A Música no Rádio",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_191",
+    "conteudo": "Descrição: Aponte para o espelho. Pergunte \"Por que o espelho mostra o seu rosto?\". Modele a resposta: \"Porque o espelho é mágico!\".",
+    "metadata": {
+      "titulo": "O Espelho no Rosto",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_192",
+    "conteudo": "Descrição: Aponte para o guarda-roupa. Pergunte \"Por que as roupas vão no guarda-roupa?\". Modele a resposta: \"Para ficar guardadas!\".",
+    "metadata": {
+      "titulo": "O Guarda-Roupa",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_193",
+    "conteudo": "Descrição: Encha um copo com água. Pergunte \"Por que colocamos água no copo?\". Modele a resposta: \"Para beber!\".",
+    "metadata": {
+      "titulo": "A Água no Copo",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_194",
+    "conteudo": "Descrição: Aponte para a geladeira de brinquedo. Pergunte \"Por que o leite vai na geladeira?\". Modele a resposta: \"Para ficar gelado!\".",
+    "metadata": {
+      "titulo": "O Leite na Geladeira",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_195",
+    "conteudo": "Descrição: Amasse um papel e o jogue na lixeira. Pergunte \"Por que o papel vai na lixeira?\". Modele a resposta: \"Porque ele não serve mais!\".",
+    "metadata": {
+      "titulo": "O Papel na Lixeira",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_196",
+    "conteudo": "Descrição: Aponte para a roupa da criança. Pergunte \"Por que a gente usa roupa?\". Modele a resposta: \"Para não sentir frio!\".",
+    "metadata": {
+      "titulo": "A Roupa no Corpo",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_197",
+    "conteudo": "Descrição: Abra a janela. Pergunte \"Por que a janela está aberta?\". Modele a resposta: \"Para entrar ar!\".",
+    "metadata": {
+      "titulo": "A Janela Aberta",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_198",
+    "conteudo": "Descrição: Coloque uma boneca para dormir. Pergunte \"Por que a boneca dorme?\". Modele a resposta: \"Porque ela está cansada!\".",
+    "metadata": {
+      "titulo": "A Boneca Dorme",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_199",
+    "conteudo": "Descrição: Use um pato de borracha. Pergunte \"Por que o pato está na água?\". Modele a resposta: \"Porque ele gosta de nadar!\".",
+    "metadata": {
+      "titulo": "O Pato na Lagoa",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_200",
+    "conteudo": "Descrição: Mostre a figura de um gato no telhado. Pergunte \"Por que o gato está no telhado?\". Modele a resposta: \"Porque ele gosta de sol!\".",
+    "metadata": {
+      "titulo": "O Gato no Telhado",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_201",
+    "conteudo": "Descrição: Coloque um cubo de gelo em um copo. Pergunte \"O que acontece se eu colocar o gelo no copo?\". Incentive a criança a responder \"Ele derrete!\".",
+    "metadata": {
+      "titulo": "O Gelo no Copo",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_202",
+    "conteudo": "Descrição: Pegue uma bola de borracha. Pergunte \"O que acontece se a gente colocar a bola na água?\". Incentive a criança a responder \"Ela flutua!\".",
+    "metadata": {
+      "titulo": "A Bola na Água",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_203",
+    "conteudo": "Descrição: Construa uma torre alta de blocos. Pergunte \"O que acontece se a gente derrubar a torre?\". Incentive a criança a responder \"Ela cai!\".",
+    "metadata": {
+      "titulo": "A Torre de Blocos",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_204",
+    "conteudo": "Descrição: Pegue um copo com água de brinquedo. Pergunte \"O que acontece se a gente virar a água no chão?\". Incentive a criança a responder \"O chão fica molhado!\".",
+    "metadata": {
+      "titulo": "A Água no Chão",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_205",
+    "conteudo": "Descrição: Aponte para a janela. Pergunte \"O que acontece se a gente abrir a janela?\". Incentive a criança a responder \"O vento entra!\".",
+    "metadata": {
+      "titulo": "A Janela Aberta",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_206",
+    "conteudo": "Descrição: Encha um balão de ar. Pergunte \"O que acontece se a gente soltar o balão?\". Incentive a criança a responder \"Ele voa!\".",
+    "metadata": {
+      "titulo": "O Balão Cheio",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_207",
+    "conteudo": "Descrição: Jogue um papel na lixeira. Pergunte \"O que acontece se a gente jogar o lixo no lixo?\". Incentive a criança a responder \"A sala fica limpa!\".",
+    "metadata": {
+      "titulo": "O Lixo no Lixo",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_208",
+    "conteudo": "Descrição: Bagunce a cama da boneca. Pergunte \"O que acontece se a gente arrumar a cama?\". Incentive a criança a responder \"Ela fica bonita!\".",
+    "metadata": {
+      "titulo": "A Cama Arrumada",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_209",
+    "conteudo": "Descrição: Empurre um carrinho. Pergunte \"O que acontece se a gente empurrar o carro?\". Incentive a criança a responder \"Ele anda!\".",
+    "metadata": {
+      "titulo": "O Carro Empurrado",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_210",
+    "conteudo": "Descrição: Mostre a figura de uma planta. Pergunte \"O que acontece se a gente colocar a planta no sol?\". Incentive a criança a responder \"Ela cresce!\".",
+    "metadata": {
+      "titulo": "O Sol e a Planta",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_211",
+    "conteudo": "Descrição: Pegue uma roupa suja de brinquedo. Pergunte \"O que acontece se a gente lavar a roupa?\". Incentive a criança a responder \"Ela fica limpa!\".",
+    "metadata": {
+      "titulo": "A Roupa Limpa",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_212",
+    "conteudo": "Descrição: Use uma vassoura de brinquedo. Pergunte \"O que acontece se a gente varrer o chão?\". Incentive a criança a responder \"O chão fica limpo!\".",
+    "metadata": {
+      "titulo": "A Vassoura no Chão",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_213",
+    "conteudo": "Descrição: Pegue um pão de brinquedo. Pergunte \"O que acontece se a gente quebrar o pão?\". Incentive a criança a responder \"Ele se parte!\".",
+    "metadata": {
+      "titulo": "O Pão Quebrado",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_214",
+    "conteudo": "Descrição: Finja que a panela está no fogão. Pergunte \"O que acontece se a gente colocar a panela no fogão?\". Incentive a criança a responder \"A sopa esquenta!\".",
+    "metadata": {
+      "titulo": "O Fogo no Fogão",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_215",
+    "conteudo": "Descrição: Coloque sabão de brinquedo na mão. Pergunte \"O que acontece se a gente colocar sabão na mão?\". Incentive a criança a responder \"Ela fica limpa!\".",
+    "metadata": {
+      "titulo": "O Sabão na Mão",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_216",
+    "conteudo": "Descrição: Use uma colher para \"mexer\" uma sopa de brinquedo. Pergunte \"O que acontece se a gente mexer a sopa?\". Incentive a criança a responder \"Ela mistura!\".",
+    "metadata": {
+      "titulo": "A Colher na Sopa",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_217",
+    "conteudo": "Descrição: Finja que está escovando os dentes. Pergunte \"O que acontece se a gente escovar os dentes?\". Incentive a criança a responder \"Eles ficam limpos!\".",
+    "metadata": {
+      "titulo": "O Dente Escovado",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_218",
+    "conteudo": "Descrição: Pegue um pente. Pergunte \"O que acontece se a gente pentear o cabelo?\". Incentive a criança a responder \"Ele fica arrumado!\".",
+    "metadata": {
+      "titulo": "O Pente no Cabelo",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_219",
+    "conteudo": "Descrição: Aperte um travesseiro. Pergunte \"O que acontece se a gente apertar o travesseiro?\". Incentive a criança a responder \"Ele fica pequeno!\".",
+    "metadata": {
+      "titulo": "O Travesseiro Macio",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_220",
+    "conteudo": "Descrição: Encha um balde de brinquedo. Pergunte \"O que acontece se a gente colocar mais água no balde?\". Incentive a criança a responder \"Ele enche!\".",
+    "metadata": {
+      "titulo": "O Balde Cheio",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_221",
+    "conteudo": "Descrição: Apague a luz. Pergunte \"O que acontece se a gente apagar a luz?\". Incentive a criança a responder \"Fica escuro!\".",
+    "metadata": {
+      "titulo": "A Luz Apagada",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_222",
+    "conteudo": "Descrição: Deixe um lápis cair na mesa. Pergunte \"O que acontece se a gente soltar o lápis?\". Incentive a criança a responder \"Ele cai!\".",
+    "metadata": {
+      "titulo": "O Lápis na Mesa",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_223",
+    "conteudo": "Descrição: Jogue uma bola para o ar. Pergunte \"O que acontece se a gente jogar a bola?\". Incentive a criança a responder \"Ela voa!\".",
+    "metadata": {
+      "titulo": "A Bola Voadora",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_224",
+    "conteudo": "Descrição: Use um telefone de brinquedo. Pergunte \"O que acontece se o telefone tocar?\". Incentive a criança a responder \"A gente atende!\".",
+    "metadata": {
+      "titulo": "O Telefone Tocou",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_225",
+    "conteudo": "Descrição: Finja que o chuveiro está ligado. Pergunte \"O que acontece se a gente ligar o chuveiro?\". Incentive a criança a responder \"A água cai!\".",
+    "metadata": {
+      "titulo": "O Chuveiro Ligado",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_226",
+    "conteudo": "Descrição: Feche um pote. Pergunte \"O que acontece se a gente fechar o pote?\". Incentive a criança a responder \"O que tem dentro não cai!\".",
+    "metadata": {
+      "titulo": "O Pote Fechado",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_227",
+    "conteudo": "Descrição: Pegue um lanche. Pergunte \"O que acontece se a gente não comer?\". Incentive a criança a responder \"A gente fica com fome!\".",
+    "metadata": {
+      "titulo": "A Fome e a Comida",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_228",
+    "conteudo": "Descrição: Use uma blusa fina. Pergunte \"O que acontece se a gente sair com essa blusa no frio?\". Incentive a criança a responder \"A gente sente frio!\".",
+    "metadata": {
+      "titulo": "A Roupa Fina",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_229",
+    "conteudo": "Descrição: Deixe um livro cair. Pergunte \"O que acontece se a gente não guardar o livro?\". Incentive a criança a responder \"Ele fica no chão!\".",
+    "metadata": {
+      "titulo": "O Livro no Chão",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_230",
+    "conteudo": "Descrição: Sopre em uma bolinha de papel. Pergunte \"O que acontece se a gente soprar forte?\". Incentive a criança a responder \"Ela vai longe!\".",
+    "metadata": {
+      "titulo": "O Sopro Forte",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_231",
+    "conteudo": "Descrição: Inicie uma frase \"O que acontece se a gente não escutar a mamãe?\". Incentive a criança a responder \"A gente fica de castigo!\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Por que...?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_232",
+    "conteudo": "Descrição: Aponte para a parede. Pergunte \"O que acontece se a gente desenhar na parede?\". Incentive a criança a responder \"A mamãe fica brava!\".",
+    "metadata": {
+      "titulo": "O Desenho na Parede",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_233",
+    "conteudo": "Descrição: Aponte para a bota. Pergunte \"O que acontece se a gente colocar a bota no pé?\". Incentive a criança a responder \"A gente pode andar!\".",
+    "metadata": {
+      "titulo": "A Bota no Pé",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_234",
+    "conteudo": "Descrição: Aponte para o sol. Pergunte \"O que acontece se a gente ficar no sol?\". Incentive a criança a responder \"A gente fica com calor!\".",
+    "metadata": {
+      "titulo": "O Sol Quente",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_235",
+    "conteudo": "Descrição: Aponte para a cama. Pergunte \"O que acontece se a gente deitar na cama?\". Incentive a criança a responder \"A gente dorme!\".",
+    "metadata": {
+      "titulo": "A Cama para Dormir",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_236",
+    "conteudo": "Descrição: Quebre um lápis de brinquedo. Pergunte \"O que acontece se a gente quebrar o lápis?\". Incentive a criança a responder \"A gente não pode mais desenhar!\".",
+    "metadata": {
+      "titulo": "O Lápis Quebrado",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_237",
+    "conteudo": "Descrição: Mostre uma bola murcha. Pergunte \"O que acontece se a bola murchar?\". Incentive a criança a responder \"Não dá pra brincar!\".",
+    "metadata": {
+      "titulo": "A Bola Murcha",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_238",
+    "conteudo": "Descrição: Recrie uma situação. \"Você derrubou o copo. O que acontece?\". Incentive a criança a responder \"O chão fica molhado!\".",
+    "metadata": {
+      "titulo": "O Jogo de Recriar",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_239",
+    "conteudo": "Descrição: Use uma regadeira de brinquedo. Pergunte \"O que acontece se a gente não der água para a flor?\". Incentive a criança a responder \"Ela morre!\".",
+    "metadata": {
+      "titulo": "A Água na Flor",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_240",
+    "conteudo": "Descrição: Pare o balanço. Pergunte \"O que acontece se a gente não empurrar o balanço?\". Incentive a criança a responder \"Ele para!\".",
+    "metadata": {
+      "titulo": "O Balanço Parado",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_241",
+    "conteudo": "Descrição: Use um telefone de brinquedo. \"O que acontece se a gente desligar o telefone?\". Incentive a criança a responder \"A mamãe não ouve!\".",
+    "metadata": {
+      "titulo": "O Telefone Ligado",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_242",
+    "conteudo": "Descrição: Mostre a figura de um pneu de brinquedo vazio. \"O que acontece se a gente encher o pneu?\". Incentive a criança a responder \"A gente anda!\".",
+    "metadata": {
+      "titulo": "O Pneu Vazio",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_243",
+    "conteudo": "Descrição: Use uma panela de brinquedo. Pergunte \"O que acontece se a gente cozinhar a sopa sem tampa?\". Incentive a criança a responder \"A sopa esfria!\".",
+    "metadata": {
+      "titulo": "A Panela sem Tampa",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_244",
+    "conteudo": "Descrição: Mostre a figura de um gato na mesa. \"O que acontece se o gato subir na mesa?\". Incentive a criança a responder \"Ele cai!\".",
+    "metadata": {
+      "titulo": "O Gato na Mesa",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_245",
+    "conteudo": "Descrição: Faça uma ação (ex: pular). \"O que acontece se a gente pular?\". Incentive a criança a responder \"A gente se diverte!\".",
+    "metadata": {
+      "titulo": "O Jogo de 'Me Siga'",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_246",
+    "conteudo": "Descrição: Finja que o rádio de brinquedo está ligado. \"O que acontece se a gente aumentar o volume?\". Incentive a criança a responder \"Fica alto!\".",
+    "metadata": {
+      "titulo": "A Música no Rádio",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_247",
+    "conteudo": "Descrição: Deixe um livro cair. \"O que acontece se a gente pisar no livro?\". Incentive a criança a responder \"Ele amassa!\".",
+    "metadata": {
+      "titulo": "O Livro no Chão",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_248",
+    "conteudo": "Descrição: Jogue um papel fora da lixeira. \"O que acontece se o lixo não for para a lixeira?\". Incentive a criança a responder \"A sala fica suja!\".",
+    "metadata": {
+      "titulo": "O Lixo fora da Lixeira",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_249",
+    "conteudo": "Descrição: Conte uma história e faça uma pausa. \"O gato foi caçar um rato... o que acontece?\". Incentive a criança a completar.",
+    "metadata": {
+      "titulo": "A História do 'O que Acontece?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_250",
+    "conteudo": "Descrição: Mostre um balde com um buraco. \"O que acontece se a gente colocar água aqui?\". Incentive a criança a responder \"A água sai!\".",
+    "metadata": {
+      "titulo": "O Balde com Buraco",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_251",
+    "conteudo": "Descrição: Mostre um calendário. Aponte para o dia de hoje e diga \"Hoje é...\". Aponte para o dia anterior e diga \"Ontem foi...\". Aponte para o próximo dia e diga \"Amanhã vai ser...\".",
+    "metadata": {
+      "titulo": "O Calendário do Dia",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_252",
+    "conteudo": "Descrição: Mostre uma foto do dia anterior (ex: brincando no parquinho). Pergunte \"O que você fez ontem?\". Incentive a criança a descrever a foto.",
+    "metadata": {
+      "titulo": "A Foto de Ontem",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_253",
+    "conteudo": "Descrição: Use uma sequência de cartões visuais das atividades do dia. Diga \"Primeiro fizemos isso ontem, e depois vamos fazer aquilo amanhã!\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Primeiro e Depois'",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_254",
+    "conteudo": "Descrição: Conte uma história simples sobre o que aconteceu na sala de aula no dia anterior. \"Você lembra o que a gente fez ontem?\".",
+    "metadata": {
+      "titulo": "A História de Ontem",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_255",
+    "conteudo": "Descrição: Crie uma canção com os dias da semana. \"Segunda-feira, terça-feira... ontem e amanhã!\".",
+    "metadata": {
+      "titulo": "A Canção do Tempo",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_256",
+    "conteudo": "Descrição: Use um fantoche. Ele \"adivinha\" o que a criança vai fazer amanhã. \"Você vai brincar amanhã?\".",
+    "metadata": {
+      "titulo": "O Fantoche Adivinho",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_257",
+    "conteudo": "Descrição: Use um livro com figuras de rotina. Aponte para a figura de uma atividade do dia anterior e diga \"Ontem nós fomos...\". Aponte para a atividade do dia seguinte e diga \"Amanhã nós vamos...\".",
+    "metadata": {
+      "titulo": "O Livro da Rotina",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_258",
+    "conteudo": "Descrição: Arrume uma mala de brinquedo para uma viagem. Diga \"Vamos arrumar a mala para a viagem de amanhã!\".",
+    "metadata": {
+      "titulo": "A Mala de Viagem",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_259",
+    "conteudo": "Descrição: Mostre um prato vazio após o lanche. Pergunte \"O que comemos de lanche ontem?\".",
+    "metadata": {
+      "titulo": "O Lanche de Ontem",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_260",
+    "conteudo": "Descrição: Diga \"Eu fui ao parque ontem\". Incentive a criança a dizer onde ela foi.",
+    "metadata": {
+      "titulo": "A Brincadeira de 'Eu Fui...'",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_261",
+    "conteudo": "Descrição: Use as mãos para fazer a sombra de um coelho. Diga \"Nós fizemos um coelho ontem\".",
+    "metadata": {
+      "titulo": "O Jogo de Sombra",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_262",
+    "conteudo": "Descrição: Aponte para a janela. \"A chuva caiu ontem\".",
+    "metadata": {
+      "titulo": "A Chuva de Ontem",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_263",
+    "conteudo": "Descrição: Aponte para a janela. \"O sol vai brilhar amanhã!\".",
+    "metadata": {
+      "titulo": "O Sol de Amanhã",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_264",
+    "conteudo": "Descrição: Use um telefone de brinquedo. Finja ligar e diga \"Alô? O que você vai fazer amanhã?\".",
+    "metadata": {
+      "titulo": "O Jogo do Telefone",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_265",
+    "conteudo": "Descrição: Peça para a criança desenhar algo que ela quer fazer amanhã. Pergunte \"O que você vai desenhar?\".",
+    "metadata": {
+      "titulo": "O Desenho do Futuro",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_266",
+    "conteudo": "Descrição: Use brinquedos para recriar um evento do dia anterior. \"O carro andou na rampa ontem\".",
+    "metadata": {
+      "titulo": "O Jogo de Recriar",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_267",
+    "conteudo": "Descrição: Cante uma canção sobre a despedida e a volta de amanhã. \"Tchau, tchau... amanhã eu volto!\".",
+    "metadata": {
+      "titulo": "A Canção da Despedida",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_268",
+    "conteudo": "Descrição: Faça uma lista simples com desenhos. Diga \"Hoje fizemos isso... amanhã vamos fazer aquilo!\".",
+    "metadata": {
+      "titulo": "A Lista de Tarefas",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_269",
+    "conteudo": "Descrição: \"O que comemos ontem?\". \"O que vamos comer hoje?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Ontem e Hoje'",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_270",
+    "conteudo": "Descrição: Aponte para o balde de brinquedos. \"O balde estava cheio ontem!\".",
+    "metadata": {
+      "titulo": "O Balde de Ontem",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_271",
+    "conteudo": "Descrição: Sopre em uma bolinha. Diga \"Nós sopramos a bolinha ontem!\".",
+    "metadata": {
+      "titulo": "A Brincadeira de 'Sopro'",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_272",
+    "conteudo": "Descrição: Arrume um piquenique de brinquedo. \"Nós vamos fazer um piquenique amanhã!\".",
+    "metadata": {
+      "titulo": "O Piquenique",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_273",
+    "conteudo": "Descrição: Diga \"Eu penso em algo que você fez ontem...\". Incentive a criança a adivinhar.",
+    "metadata": {
+      "titulo": "O Jogo da Adivinhação",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_274",
+    "conteudo": "Descrição: Após montar um quebra-cabeça. Diga \"Nós montamos o quebra-cabeça hoje\".",
+    "metadata": {
+      "titulo": "A História do Quebra-Cabeça",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_275",
+    "conteudo": "Descrição: Diga \"Ontem nós empilhamos os cubos!\".",
+    "metadata": {
+      "titulo": "O Jogo dos Cubos",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_276",
+    "conteudo": "Descrição: Brinque com um pato de borracha. \"O pato nadou ontem\".",
+    "metadata": {
+      "titulo": "O Pato na Água",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_277",
+    "conteudo": "Descrição: Balance a criança no colo. Diga \"Nós balançamos ontem!\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Vai e Volta'",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_278",
+    "conteudo": "Descrição: Use uma vassoura de brinquedo. Diga \"Nós varremos ontem!\".",
+    "metadata": {
+      "titulo": "A Vassoura de Brinquedo",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_279",
+    "conteudo": "Descrição: Penteie o cabelo de um boneco. Diga \"Nós penteamos o cabelo ontem\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Pente no Cabelo'",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_280",
+    "conteudo": "Descrição: Após o banho. Diga \"Nós tomamos banho ontem\".",
+    "metadata": {
+      "titulo": "O Banho de Ontem",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_281",
+    "conteudo": "Descrição: Diga \"Hoje nós almoçamos, e depois brincamos\".",
+    "metadata": {
+      "titulo": "O Jogo do 'E Depois?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_282",
+    "conteudo": "Descrição: \"Quando o papai foi embora ontem, o que você fez?\".",
+    "metadata": {
+      "titulo": "A Despedida de Ontem",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_283",
+    "conteudo": "Descrição: Use massinha para recriar algo que aconteceu no dia anterior.",
+    "metadata": {
+      "titulo": "O Jogo de Recriar com Massinha",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_284",
+    "conteudo": "Descrição: \"O que nós não fizemos ontem?\".",
+    "metadata": {
+      "titulo": "A História do 'Não Fiz'",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_285",
+    "conteudo": "Descrição: \"Eu lembro que ontem nós cantamos\". Incentive a criança a se lembrar de algo.",
+    "metadata": {
+      "titulo": "O Jogo do 'Eu Lembro'",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_286",
+    "conteudo": "Descrição: Faça mímica de algo que a criança fez ontem. Ela deve adivinhar e dizer o que era.",
+    "metadata": {
+      "titulo": "O Jogo de Mímica",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_287",
+    "conteudo": "Descrição: Use uma linha no chão. \"Aqui é ontem, aqui é hoje, aqui é amanhã!\".",
+    "metadata": {
+      "titulo": "A História na Linha do Tempo",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_288",
+    "conteudo": "Descrição: Faça uma sombra. Diga \"Eu fiz uma sombra ontem!\".",
+    "metadata": {
+      "titulo": "O Jogo de Sombra",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_289",
+    "conteudo": "Descrição: \"O que foi a primeira coisa que você fez ontem?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Primeira Coisa'",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_290",
+    "conteudo": "Descrição: \"Quem veio para a escola ontem?\".",
+    "metadata": {
+      "titulo": "O Jogo da Roda",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_291",
+    "conteudo": "Descrição: \"Qual brinquedo nós usamos ontem?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Qual?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_292",
+    "conteudo": "Descrição: Cante uma canção sobre o que farão depois. \"Depois vamos...\".",
+    "metadata": {
+      "titulo": "A Canção do 'O que Vamos Fazer'",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_293",
+    "conteudo": "Descrição: \"Hoje eu fui ao mercado. Amanhã eu vou...\".",
+    "metadata": {
+      "titulo": "A História do 'Fui' e 'Vou'",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_294",
+    "conteudo": "Descrição: Brinque com um jogo simples e diga \"Nós jogamos isso ontem\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Cobra e Escada'",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_295",
+    "conteudo": "Descrição: Diga \"Ontem nós enchermos os balões!\".",
+    "metadata": {
+      "titulo": "O Jogo dos Balões",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_296",
+    "conteudo": "Descrição: Finja que vocês vão fazer uma aventura amanhã. \"O que vamos levar?\".",
+    "metadata": {
+      "titulo": "A Aventura de Amanhã",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_297",
+    "conteudo": "Descrição: \"O que aconteceu ontem que te deixou feliz?\".",
+    "metadata": {
+      "titulo": "O Jogo de Perguntas",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_298",
+    "conteudo": "Descrição: \"O que você viu na TV ontem?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'O que Você Viu?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_299",
+    "conteudo": "Descrição: Diga \"Ontem você e eu brincamos\".",
+    "metadata": {
+      "titulo": "O Jogo de 'Você e Eu'",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_300",
+    "conteudo": "Descrição: Use brinquedos para recriar algo que acontecerá amanhã.",
+    "metadata": {
+      "titulo": "O Jogo de Recriar o Futuro",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_301",
+    "conteudo": "Descrição: Durante uma brincadeira, use uma palavra inventada (ex: \"gofô\"). Diga \"Vamos pegar o gofô!\". Incentive a criança a perguntar \"O que é gofô?\".",
+    "metadata": {
+      "titulo": "O Jogo da Palavra Nova",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_302",
+    "conteudo": "Descrição: Leia um livro e, intencionalmente, use uma palavra incomum (ex: \"graciosa\"). Pare a leitura e diga \"Hmm, o que será que 'graciosa' quer dizer?\". Modele a pergunta para a criança.",
+    "metadata": {
+      "titulo": "A História e a Palavra Desconhecida",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_303",
+    "conteudo": "Descrição: Use um fantoche. O fantoche pega um objeto e diz \"Não sei o que é isto!\". Incentive a criança a ensinar o fantoche a perguntar \"O que é isto?\".",
+    "metadata": {
+      "titulo": "O Fantoche Confuso",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_304",
+    "conteudo": "Descrição: Coloque um objeto novo ou desconhecido na caixa (ex: um abridor de garrafas de brinquedo). Tire o objeto e diga \"O que será que é isto?\".",
+    "metadata": {
+      "titulo": "A Caixa de Surpresas",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_305",
+    "conteudo": "Descrição: Faça uma pergunta com uma palavra nova. \"Por que o carro fez 'vroom-vroom' na estrada?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Por Que?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_306",
+    "conteudo": "Descrição: Finja não saber o que fazer com um objeto. Diga \"Não sei para que serve isto...\". Incentive a criança a perguntar.",
+    "metadata": {
+      "titulo": "O Jogo do 'Me Ajuda'",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_307",
+    "conteudo": "Descrição: Diga uma frase de forma absurda (ex: \"O sapato vai na cabeça!\"). Espere a criança questionar e diga \"Ah, você não entendeu? Me pergunta 'Por quê?'\".",
+    "metadata": {
+      "titulo": "A Mágica do Sentido Oposto",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_308",
+    "conteudo": "Descrição: Faça um som novo com um objeto. \"Este é o som do 'crec-crec'. Você sabe o que é?\".",
+    "metadata": {
+      "titulo": "Sons Diferentes",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_309",
+    "conteudo": "Descrição: Dê um objeto para a criança. Pergunte \"Como se usa isto?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Como?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_310",
+    "conteudo": "Descrição: Use um livro com figuras de objetos desconhecidos. Aponte para uma figura e diga \"O que é isto?\".",
+    "metadata": {
+      "titulo": "O Livro de Figuras Estranhas",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_311",
+    "conteudo": "Descrição: Diga uma frase incompleta. \"O peixe nada no...\". Complete com uma palavra que a criança não conheça (ex: \"recife\"). Espere a criança perguntar \"O que é 'recife'?\".",
+    "metadata": {
+      "titulo": "O Jogo da 'Qual palavra?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_312",
+    "conteudo": "Descrição: Use um quebra-cabeça. Diga \"Esta peça tem uma 'esfera'\". Espere a criança perguntar \"O que é 'esfera'?\".",
+    "metadata": {
+      "titulo": "O Quebra-Cabeça da Adivinhação",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_313",
+    "conteudo": "Descrição: No piquenique de brinquedo, use um nome diferente para um objeto conhecido (ex: \"Vamos comer a 'brotada'!\").",
+    "metadata": {
+      "titulo": "O Piquenique Diferente",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_314",
+    "conteudo": "Descrição: Cante uma canção sobre um objeto (ex: \"O que é, o que é, tem rodas e anda...\").",
+    "metadata": {
+      "titulo": "A Canção do 'O que é?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_315",
+    "conteudo": "Descrição: Dê um objeto para a criança cheirar. Diga \"Isso tem um cheiro 'âmbar'. O que é 'âmbar'?\".",
+    "metadata": {
+      "titulo": "O Jogo dos Sentidos",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_316",
+    "conteudo": "Descrição: Faça um som com a boca (ex: \"toc\"). \"Este é o som de uma 'táboa'\". Espere a criança perguntar o que é.",
+    "metadata": {
+      "titulo": "A Adivinhação do Som",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_317",
+    "conteudo": "Descrição: Vista uma boneca com uma roupa diferente e use um nome novo para a roupa. \"Esta é a 'blusinha' da boneca\".",
+    "metadata": {
+      "titulo": "O Jogo das Roupas",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_318",
+    "conteudo": "Descrição: Use uma panela de brinquedo. \"Vamos cozinhar uma 'sopa de melodia'\". Espere a criança perguntar.",
+    "metadata": {
+      "titulo": "A Brincadeira da Cozinha",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_319",
+    "conteudo": "Descrição: Dê um cubo e diga \"Este cubo tem um 'hexágono'\". Incentive a criança a perguntar \"O que é 'hexágono'?\".",
+    "metadata": {
+      "titulo": "O Jogo dos Cubos",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_320",
+    "conteudo": "Descrição: Coloque um objeto na lixeira que não deve estar lá (ex: uma maçã de plástico). Espere a criança perguntar \"Por que a maçã está no lixo?\".",
+    "metadata": {
+      "titulo": "O Lixo Maluco",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_321",
+    "conteudo": "Descrição: Faça mímica de uma palavra que a criança não conhece (ex: \"aplaudir\"). Depois, pergunte \"O que eu fiz?\".",
+    "metadata": {
+      "titulo": "O Jogo da Mímica",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_322",
+    "conteudo": "Descrição: Leia um livro. Pare a leitura no meio e diga \"O que a gente vai ler agora?\".",
+    "metadata": {
+      "titulo": "O Livro sem Fim",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_323",
+    "conteudo": "Descrição: Use uma palavra. Faça um gesto com a mão. Peça para a criança adivinhar o que a palavra significa.",
+    "metadata": {
+      "titulo": "O Jogo dos 'Sinais'",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_324",
+    "conteudo": "Descrição: Aponte para um inseto na figura do livro. Diga \"Este é um 'besouro'\". Espere a criança perguntar.",
+    "metadata": {
+      "titulo": "A História do Inseto",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_325",
+    "conteudo": "Descrição: Ofereça uma fruta. Use um nome diferente. \"Você quer 'bananica'?\".",
+    "metadata": {
+      "titulo": "O Jogo da Comida",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_326",
+    "conteudo": "Descrição: Finja que a criança não sabe o que fazer com um objeto. \"Eu sei que você gosta de massinha, mas... como você a usa?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Como?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_327",
+    "conteudo": "Descrição: Use um quebra-cabeça. Diga \"Esta peça é a 'base'\". Espere a criança perguntar.",
+    "metadata": {
+      "titulo": "A História do Quebra-Cabeça",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_328",
+    "conteudo": "Descrição: Use uma voz de robô para falar uma frase. \"O que o robô disse?\".",
+    "metadata": {
+      "titulo": "O Jogo da 'Voz Diferente'",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_329",
+    "conteudo": "Descrição: Use uma cor que a criança não conhece (ex: \"lilás\"). \"Esta é a cor 'lilás'\".",
+    "metadata": {
+      "titulo": "O Jogo das Cores",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_330",
+    "conteudo": "Descrição: Vende os olhos da criança. Dê um objeto com uma textura diferente. \"Isto é 'macio'... o que é?\".",
+    "metadata": {
+      "titulo": "O Jogo da Adivinhação com Textura",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_331",
+    "conteudo": "Descrição: Esconda um objeto. Pergunte \"Onde está o 'carambola'?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Onde está?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_332",
+    "conteudo": "Descrição: Sopre em uma bolinha. \"A bolinha está 'flutuando'\". Espere a criança perguntar.",
+    "metadata": {
+      "titulo": "A Brincadeira de 'Sopro'",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_333",
+    "conteudo": "Descrição: Use os dedos para fazer algo. \"Olha, um 'teatro de dedos'\". Espere a criança perguntar.",
+    "metadata": {
+      "titulo": "O Jogo dos Dedos",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_334",
+    "conteudo": "Descrição: Diga uma frase de forma errada. \"Eu fui amanhã...\". Espere a criança perguntar \"Não entendi\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Não Entendi'",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_335",
+    "conteudo": "Descrição: Use uma figura de sentimento. Diga \"Ele está 'aborrecido'\".",
+    "metadata": {
+      "titulo": "O Jogo dos Sentimentos",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_336",
+    "conteudo": "Descrição: Diga uma frase com o oposto do que você faz. \"Eu estou feliz\" (com a cara triste). Espere a criança perguntar.",
+    "metadata": {
+      "titulo": "O Jogo do 'Tudo Oposto'",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_337",
+    "conteudo": "Descrição: Faça uma pergunta com uma palavra nova. \"Você gosta de 'cacarecos'?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Sim' e 'Não'",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_338",
+    "conteudo": "Descrição: Dê um objeto novo. \"Para que serve isto?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Para Que Serve?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_339",
+    "conteudo": "Descrição: Aponte para uma pessoa. \"Como se chama esta pessoa?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Como se Chama?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_340",
+    "conteudo": "Descrição: Pergunte \"Quando nós vamos comer?\". Espere a criança questionar o tempo.",
+    "metadata": {
+      "titulo": "O Jogo do 'Quando?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_341",
+    "conteudo": "Descrição: Desenhe um monstro e dê um nome engraçado para ele. \"Este é o 'Monstrão'\". Espere a criança perguntar.",
+    "metadata": {
+      "titulo": "A História do Monstro",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_342",
+    "conteudo": "Descrição: Diga \"Primeiro nós 'brincamos', e depois nós 'jantamos'\". Espere a criança perguntar sobre o 'jantamos'.",
+    "metadata": {
+      "titulo": "O Jogo do 'Primeiro e Depois'",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_343",
+    "conteudo": "Descrição: Faça um truque de mágica. \"Eu fiz a bola 'sumir'\". Espere a criança perguntar.",
+    "metadata": {
+      "titulo": "A Brincadeira da Mágica",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_344",
+    "conteudo": "Descrição: Faça silêncio. \"O que é 'silêncio'?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Silêncio'",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_345",
+    "conteudo": "Descrição: Aponte para algo. \"Olha lá o 'urso' correndo\". Espere a criança questionar.",
+    "metadata": {
+      "titulo": "O Jogo do 'Olha lá'",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_346",
+    "conteudo": "Descrição: Diga \"Eu pensei em uma coisa. Ela é 'amarela' e 'redonda'\". Incentive a criança a perguntar.",
+    "metadata": {
+      "titulo": "O Jogo do 'Eu Pensei'",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_347",
+    "conteudo": "Descrição: Cante uma canção sobre perguntar. \"Se eu não sei, eu pergunto!\".",
+    "metadata": {
+      "titulo": "A Canção do 'Pergunte'",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_348",
+    "conteudo": "Descrição: Use figuras de objetos desconhecidos. \"O que é isto?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'O que é isso?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_349",
+    "conteudo": "Descrição: \"O que você fez ontem?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'O que Você Fez?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_350",
+    "conteudo": "Descrição: \"Onde está o coelhinho?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Onde?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 3",
+      "idade": "5 a 6 anos"
+    }
+  }
+]

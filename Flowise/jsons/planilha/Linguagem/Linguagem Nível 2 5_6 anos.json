@@ -1,0 +1,3852 @@
+[
+  {
+    "id": "linguagem_5a6_01",
+    "conteudo": "Descrição: Crie um livro com fotos da casa da criança, da rua e de pontos de referência. Aponte para a foto da casa e pergunte \"Onde você mora?\". Incentive a criança a dizer o nome da rua e o número da casa.",
+    "metadata": {
+      "titulo": "O Livro do Endereço",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_02",
+    "conteudo": "Descrição: O professor e a criança constroem uma maquete da rua da criança com caixas de papelão. A criança deve apontar para a sua casa e dizer o endereço.",
+    "metadata": {
+      "titulo": "A Maquete da Rua",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_03",
+    "conteudo": "Descrição: Crie uma canção simples com o nome da rua e o número da casa da criança. Cante e, no final, aponte para a criança e pergunte \"Onde você mora?\". Incentive a criança a cantar o endereço.",
+    "metadata": {
+      "titulo": "A Música do Endereço",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_04",
+    "conteudo": "Descrição: O professor usa um telefone de brinquedo e finge que está ligando para a família. \"Alô, posso falar com o/a [Nome da Criança]? Onde você mora?\". A criança é incentivada a pegar o telefone e a dizer o endereço.",
+    "metadata": {
+      "titulo": "O Telefone da Família",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_05",
+    "conteudo": "Descrição: O professor e a criança desenham a rua da criança com sua casa e as casas vizinhas. A criança deve apontar para a sua casa e dizer o endereço.",
+    "metadata": {
+      "titulo": "O Desenho do Bairro",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_06",
+    "conteudo": "Descrição: O professor esconde o rosto com as mãos e pergunta \"Onde o [Nome da Criança] mora?\". Ao revelar o rosto, a criança é incentivada a dizer o endereço.",
+    "metadata": {
+      "titulo": "A Mágica da Voz",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_07",
+    "conteudo": "Descrição: O professor e a criança brincam com bonecos. O professor diz \"Onde o boneco vai morar?\". A criança deve colocar o boneco na sua casa de brinquedo e dizer o endereço.",
+    "metadata": {
+      "titulo": "O Jogo da Aventura",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_08",
+    "conteudo": "Descrição: O professor tem um baú com objetos que representam a casa da criança. A criança pega um objeto (por exemplo, uma chave) e o professor pergunta \"Para que serve a chave?\". A criança deve responder \"para a minha casa\" e dizer o endereço.",
+    "metadata": {
+      "titulo": "O Baú de Tesouros",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_09",
+    "conteudo": "Descrição: O professor e a criança brincam com um carrinho de brinquedo. A criança deve \"dirigir\" o carro até a sua casa de brinquedo e dizer o endereço.",
+    "metadata": {
+      "titulo": "O Carro que Chega em Casa",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_10",
+    "conteudo": "Descrição: O professor tem cartas de brinquedo com o endereço da criança. A criança deve entregar a carta na sua casa de brinquedo e dizer o endereço.",
+    "metadata": {
+      "titulo": "O Jogo do Carteiro",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_11",
+    "conteudo": "Descrição: O professor e a criança se colocam na frente de um espelho. O professor aponta para a imagem da criança e pergunta \"Onde você mora?\". Incentive a criança a dizer o endereço.",
+    "metadata": {
+      "titulo": "O Espelho Mágico",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_12",
+    "conteudo": "Descrição: O professor e a criança constroem uma maquete da casa da criança com móveis de brinquedo. A criança deve apontar para a sua casa e dizer o endereço.",
+    "metadata": {
+      "titulo": "A Maquete da Casa",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_13",
+    "conteudo": "Descrição: O professor tem uma cesta com brinquedos. A criança deve pegar um brinquedo e o professor pergunta \"Para onde este brinquedo vai?\". A criança deve responder \"para a minha casa\" e dizer o endereço.",
+    "metadata": {
+      "titulo": "A Cesta de Brinquedos",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_14",
+    "conteudo": "Descrição: O professor conta uma história curta sobre um personagem que se perde. O professor pergunta \"Como ele encontra o caminho de casa?\". A criança deve dizer o seu endereço.",
+    "metadata": {
+      "titulo": "A História do Endereço",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_15",
+    "conteudo": "Descrição: O professor e a criança brincam com um pato de borracha na água. O professor pergunta \"Onde o pato mora?\". A criança deve colocar o pato na sua casa de brinquedo e dizer o endereço.",
+    "metadata": {
+      "titulo": "O Pato na Água",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_16",
+    "conteudo": "Descrição: O professor e a criança montam um quebra-cabeça com a foto da casa da criança. Ao final, o professor pergunta \"O que é isto?\". A criança deve responder \"minha casa\" e dizer o endereço.",
+    "metadata": {
+      "titulo": "O Quebra-Cabeça da Casa",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_17",
+    "conteudo": "Descrição: O professor faz mímica de ir para casa. A criança deve adivinhar a ação e dizer o endereço.",
+    "metadata": {
+      "titulo": "A Mímica do Endereço",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_18",
+    "conteudo": "Descrição: O professor e a criança brincam com peças de encaixe. A criança deve construir a sua casa e, ao final, dizer o endereço.",
+    "metadata": {
+      "titulo": "O Jogo de Peças",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_19",
+    "conteudo": "Descrição: O professor e a criança brincam com uma vassoura de brinquedo. O professor pergunta \"Onde a vassoura vai voar?\". A criança deve dizer \"para a minha casa\" e o endereço.",
+    "metadata": {
+      "titulo": "A Vassoura Mágica",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_20",
+    "conteudo": "Descrição: O professor e a criança fazem um piquenique de brinquedo. O professor pergunta \"Para onde nós vamos depois do piquenique?\". A criança deve dizer \"para casa\" e o endereço.",
+    "metadata": {
+      "titulo": "O Piquenique",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_21",
+    "conteudo": "Descrição: O professor e a criança desenham a família. A criança deve apontar para a sua casa no desenho e dizer o endereço.",
+    "metadata": {
+      "titulo": "O Desenho da Família",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_22",
+    "conteudo": "Descrição: O professor tem uma caixa com cartões com perguntas. A criança pega um cartão e o professor pergunta \"Onde você mora?\".",
+    "metadata": {
+      "titulo": "A Caixa de Perguntas",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_23",
+    "conteudo": "Descrição: O professor diz uma ação, como \"correr\". A criança corre até a sua casa de brinquedo e diz o endereço.",
+    "metadata": {
+      "titulo": "O Jogo da Ação",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_24",
+    "conteudo": "Descrição: O professor esconde a boca com as mãos e diz o endereço de outra pessoa. A criança é incentivada a dizer o próprio endereço para corrigi-lo.",
+    "metadata": {
+      "titulo": "A Mágica da Voz",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_25",
+    "conteudo": "Descrição: O professor e a criança montam um quebra-cabeça com fotos das atividades do dia. A criança deve dizer o endereço de onde elas foram.",
+    "metadata": {
+      "titulo": "O Quebra-Cabeça da Aventura",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_26",
+    "conteudo": "Descrição: O professor e a criança brincam com um pato de borracha. O professor pergunta \"Onde o pato mora?\". A criança deve colocar o pato na sua casa de brinquedo e dizer o endereço.",
+    "metadata": {
+      "titulo": "O Pato de Borracha",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_27",
+    "conteudo": "Descrição: O professor e a criança brincam com um trem de brinquedo. O professor pergunta \"Onde o trem vai parar?\". A criança deve dizer o endereço.",
+    "metadata": {
+      "titulo": "O Trem do Endereço",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_28",
+    "conteudo": "Descrição: O professor e a criança brincam com um sino. O professor pergunta \"Onde o amigo mora?\". A criança deve dizer o endereço do amigo.",
+    "metadata": {
+      "titulo": "O Sino do Amigo",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_29",
+    "conteudo": "Descrição: O professor e a criança deitam um boneco na cama. O professor pergunta \"Onde a boneca dorme?\". A criança deve dizer \"na minha casa\" e o endereço.",
+    "metadata": {
+      "titulo": "A Cama de Boneca",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_30",
+    "conteudo": "Descrição: O professor coloca um chapéu de brinquedo na criança e pergunta \"Onde você mora?\". A criança deve dizer o endereço.",
+    "metadata": {
+      "titulo": "O Chapéu Mágico",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_31",
+    "conteudo": "Descrição: O professor cria rimas com o nome da rua da criança. A criança é incentivada a repetir a rima e a dizer o endereço.",
+    "metadata": {
+      "titulo": "O Livro de Rimas",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_32",
+    "conteudo": "Descrição: O professor sussurra o endereço da criança em seu ouvido. A criança é incentivada a sussurrar de volta o endereço.",
+    "metadata": {
+      "titulo": "O Telefone Sem Fio",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_33",
+    "conteudo": "Descrição: O professor faz mímica de ir para casa. A criança deve adivinhar a ação e dizer o endereço.",
+    "metadata": {
+      "titulo": "A Mímica do Endereço",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_34",
+    "conteudo": "Descrição: O professor e a criança fazem um piquenique de brinquedo com ursos de pelúcia. O professor pergunta \"Onde os ursos moram?\". A criança deve dizer o endereço.",
+    "metadata": {
+      "titulo": "O Piquenique do Urso",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_35",
+    "conteudo": "Descrição: O professor e a criança brincam com uma caixa de correio de brinquedo. O professor pergunta \"Onde a carta vai?\". A criança deve dizer \"para a minha casa\" e o endereço.",
+    "metadata": {
+      "titulo": "A Caixa de Correio",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_36",
+    "conteudo": "Descrição: O professor tem cartões com fotos de casas. A criança deve encontrar a sua casa e dizer o endereço.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual é o Endereço?\"",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_37",
+    "conteudo": "Descrição: O professor cria uma canção sobre a família da criança. O professor pergunta \"Onde a família mora?\". A criança deve dizer o endereço.",
+    "metadata": {
+      "titulo": "A Canção da Família",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_38",
+    "conteudo": "Descrição: O professor e a criança brincam com um balão. O professor pergunta \"Para onde o balão vai voar?\". A criança deve dizer \"para a minha casa\" e o endereço.",
+    "metadata": {
+      "titulo": "O Balão Voador",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_39",
+    "conteudo": "Descrição: O professor e a criança fazem um sapo de brinquedo pular. O professor pergunta \"Onde o sapo mora?\". A criança deve dizer o endereço.",
+    "metadata": {
+      "titulo": "O Sapo Pulador",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_40",
+    "conteudo": "Descrição: O professor e a criança leem um livro sobre animais. O professor pergunta \"Onde o cachorro mora?\". A criança deve responder \"na minha casa\" e o endereço.",
+    "metadata": {
+      "titulo": "O Livro dos Animais",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_41",
+    "conteudo": "Descrição: O professor e a criança brincam com um trem de brinquedo que passa por um bairro de brinquedo. O professor pergunta \"Onde o trem vai parar?\". A criança deve dizer o endereço.",
+    "metadata": {
+      "titulo": "O Trem do Bairro",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_42",
+    "conteudo": "Descrição: O professor e a criança desenham a rua. A criança deve apontar para a sua casa e dizer o endereço.",
+    "metadata": {
+      "titulo": "O Desenho da Rua",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_43",
+    "conteudo": "Descrição: O professor e a criança brincam com uma vassoura de brinquedo. O professor pergunta \"Para onde a vassoura vai voar?\". A criança deve dizer \"para a minha casa\" e o endereço.",
+    "metadata": {
+      "titulo": "A Vassoura de Brinquedo",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_44",
+    "conteudo": "Descrição: O professor e a criança brincam com um barco de papel. O professor pergunta \"Onde o barco vai navegar?\". A criança deve dizer \"para a minha casa\" e o endereço.",
+    "metadata": {
+      "titulo": "O Barquinho de Papel",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_45",
+    "conteudo": "Descrição: O professor e a criança fazem uma corrida de carrinhos. O professor pergunta \"Onde o carro vai parar?\". A criança deve dizer \"na minha casa\" e o endereço.",
+    "metadata": {
+      "titulo": "O Carro de Corrida",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_46",
+    "conteudo": "Descrição: O professor e a criança brincam com um avião de brinquedo. O professor pergunta \"Onde o avião vai pousar?\". A criança deve dizer \"na minha casa\" e o endereço.",
+    "metadata": {
+      "titulo": "O Avião de Brinquedo",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_47",
+    "conteudo": "Descrição: O professor e a criança conversam usando as mãos. O professor pergunta \"Onde você mora?\". A criança deve responder com o endereço.",
+    "metadata": {
+      "titulo": "A Mãozinha Falante",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_48",
+    "conteudo": "Descrição: O professor e a criança usam um espelho de mão. O professor pergunta \"Onde você mora?\". A criança deve responder com o endereço.",
+    "metadata": {
+      "titulo": "O Espelho de Mão",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_49",
+    "conteudo": "Descrição: O professor e a criança brincam de jogo da memória com fotos de casas. A criança deve encontrar a foto da sua casa e dizer o endereço.",
+    "metadata": {
+      "titulo": "O Jogo da Memória",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_50",
+    "conteudo": "Descrição: O professor canta uma música e, ao parar, pergunta \"Onde você mora?\". A criança deve responder com o endereço.",
+    "metadata": {
+      "titulo": "A Música que Para",
+      "dimensao": "Linguagem",
+      "habilidade": "Fala seu endereço ou onde mora quando solicitado.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_51",
+    "conteudo": "Descrição: O professor tem duas cestas. Uma com muitas bolinhas e outra com poucas. Pergunte \"Qual cesta tem mais bolinhas?\". Incentive a criança a apontar para a cesta correta.",
+    "metadata": {
+      "titulo": "A Cesta de Bolinhas",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_52",
+    "conteudo": "Descrição: O professor tem dois potes. Um com muitos botões e outro com poucos. Pergunte \"Qual pote tem menos botões?\". Incentive a criança a apontar para o pote correto.",
+    "metadata": {
+      "titulo": "O Pote de Botões",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_53",
+    "conteudo": "Descrição: O professor e a criança constroem duas torres de blocos. Uma com muitos blocos e outra com poucos. Pergunte \"Qual torre tem mais blocos?\". Incentive a criança a apontar para a torre correta.",
+    "metadata": {
+      "titulo": "A Torre de Blocos",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_54",
+    "conteudo": "Descrição: O professor tem duas garagens de brinquedo. Uma com muitos carros e outra com poucos. Pergunte \"Qual garagem tem mais carros?\". Incentive a criança a apontar para a garagem correta.",
+    "metadata": {
+      "titulo": "Os Carros na Garagem",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_55",
+    "conteudo": "Descrição: O professor tem duas mesas. Uma com muitas maçãs de brinquedo e outra com poucas. Pergunte \"Qual mesa tem menos maçãs?\". Incentive a criança a apontar para a mesa correta.",
+    "metadata": {
+      "titulo": "A Mesa de Maçãs",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_56",
+    "conteudo": "Descrição: O professor tem dois pratos com comidinha de brinquedo. Um com muita e outro com pouca. Pergunte \"Qual prato tem mais comida?\". Incentive a criança a apontar para o prato correto.",
+    "metadata": {
+      "titulo": "O Prato de Comidinha",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_57",
+    "conteudo": "Descrição: O professor tem dois livros de animais. Um com muitas figuras e outro com poucas. Pergunte \"Qual livro tem mais animais?\". Incentive a criança a apontar para o livro correto.",
+    "metadata": {
+      "titulo": "O Livro dos Animais",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_58",
+    "conteudo": "Descrição: O professor tem duas rodas com crianças. Uma com muitas e outra com poucas. Pergunte \"Qual roda tem menos crianças?\". Incentive a criança a apontar para a roda correta.",
+    "metadata": {
+      "titulo": "A Roda de Amigos",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_59",
+    "conteudo": "Descrição: O professor tem dois baldes. Um com muita areia e outro com pouca. Pergunte \"Qual balde tem mais areia?\". Incentive a criança a apontar para o balde correto.",
+    "metadata": {
+      "titulo": "O Balde de Areia",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_60",
+    "conteudo": "Descrição: O professor tem dois copos. Um com muita água e outro com pouca. Pergunte \"Qual copo tem menos água?\". Incentive a criança a apontar para o copo correto.",
+    "metadata": {
+      "titulo": "O Copo de Água",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_61",
+    "conteudo": "Descrição: O professor tem duas cestas. Uma com muitas bonecas e outra com poucas. Pergunte \"Qual cesta tem mais bonecas?\". Incentive a criança a apontar para a cesta correta.",
+    "metadata": {
+      "titulo": "A Cesta de Bonecas",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_62",
+    "conteudo": "Descrição: O professor tem dois cestos. Um com muitos pães de brinquedo e outro com poucos. Pergunte \"Qual cesto tem menos pães?\". Incentive a criança a apontar para o cesto correto.",
+    "metadata": {
+      "titulo": "O Pão no Cesto",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_63",
+    "conteudo": "Descrição: O professor e a criança desenham em dois papéis. Em um, desenham muitos círculos. Em outro, poucos. Pergunte \"Qual papel tem mais círculos?\". Incentive a criança a apontar para o papel correto.",
+    "metadata": {
+      "titulo": "O Desenho dos Círculos",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_64",
+    "conteudo": "Descrição: O professor tem duas árvores de brinquedo. Uma com muitas folhas e outra com poucas. Pergunte \"Qual árvore tem menos folhas?\". Incentive a criança a apontar para a árvore correta.",
+    "metadata": {
+      "titulo": "A Árvore de Folhas",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_65",
+    "conteudo": "Descrição: O professor tem dois potes com peças de encaixe. Um com muitas e outro com poucas. Pergunte \"Qual pote tem mais peças?\". Incentive a criança a apontar para o pote correto.",
+    "metadata": {
+      "titulo": "O Jogo de Peças",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_66",
+    "conteudo": "Descrição: O professor e a criança brincam com muitos animais de brinquedo. O professor separa-os em dois grupos. Um com muitos e outro com poucos. Pergunte \"Qual grupo tem menos animais?\". Incentive a criança a apontar para o grupo correto.",
+    "metadata": {
+      "titulo": "A Corrida de Animais",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_67",
+    "conteudo": "Descrição: O professor tem dois cestos de piquenique com ursos de pelúcia. Um com muitos e outro com poucos. Pergunte \"Qual cesto tem mais ursos?\". Incentive a criança a apontar para o cesto correto.",
+    "metadata": {
+      "titulo": "O Piquenique do Urso",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_68",
+    "conteudo": "Descrição: O professor tem dois desenhos de janela. Um com muitas gotas de chuva e outro com poucas. Pergunte \"Qual janela tem mais gotas?\". Incentive a criança a apontar para o desenho correto.",
+    "metadata": {
+      "titulo": "A Janela de Gotas",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_69",
+    "conteudo": "Descrição: O professor esconde as mãos atrás das costas. Primeiro, mostra muitos dedos. Depois, poucos. Pergunte \"Onde tem menos dedos?\". Incentive a criança a apontar para a mão correta.",
+    "metadata": {
+      "titulo": "A Mágica dos Dedos",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_70",
+    "conteudo": "Descrição: O professor tem duas caixas. Uma com muitos botões e outra com poucos. Pergunte \"Qual caixa tem mais botões?\". Incentive a criança a apontar para a caixa correta.",
+    "metadata": {
+      "titulo": "A Caixa de Botões",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_71",
+    "conteudo": "Descrição: O professor tem duas camas. Uma com muitas bonecas e outra com poucas. Pergunte \"Qual cama tem menos bonecas?\". Incentive a criança a apontar para a cama correta.",
+    "metadata": {
+      "titulo": "A Cama de Bonecas",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_72",
+    "conteudo": "Descrição: O professor tem dois cestos. Um com muitas maçãs e outro com poucas. Pergunte \"Qual cesto tem mais maçãs?\". Incentive a criança a apontar para o cesto correto.",
+    "metadata": {
+      "titulo": "O Cesto de Maçãs",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_73",
+    "conteudo": "Descrição: O professor tem dois pratos com cenouras de brinquedo. Um com muitas e outro com poucas. Pergunte \"Qual prato tem menos cenouras?\". Incentive a criança a apontar para o prato correto.",
+    "metadata": {
+      "titulo": "O Prato de Cenouras",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_74",
+    "conteudo": "Descrição: O professor tem duas árvores de brinquedo. Uma com muitas frutas e outra com poucas. Pergunte \"Qual árvore tem mais frutas?\". Incentive a criança a apontar para a árvore correta.",
+    "metadata": {
+      "titulo": "A Árvore de Frutas",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_75",
+    "conteudo": "Descrição: O professor e a criança brincam com massinha de modelar. O professor faz um bolo com muita massa e outro com pouca. Pergunte \"Qual bolo tem mais massa?\". Incentive a criança a apontar para o bolo correto.",
+    "metadata": {
+      "titulo": "O Jogo de Massinha",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_76",
+    "conteudo": "Descrição: O professor e a criança constroem dois trens. Um com muitos blocos e outro com poucos. Pergunte \"Qual trem tem menos blocos?\". Incentive a criança a apontar para o trem correto.",
+    "metadata": {
+      "titulo": "O Trem de Blocos",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_77",
+    "conteudo": "Descrição: O professor tem dois potes com brinquedos de diferentes tamanhos. Um com muitos e outro com poucos. Pergunte \"Qual pote tem mais brinquedos?\". Incentive a criança a apontar para o pote correto.",
+    "metadata": {
+      "titulo": "O Pote de Brinquedos",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_78",
+    "conteudo": "Descrição: O professor tem duas gavetas de brinquedo. Uma com muitas meias e outra com poucas. Pergunte \"Qual gaveta tem menos meias?\". Incentive a criança a apontar para a gaveta correta.",
+    "metadata": {
+      "titulo": "A Gaveta de Meias",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_79",
+    "conteudo": "Descrição: O professor e a criança desenham em dois papéis. Em um, desenham muitos quadrados. Em outro, poucos. Pergunte \"Qual papel tem mais quadrados?\". Incentive a criança a apontar para o papel correto.",
+    "metadata": {
+      "titulo": "O Livro de Desenhos",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_80",
+    "conteudo": "Descrição: O professor tem dois cestos de piquenique. Um com muita comida de brinquedo e outro com pouca. Pergunte \"Qual cesto tem menos comida?\". Incentive a criança a apontar para o cesto correto.",
+    "metadata": {
+      "titulo": "O Piquenique de Comida",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_81",
+    "conteudo": "Descrição: O professor tem duas rodas de crianças. Uma com muitos e outra com poucos. Pergunte \"Qual roda tem mais crianças?\". Incentive a criança a apontar para a roda correta.",
+    "metadata": {
+      "titulo": "A Brincadeira de Roda",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_82",
+    "conteudo": "Descrição: O professor tem dois baldes. Um com muita água e outro com pouca. Pergunte \"Qual balde tem mais água?\". Incentive a criança a apontar para o balde correto.",
+    "metadata": {
+      "titulo": "O Balde de Água",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_83",
+    "conteudo": "Descrição: O professor e a criança brincam de jogo da memória. O professor coloca muitas cartas em um lado da mesa e poucas no outro. Pergunte \"Onde tem mais cartas?\". Incentive a criança a apontar para o lado correto.",
+    "metadata": {
+      "titulo": "O Jogo da Memória",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_84",
+    "conteudo": "Descrição: O professor tem duas prateleiras. Uma com muitos livros e outra com poucos. Pergunte \"Qual prateleira tem menos livros?\". Incentive a criança a apontar para a prateleira correta.",
+    "metadata": {
+      "titulo": "A Prateleira de Livros",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_85",
+    "conteudo": "Descrição: O professor tem duas caixas de sapatos. Uma com muitos tênis e outra com poucos. Pergunte \"Qual caixa tem mais tênis?\". Incentive a criança a apontar para a caixa correta.",
+    "metadata": {
+      "titulo": "A Caixa de Tênis",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_86",
+    "conteudo": "Descrição: O professor tem dois potes. Um com muitas canetas e outro com poucas. Pergunte \"Qual pote tem menos** canetas?\". Incentive a criança a apontar para o pote correto.",
+    "metadata": {
+      "titulo": "O Pote de Canetas",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_87",
+    "conteudo": "Descrição: O professor tem duas cestas. Uma com muitas frutas e outra com poucas. Pergunte \"Qual cesta tem mais frutas?\". Incentive a criança a apontar para a cesta correta.",
+    "metadata": {
+      "titulo": "A Cesta de Frutas",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_88",
+    "conteudo": "Descrição: O professor tem dois pratos. Um com muitos biscoitos e outro com poucos. Pergunte \"Qual prato tem menos biscoitos?\". Incentive a criança a apontar para o prato correto.",
+    "metadata": {
+      "titulo": "O Prato de Biscoitos",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_89",
+    "conteudo": "Descrição: O professor tem dois carrinhos de compras de brinquedo. Um com muitos objetos e outro com poucos. Pergunte \"Qual carrinho tem mais objetos?\". Incentive a criança a apontar para o carrinho correto.",
+    "metadata": {
+      "titulo": "O Carrinho de Compras",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_90",
+    "conteudo": "Descrição: O professor tem um pote com bolinhas. Ele mostra a mão vazia e diz \"menos\". Depois, mostra a mão com muitas bolinhas e diz \"mais\". Incentive a criança a imitar os gestos.",
+    "metadata": {
+      "titulo": "A Mãozinha Faz 'Mais'",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_91",
+    "conteudo": "Descrição: O professor tem um balde com brinquedos. Ele esvazia o balde e faz um gesto de \"menos\". Depois, enche o balde e faz um gesto de \"mais\". Incentive a criança a imitar os gestos.",
+    "metadata": {
+      "titulo": "O Gesto do 'Menos'",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_92",
+    "conteudo": "Descrição: O professor e a criança cantam uma música sobre \"mais\" e \"menos\". Quando a música disser \"mais\", eles batem palmas forte. Quando disser \"menos\", batem palmas fraco.",
+    "metadata": {
+      "titulo": "A Música do Mais e Menos",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_93",
+    "conteudo": "Descrição: O professor e a criança constroem uma torre. A cada bloco que a criança coloca, o professor diz \"mais\". Quando a criança tira um bloco, o professor diz \"menos\".",
+    "metadata": {
+      "titulo": "A Torre de Sons",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_94",
+    "conteudo": "Descrição: O professor e a criança brincam com patos de borracha. O professor coloca muitos patos na água e diz \"mais\". A criança tira alguns patos e o professor diz \"menos\".",
+    "metadata": {
+      "titulo": "O Pato na Água",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_95",
+    "conteudo": "Descrição: O professor e a criança brincam com roupas de boneca. O professor coloca muitas roupas no cesto e diz \"mais\". A criança tira algumas e o professor diz \"menos\".",
+    "metadata": {
+      "titulo": "O Cesto de Roupas",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_96",
+    "conteudo": "Descrição: O professor e a criança brincam com um trem de blocos. O professor adiciona muitos blocos e diz \"mais\". A criança tira alguns e o professor diz \"menos\".",
+    "metadata": {
+      "titulo": "O Trem de Blocos",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_97",
+    "conteudo": "Descrição: O professor e a criança tiram cartões de um pote. O professor tem cartões com muitas estrelas e a criança, com poucas. O professor diz \"Eu tenho mais!\". A criança é incentivada a dizer \"Eu tenho menos!\".",
+    "metadata": {
+      "titulo": "O Jogo de Sorte",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_98",
+    "conteudo": "Descrição: O professor e a criança brincam com um balde de água. O professor coloca muita água e diz \"mais\". A criança tira um pouco de água e o professor diz \"menos\".",
+    "metadata": {
+      "titulo": "O Balde de Água",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_99",
+    "conteudo": "Descrição: O professor e a criança brincam com massinha de modelar. O professor faz uma forma grande e diz \"mais\". A criança faz uma forma pequena e diz \"menos\".",
+    "metadata": {
+      "titulo": "A Massinha de Modelar",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_100",
+    "conteudo": "Descrição: O professor tem dois álbuns de fotos. Um com muitas fotos e outro com poucas. O professor pergunta \"Qual álbum tem mais fotos?\". A criança deve apontar para o álbum correto.",
+    "metadata": {
+      "titulo": "O Livro de Fotos",
+      "dimensao": "Linguagem",
+      "habilidade": "Identifica conjuntos com mais ou menos elementos.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_101",
+    "conteudo": "Descrição: Ao final do dia, a criança faz um desenho sobre o que aconteceu. O professor pede para ela descrever o desenho, como \"Eu desenhei a bola que eu joguei no parque\".",
+    "metadata": {
+      "titulo": "O Diário de Desenhos",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_102",
+    "conteudo": "Descrição: Sente-se em uma roda com a criança e os colegas. Pegue um objeto relacionado a uma atividade do dia, como um carro de brinquedo, e pergunte \"O que você fez com este carro?\". Incentive a criança a descrever a experiência.",
+    "metadata": {
+      "titulo": "A Roda da Conversa",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_103",
+    "conteudo": "Descrição: Crie um livro com fotos das atividades da criança ao longo do dia. Folheie o livro com a criança e pergunte \"O que você está fazendo aqui?\". Incentive-a a descrever a experiência na foto.",
+    "metadata": {
+      "titulo": "O Livro do Dia",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_104",
+    "conteudo": "Descrição: O professor usa um fantoche para \"conversar\" com a criança sobre o que ela fez. O fantoche pode perguntar \"O que você comeu hoje?\". A criança é incentivada a responder e descrever a comida.",
+    "metadata": {
+      "titulo": "O Fantoche Falante",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_105",
+    "conteudo": "Descrição: O professor esconde um objeto relacionado a uma atividade do dia. O professor pergunta \"O que eu estou segurando?\". A criança deve adivinhar o objeto e descrever o que fez com ele, como \"Eu usei o lápis para pintar\".",
+    "metadata": {
+      "titulo": "A Mágica da Memória",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_106",
+    "conteudo": "Descrição: Use uma caixa com objetos que representam atividades do dia. A criança pega um objeto (por exemplo, um sapato) e o professor pergunta \"O que você fez com este sapato?\". A criança é incentivada a descrever.",
+    "metadata": {
+      "titulo": "A Caixa de Tesouros",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_107",
+    "conteudo": "Descrição: O professor usa um telefone de brinquedo e finge que está ligando para a família. \"Alô, vovó, o [Nome da Criança] foi ao parquinho!\". Passe o telefone e incentive a criança a descrever o que fez no parquinho.",
+    "metadata": {
+      "titulo": "O Telefone da Família",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_108",
+    "conteudo": "Descrição: Crie uma canção sobre as atividades do dia. Cante e, em cada parte, aponte para a criança para que ela cante ou vocalize o que aconteceu.",
+    "metadata": {
+      "titulo": "A Música do Dia",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_109",
+    "conteudo": "Descrição: O professor diz \"Eu fiz...\". A criança deve responder \"Eu fiz...\" e relatar uma atividade do dia, como \"Eu fiz uma torre de blocos\".",
+    "metadata": {
+      "titulo": "O Jogo do \"Eu Fiz\"",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_110",
+    "conteudo": "Descrição: Coloque-se na frente de um espelho com a criança. O professor pergunta \"O que você fez hoje?\". Incentive a criança a descrever o que ela fez.",
+    "metadata": {
+      "titulo": "O Espelho da Verdade",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_111",
+    "conteudo": "Descrição: Sente-se em uma roda com a criança e os colegas. Aponte para a criança e pergunte \"O que você fez de manhã?\". Incentive-a a descrever.",
+    "metadata": {
+      "titulo": "A Roda do \"Quem?\"",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_112",
+    "conteudo": "Descrição: Use uma tabela com imagens de atividades diárias (comer, brincar, dormir). A criança aponta para a imagem e o professor pergunta \"O que você fez aqui?\". Incentive a criança a descrever a experiência.",
+    "metadata": {
+      "titulo": "A Tabela de Imagens",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_113",
+    "conteudo": "Descrição: Use um quebra-cabeça com fotos das atividades do dia. A cada peça, a criança deve encaixar a foto e descrever o que aconteceu.",
+    "metadata": {
+      "titulo": "O Quebra-Cabeça do Dia",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_114",
+    "conteudo": "Descrição: Coloque objetos em uma cesta que representam atividades do dia. A criança pega um objeto (por exemplo, um brinquedo de comida) e o professor pergunta \"O que você comeu?\". Incentive-a a descrever.",
+    "metadata": {
+      "titulo": "A Cesta de Objetos",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_115",
+    "conteudo": "Descrição: O professor e a criança fazem um desenho sobre uma aventura recente. Incentive a criança a explicar o que aconteceu no desenho.",
+    "metadata": {
+      "titulo": "O Desenho da Aventura",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_116",
+    "conteudo": "Descrição: O professor e a criança fazem um piquenique de brinquedo. O professor pergunta \"O que fizemos no piquenique?\". A criança é incentivada a descrever a comida e as brincadeiras.",
+    "metadata": {
+      "titulo": "O Piquenique de Mentira",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_117",
+    "conteudo": "Descrição: O professor e a criança constroem uma torre com blocos. A cada bloco que a criança coloca, ela deve contar um fato do dia.",
+    "metadata": {
+      "titulo": "A Torre da História",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_118",
+    "conteudo": "Descrição: O professor e a criança brincam com um barco de brinquedo na água. O professor pergunta \"O que o barco fez hoje?\". A criança é incentivada a descrever a experiência.",
+    "metadata": {
+      "titulo": "O Barco da História",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_119",
+    "conteudo": "Descrição: O professor e a criança brincam com peças de encaixe. O professor pergunta \"O que você construiu com estas peças?\". A criança é incentivada a descrever.",
+    "metadata": {
+      "titulo": "O Jogo de Peças",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_120",
+    "conteudo": "Descrição: O professor usa a mão para \"conversar\" com a criança. A mão pode perguntar \"O que você fez hoje com o papai?\". A criança é incentivada a descrever.",
+    "metadata": {
+      "titulo": "A Mãozinha Falante",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_121",
+    "conteudo": "Descrição: O professor e a criança brincam com um urso de pelúcia. O professor pergunta \"O que você e o urso fizeram hoje?\". A criança é incentivada a descrever.",
+    "metadata": {
+      "titulo": "A História do Urso",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_122",
+    "conteudo": "Descrição: O professor sussurra no ouvido da criança o que ela fez de manhã. A criança é incentivada a sussurrar de volta o que fez à tarde.",
+    "metadata": {
+      "titulo": "O Telefone Sem Fio",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_123",
+    "conteudo": "Descrição: O professor lê um livro de rimas sobre atividades diárias. A cada rima, a criança é incentivada a descrever se ela fez a atividade.",
+    "metadata": {
+      "titulo": "O Livro de Rimas",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_124",
+    "conteudo": "Descrição: O professor mostra um objeto da sala. \"Onde estávamos quando vimos isso?\". A criança é incentivada a descrever.",
+    "metadata": {
+      "titulo": "A Brincadeira de \"Onde Estávamos?\"",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_125",
+    "conteudo": "Descrição: O professor e a criança brincam com uma vassoura de brinquedo. O professor pergunta \"Para onde a vassoura te levou?\". A criança é incentivada a descrever a aventura.",
+    "metadata": {
+      "titulo": "A Vassoura Mágica",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_126",
+    "conteudo": "Descrição: O professor e a criança \"passeiam\" com um carrinho. O professor pergunta \"Onde fomos com o carrinho?\". A criança é incentivada a descrever o passeio.",
+    "metadata": {
+      "titulo": "O Carrinho do Passeio",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_127",
+    "conteudo": "Descrição: O professor balança a criança e, ao parar, pergunta \"O que você fez hoje no parque?\". A criança é incentivada a descrever.",
+    "metadata": {
+      "titulo": "O Balanço da Vida",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_128",
+    "conteudo": "Descrição: O professor tem uma caixa com cartões com perguntas sobre o dia a dia. A criança pega um cartão e o professor faz a pergunta, como \"O que você comeu?\".",
+    "metadata": {
+      "titulo": "A Caixa de Perguntas",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_129",
+    "conteudo": "Descrição: O professor faz uma ação (como pular). \"O que eu estou fazendo?\". A criança responde \"pulando\". \"Quem mais pulou?\". A criança é incentivada a descrever.",
+    "metadata": {
+      "titulo": "O Jogo da Ação",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_130",
+    "conteudo": "Descrição: O professor esconde o rosto com as mãos e pergunta \"O que você fez de manhã?\". A criança é incentivada a descrever.",
+    "metadata": {
+      "titulo": "A Mágica da Voz",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_131",
+    "conteudo": "Descrição: O professor e a criança desenham a família. \"O que o papai fez hoje?\". A criança é incentivada a descrever.",
+    "metadata": {
+      "titulo": "O Desenho da Família",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_132",
+    "conteudo": "Descrição: O professor cria uma canção sobre o que aconteceu. \"Hoje fomos ao parquinho, o que fizemos lá?\". A criança é incentivada a descrever.",
+    "metadata": {
+      "titulo": "A Canção dos Acontecimentos",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_133",
+    "conteudo": "Descrição: O professor e a criança brincam com um pato de borracha na água. \"O que o pato fez hoje?\". A criança é incentivada a descrever.",
+    "metadata": {
+      "titulo": "O Pato de Borracha",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_134",
+    "conteudo": "Descrição: O professor e a criança se olham no espelho. \"Com quem você brincou hoje?\". A criança é incentivada a descrever.",
+    "metadata": {
+      "titulo": "O Espelho dos Amigos",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_135",
+    "conteudo": "Descrição: O professor usa um livro com figuras de sentimentos. \"Por que você está feliz hoje?\". A criança é incentivada a descrever o motivo.",
+    "metadata": {
+      "titulo": "O Livro dos Sentimentos",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_136",
+    "conteudo": "Descrição: O professor conta uma história sobre um animal que dormiu e pergunta \"O que ele fez antes de dormir?\". A criança é incentivada a descrever.",
+    "metadata": {
+      "titulo": "A História de Ninar",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_137",
+    "conteudo": "Descrição: O professor e a criança modelam com massinha. \"O que você fez com a massinha hoje?\". A criança é incentivada a descrever.",
+    "metadata": {
+      "titulo": "A Massinha de Modelar",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_138",
+    "conteudo": "Descrição: O professor e a criança brincam com peças. \"O que você construiu com estas peças?\". A criança é incentivada a descrever.",
+    "metadata": {
+      "titulo": "O Jogo de Peças",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_139",
+    "conteudo": "Descrição: O professor e a criança fazem um piquenique de brinquedo com ursos de pelúcia. \"O que os ursos comeram?\". A criança é incentivada a descrever.",
+    "metadata": {
+      "titulo": "O Piquenique do Urso",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_140",
+    "conteudo": "Descrição: O professor e a criança caminham pela sala. A cada passo, a criança deve relatar uma atividade do dia.",
+    "metadata": {
+      "titulo": "A Caminhada da Memória",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_141",
+    "conteudo": "Descrição: O professor e a criança se sentam. O professor pergunta \"Por que você está feliz hoje?\". A criança é incentivada a descrever.",
+    "metadata": {
+      "titulo": "A Roda do \"Por Quê?\"",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_142",
+    "conteudo": "Descrição: Use um telefone de brinquedo. \"Vamos ligar para o/a [Nome do Colega] para contar o que fizemos!\". A criança é incentivada a descrever.",
+    "metadata": {
+      "titulo": "O Telefone dos Amigos",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_143",
+    "conteudo": "Descrição: O professor canta \"A Janela Encerrada\" e, ao final, pergunta \"Quem fechou a janela?\". A criança é incentivada a descrever.",
+    "metadata": {
+      "titulo": "A Janela Encerrada",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_144",
+    "conteudo": "Descrição: O professor e a criança varrem o chão. \"O que fizemos com a vassoura?\". A criança é incentivada a descrever.",
+    "metadata": {
+      "titulo": "A Vassoura de Brinquedo",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_145",
+    "conteudo": "Descrição: O professor e a criança fazem um sapo de brinquedo pular. \"O que o sapo fez?\". A criança é incentivada a descrever.",
+    "metadata": {
+      "titulo": "O Sapo Pulador",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_146",
+    "conteudo": "Descrição: O professor e a criança brincam com um carrinho de compras de brinquedo. \"O que compramos hoje?\". A criança é incentivada a descrever.",
+    "metadata": {
+      "titulo": "O Carrinho de Compras",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_147",
+    "conteudo": "Descrição: O professor e a criança sentam em uma mesa. O professor usa objetos sobre a mesa para fazer perguntas sobre o dia.",
+    "metadata": {
+      "titulo": "A Mesa da Aventura",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_148",
+    "conteudo": "Descrição: O professor e a criança guardam \"tesouros\" em uma caixa. \"O que guardamos aqui?\". A criança é incentivada a descrever.",
+    "metadata": {
+      "titulo": "A Caixa de Tesouros",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_149",
+    "conteudo": "Descrição: O professor e a criança montam um quebra-cabeça com fotos das atividades do dia. A criança é incentivada a descrever cada imagem.",
+    "metadata": {
+      "titulo": "O Quebra-Cabeça da Aventura",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_150",
+    "conteudo": "Descrição: O professor usa a mão para fazer perguntas sobre o dia. A criança é incentivada a responder.",
+    "metadata": {
+      "titulo": "A Mãozinha Falante",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata experiências do dia a dia, descrevendo o que fez ou vivenciou.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_151",
+    "conteudo": "Descrição: O professor rola uma bola para a criança. Aponta para a bola e pergunta: “Por que a bola rola?”. Incentive a criança a responder com uma frase simples como: “Porque eu empurrei”.",
+    "metadata": {
+      "titulo": "Por que a Bola Rola?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_152",
+    "conteudo": "Descrição: O professor empurra um carrinho de brinquedo. Aponta para o carrinho e pergunta: “Por que o carro anda?”. Incentive a criança a responder: “Porque tem roda”.",
+    "metadata": {
+      "titulo": "Por que o Carro Anda?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_153",
+    "conteudo": "Descrição: O professor coloca uma boneca de brinquedo na cama. Aponta para a boneca e pergunta: “Por que a boneca dorme?”. Incentive a criança a responder: “Porque está com sono”.",
+    "metadata": {
+      "titulo": "Por que a Boneca Dorme?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_154",
+    "conteudo": "Descrição: O professor coloca um pato de borracha na água. Aponta para o pato e pergunta: “Por que o pato nada?”. Incentive a criança a responder: “Porque tem água”.",
+    "metadata": {
+      "titulo": "Por que o Pato Nada?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_155",
+    "conteudo": "Descrição: O professor \"alimenta\" um cachorro de brinquedo. Aponta para o cachorro e pergunta: “Por que o cachorro come?”. Incentive a criança a responder: “Porque está com fome”.",
+    "metadata": {
+      "titulo": "Por que o Cachorro Come?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_156",
+    "conteudo": "Descrição: O professor fecha um livro. Aponta para o livro e pergunta: “Por que o livro fecha?”. Incentive a criança a responder: “Para guardar a história”.",
+    "metadata": {
+      "titulo": "Por que o Livro Fecha?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_157",
+    "conteudo": "Descrição: O professor fecha uma janela de brinquedo. Aponta para a janela e pergunta: “Por que a janela fecha?”. Incentive a criança a responder: “Para não entrar vento”.",
+    "metadata": {
+      "titulo": "Por que a Janela Fecha?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_158",
+    "conteudo": "Descrição: O professor abre a torneira de brinquedo. Aponta para a água e pergunta: “Por que a água cai?”. Incentive a criança a responder: “Porque a torneira está aberta”.",
+    "metadata": {
+      "titulo": "Por que a Água Cai?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_159",
+    "conteudo": "Descrição: O professor aponta para a cadeira e pergunta: “Por que a cadeira tem pés?”. Incentive a criança a responder: “Para ela ficar em pé”.",
+    "metadata": {
+      "titulo": "Por que a Cadeira Tem Pés?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_160",
+    "conteudo": "Descrição: O professor e a criança brincam com pão de massinha. O professor coloca o pão de brinquedo no forno e pergunta: “Por que o pão assou?”. Incentive a criança a responder: “Porque estava no forno”.",
+    "metadata": {
+      "titulo": "Por que o Pão Assou?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_161",
+    "conteudo": "Descrição: O professor coloca um sapato no pé de um boneco. Aponta para o sapato e pergunta: “Por que o sapato calça?”. Incentive a criança a responder: “Porque o pé é pequeno”.",
+    "metadata": {
+      "titulo": "Por que o Sapato Calça?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_162",
+    "conteudo": "Descrição: O professor coloca uma meia no pé de um boneco. Aponta para a meia e pergunta: “Por que a meia veste?”. Incentive a criança a responder: “Para não sentir frio”.",
+    "metadata": {
+      "titulo": "Por que a Meia Veste?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_163",
+    "conteudo": "Descrição: O professor e a criança \"alimentam\" um boneco. O professor aponta para a colher e pergunta: “Por que a colher come?”. Incentive a criança a responder: “Para pegar a comida”.",
+    "metadata": {
+      "titulo": "Por que a Colher Come?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_164",
+    "conteudo": "Descrição: O professor usa uma vassoura de brinquedo. Aponta para a vassoura e pergunta: “Por que a vassoura varre?”. Incentive a criança a responder: “Para limpar o chão”.",
+    "metadata": {
+      "titulo": "Por que a Vassoura Varre?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_165",
+    "conteudo": "Descrição: O professor e a criança brincam com uma panela de brinquedo. O professor aponta para a panela e pergunta: “Por que a panela cozinha?”. Incentive a criança a responder: “Porque está no fogo”.",
+    "metadata": {
+      "titulo": "Por que a Panela Cozinha?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_166",
+    "conteudo": "Descrição: O professor e a criança pintam com um lápis. O professor aponta para o lápis e pergunta: “Por que o lápis pinta?”. Incentive a criança a responder: “Porque tem cor”.",
+    "metadata": {
+      "titulo": "Por que o Lápis Pinta?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_167",
+    "conteudo": "Descrição: O professor usa uma tesoura de brinquedo para cortar papel. Aponta para a tesoura e pergunta: “Por que a tesoura corta?”. Incentive a criança a responder: “Porque é afiada”.",
+    "metadata": {
+      "titulo": "Por que a Tesoura Corta?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_168",
+    "conteudo": "Descrição: O professor e a criança brincam com um telefone. O professor faz o telefone tocar e pergunta: “Por que o telefone toca?”. Incentive a criança a responder: “Porque alguém ligou”.",
+    "metadata": {
+      "titulo": "Por que o Telefone Toca?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_169",
+    "conteudo": "Descrição: O professor e a criança olham para a janela. Aponta para o sol e pergunta: “Por que o sol brilha?”. Incentive a criança a responder: “Porque está de dia”.",
+    "metadata": {
+      "titulo": "Por que o Sol Brilha?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_170",
+    "conteudo": "Descrição: O professor e a criança fazem um som de chuva. Pergunta: “Por que a chuva chove?”. Incentive a criança a responder: “Porque tem nuvem”.",
+    "metadata": {
+      "titulo": "Por que a Chuva Chove?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_171",
+    "conteudo": "Descrição: O professor usa um fantoche de leão e faz um som de rugido. Aponta para o fantoche e pergunta: “Por que o leão ruge?”. Incentive a criança a responder: “Porque é o som dele”.",
+    "metadata": {
+      "titulo": "Por que o Leão Ruge?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_172",
+    "conteudo": "Descrição: O professor faz uma zebra de brinquedo correr. Aponta para a zebra e pergunta: “Por que a zebra corre?”. Incentive a criança a responder: “Para brincar”.",
+    "metadata": {
+      "titulo": "Por que a Zebra Corre?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_173",
+    "conteudo": "Descrição: O professor usa um fantoche de lobo e faz um som de uivo. Aponta para o fantoche e pergunta: “Por que o lobo uiva?”. Incentive a criança a responder: “Porque está de noite”.",
+    "metadata": {
+      "titulo": "Por que o Lobo Uiva?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_174",
+    "conteudo": "Descrição: O professor faz um macaco de brinquedo pular. Aponta para o macaco e pergunta: “Por que o macaco pula?”. Incentive a criança a responder: “Para subir na árvore”.",
+    "metadata": {
+      "titulo": "Por que o Macaco Pula?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_175",
+    "conteudo": "Descrição: O professor faz um rato de brinquedo correr. Aponta para o rato e pergunta: “Por que o rato corre?”. Incentive a criança a responder: “Para fugir”.",
+    "metadata": {
+      "titulo": "Por que o Rato Corre?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_176",
+    "conteudo": "Descrição: O professor faz um fantoche de gato pular. Aponta para o fantoche e pergunta: “Por que o gato pula?”. Incentive a criança a responder: “Para pegar o rato”.",
+    "metadata": {
+      "titulo": "Por que o Gato Pula?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_177",
+    "conteudo": "Descrição: O professor e a criança brincam com uma panela de brinquedo. O professor faz um som de água fervendo e pergunta: “Por que a água ferve?”. Incentive a criança a responder: “Porque está quente”.",
+    "metadata": {
+      "titulo": "Por que a Água Ferve?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_178",
+    "conteudo": "Descrição: O professor e a criança brincam com um carrinho. O professor faz um som de freio e pergunta: “Por que o carro freia?”. Incentive a criança a responder: “Para parar”.",
+    "metadata": {
+      "titulo": "Por que o Carro Freia?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_179",
+    "conteudo": "Descrição: O professor e a criança brincam de acender a luz. Pergunta: “Por que a luz acende?”. Incentive a criança a responder: “Para a gente enxergar”.",
+    "metadata": {
+      "titulo": "Por que a Luz Acende?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_180",
+    "conteudo": "Descrição: O professor usa um pente de brinquedo. Aponta para o pente e pergunta: “Por que o pente penteia?”. Incentive a criança a responder: “Para o cabelo não ficar bagunçado”.",
+    "metadata": {
+      "titulo": "Por que o Pente Penteia?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_181",
+    "conteudo": "Descrição: O professor usa uma vassoura de brinquedo. Aponta para a vassoura e pergunta: “Por que a vassoura limpa?”. Incentive a criança a responder: “Para o chão ficar limpo”.",
+    "metadata": {
+      "titulo": "Por que a Vassoura Limpa?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_182",
+    "conteudo": "Descrição: O professor e a criança brincam com um balão. O professor solta o balão e pergunta: “Por que o balão voa?”. Incentive a criança a responder: “Porque tem ar”.",
+    "metadata": {
+      "titulo": "Por que o Balão Voa?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_183",
+    "conteudo": "Descrição: O professor e a criança brincam com um barco de brinquedo na água. O professor aponta para o barco e pergunta: “Por que o barco navega?”. Incentive a criança a responder: “Porque tem água”.",
+    "metadata": {
+      "titulo": "Por que o Barco Navega?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_184",
+    "conteudo": "Descrição: O professor e a criança brincam com um sapo de brinquedo. O professor faz o sapo pular e pergunta: “Por que o sapo pula?”. Incentive a criança a responder: “Porque ele é um sapo”.",
+    "metadata": {
+      "titulo": "Por que o Sapo Pula?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_185",
+    "conteudo": "Descrição: O professor e a criança brincam com uma abelha de brinquedo. O professor faz a abelha voar e pergunta: “Por que a abelha voa?”. Incentive a criança a responder: “Porque tem asa”.",
+    "metadata": {
+      "titulo": "Por que a Abelha Voa?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_186",
+    "conteudo": "Descrição: O professor e a criança brincam com um pássaro de brinquedo. O professor faz o pássaro cantar e pergunta: “Por que o passarinho canta?”. Incentive a criança a responder: “Porque ele é um passarinho”.",
+    "metadata": {
+      "titulo": "Por que o Passarinho Canta?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_187",
+    "conteudo": "Descrição: O professor e a criança brincam com um pato de borracha. O professor faz o pato voar e pergunta: “Por que o pato voa?”. Incentive a criança a responder: “Porque tem asa”.",
+    "metadata": {
+      "titulo": "Por que o Pato Voa?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_188",
+    "conteudo": "Descrição: O professor e a criança brincam com um cavalo de brinquedo. O professor faz o cavalo correr e pergunta: “Por que o cavalo corre?”. Incentive a criança a responder: “Para ser rápido”.",
+    "metadata": {
+      "titulo": "Por que o Cavalo Corre?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_189",
+    "conteudo": "Descrição: O professor e a criança brincam com uma tartaruga de brinquedo. O professor faz a tartaruga andar devagar e pergunta: “Por que a tartaruga anda devagar?”. Incentive a criança a responder: “Porque é pesada”.",
+    "metadata": {
+      "titulo": "Por que a Tartaruga Anda Devagar?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_190",
+    "conteudo": "Descrição: O professor e a criança brincam com flores de brinquedo. O professor cheira a flor e pergunta: “Por que a flor cheira?”. Incentive a criança a responder: “Para ser bonita”.",
+    "metadata": {
+      "titulo": "Por que a Flor Cheira?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_191",
+    "conteudo": "Descrição: O professor e a criança brincam com um balão. O professor estoura o balão e pergunta: “Por que o balão estourou?”. Incentive a criança a responder: “Porque o ar saiu”.",
+    "metadata": {
+      "titulo": "Por que o Balão Estoura?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_192",
+    "conteudo": "Descrição: O professor e a criança brincam com um livro. O professor fecha o livro e pergunta: “Por que o livro fecha?”. Incentive a criança a responder: “Para guardar as páginas”.",
+    "metadata": {
+      "titulo": "Por que o Livro Fecha?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_193",
+    "conteudo": "Descrição: O professor e a criança brincam com blocos. O professor derruba a torre e pergunta: “Por que a torre caiu?”. Incentive a criança a responder: “Porque estava alta”.",
+    "metadata": {
+      "titulo": "Por que a Torre Caiu?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_194",
+    "conteudo": "Descrição: O professor e a criança brincam com uma mesa. O professor aponta para a mesa e pergunta: “Por que a mesa é grande?”. Incentive a criança a responder: “Para caber tudo”.",
+    "metadata": {
+      "titulo": "Por que a Mesa é Grande?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_195",
+    "conteudo": "Descrição: O professor e a criança brincam com uma bola. O professor aponta para a bola e pergunta: “Por que a bola é redonda?”. Incentive a criança a responder: “Para rolar”.",
+    "metadata": {
+      "titulo": "Por que a Bola é Redonda?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_196",
+    "conteudo": "Descrição: O professor e a criança brincam com uma cadeira de brinquedo. O professor aponta para a cadeira e pergunta: “Por que a cadeira é baixa?”. Incentive a criança a responder: “Para a gente sentar”.",
+    "metadata": {
+      "titulo": "Por que a Cadeira é Baixa?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_197",
+    "conteudo": "Descrição: O professor e a criança brincam com um pão de brinquedo. O professor aponta para o pão e pergunta: “Por que o pão é macio?”. Incentive a criança a responder: “Para comer”.",
+    "metadata": {
+      "titulo": "Por que o Pão é Macio?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_198",
+    "conteudo": "Descrição: O professor e a criança brincam com água fria. O professor aponta para a água e pergunta: “Por que a água é fria?”. Incentive a criança a responder: “Porque estava na geladeira”.",
+    "metadata": {
+      "titulo": "Por que a Água Fria?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_199",
+    "conteudo": "Descrição: O professor e a criança brincam com um carrinho vermelho. O professor aponta para o carro e pergunta: “Por que o carro é vermelho?”. Incentive a criança a responder: “Porque é a cor dele”.",
+    "metadata": {
+      "titulo": "Por que o Carro Vermelho?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_200",
+    "conteudo": "Descrição: O professor pega uma boneca e aponta para os olhos dela. Pergunta: “Por que a boneca tem olhos?”. Incentive a criança a responder: “Para ver”.",
+    "metadata": {
+      "titulo": "Por que a Boneca Tem Olhos?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “Por quê?” com explicações simples e coerentes.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_201",
+    "conteudo": "Descrição: O professor e a criança colocam um carrinho no topo de uma rampa. Pergunte: “O que acontece se o carro cair?”. Incentive a criança a empurrar o carro e a observar o que acontece.",
+    "metadata": {
+      "titulo": "O que Acontece se o Carro Cair?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_202",
+    "conteudo": "Descrição: O professor e a criança brincam com um cubo de gelo. Pergunte: “O que acontece se a gente segurar o gelo?”. Incentive a criança a segurar o gelo e a observar o que acontece.",
+    "metadata": {
+      "titulo": "O que Acontece se o Gelo Esquentar?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_203",
+    "conteudo": "Descrição: O professor e a criança brincam com um balão. Pergunte: “O que acontece se o balão estourar?”. Incentive a criança a estourar o balão e a observar o que acontece.",
+    "metadata": {
+      "titulo": "O que Acontece se o Balão Estourar?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_204",
+    "conteudo": "Descrição: O professor e a criança brincam com um livro. Coloque o livro na ponta da mesa e pergunte: “O que acontece se o livro cair?”. Incentive a criança a empurrar o livro e a observar o que acontece.",
+    "metadata": {
+      "titulo": "O que Acontece se o Livro Cair?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_205",
+    "conteudo": "Descrição: O professor e a criança brincam com uma panela de brinquedo. Pergunte: “O que acontece se a água ferver?”. Incentive a criança a fazer um som de fervura e a responder.",
+    "metadata": {
+      "titulo": "O que Acontece se a Água Ferver?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_206",
+    "conteudo": "Descrição: O professor e a criança brincam com um lápis. Coloque o lápis na ponta da mesa e pergunte: “O que acontece se o lápis cair?”. Incentive a criança a empurrar o lápis e a observar o que acontece.",
+    "metadata": {
+      "titulo": "O que Acontece se o Lápis Cair?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_207",
+    "conteudo": "Descrição: O professor e a criança brincam com uma bola. Jogue a bola no chão e pergunte: “O que acontece se a bola pular?”. Incentive a criança a jogar a bola e a observar o que acontece.",
+    "metadata": {
+      "titulo": "O que Acontece se a Bola Pular?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_208",
+    "conteudo": "Descrição: O professor e a criança brincam com pão de massinha. Coloque o pão de brinquedo no forno e pergunte: “O que acontece se o pão assar?”. Incentive a criança a responder.",
+    "metadata": {
+      "titulo": "O que Acontece se o Pão Assar?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_209",
+    "conteudo": "Descrição: O professor e a criança brincam com uma janela de brinquedo. Feche a janela e pergunte: “O que acontece se a janela fechar?”. Incentive a criança a responder.",
+    "metadata": {
+      "titulo": "O que Acontece se a Janela Fechar?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_210",
+    "conteudo": "Descrição: O professor e a criança brincam com blocos. Construa uma torre e pergunte: “O que acontece se a gente derrubar a torre?”. Incentive a criança a derrubar a torre e a observar o que acontece.",
+    "metadata": {
+      "titulo": "O que Acontece se a Torre Cair?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_211",
+    "conteudo": "Descrição: O professor e a criança brincam com uma boneca. Faça um som de choro e pergunte: “O que acontece se a boneca chorar?”. Incentive a criança a responder.",
+    "metadata": {
+      "titulo": "O que Acontece se a Boneca Chorar?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_212",
+    "conteudo": "Descrição: O professor e a criança brincam com um pato de borracha na água. Mova o pato e pergunte: “O que acontece se o pato nadar?”. Incentive a criança a mover o pato e a observar o que acontece.",
+    "metadata": {
+      "titulo": "O que Acontece se o Pato Nadar?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_213",
+    "conteudo": "Descrição: O professor e a criança brincam com um cachorro de brinquedo. Coloque comida na tigela e pergunte: “O que acontece se o cachorro comer?”. Incentive a criança a \"alimentar\" o cachorro e a observar o que acontece.",
+    "metadata": {
+      "titulo": "O que Acontece se o Cachorro Comer?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_214",
+    "conteudo": "Descrição: O professor e a criança brincam com uma luz. Acenda a luz e pergunte: “O que acontece se a luz acender?”. Incentive a criança a responder.",
+    "metadata": {
+      "titulo": "O que Acontece se a Luz Acender?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_215",
+    "conteudo": "Descrição: O professor e a criança brincam com uma vassoura de brinquedo. Varra o chão e pergunte: “O que acontece se a vassoura varrer?”. Incentive a criança a varrer e a observar o que acontece.",
+    "metadata": {
+      "titulo": "O que Acontece se a Vassoura Varrer?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_216",
+    "conteudo": "Descrição: O professor e a criança brincam com um pente de brinquedo. Penteie o cabelo de um boneco e pergunte: “O que acontece se o pente pentear?”. Incentive a criança a pentear e a observar o que acontece.",
+    "metadata": {
+      "titulo": "O que Acontece se o Pente Pentear?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_217",
+    "conteudo": "Descrição: O professor e a criança brincam com um telefone de brinquedo. Faça o telefone tocar e pergunte: “O que acontece se o telefone tocar?”. Incentive a criança a responder.",
+    "metadata": {
+      "titulo": "O que Acontece se o Telefone Tocar?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_218",
+    "conteudo": "Descrição: O professor e a criança olham para a janela. Pergunte: “O que acontece se o sol brilhar?”. Incentive a criança a responder.",
+    "metadata": {
+      "titulo": "O que Acontece se o Sol Brilhar?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_219",
+    "conteudo": "Descrição: O professor e a criança fazem um som de chuva. Pergunte: “O que acontece se a chuva cair?”. Incentive a criança a responder.",
+    "metadata": {
+      "titulo": "O que Acontece se a Chuva Cair?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_220",
+    "conteudo": "Descrição: O professor e a criança brincam com um fantoche de leão. Faça o fantoche rugir e pergunte: “O que acontece se o leão rugir?”. Incentive a criança a responder.",
+    "metadata": {
+      "titulo": "O que Acontece se o Leão Rugir?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_221",
+    "conteudo": "Descrição: O professor e a criança brincam com uma zebra de brinquedo. Faça a zebra correr e pergunte: “O que acontece se a zebra correr?”. Incentive a criança a fazer a zebra correr e a observar o que acontece.",
+    "metadata": {
+      "titulo": "O que Acontece se a Zebra Correr?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_222",
+    "conteudo": "Descrição: O professor e a criança brincam com um balão. Deixe o ar sair do balão e pergunte: “O que acontece se o balão murchar?”. Incentive a criança a observar o que acontece.",
+    "metadata": {
+      "titulo": "O que Acontece se o Balão Murchar?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_223",
+    "conteudo": "Descrição: O professor e a criança brincam com um sapo de brinquedo. Faça o sapo pular e pergunte: “O que acontece se o sapo pular?”. Incentive a criança a fazer o sapo pular e a observar o que acontece.",
+    "metadata": {
+      "titulo": "O que Acontece se o Sapo Pular?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_224",
+    "conteudo": "Descrição: O professor e a criança brincam com uma abelha de brinquedo. Faça a abelha voar e pergunte: “O que acontece se a abelha voar?”. Incentive a criança a fazer a abelha voar e a observar o que acontece.",
+    "metadata": {
+      "titulo": "O que Acontece se a Abelha Voar?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_225",
+    "conteudo": "Descrição: O professor e a criança brincam com uma flor de brinquedo. Cheire a flor e pergunte: “O que acontece se a gente cheirar a flor?”. Incentive a criança a cheirar e a observar o que acontece.",
+    "metadata": {
+      "titulo": "O que Acontece se a Flor Cheirar?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_226",
+    "conteudo": "Descrição: O professor e a criança brincam com água fria. Pergunte: “O que acontece se a gente tocar na água fria?”. Incentive a criança a tocar na água e a observar o que acontece.",
+    "metadata": {
+      "titulo": "O que Acontece se a Água Fria?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_227",
+    "conteudo": "Descrição: O professor e a criança brincam com um urso de pelúcia. Abrace o urso e pergunte: “O que acontece se o urso abraçar?”. Incentive a criança a abraçar e a observar o que acontece.",
+    "metadata": {
+      "titulo": "O que Acontece se o Urso Abraçar?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_228",
+    "conteudo": "Descrição: O professor e a criança brincam com uma panela de brinquedo. Finja que a panela está esquentando e pergunte: “O que acontece se a panela esquentar?”. Incentive a criança a responder.",
+    "metadata": {
+      "titulo": "O que Acontece se a Panela Esquentar?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_229",
+    "conteudo": "Descrição: O professor e a criança brincam com um pão de brinquedo. Pergunte: “O que acontece se o pão ficar duro?”. Incentive a criança a responder.",
+    "metadata": {
+      "titulo": "O que Acontece se o Pão Ficar Duro?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_230",
+    "conteudo": "Descrição: O professor e a criança brincam com um livro. Molhe a ponta do livro e pergunte: “O que acontece se o livro molhar?”. Incentive a criança a observar o que acontece.",
+    "metadata": {
+      "titulo": "O que Acontece se o Livro Molhar?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_231",
+    "conteudo": "Descrição: O professor e a criança brincam com massinha de modelar. Deixe um pedaço secar e pergunte: “O que acontece se a massinha secar?”. Incentive a criança a observar o que acontece.",
+    "metadata": {
+      "titulo": "O que Acontece se a Massinha Secar?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_232",
+    "conteudo": "Descrição: O professor e a criança brincam com um pato de borracha. Deixe o pato cair na água e pergunte: “O que acontece se o pato cair na água?”. Incentive a criança a observar o que acontece.",
+    "metadata": {
+      "titulo": "O que Acontece se o Pato Cair na Água?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_233",
+    "conteudo": "Descrição: O professor e a criança brincam com meias de boneca. Molhe uma meia e pergunte: “O que acontece se a meia molhar?”. Incentive a criança a observar o que acontece.",
+    "metadata": {
+      "titulo": "O que Acontece se a Meia Molhar?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_234",
+    "conteudo": "Descrição: O professor e a criança brincam com um quebra-cabeça. Esconda uma peça e pergunte: “O que acontece se o quebra-cabeça faltar uma peça?”. Incentive a criança a responder.",
+    "metadata": {
+      "titulo": "O que Acontece se o Quebra-Cabeça Faltar Peça?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_235",
+    "conteudo": "Descrição: O professor e a criança constroem uma torre alta. Pergunte: “O que acontece se a torre for alta?”. Incentive a criança a responder.",
+    "metadata": {
+      "titulo": "O que Acontece se a Torre For Alta?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_236",
+    "conteudo": "Descrição: O professor e a criança olham para a janela. Pergunte: “O que acontece se o sol se pôr?”. Incentive a criança a responder.",
+    "metadata": {
+      "titulo": "O que Acontece se o Sol Se Pôr?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_237",
+    "conteudo": "Descrição: O professor e a criança olham para a janela. Pergunte: “O que acontece se a lua nascer?”. Incentive a criança a responder.",
+    "metadata": {
+      "titulo": "O que Acontece se a Lua Nascer?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_238",
+    "conteudo": "Descrição: O professor e a criança brincam com uma bola. Jogue a bola em uma parede e pergunte: “O que acontece se a bola bater?”. Incentive a criança a observar o que acontece.",
+    "metadata": {
+      "titulo": "O que Acontece se a Bola Bater?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_239",
+    "conteudo": "Descrição: O professor e a criança brincam com um carrinho de brinquedo. Faça o carrinho bater em outro e pergunte: “O que acontece se o carro bater?”. Incentive a criança a observar o que acontece.",
+    "metadata": {
+      "titulo": "O que Acontece se o Carro Bater?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_240",
+    "conteudo": "Descrição: O professor e a criança brincam com uma vassoura de brinquedo. Pergunte: “O que acontece se a vassoura quebrar?”. Incentive a criança a responder.",
+    "metadata": {
+      "titulo": "O que Acontece se a Vassoura Quebrar?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_241",
+    "conteudo": "Descrição: O professor e a criança brincam com um fantoche de gato. Faça o fantoche chorar e pergunte: “O que acontece se o gato chorar?”. Incentive a criança a responder.",
+    "metadata": {
+      "titulo": "O que Acontece se o Gato Chorar?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_242",
+    "conteudo": "Descrição: O professor e a criança brincam com um pato de borracha. Faça o pato voar e pergunte: “O que acontece se o pato voar?”. Incentive a criança a responder.",
+    "metadata": {
+      "titulo": "O que Acontece se o Pato Voar?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_243",
+    "conteudo": "Descrição: O professor e a criança brincam com um livro. Molhe a ponta do livro e pergunte: “O que acontece se o livro molhar?”. Incentive a criança a observar o que acontece.",
+    "metadata": {
+      "titulo": "O que Acontece se o Livro Molhar?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_244",
+    "conteudo": "Descrição: O professor e a criança brincam com um lápis. Pergunte: “O que acontece se o lápis quebrar?”. Incentive a criança a responder.",
+    "metadata": {
+      "titulo": "O que Acontece se o Lápis Quebrar?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_245",
+    "conteudo": "Descrição: O professor e a criança brincam com queijo de brinquedo. Coloque o queijo na geladeira de brinquedo e pergunte: “O que acontece se o queijo ficar na geladeira?”. Incentive a criança a responder.",
+    "metadata": {
+      "titulo": "O que Acontece se o Queijo Ficar na Geladeira?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_246",
+    "conteudo": "Descrição: O professor e a criança brincam de acender e apagar a luz. Apague a luz e pergunte: “O que acontece se a luz apagar?”. Incentive a criança a responder.",
+    "metadata": {
+      "titulo": "O que Acontece se a Luz Apagar?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_247",
+    "conteudo": "Descrição: O professor e a criança brincam com água e copo. Encha o copo com água e pergunte: “O que acontece se a gente encher o copo?”. Incentive a criança a observar o que acontece.",
+    "metadata": {
+      "titulo": "O que Acontece se a Água no Copo?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_248",
+    "conteudo": "Descrição: O professor e a criança brincam com um telefone de brinquedo. Desligue o telefone e pergunte: “O que acontece se o telefone desligar?”. Incentive a criança a responder.",
+    "metadata": {
+      "titulo": "O que Acontece se o Telefone Desligar?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_249",
+    "conteudo": "Descrição: O professor e a criança brincam com comidinha de brinquedo. Coloque a comida no sol e pergunte: “O que acontece se a comida ficar no sol?”. Incentive a criança a responder.",
+    "metadata": {
+      "titulo": "O que Acontece se a Comida Ficar no Sol?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_250",
+    "conteudo": "Descrição: O professor e a criança brincam com um barco de brinquedo na água. Faça o barco navegar e pergunte: “O que acontece se o barco navegar?”. Incentive a criança a responder.",
+    "metadata": {
+      "titulo": "O que Acontece se o Barco Navegar?",
+      "dimensao": "Linguagem",
+      "habilidade": "Responde à pergunta “O que acontece se…?”, mostrando entendimento de causa e efeito.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_251",
+    "conteudo": "Descrição: Crie uma linha do tempo visual com cartões que representam \"ontem\", \"hoje\" e \"amanhã\". Cole fotos ou desenhos das atividades da criança e peça para ela colocar o cartão no lugar certo.",
+    "metadata": {
+      "titulo": "A Linha do Tempo",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_252",
+    "conteudo": "Descrição: Crie um livro com fotos das atividades da criança no dia anterior e de hoje. Ao folhear o livro, pergunte: “O que você fez ontem?”. Depois, pergunte: “O que você vai fazer amanhã?”.",
+    "metadata": {
+      "titulo": "O Livro do Dia",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_253",
+    "conteudo": "Descrição: O professor usa um fantoche para conversar com a criança. O fantoche pode perguntar: “O que você comeu ontem?”. A criança é incentivada a responder.",
+    "metadata": {
+      "titulo": "O Fantoche Falante",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_254",
+    "conteudo": "Descrição: Use uma caixa com objetos de atividades do dia anterior (por exemplo, um brinquedo de areia). Pergunte: “Você usou isto ontem?”. Incentive a criança a responder \"sim\" e a dizer \"ontem\".",
+    "metadata": {
+      "titulo": "A Caixa da Memória",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_255",
+    "conteudo": "Descrição: O professor esconde o rosto e pergunta: “O que vamos fazer amanhã?”. A criança é incentivada a responder com uma ação futura.",
+    "metadata": {
+      "titulo": "A Mágica da Voz",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_256",
+    "conteudo": "Descrição: Em uma roda de brincadeira, pergunte para cada criança: “O que você vai fazer amanhã?”. Incentive o aluno a responder com uma frase simples.",
+    "metadata": {
+      "titulo": "A Roda do Amanhã",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_257",
+    "conteudo": "Descrição: Peça para a criança fazer um desenho sobre o que ela fez ontem. Incentive-a a descrever o desenho usando a palavra \"ontem\".",
+    "metadata": {
+      "titulo": "O Desenho do Ontem",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_258",
+    "conteudo": "Descrição: O professor e a criança brincam com massinha de modelar. O professor diz: “Amanhã nós vamos fazer um bolo com massinha”. Incentive a criança a modelar o bolo e a repetir a frase.",
+    "metadata": {
+      "titulo": "A Massinha do Amanhã",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_259",
+    "conteudo": "Descrição: O professor usa um telefone de brinquedo. Finja que está ligando para a criança. “Alô, o que você fez ontem?”. Passe o telefone para a criança e espere a resposta.",
+    "metadata": {
+      "titulo": "O Telefone do Tempo",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_260",
+    "conteudo": "Descrição: Crie uma canção sobre o tempo. Cante: “Ontem choveu, amanhã vai fazer sol”. A criança é incentivada a repetir a canção.",
+    "metadata": {
+      "titulo": "A Música do Tempo",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_261",
+    "conteudo": "Descrição: O professor diz uma ação: “Você vai pular amanhã?”. A criança deve pular e dizer “sim” ou “não”.",
+    "metadata": {
+      "titulo": "O Jogo da Ação",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_262",
+    "conteudo": "Descrição: O professor e a criança se olham no espelho. O professor pergunta: “O que você fez ontem?”. A criança é incentivada a descrever uma ação passada.",
+    "metadata": {
+      "titulo": "O Espelho do Tempo",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_263",
+    "conteudo": "Descrição: Use uma tabela com imagens de atividades. A criança aponta para a imagem de uma atividade e o professor pergunta: “Você fez isso ontem?”.",
+    "metadata": {
+      "titulo": "A Tabela de Atividades",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_264",
+    "conteudo": "Descrição: O professor e a criança montam um quebra-cabeça com fotos das atividades do dia anterior. O professor diz: “Ontem nós montamos o quebra-cabeça”. Incentive a criança a repetir a frase.",
+    "metadata": {
+      "titulo": "O Quebra-Cabeça do Dia",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_265",
+    "conteudo": "Descrição: O professor e a criança guardam os brinquedos. O professor diz: “Vamos guardar os brinquedos, porque amanhã vamos brincar de novo”. Incentive a criança a repetir.",
+    "metadata": {
+      "titulo": "A Cesta de Brinquedos",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_266",
+    "conteudo": "Descrição: O professor e a criança se sentam. O professor pergunta: “Por que você está feliz hoje?”. A criança é incentivada a dar uma explicação simples.",
+    "metadata": {
+      "titulo": "A Roda do \"Por Quê?\"",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_267",
+    "conteudo": "Descrição: O professor e a criança preparam um piquenique de brinquedo. O professor diz: “Amanhã a gente vai fazer um piquenique”. Incentive a criança a repetir.",
+    "metadata": {
+      "titulo": "O Piquenique do Amanhã",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_268",
+    "conteudo": "Descrição: O professor e a criança brincam com um trem de brinquedo. O professor diz: “Ontem, o trem andou devagar, amanhã, ele vai andar rápido”. Incentive a criança a repetir.",
+    "metadata": {
+      "titulo": "O Trenzinho do Tempo",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_269",
+    "conteudo": "Descrição: O professor e a criança brincam com um barco na água. O professor diz: “Ontem, o barco navegou no rio, amanhã, ele vai navegar no mar”. Incentive a criança a repetir.",
+    "metadata": {
+      "titulo": "O Barco da História",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_270",
+    "conteudo": "Descrição: O professor conta uma história curta com as palavras \"ontem\" e \"amanhã\". O professor diz: \"Ontem o coelho comeu a cenoura, amanhã ele vai comer o pão”. A criança é incentivada a repetir.",
+    "metadata": {
+      "titulo": "A História do Tempo",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_271",
+    "conteudo": "Descrição: O professor e a criança brincam com peças de encaixe. O professor diz: “Ontem nós construímos uma torre, amanhã vamos construir um castelo”. Incentive a criança a repetir.",
+    "metadata": {
+      "titulo": "O Jogo de Peças",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_272",
+    "conteudo": "Descrição: O professor usa a mão para \"conversar\" com a criança. A mão pode perguntar: “O que você fez ontem com a mamãe?”. A criança é incentivada a descrever.",
+    "metadata": {
+      "titulo": "A Mãozinha Falante",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_273",
+    "conteudo": "Descrição: O professor e a criança brincam com uma vassoura de brinquedo. O professor diz: “Ontem a vassoura varreu o chão, amanhã ela vai voar”. Incentive a criança a repetir.",
+    "metadata": {
+      "titulo": "A Vassoura Mágica",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_274",
+    "conteudo": "Descrição: O professor e a criança brincam com um pato de borracha na água. O professor diz: “Ontem o pato nadou, amanhã ele vai pular”. Incentive a criança a repetir.",
+    "metadata": {
+      "titulo": "O Pato na Lagoa",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_275",
+    "conteudo": "Descrição: O professor e a criança brincam com um urso de pelúcia. O professor diz: “Ontem o urso dormiu, amanhã ele vai acordar cedo”. Incentive a criança a repetir.",
+    "metadata": {
+      "titulo": "O Urso Dorminhoco",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_276",
+    "conteudo": "Descrição: O professor e a criança brincam com um carrinho de compras. O professor diz: “Ontem compramos pão, amanhã vamos comprar fruta”. Incentive a criança a repetir.",
+    "metadata": {
+      "titulo": "O Carrinho de Compras",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_277",
+    "conteudo": "Descrição: O professor conta uma história para a criança. O professor diz: “Ontem, a história foi sobre o cachorro, amanhã, vai ser sobre o gato”. Incentive a criança a repetir.",
+    "metadata": {
+      "titulo": "A História de Ninar",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_278",
+    "conteudo": "Descrição: O professor e a criança desenham uma aventura. O professor diz: “Ontem nós desenhamos um avião, amanhã vamos desenhar um barco”. Incentive a criança a repetir.",
+    "metadata": {
+      "titulo": "O Desenho da Aventura",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_279",
+    "conteudo": "Descrição: O professor e a criança brincam com massinha de modelar. O professor diz: “Ontem nós modelamos um bolo, amanhã vamos modelar um pato”. Incentive a criança a repetir.",
+    "metadata": {
+      "titulo": "A Massinha do Dia",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_280",
+    "conteudo": "Descrição: O professor diz uma ação: “Nós vamos pular amanhã”. A criança deve pular e dizer “amanhã”.",
+    "metadata": {
+      "titulo": "O Jogo da Ação",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_281",
+    "conteudo": "Descrição: O professor esconde um objeto e diz: “Ontem, eu escondi este objeto, e você o achou. O que vai acontecer amanhã?”. Incentive a criança a responder.",
+    "metadata": {
+      "titulo": "A Mágica do Ontem",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_282",
+    "conteudo": "Descrição: O professor lê um livro de rimas sobre o tempo. \"Se ontem choveu, amanhã o sol vai aparecer\". A criança é incentivada a repetir a rima.",
+    "metadata": {
+      "titulo": "O Livro de Rimas",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_283",
+    "conteudo": "Descrição: Crie uma canção que fale sobre o que aconteceu. “Ontem, eu fui ao parque, ontem, eu brinquei de bola”. A criança é incentivada a cantar e a repetir.",
+    "metadata": {
+      "titulo": "A Canção do Passado",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_284",
+    "conteudo": "Descrição: O professor e a criança brincam com cartões. A criança pega um cartão de uma atividade e o professor pergunta: “Você fez isso ontem ou vai fazer amanhã?”.",
+    "metadata": {
+      "titulo": "O Jogo do \"Qual é o Tempo?\"",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_285",
+    "conteudo": "Descrição: O professor e a criança se sentam em uma roda. O professor pergunta: “Quem fez o dever de casa ontem?”. A criança é incentivada a responder.",
+    "metadata": {
+      "titulo": "A Roda do \"Quem?\"",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_286",
+    "conteudo": "Descrição: O professor sussurra no ouvido da criança o que ela vai fazer amanhã. A criança é incentivada a sussurrar de volta.",
+    "metadata": {
+      "titulo": "O Telefone Sem Fio",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_287",
+    "conteudo": "Descrição: O professor e a criança brincam com uma vassoura de brinquedo. O professor diz: “Ontem nós varremos, amanhã nós vamos varrer de novo”. Incentive a criança a repetir.",
+    "metadata": {
+      "titulo": "A Vassoura de Brinquedo",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_288",
+    "conteudo": "Descrição: O professor e a criança brincam com um sapo de brinquedo. O professor diz: “Ontem, o sapo pulou, amanhã, ele vai nadar”. Incentive a criança a repetir.",
+    "metadata": {
+      "titulo": "O Sapo Pulador",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_289",
+    "conteudo": "Descrição: O professor e a criança brincam com um carrinho de compras. O professor diz: “Ontem nós compramos pão, amanhã vamos comprar fruta”. Incentive a criança a repetir.",
+    "metadata": {
+      "titulo": "O Carrinho de Compras",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_290",
+    "conteudo": "Descrição: O professor e a criança sentam em uma mesa. O professor usa objetos sobre a mesa para fazer perguntas sobre o dia. “O que fizemos ontem com este objeto?”.",
+    "metadata": {
+      "titulo": "A Mesa da Aventura",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_291",
+    "conteudo": "Descrição: O professor e a criança guardam \"tesouros\" em uma caixa. O professor diz: “Ontem nós guardamos as joias, amanhã vamos guardar as moedas”. Incentive a criança a repetir.",
+    "metadata": {
+      "titulo": "A Caixa de Tesouros",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_292",
+    "conteudo": "Descrição: O professor e a criança montam um quebra-cabeça com fotos das atividades. A criança é incentivada a relatar cada imagem, usando \"ontem\" ou \"amanhã\".",
+    "metadata": {
+      "titulo": "O Quebra-Cabeça da Aventura",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_293",
+    "conteudo": "Descrição: O professor usa a mão para fazer perguntas sobre o tempo. \"O que fizemos ontem com esta mão?\". A criança é incentivada a responder.",
+    "metadata": {
+      "titulo": "A Mãozinha Falante",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_294",
+    "conteudo": "Descrição: O professor e a criança brincam com um barco de papel. O professor diz: \"Ontem nós fizemos o barco, amanhã vamos fazer um avião”. Incentive a criança a repetir.",
+    "metadata": {
+      "titulo": "O Barco de Papel",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_295",
+    "conteudo": "Descrição: O professor e a criança fazem uma corrida de carrinhos. O professor diz: \"Ontem, o carro vermelho ganhou, amanhã, o azul vai ganhar”. Incentive a criança a repetir.",
+    "metadata": {
+      "titulo": "O Carro de Corrida",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_296",
+    "conteudo": "Descrição: O professor e a criança brincam com um avião. O professor diz: “Ontem o avião voou no céu, amanhã ele vai pousar na pista”. Incentive a criança a repetir.",
+    "metadata": {
+      "titulo": "O Avião de Brinquedo",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_297",
+    "conteudo": "Descrição: O professor e a criança fazem mímicas. O professor faz uma mímica de uma ação que fez ontem. A criança deve adivinhar e fazer uma mímica do que vai fazer amanhã.",
+    "metadata": {
+      "titulo": "O Jogo da Ação",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_298",
+    "conteudo": "Descrição: O professor e a criança dançam. O professor para a música e pergunta: “O que nós fizemos antes de dançar?”. Incentive a criança a responder.",
+    "metadata": {
+      "titulo": "A Dança do Tempo",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_299",
+    "conteudo": "Descrição: O professor e a criança brincam de \"cozinhar\". O professor diz: \"Ontem, fizemos bolo, amanhã vamos fazer pão”. Incentive a criança a repetir.",
+    "metadata": {
+      "titulo": "A Cozinha de Mentirinha",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_300",
+    "conteudo": "Descrição: O professor toca um sino e diz: “Ontem o sino tocou, amanhã ele vai tocar de novo”. A criança é incentivada a repetir.",
+    "metadata": {
+      "titulo": "O Sino do Tempo",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa corretamente palavras que indicam tempo (ex.: ontem e amanhã).",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_301",
+    "conteudo": "Descrição: O professor e a criança leem um livro. O professor aponta para uma palavra complexa (como \"floresta\") e diz: \"Esta palavra é 'floresta'. Vamos descobrir o que significa?\". Incentive a criança a perguntar.",
+    "metadata": {
+      "titulo": "O Livro das Palavras Estranhas",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_302",
+    "conteudo": "Descrição: O professor tem uma caixa com objetos incomuns. A criança pega um objeto (por exemplo, um cata-vento) e o professor pergunta: \"O que é isto?\". Incentive a criança a fazer a pergunta de volta.",
+    "metadata": {
+      "titulo": "A Caixa de Curiosidades",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_303",
+    "conteudo": "Descrição: O professor usa um fantoche que fala de forma estranha, usando palavras inventadas. A criança é incentivada a perguntar \"O que isso significa?\".",
+    "metadata": {
+      "titulo": "O Fantoche Falante",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_304",
+    "conteudo": "Descrição: O professor e a criança ouvem uma música com palavras desconhecidas. A criança é incentivada a perguntar \"O que é isso?\".",
+    "metadata": {
+      "titulo": "A Música Desconhecida",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_305",
+    "conteudo": "Descrição: O professor esconde um objeto atrás das costas. O professor diz: \"Este objeto se chama 'fubá'. O que é 'fubá'?\". A criança é incentivada a perguntar \"O que é?\".",
+    "metadata": {
+      "titulo": "A Mágica da Pergunta",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_306",
+    "conteudo": "Descrição: O professor e a criança se sentam em uma roda. O professor tem cartões com palavras incomuns. A criança pega um cartão e o professor pergunta: \"Você sabe o que significa esta palavra?\". Incentive a criança a responder com a pergunta.",
+    "metadata": {
+      "titulo": "A Roda das Perguntas",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_307",
+    "conteudo": "Descrição: O professor e a criança desenham. O professor desenha algo estranho, como um carro com asas, e a criança é incentivada a perguntar \"O que é isto?\".",
+    "metadata": {
+      "titulo": "O Desenho Incomum",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_308",
+    "conteudo": "Descrição: O professor e a criança modelam com massinha. O professor faz uma forma incomum e diz: \"Isso se chama 'amassado'. O que é isso?\". Incentive a criança a perguntar.",
+    "metadata": {
+      "titulo": "A Massinha de Modelar",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_309",
+    "conteudo": "Descrição: O professor e a criança brincam com cartões com palavras e seus significados. A criança pega um cartão com uma palavra e o professor pergunta \"O que significa?\". Incentive a criança a procurar o cartão com o significado.",
+    "metadata": {
+      "titulo": "O Jogo do \"O que significa?\"",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_310",
+    "conteudo": "Descrição: O professor usa um telefone de brinquedo e finge que está falando com alguém. O professor usa uma palavra incomum. A criança é incentivada a perguntar \"O que é isso?\".",
+    "metadata": {
+      "titulo": "O Telefone Falante",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_311",
+    "conteudo": "Descrição: O professor tem uma cesta com objetos comuns, mas os nomeia de forma estranha (por exemplo, chama a bola de \"rolador\"). A criança é incentivada a perguntar \"O que é?\".",
+    "metadata": {
+      "titulo": "A Cesta de Objetos",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_312",
+    "conteudo": "Descrição: O professor e a criança constroem uma maquete da cidade. O professor cria um prédio incomum e o nomeia. A criança é incentivada a perguntar \"O que é?\".",
+    "metadata": {
+      "titulo": "A Maquete da Cidade",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_313",
+    "conteudo": "Descrição: O professor e a criança brincam com comidas de brinquedo incomuns. O professor nomeia a comida e a criança é incentivada a perguntar \"O que é?\".",
+    "metadata": {
+      "titulo": "O Piquenique de Comidas Diferentes",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_314",
+    "conteudo": "Descrição: O professor faz mímica de uma palavra incomum (por exemplo, \"esquisito\"). A criança é incentivada a perguntar \"O que é?\".",
+    "metadata": {
+      "titulo": "A Mímica da Palavra",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_315",
+    "conteudo": "Descrição: O professor e a criança leem um livro com verbos incomuns. A criança é incentivada a perguntar \"O que significa isso?\".",
+    "metadata": {
+      "titulo": "O Livro dos Verbos Estranhos",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_316",
+    "conteudo": "Descrição: O professor e a criança ouvem uma música que explica o significado de uma palavra. O professor pergunta \"O que a música está dizendo?\". Incentive a criança a perguntar.",
+    "metadata": {
+      "titulo": "A Música que Explica",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_317",
+    "conteudo": "Descrição: O professor e a criança brincam com peças de encaixe. O professor cria uma forma incomum e a nomeia. A criança é incentivada a perguntar \"O que é?\".",
+    "metadata": {
+      "titulo": "O Jogo de Peças",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_318",
+    "conteudo": "Descrição: O professor e a criança brincam com uma vassoura de brinquedo. O professor faz a vassoura \"voar\" de forma estranha e diz: \"A vassoura está 'voando' de forma 'estranha'\". A criança é incentivada a perguntar.",
+    "metadata": {
+      "titulo": "A Vassoura Mágica",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_319",
+    "conteudo": "Descrição: O professor e a criança brincam com um pato de borracha na água. O professor faz o pato \"nadar\" de forma estranha e diz: \"O pato está 'nadando' de forma 'flutuante'\". A criança é incentivada a perguntar.",
+    "metadata": {
+      "titulo": "O Pato na Água",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_320",
+    "conteudo": "Descrição: O professor e a criança brincam com uma cama de boneca. O professor coloca um objeto incomum na cama e diz: \"Este objeto se chama 'dorminhoco'\". A criança é incentivada a perguntar.",
+    "metadata": {
+      "titulo": "A Cama da Boneca",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_321",
+    "conteudo": "Descrição: O professor e a criança se olham no espelho. O professor faz uma careta e a nomeia com uma palavra incomum. A criança é incentivada a perguntar \"O que é isto?\".",
+    "metadata": {
+      "titulo": "O Espelho Mágico",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_322",
+    "conteudo": "Descrição: O professor tem cartões com figuras de sentimentos e palavras incomuns. A criança pega um cartão e o professor pergunta \"O que isso significa?\". Incentive a criança a procurar o significado.",
+    "metadata": {
+      "titulo": "A Roda dos Sentimentos",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_323",
+    "conteudo": "Descrição: O professor e a criança desenham. O professor desenha algo incomum e o faz se mover. A criança é incentivada a perguntar.",
+    "metadata": {
+      "titulo": "O Desenho que Se Move",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_324",
+    "conteudo": "Descrição: O professor tem uma caixa com objetos que a criança não conhece. O professor tira um objeto e o nomeia. A criança é incentivada a perguntar.",
+    "metadata": {
+      "titulo": "A Caixa de Tesouros",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_325",
+    "conteudo": "Descrição: O professor faz uma ação incomum (por exemplo, \"escorregar\"). A criança é incentivada a perguntar \"O que você está fazendo?\".",
+    "metadata": {
+      "titulo": "O Jogo da Ação",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_326",
+    "conteudo": "Descrição: O professor diz uma palavra incomum (por exemplo, \"reluzente\") e a criança é incentivada a perguntar \"O que significa?\".",
+    "metadata": {
+      "titulo": "A Mágica da Palavra",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_327",
+    "conteudo": "Descrição: O professor faz uma ação incomum. A criança é incentivada a perguntar \"Por que você está fazendo isso?\".",
+    "metadata": {
+      "titulo": "A Roda do \"Por Quê?\"",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_328",
+    "conteudo": "Descrição: O professor sussurra uma palavra incomum no ouvido da criança. A criança é incentivada a perguntar \"O que você disse?\".",
+    "metadata": {
+      "titulo": "O Telefone Sem Fio",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_329",
+    "conteudo": "Descrição: O professor e a criança leem um livro de rimas. O professor usa uma palavra incomum em uma rima. A criança é incentivada a perguntar \"O que significa?\".",
+    "metadata": {
+      "titulo": "O Livro de Rimas",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_330",
+    "conteudo": "Descrição: O professor e a criança fazem um piquenique com ursos de pelúcia. O professor \"oferece\" uma comida incomum. A criança é incentivada a perguntar.",
+    "metadata": {
+      "titulo": "O Piquenique do Urso",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_331",
+    "conteudo": "Descrição: O professor e a criança constroem uma torre de blocos. O professor usa uma palavra incomum em uma história sobre a torre. A criança é incentivada a perguntar.",
+    "metadata": {
+      "titulo": "A Torre da História",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_332",
+    "conteudo": "Descrição: O professor e a criança brincam com uma vassoura de brinquedo. O professor usa a palavra \"varrendo\" de forma incomum. A criança é incentivada a perguntar.",
+    "metadata": {
+      "titulo": "A Vassoura de Brinquedo",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_333",
+    "conteudo": "Descrição: O professor e a criança brincam com um sapo de brinquedo. O professor usa a palavra \"saltando\" de forma incomum. A criança é incentivada a perguntar.",
+    "metadata": {
+      "titulo": "O Sapo Pulador",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_334",
+    "conteudo": "Descrição: O professor e a criança brincam com um carrinho de compras. O professor \"compra\" um objeto incomum e o nomeia. A criança é incentivada a perguntar.",
+    "metadata": {
+      "titulo": "O Carrinho de Compras",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_335",
+    "conteudo": "Descrição: O professor e a criança sentam em uma mesa. O professor usa objetos sobre a mesa para fazer perguntas com palavras incomuns. A criança é incentivada a perguntar.",
+    "metadata": {
+      "titulo": "A Mesa da Aventura",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_336",
+    "conteudo": "Descrição: O professor e a criança guardam \"tesouros\" em uma caixa. O professor usa uma palavra incomum para descrever os tesouros. A criança é incentivada a perguntar.",
+    "metadata": {
+      "titulo": "A Caixa de Tesouros",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_337",
+    "conteudo": "Descrição: O professor e a criança montam um quebra-cabeça com fotos das atividades do dia. O professor usa uma palavra incomum para descrever uma foto. A criança é incentivada a perguntar.",
+    "metadata": {
+      "titulo": "O Quebra-Cabeça da Aventura",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_338",
+    "conteudo": "Descrição: O professor usa a mão para fazer perguntas com palavras incomuns. A criança é incentivada a perguntar.",
+    "metadata": {
+      "titulo": "A Mãozinha Falante",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_339",
+    "conteudo": "Descrição: O professor e a criança brincam com um balão. O professor usa uma palavra incomum para descrever o voo. A criança é incentivada a perguntar.",
+    "metadata": {
+      "titulo": "O Balão Voador",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_340",
+    "conteudo": "Descrição: O professor e a criança brincam com um barco de papel. O professor usa uma palavra incomum para descrever a navegação. A criança é incentivada a perguntar.",
+    "metadata": {
+      "titulo": "O Barco de Papel",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_341",
+    "conteudo": "Descrição: O professor e a criança fazem uma corrida de carrinhos. O professor usa uma palavra incomum para descrever a corrida. A criança é incentivada a perguntar.",
+    "metadata": {
+      "titulo": "O Carro de Corrida",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_342",
+    "conteudo": "Descrição: O professor e a criança brincam com um avião. O professor usa uma palavra incomum para descrever o voo. A criança é incentivada a perguntar.",
+    "metadata": {
+      "titulo": "O Avião de Brinquedo",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_343",
+    "conteudo": "Descrição: O professor e a criança brincam de jogo da memória. O professor usa uma palavra incomum para descrever uma figura. A criança é incentivada a perguntar.",
+    "metadata": {
+      "titulo": "O Jogo da Memória",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_344",
+    "conteudo": "Descrição: O professor e a criança brincam com um sino. O professor usa uma palavra incomum para descrever o som. A criança é incentivada a perguntar.",
+    "metadata": {
+      "titulo": "O Sino dos Amigos",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_345",
+    "conteudo": "Descrição: O professor e a criança brincam com uma cama de boneca. O professor usa uma palavra incomum para descrever a cama. A criança é incentivada a perguntar.",
+    "metadata": {
+      "titulo": "A Cama de Boneca",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_346",
+    "conteudo": "Descrição: O professor canta uma canção com palavras incomuns sobre animais. A criança é incentivada a perguntar.",
+    "metadata": {
+      "titulo": "A Canção dos Animais",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_347",
+    "conteudo": "Descrição: O professor tem uma boneca com uma expressão sorridente. O professor usa uma palavra incomum para descrever o sorriso. A criança é incentivada a perguntar.",
+    "metadata": {
+      "titulo": "A Boneca Sorridente",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_348",
+    "conteudo": "Descrição: O professor tem um pato de borracha. O professor usa uma palavra incomum para descrever o pato. A criança é incentivada a perguntar.",
+    "metadata": {
+      "titulo": "O Pato de Borracha",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_349",
+    "conteudo": "Descrição: O professor tem um carrinho que para de repente. O professor usa uma palavra incomum para descrever a parada. A criança é incentivada a perguntar.",
+    "metadata": {
+      "titulo": "O Carro que Parou",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  },
+  {
+    "id": "linguagem_5a6_350",
+    "conteudo": "Descrição: O professor tem uma fruta de brinquedo. O professor usa uma palavra incomum para descrever o sabor. A criança é incentivada a perguntar.",
+    "metadata": {
+      "titulo": "A Fruta Deliciosa",
+      "dimensao": "Linguagem",
+      "habilidade": "Pergunta o significado de palavras ou perguntas novas ou desconhecidas para compreender melhor.",
+      "nivel": "Nível 2",
+      "idade": "5 a 6 anos"
+    }
+  }
+]

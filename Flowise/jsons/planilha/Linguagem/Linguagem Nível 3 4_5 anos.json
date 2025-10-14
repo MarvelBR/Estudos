@@ -1,0 +1,4952 @@
+[
+  {
+    "id": "linguagem_4a5_01",
+    "conteudo": "Descrição: Pegue um sapato da criança. Coloque o par dele em um lugar visível e pergunte \"Qual é o par deste sapato?\".",
+    "metadata": {
+      "titulo": "Onde Está o Outro Sapato?",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_02",
+    "conteudo": "Descrição: Coloque várias meias espalhadas. Pegue uma meia e pergunte \"Qual é a meia igual a esta?\".",
+    "metadata": {
+      "titulo": "A Meia Gêmea",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_03",
+    "conteudo": "Descrição: Use um jogo de memória com figuras simples (ex: dois carros, duas bolas). Ajude a criança a virar as cartas para encontrar os pares.",
+    "metadata": {
+      "titulo": "Jogo da Memória com Cartas",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_04",
+    "conteudo": "Descrição: Dê um copo de brinquedo para o ursinho. Entregue um prato de brinquedo para a criança e pergunte \"Qual é o par do copo?\".",
+    "metadata": {
+      "titulo": "Chá para o Urso",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_05",
+    "conteudo": "Descrição: Segure uma escova de dentes. Aponte para a pasta de dentes e pergunte \"Qual é o par da escova?\".",
+    "metadata": {
+      "titulo": "A Escova e a Pasta",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_06",
+    "conteudo": "Descrição: Pegue um pato de borracha. Aponte para a bacia com água e pergunte \"Qual é o par do pato?\".",
+    "metadata": {
+      "titulo": "O Pato e a Água",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_07",
+    "conteudo": "Descrição: Use uma figura de macaco e uma de banana. Aponte para o macaco e pergunte \"Qual é o par do macaco?\".",
+    "metadata": {
+      "titulo": "O Macaco e a Banana",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_08",
+    "conteudo": "Descrição: Dê um bloco vermelho para a criança. Aponte para um bloco vermelho na caixa e diga \"Qual é o par deste bloco?\".",
+    "metadata": {
+      "titulo": "As Cores Gêmeas",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_09",
+    "conteudo": "Descrição: Use um carrinho de brinquedo e uma figura de posto de gasolina. Pergunte \"Qual é o par do carro?\".",
+    "metadata": {
+      "titulo": "O Carro e o Posto",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_10",
+    "conteudo": "Descrição: Use dois animais de brinquedo idênticos. Entregue um para a criança e diga \"Qual é o par deste animal?\".",
+    "metadata": {
+      "titulo": "Animais Gêmeos",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_11",
+    "conteudo": "Descrição: Use um martelo de brinquedo e um prego de brinquedo. Pergunte \"Qual é o par do martelo?\".",
+    "metadata": {
+      "titulo": "O Martelo e o Prego",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_12",
+    "conteudo": "Descrição: Use pão de brinquedo e manteiga de brinquedo. Pergunte \"Qual é o par do pão?\".",
+    "metadata": {
+      "titulo": "O Pão e a Manteiga",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_13",
+    "conteudo": "Descrição: Use um cachorro de brinquedo e um osso de brinquedo. Pergunte \"Qual é o par do cachorro?\".",
+    "metadata": {
+      "titulo": "O Cão e o Osso",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_14",
+    "conteudo": "Descrição: Mostre a figura de uma flor e de uma abelha. Pergunte \"Qual é o par da flor?\".",
+    "metadata": {
+      "titulo": "A Flor e a Abelha",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_15",
+    "conteudo": "Descrição: Dê um pote para a criança. Aponte para a tampa do pote e pergunte \"Qual é o par do pote?\".",
+    "metadata": {
+      "titulo": "O Pote e a Tampa",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_16",
+    "conteudo": "Descrição: Dê um lápis de cor. Aponte para o apontador e pergunte \"Qual é o par do lápis?\".",
+    "metadata": {
+      "titulo": "O Lápis e o Apontador",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_17",
+    "conteudo": "Descrição: Use figuras de uma mãe animal e seu filhote. Pergunte \"Qual é o par da mamãe?\".",
+    "metadata": {
+      "titulo": "A Mamãe e o Bebê",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_18",
+    "conteudo": "Descrição: Dê uma boneca para a criança. Aponte para o carrinho de boneca e pergunte \"Qual é o par da boneca?\".",
+    "metadata": {
+      "titulo": "A Boneca e o Carrinho",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_19",
+    "conteudo": "Descrição: Use um telefone de brinquedo. Aponte para o fone do telefone e pergunte \"Qual é o par do telefone?\".",
+    "metadata": {
+      "titulo": "O Telefone e o Fone",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_20",
+    "conteudo": "Descrição: Mostre a figura de um balão e o vento. Pergunte \"Qual é o par do balão?\".",
+    "metadata": {
+      "titulo": "O Balão e o Vento",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_21",
+    "conteudo": "Descrição: Dê um prato de brinquedo para a criança. Aponte para a comida de brinquedo e pergunte \"Qual é o par do prato?\".",
+    "metadata": {
+      "titulo": "O Prato e a Comida",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_22",
+    "conteudo": "Descrição: Dê uma peça de quebra-cabeça. Aponte para o local onde a peça se encaixa e pergunte \"Qual é o par desta peça?\".",
+    "metadata": {
+      "titulo": "O Quebra-Cabeça",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_23",
+    "conteudo": "Descrição: Dê um copo de brinquedo para a criança. Aponte para o canudo de brinquedo e pergunte \"Qual é o par do copo?\".",
+    "metadata": {
+      "titulo": "O Copo e o Canudo",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_24",
+    "conteudo": "Descrição: Pegue um carrinho de brinquedo. Aponte para a garagem e pergunte \"Qual é o par do carro?\".",
+    "metadata": {
+      "titulo": "O Carro e a Garagem",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_25",
+    "conteudo": "Descrição: Use um tênis de brinquedo. Aponte para o cadarço e pergunte \"Qual é o par do tênis?\".",
+    "metadata": {
+      "titulo": "O Tênis e o Cadarço",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_26",
+    "conteudo": "Descrição: Dê um tambor de brinquedo para a criança. Aponte para a baqueta e pergunte \"Qual é o par do tambor?\".",
+    "metadata": {
+      "titulo": "O Tambor e a Baqueta",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_27",
+    "conteudo": "Descrição: Use uma tesoura de segurança infantil. Aponte para um pedaço de papel e pergunte \"Qual é o par da tesoura?\".",
+    "metadata": {
+      "titulo": "A Tesoura e o Papel",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_28",
+    "conteudo": "Descrição: Use um bolo de brinquedo. Aponte para a vela e pergunte \"Qual é o par do bolo?\".",
+    "metadata": {
+      "titulo": "O Bolo e a Vela",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_29",
+    "conteudo": "Descrição: Dê um travesseiro de brinquedo para a criança. Aponte para o cobertor e pergunte \"Qual é o par do travesseiro?\".",
+    "metadata": {
+      "titulo": "O Travesseiro e o Cobertor",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_30",
+    "conteudo": "Descrição: Use uma xícara de brinquedo. Aponte para o bule e pergunte \"Qual é o par da xícara?\".",
+    "metadata": {
+      "titulo": "A Xícara e o Bule",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_31",
+    "conteudo": "Descrição: Use um trenzinho de brinquedo. Aponte para a linha do trem e pergunte \"Qual é o par do trem?\".",
+    "metadata": {
+      "titulo": "O Trem e a Linha",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_32",
+    "conteudo": "Descrição: Mostre a figura da lua e da estrela. Pergunte \"Qual é o par da lua?\".",
+    "metadata": {
+      "titulo": "A Lua e a Estrela",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_33",
+    "conteudo": "Descrição: Use uma figura de pato e uma de vaca. Pergunte \"Qual é o par do pato?\".",
+    "metadata": {
+      "titulo": "O Pato e a Vaca",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_34",
+    "conteudo": "Descrição: Use a figura de um leão e uma leoa. Pergunte \"Qual é o par do leão?\".",
+    "metadata": {
+      "titulo": "O Leão e a Leoa",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_35",
+    "conteudo": "Descrição: Dê um cesto para a criança. Aponte para a tampa do cesto e pergunte \"Qual é o par do cesto?\".",
+    "metadata": {
+      "titulo": "O Cesto e a Tampa",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_36",
+    "conteudo": "Descrição: Use um pincel de brinquedo. Aponte para a tinta e pergunte \"Qual é o par do pincel?\".",
+    "metadata": {
+      "titulo": "O Pincel e a Tinta",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_37",
+    "conteudo": "Descrição: Use um pote para guardar lápis. Pegue o pote e pergunte \"Qual é o par do pote?\".",
+    "metadata": {
+      "titulo": "O Pote e o Lápis",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_38",
+    "conteudo": "Descrição: Use uma figura de guarda-chuva e de chuva. Pergunte \"Qual é o par do guarda-chuva?\".",
+    "metadata": {
+      "titulo": "O Guarda-chuva e a Chuva",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_39",
+    "conteudo": "Descrição: Use um pote de geleia de brinquedo. Aponte para a colher e pergunte \"Qual é o par do pote?\".",
+    "metadata": {
+      "titulo": "O Pote de Geleia e a Colher",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_40",
+    "conteudo": "Descrição: Use uma varinha mágica de brinquedo e uma bolinha. Pergunte \"Qual é o par da varinha?\".",
+    "metadata": {
+      "titulo": "A Varinha e a Bolinha",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_41",
+    "conteudo": "Descrição: Use um balde de brinquedo. Aponte para a pá e pergunte \"Qual é o par do balde?\".",
+    "metadata": {
+      "titulo": "O Balde e a Pá",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_42",
+    "conteudo": "Descrição: Use uma flor de brinquedo. Aponte para o vaso e pergunte \"Qual é o par da flor?\".",
+    "metadata": {
+      "titulo": "A Flor e o Vaso",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_43",
+    "conteudo": "Descrição: Use uma caneta e um caderno. Pergunte \"Qual é o par da caneta?\".",
+    "metadata": {
+      "titulo": "A Caneta e o Caderno",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_44",
+    "conteudo": "Descrição: Use a figura de uma maçã e uma árvore. Pergunte \"Qual é o par da maçã?\".",
+    "metadata": {
+      "titulo": "A Maçã e a Árvore",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_45",
+    "conteudo": "Descrição: Use a figura de um gato e um rato. Pergunte \"Qual é o par do gato?\".",
+    "metadata": {
+      "titulo": "O Gato e o Rato",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_46",
+    "conteudo": "Descrição: Use a figura de um coelho e uma cenoura. Pergunte \"Qual é o par do coelho?\".",
+    "metadata": {
+      "titulo": "O Coelho e a Cenoura",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_47",
+    "conteudo": "Descrição: Use a figura de um pinguim e um bloco de gelo de brinquedo. Pergunte \"Qual é o par do pinguim?\".",
+    "metadata": {
+      "titulo": "O Pinguim e o Gelo",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_48",
+    "conteudo": "Descrição: Use um espelho de brinquedo. Aponte para o rosto da criança e pergunte \"Qual é o par do espelho?\".",
+    "metadata": {
+      "titulo": "O Espelho e o Rosto",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_49",
+    "conteudo": "Descrição: Use um telefone de brinquedo. Aponte para a tomada de brinquedo e pergunte \"Qual é o par do telefone?\".",
+    "metadata": {
+      "titulo": "O Telefone e a Tomada",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_50",
+    "conteudo": "Descrição: Use um cesto de roupas de brinquedo. Aponte para a roupa e pergunte \"Qual é o par do cesto?\".",
+    "metadata": {
+      "titulo": "O Cesto de Roupas e a Roupa",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_51",
+    "conteudo": "Descrição: Mostre um brinquedo e diga \"O que vamos fazer?\". Modele a resposta: \"Vamos brincar!\".",
+    "metadata": {
+      "titulo": "O Que Vamos Fazer?",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_52",
+    "conteudo": "Descrição: Aponte para a mesa e para os lanches. Diga \"Nós vamos comer!\".",
+    "metadata": {
+      "titulo": "A Hora do Lanche",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_53",
+    "conteudo": "Descrição: Fale sobre o que farão amanhã na escola. \"Amanhã nós vamos desenhar!\".",
+    "metadata": {
+      "titulo": "A História do Amanhã",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_54",
+    "conteudo": "Descrição: Pegue um carrinho e diga \"O carro vai correr!\". Empurre o carrinho e incentive a criança a dizer a frase.",
+    "metadata": {
+      "titulo": "O Carro Vai Correr",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_55",
+    "conteudo": "Descrição: Pegue uma bola. Diga \"A bola vai pular!\". Jogue-a no chão e incentive a criança a dizer a frase.",
+    "metadata": {
+      "titulo": "A Bola Vai Pular",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_56",
+    "conteudo": "Descrição: Coloque uma boneca na cama de brinquedo. Diga \"A boneca vai dormir!\".",
+    "metadata": {
+      "titulo": "A Boneca Vai Dormir",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_57",
+    "conteudo": "Descrição: Brinque com um trenzinho e diga \"O trem vai chegar na estação!\".",
+    "metadata": {
+      "titulo": "O Trem Vai Chegar",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_58",
+    "conteudo": "Descrição: Aponte para a figura de uma vaca. Diga \"A vaca vai comer a grama!\".",
+    "metadata": {
+      "titulo": "A Vaca Vai Comer",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_59",
+    "conteudo": "Descrição: Use um coelho de brinquedo. Diga \"O coelho vai pular!\". Incentive a criança a pular.",
+    "metadata": {
+      "titulo": "O Coelho Vai Pular",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_60",
+    "conteudo": "Descrição: Aponte para a porta e diga \"Nós vamos para a rua!\".",
+    "metadata": {
+      "titulo": "A Hora de Sair",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_61",
+    "conteudo": "Descrição: Aponte para o banheiro e diga \"Nós vamos tomar banho de bolhas!\".",
+    "metadata": {
+      "titulo": "O Banho de Bolhas",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_62",
+    "conteudo": "Descrição: Monte um piquenique de brinquedo e diga \"Nós vamos comer no piquenique!\".",
+    "metadata": {
+      "titulo": "O Piquenique de Brinquedo",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_63",
+    "conteudo": "Descrição: Pegue um instrumento de brinquedo. Diga \"A música vai tocar!\".",
+    "metadata": {
+      "titulo": "A Música Vai Tocar",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_64",
+    "conteudo": "Descrição: Pegue um livro. Diga \"O livro vai abrir!\".",
+    "metadata": {
+      "titulo": "O Livro Vai Abrir",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_65",
+    "conteudo": "Descrição: Aponte para a parede e diga \"Nós vamos desenhar na parede!\".",
+    "metadata": {
+      "titulo": "O Desenho na Parede",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_66",
+    "conteudo": "Descrição: Pegue um jogo de tabuleiro simples. Diga \"O jogo vai começar!\".",
+    "metadata": {
+      "titulo": "O Jogo Vai Começar",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_67",
+    "conteudo": "Descrição: Aponte para o balanço. Diga \"O balanço vai e volta!\".",
+    "metadata": {
+      "titulo": "O Balanço Vai e Volta",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_68",
+    "conteudo": "Descrição: Aponte para o interruptor. Diga \"A luz vai acender!\".",
+    "metadata": {
+      "titulo": "A Luz Vai Acender",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_69",
+    "conteudo": "Descrição: Aponte para a porta. Diga \"A porta vai abrir!\".",
+    "metadata": {
+      "titulo": "A Porta Vai Abrir",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_70",
+    "conteudo": "Descrição: Pegue um pato de borracha. Diga \"O pato vai nadar!\".",
+    "metadata": {
+      "titulo": "O Pato Vai Nadar",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_71",
+    "conteudo": "Descrição: Aponte para um gato de pelúcia. Diga \"O gato vai dormir!\".",
+    "metadata": {
+      "titulo": "O Gato Vai Dormir",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_72",
+    "conteudo": "Descrição: Dê um biscoito para a criança. Diga \"O biscoito vai sumir na sua boca!\".",
+    "metadata": {
+      "titulo": "O Biscoito Vai Sumir",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_73",
+    "conteudo": "Descrição: Pegue um chocalho. Diga \"O chocalho vai fazer barulho!\".",
+    "metadata": {
+      "titulo": "O Chocalho Vai Fazer Barulho",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_74",
+    "conteudo": "Descrição: Pegue um pote. Diga \"O pote vai fechar!\".",
+    "metadata": {
+      "titulo": "O Pote Vai Fechar",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_75",
+    "conteudo": "Descrição: Pegue um livro. Diga \"O livro vai fechar!\".",
+    "metadata": {
+      "titulo": "O Livro Vai Fechar",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_76",
+    "conteudo": "Descrição: Aponte para a torneira. Diga \"A água vai cair!\".",
+    "metadata": {
+      "titulo": "A Água Vai Cair",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_77",
+    "conteudo": "Descrição: Cante o início de uma canção. Diga \"A canção vai começar!\".",
+    "metadata": {
+      "titulo": "A Canção Vai Começar",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_78",
+    "conteudo": "Descrição: Pegue o sabonete. Diga \"O sabão vai fazer espuma!\".",
+    "metadata": {
+      "titulo": "O Sabão Vai Fazer Espuma",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_79",
+    "conteudo": "Descrição: Pegue um pente. Diga \"O pente vai pentear o cabelo!\".",
+    "metadata": {
+      "titulo": "O Pente Vai Pentear",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_80",
+    "conteudo": "Descrição: Pegue uma vassoura de brinquedo. Diga \"A vassoura vai varrer!\".",
+    "metadata": {
+      "titulo": "A Vassoura Vai Varrer",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_81",
+    "conteudo": "Descrição: Aponte para a porta. Diga \"O papai vai chegar!\".",
+    "metadata": {
+      "titulo": "O Papai Vai Chegar",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_82",
+    "conteudo": "Descrição: Use um telefone de brinquedo. Diga \"A mamãe vai ligar!\".",
+    "metadata": {
+      "titulo": "A Mamãe Vai Ligar",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_83",
+    "conteudo": "Descrição: Aponte para o relógio. Diga \"A brincadeira vai acabar!\".",
+    "metadata": {
+      "titulo": "A Brincadeira Vai Acabar",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_84",
+    "conteudo": "Descrição: Pegue um avião de brinquedo. Diga \"O avião vai voar!\".",
+    "metadata": {
+      "titulo": "O Avião Vai Voar",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_85",
+    "conteudo": "Descrição: Aponte para a cadeira. Diga \"A cadeira vai levantar!\".",
+    "metadata": {
+      "titulo": "A Cadeira Vai Levantar",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_86",
+    "conteudo": "Descrição: Pegue a bola. Diga \"A bola vai rolar!\".",
+    "metadata": {
+      "titulo": "A Bola Vai Rolar",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_87",
+    "conteudo": "Descrição: Pegue a massinha. Diga \"A massinha vai amassar!\".",
+    "metadata": {
+      "titulo": "A Massinha Vai Amassar",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_88",
+    "conteudo": "Descrição: Pegue um papel amassado. Diga \"O lixo vai ser jogado!\".",
+    "metadata": {
+      "titulo": "O Lixo Vai Ser Jogad",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_89",
+    "conteudo": "Descrição: Pegue o ursinho. Diga \"O urso vai te abraçar!\".",
+    "metadata": {
+      "titulo": "O Urso Vai Abraçar",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_90",
+    "conteudo": "Descrição: Aponte para o chuveiro. Diga \"O chuveiro vai ligar!\".",
+    "metadata": {
+      "titulo": "O Chuveiro Vai Ligar",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_91",
+    "conteudo": "Descrição: Finja que a panela está no fogo. Diga \"A sopa vai esquentar!\".",
+    "metadata": {
+      "titulo": "A Sopa Vai Esquentar",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_92",
+    "conteudo": "Descrição: Pegue a lancheira. Diga \"A lancheira vai abrir!\".",
+    "metadata": {
+      "titulo": "A Lancheira Vai Abrir",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_93",
+    "conteudo": "Descrição: Aponte para a cadeira. Diga \"A criança vai sentar!\".",
+    "metadata": {
+      "titulo": "A Criança Vai Sentar",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_94",
+    "conteudo": "Descrição: Pegue as peças. Diga \"As peças vão encaixar!\".",
+    "metadata": {
+      "titulo": "O Quebra-Cabeça Vai Encaixar",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_95",
+    "conteudo": "Descrição: Encha um balão. Diga \"O balão vai estourar!\".",
+    "metadata": {
+      "titulo": "O Balão Vai Estourar",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_96",
+    "conteudo": "Descrição: Pegue uma caneca. Diga \"A caneca vai ter chá!\".",
+    "metadata": {
+      "titulo": "A Caneca Vai Ter Chá",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_97",
+    "conteudo": "Descrição: Pegue um martelo de brinquedo. Diga \"O martelo vai bater!\".",
+    "metadata": {
+      "titulo": "O Martelo Vai Bater",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_98",
+    "conteudo": "Descrição: Pegue o pente. Diga \"O pente vai arrumar o cabelo!\".",
+    "metadata": {
+      "titulo": "O Pente Vai Arrumar",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_99",
+    "conteudo": "Descrição: Pegue o sapato. Diga \"O sapato vai pro pé!\".",
+    "metadata": {
+      "titulo": "O Sapato Vai Pro Pé",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_100",
+    "conteudo": "Descrição: Pegue um coelho de brinquedo. Diga \"O coelho vai correr!\".",
+    "metadata": {
+      "titulo": "O Coelho Vai Correr",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_101",
+    "conteudo": "Descrição: Após terminarem uma atividade, pergunte \"O que fizemos agora?\". Modele a resposta: \"Brincamos!\".",
+    "metadata": {
+      "titulo": "O Jogo que Acabou",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_102",
+    "conteudo": "Descrição: Mostre o prato vazio após a refeição. Pergunte \"O que você comeu?\". Modele a resposta: \"Comi pão!\".",
+    "metadata": {
+      "titulo": "O Lanche que Já Foi",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_103",
+    "conteudo": "Descrição: Mostre uma foto do dia anterior (ex: no parquinho). Pergunte \"O que você fez aqui?\". Modele a resposta: \"Eu fui ao parque!\".",
+    "metadata": {
+      "titulo": "A História da Foto",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_104",
+    "conteudo": "Descrição: Após a chuva parar, aponte para a janela e diga \"A chuva parou!\". Incentive a criança a observar e repetir.",
+    "metadata": {
+      "titulo": "A Chuva que Passou",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_105",
+    "conteudo": "Descrição: Empurre um carrinho e depois o pare. Pergunte \"O que o carro fez?\". Modele a resposta: \"O carro andou!\".",
+    "metadata": {
+      "titulo": "O Carro que Andou",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_106",
+    "conteudo": "Descrição: Jogue uma bola e pegue-a. Pergunte \"O que a bola fez?\". Modele a resposta: \"A bola pulou!\".",
+    "metadata": {
+      "titulo": "A Bola que Pulou",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_107",
+    "conteudo": "Descrição: Brinque com um pato de borracha na água. Tire-o da água e diga \"O pato nadou!\".",
+    "metadata": {
+      "titulo": "O Pato que Nadou",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_108",
+    "conteudo": "Descrição: Pare o balanço do parquinho. Pergunte \"O que o balanço fez?\". Modele a resposta: \"O balanço parou!\".",
+    "metadata": {
+      "titulo": "O Balanço que Parou",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_109",
+    "conteudo": "Descrição: Após cantarem uma música, pergunte \"O que cantamos?\". Modele a resposta: \"Cantamos 'Borboletinha'!\".",
+    "metadata": {
+      "titulo": "A Canção que Cantamos",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_110",
+    "conteudo": "Descrição: Acenda e apague a luz. Pergunte \"O que a luz fez?\". Modele a resposta: \"A luz acendeu!\".",
+    "metadata": {
+      "titulo": "A Luz que Acendeu",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_111",
+    "conteudo": "Descrição: Feche a porta. Pergunte \"O que a porta fez?\". Modele a resposta: \"A porta fechou!\".",
+    "metadata": {
+      "titulo": "A Porta que Fechou",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_112",
+    "conteudo": "Descrição: Após o banho, aponte para a banheira e diga \"Nós tomamos banho!\".",
+    "metadata": {
+      "titulo": "O Banho que Tomamos",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_113",
+    "conteudo": "Descrição: Coloque um ursinho para \"dormir\" e depois \"acorde-o\". Pergunte \"O que o ursinho fez?\". Modele a resposta: \"O ursinho dormiu!\".",
+    "metadata": {
+      "titulo": "O Ursinho que Dormiu",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_114",
+    "conteudo": "Descrição: Após lerem um livro, feche-o e diga \"Nós lemos o livro!\".",
+    "metadata": {
+      "titulo": "O Livro que Lemos",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_115",
+    "conteudo": "Descrição: Aponte para a cadeira onde a criança estava sentada e diga \"Nós sentamos na cadeira!\".",
+    "metadata": {
+      "titulo": "A Cadeira que Sentamos",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_116",
+    "conteudo": "Descrição: Após terminarem um jogo de encaixe, aponte para as peças e diga \"Nós encaixamos as peças!\".",
+    "metadata": {
+      "titulo": "O Jogo que Acabou",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_117",
+    "conteudo": "Descrição: Aponte para a roupa que a criança está vestindo e diga \"Nós vestimos a roupa!\".",
+    "metadata": {
+      "titulo": "A Roupa que Vestimos",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_118",
+    "conteudo": "Descrição: Após a brincadeira, aponte para a massinha e diga \"Nós amassamos a massinha!\".",
+    "metadata": {
+      "titulo": "A Massinha que Amassamos",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_119",
+    "conteudo": "Descrição: Diga \"Primeiro nós brincamos, depois nós comemos!\". Incentive a criança a dizer a sequência.",
+    "metadata": {
+      "titulo": "O Jogo do 'Primeiro e Depois'",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_120",
+    "conteudo": "Descrição: Mostre uma foto recente do vovô. Pergunte \"O vovô veio aqui?\". Modele a resposta: \"Sim, o vovô veio!\".",
+    "metadata": {
+      "titulo": "A Visita do Vovô",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_121",
+    "conteudo": "Descrição: Mostre um desenho da criança e diga \"Você desenhou o sol!\".",
+    "metadata": {
+      "titulo": "O Lápis que Desenhou",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_122",
+    "conteudo": "Descrição: Peça para a criança bater palma e depois aponte para as mãos dela e diga \"Você bateu palma!\".",
+    "metadata": {
+      "titulo": "A Mão que Bateu Palma",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_123",
+    "conteudo": "Descrição: Diga \"O seu pé andou muito hoje!\".",
+    "metadata": {
+      "titulo": "O Pé que Andou",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_124",
+    "conteudo": "Descrição: Pergunte \"O que aconteceu com o balão que voou?\".",
+    "metadata": {
+      "titulo": "A História do que Aconteceu",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_125",
+    "conteudo": "Descrição: Use um telefone de brinquedo. Finja que ele tocou e diga \"O telefone tocou!\".",
+    "metadata": {
+      "titulo": "O Telefone que Tocou",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_126",
+    "conteudo": "Descrição: Aponte para uma figura de gato e diga \"O gato miou!\".",
+    "metadata": {
+      "titulo": "O Gato que Miou",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_127",
+    "conteudo": "Descrição: Quebre um biscoito de brinquedo. Pergunte \"O que aconteceu com o biscoito?\". Modele a resposta: \"O biscoito quebrou!\".",
+    "metadata": {
+      "titulo": "O Biscoito que Quebrou",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_128",
+    "conteudo": "Descrição: Esconda um brinquedo e o encontre. Diga \"O brinquedo estava escondido!\".",
+    "metadata": {
+      "titulo": "A Brincadeira de Esconde",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_129",
+    "conteudo": "Descrição: Use brinquedos para recriar algo que aconteceu no dia. \"O carro caiu da rampa!\".",
+    "metadata": {
+      "titulo": "O Jogo de Recriar",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_130",
+    "conteudo": "Descrição: Parta um pão de brinquedo. Diga \"Nós partimos o pão!\".",
+    "metadata": {
+      "titulo": "O Pão que Partimos",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_131",
+    "conteudo": "Descrição: Faça sombras na parede. Apague a luz e diga \"Nós fizemos sombras!\".",
+    "metadata": {
+      "titulo": "O Jogo de Sombra",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_132",
+    "conteudo": "Descrição: Aponte para uma folha molhada e diga \"A chuva molhou a folha!\".",
+    "metadata": {
+      "titulo": "A Chuva que Molhou",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_133",
+    "conteudo": "Descrição: Aponte para um balde cheio de água e diga \"Nós encheu o balde!\".",
+    "metadata": {
+      "titulo": "O Balde que Enchemos",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_134",
+    "conteudo": "Descrição: Aponte para a lixeira. Diga \"Nós jogamos o lixo no lixo!\".",
+    "metadata": {
+      "titulo": "O Lixo que Jogamos",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_135",
+    "conteudo": "Descrição: Dê um abraço no ursinho de pelúcia e diga \"Eu te abraçei!\".",
+    "metadata": {
+      "titulo": "O Urso que Abraçamos",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_136",
+    "conteudo": "Descrição: Aponte para o pijama da boneca e diga \"Nós vestimos o pijama!\".",
+    "metadata": {
+      "titulo": "O Pijama que Vestimos",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_137",
+    "conteudo": "Descrição: Aponte para o sapato da criança. \"Nós colocamos o sapato!\".",
+    "metadata": {
+      "titulo": "O Sapato que Colocamos",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_138",
+    "conteudo": "Descrição: Crie uma canção sobre o que aconteceu no dia. \"Eu fui ao parque, e depois fui comer!\".",
+    "metadata": {
+      "titulo": "A Canção do que Fui",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_139",
+    "conteudo": "Descrição: \"Você fez um desenho lindo!\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Você fez'",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_140",
+    "conteudo": "Descrição: Estoure um balão. Diga \"O balão estourou!\".",
+    "metadata": {
+      "titulo": "O Balão que Estourou",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_141",
+    "conteudo": "Descrição: Lave um pato de borracha e diga \"Nós lavamos o pato!\".",
+    "metadata": {
+      "titulo": "O Pato que Lavamos",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_142",
+    "conteudo": "Descrição: Pegue um pente e diga \"Nós usamos o pente!\".",
+    "metadata": {
+      "titulo": "O Pente que Usamos",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_143",
+    "conteudo": "Descrição: Use uma vassoura de brinquedo. Diga \"A vassoura varreu!\".",
+    "metadata": {
+      "titulo": "A Vassoura que Varreu",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_144",
+    "conteudo": "Descrição: Pegue a toalha e diga \"Nós nos secamos!\".",
+    "metadata": {
+      "titulo": "A Toalha que Secamos",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_145",
+    "conteudo": "Descrição: Ria com a criança e diga \"Nós demos risada!\".",
+    "metadata": {
+      "titulo": "O Riso que Demos",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_146",
+    "conteudo": "Descrição: Deixe um carro descer a rampa e o segure. Diga \"O carro desceu!\".",
+    "metadata": {
+      "titulo": "O Jogo da Rampa",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_147",
+    "conteudo": "Descrição: Use um gato de brinquedo. Diga \"O gato correu!\".",
+    "metadata": {
+      "titulo": "O Gato que Correu",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_148",
+    "conteudo": "Descrição: Use um sapo de brinquedo. Diga \"O sapo pulou!\".",
+    "metadata": {
+      "titulo": "O Sapo que Pulo",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_149",
+    "conteudo": "Descrição: Esconda um brinquedo e o encontre. Diga \"O brinquedo sumiu!\".",
+    "metadata": {
+      "titulo": "O Brinquedo que Sumiu",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_150",
+    "conteudo": "Descrição: Aponte para o balanço. Diga \"O balanço subiu!\".",
+    "metadata": {
+      "titulo": "O Balanço que Subiu",
+      "dimensao": "Linguagem",
+      "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_151",
+    "conteudo": "Descrição: Dê um biscoito e uma maçã de brinquedo para um ursinho. Diga \"O ursinho comeu biscoito e maçã\".",
+    "metadata": {
+      "titulo": "O Lanche do Urso",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_152",
+    "conteudo": "Descrição: Pegue um carrinho e uma bola. Diga \"Eu peguei o carro e a bola\". Incentive a criança a imitar a frase.",
+    "metadata": {
+      "titulo": "O Carro e a Bola",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_153",
+    "conteudo": "Descrição: Pegue um brinquedo. Diga \"O carro é rápido, mas a bola é redonda\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Mas'",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_154",
+    "conteudo": "Descrição: Mostre um copo com suco e um com água. Pergunte \"Você quer suco ou água?\".",
+    "metadata": {
+      "titulo": "Você Quer Suco ou Água?",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_155",
+    "conteudo": "Descrição: Aponte para a mãe e o pai da criança. Diga \"A mamãe está aqui e o papai também!\".",
+    "metadata": {
+      "titulo": "A Mamãe e o Papai",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_156",
+    "conteudo": "Descrição: Use um gato de pelúcia. Finja que ele dormiu, e depois o acorde. Diga \"O gato dormiu, mas agora acordou!\".",
+    "metadata": {
+      "titulo": "O Gato Dormiu, mas Acordou",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_157",
+    "conteudo": "Descrição: Use um pato de borracha na água e um coelho de brinquedo. Diga \"O pato nada e o coelho pula\".",
+    "metadata": {
+      "titulo": "O Pato Nada e o Coelho Pula",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_158",
+    "conteudo": "Descrição: Ofereça um alimento que a criança não goste muito. Diga \"Eu comi, mas não gostei\".",
+    "metadata": {
+      "titulo": "Comi, mas não Gostei",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_159",
+    "conteudo": "Descrição: Use um carro e uma moto de brinquedo. Diga \"O carro é grande e a moto é pequena\".",
+    "metadata": {
+      "titulo": "O Carro é Grande e a Moto é Pequena",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_160",
+    "conteudo": "Descrição: Pegue uma camiseta e uma calça. Diga \"Nós vamos usar a camiseta e a calça\".",
+    "metadata": {
+      "titulo": "A Roupa do Dia",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_161",
+    "conteudo": "Descrição: Mostre uma cenoura e uma alface de brinquedo. Pergunte \"O coelho come cenoura ou alface?\".",
+    "metadata": {
+      "titulo": "O Coelho Come Cenoura ou Alface?",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_162",
+    "conteudo": "Descrição: Aponte para a janela. Diga \"O sol brilha, mas o vento sopra\".",
+    "metadata": {
+      "titulo": "O Sol Brilha, mas o Vento Sopra",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_163",
+    "conteudo": "Descrição: Ofereça um doce e um salgado de brinquedo. Diga \"Eu gosto de doce, mas não de salgado\".",
+    "metadata": {
+      "titulo": "Eu Gosto de Doce, mas não Gosto de Salgado",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_164",
+    "conteudo": "Descrição: Diga \"É um animal, e tem quatro patas\". Espere a criança adivinhar o cachorro.",
+    "metadata": {
+      "titulo": "O Jogo da Adivinhação",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_165",
+    "conteudo": "Descrição: Mostre duas bolas de cores diferentes. Pergunte \"Você quer a amarela ou a azul?\".",
+    "metadata": {
+      "titulo": "Você Quer a Bola Amarela ou a Bola Azul?",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_166",
+    "conteudo": "Descrição: Diga \"Eu peguei o carro...\". Espere a criança pegar algo. Complete a frase: \"...e você pegou a bola\".",
+    "metadata": {
+      "titulo": "O Jogo do 'E'",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_167",
+    "conteudo": "Descrição: Diga \"O lápis desenha, e o papel fica colorido\".",
+    "metadata": {
+      "titulo": "A História do Lápis e do Papel",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_168",
+    "conteudo": "Descrição: Cante uma música como \"O pato nada e o coelho pula\".",
+    "metadata": {
+      "titulo": "A Canção do 'E'",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_169",
+    "conteudo": "Descrição: Diga \"Vamos ao parquinho ou vamos ler um livro?\".",
+    "metadata": {
+      "titulo": "A Brincadeira do 'Ou'",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_170",
+    "conteudo": "Descrição: Balance a criança. Diga \"O balanço sobe, mas ele também desce!\".",
+    "metadata": {
+      "titulo": "O Balanço Sobe, mas Desce",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_171",
+    "conteudo": "Descrição: Mostre um pote cheio e uma caixa vazia. Diga \"O pote está cheio, e a caixa está vazia\".",
+    "metadata": {
+      "titulo": "O Pote Cheio e a Caixa Vazia",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_172",
+    "conteudo": "Descrição: Use pão e sopa de brinquedo. Diga \"O pão é gostoso, mas a sopa é quente\".",
+    "metadata": {
+      "titulo": "O Pão é Gostoso, mas a Sopa é Quente",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_173",
+    "conteudo": "Descrição: Diga \"Vamos montar a peça azul, e a peça amarela\".",
+    "metadata": {
+      "titulo": "O Quebra-Cabeça",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_174",
+    "conteudo": "Descrição: Diga \"Este cubo é grande, mas aquele é pequeno\".",
+    "metadata": {
+      "titulo": "O Jogo dos Cubos",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_175",
+    "conteudo": "Descrição: Use brinquedos de cachorro e gato. Diga \"O cãozinho late, e a gatinha mia\".",
+    "metadata": {
+      "titulo": "O Cãozinho Late e a Gatinha Mia",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_176",
+    "conteudo": "Descrição: Aponte para o livro. Diga \"Este livro tem fotos e desenhos\".",
+    "metadata": {
+      "titulo": "O Livro Tem Fotos e Desenhos",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_177",
+    "conteudo": "Descrição: Diga \"Vamos guardar os brinquedos e depois tomar banho\".",
+    "metadata": {
+      "titulo": "A Hora de Guardar",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_178",
+    "conteudo": "Descrição: Diga \"Você quer desenhar ou pintar?\".",
+    "metadata": {
+      "titulo": "Você Quer Desenhar ou Pintar?",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_179",
+    "conteudo": "Descrição: Pegue um ursinho grande. Diga \"Este ursinho é grande, mas é levinho\".",
+    "metadata": {
+      "titulo": "O Ursinho é Grande, mas é Leve",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_180",
+    "conteudo": "Descrição: Use o trem e o carro de brinquedo. Diga \"O trem é lento, mas o carro é rápido\".",
+    "metadata": {
+      "titulo": "O Trem é Lento, mas o Carro é Rápido",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_181",
+    "conteudo": "Descrição: Encha um balão, solte-o e o pegue quando ele cair. Diga \"O balão subiu, mas depois caiu\".",
+    "metadata": {
+      "titulo": "O Balão Subiu, mas Depois Caiu",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_182",
+    "conteudo": "Descrição: Aponte para a janela. Diga \"A chuva molhou, mas o sol secou\".",
+    "metadata": {
+      "titulo": "A Chuva Molhou, mas o Sol Secou",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_183",
+    "conteudo": "Descrição: Use a vassoura e a pá de brinquedo. Diga \"A vassoura varre, e a pá recolhe\".",
+    "metadata": {
+      "titulo": "A Vassoura Varre, mas a Pá Recolhe",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_184",
+    "conteudo": "Descrição: Ofereça algo frio e algo quente (seguro). \"Você gosta de frio ou de quente?\".",
+    "metadata": {
+      "titulo": "Você Gosta de Frio ou de Quente?",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_185",
+    "conteudo": "Descrição: Aponte para o lixo e a comida. Diga \"O lixo é ruim, mas a comida é boa\".",
+    "metadata": {
+      "titulo": "O Lixo é Ruim, mas a Comida é Boa",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_186",
+    "conteudo": "Descrição: Aponte para o sapato preto e a meia branca. Diga \"O sapato é preto, mas a meia é branca\".",
+    "metadata": {
+      "titulo": "O Sapato é Preto, mas a Meia é Branca",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_187",
+    "conteudo": "Descrição: Pegue uma bola e um bloco. Diga \"A bola é redonda, e o bloco é quadrado\".",
+    "metadata": {
+      "titulo": "A Bola é Redonda e o Bloco é Quadrado",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_188",
+    "conteudo": "Descrição: Mostre a figura de um peixe e um pássaro. Diga \"O peixe nada, e o pássaro voa\".",
+    "metadata": {
+      "titulo": "O Peixe Nada e o Pássaro Voa",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_189",
+    "conteudo": "Descrição: Diga \"A mamãe é uma princesa, e o papai é um príncipe\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Faz de Conta'",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_190",
+    "conteudo": "Descrição: Toque no travesseiro e na mesa. Diga \"O travesseiro é macio, mas a mesa é dura\".",
+    "metadata": {
+      "titulo": "O Travesseiro é Macio, mas a Mesa é Dura",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_191",
+    "conteudo": "Descrição: Use biscoito e pão de brinquedo. Diga \"O biscoito é doce, e o pão é salgado\".",
+    "metadata": {
+      "titulo": "O Biscoito é Doce e o Pão é Salgado",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_192",
+    "conteudo": "Descrição: Pergunte \"A janela abre ou fecha?\".",
+    "metadata": {
+      "titulo": "A Janela Abre ou Fecha?",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_193",
+    "conteudo": "Descrição: Diga \"A chave é pequena, mas abre a porta grande\".",
+    "metadata": {
+      "titulo": "A Chave é Pequena, mas Abre a Porta Grande",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_194",
+    "conteudo": "Descrição: Mostre dois patos de borracha de cores diferentes. Pergunte \"Você quer o amarelo ou o azul?\".",
+    "metadata": {
+      "titulo": "Você Quer o Pato Amarelo ou o Pato Azul?",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_195",
+    "conteudo": "Descrição: Use um cachorro e um gato de brinquedo. Diga \"O cachorro late, mas o gato mia\".",
+    "metadata": {
+      "titulo": "O Cachorro Late, mas o Gato Mia",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_196",
+    "conteudo": "Descrição: Use um livro com duas figuras por página. Diga \"Aqui tem um carro e uma casa\".",
+    "metadata": {
+      "titulo": "A História do 'E'",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_197",
+    "conteudo": "Descrição: Pergunte \"Onde está a caneta e o papel?\".",
+    "metadata": {
+      "titulo": "Onde está a Caneta e o Papel?",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_198",
+    "conteudo": "Descrição: Diga \"Eu virei a carta do carro e a da bola\".",
+    "metadata": {
+      "titulo": "O Jogo da Memória",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_199",
+    "conteudo": "Descrição: Diga \"O saco tem brinquedos, mas não tem comida\".",
+    "metadata": {
+      "titulo": "O Saco Tem Brinquedos, mas não Tem Comida",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_200",
+    "conteudo": "Descrição: Use um telefone de brinquedo. Diga \"O telefone tocou, mas a mamãe não atendeu\".",
+    "metadata": {
+      "titulo": "O Telefone Tocou, mas a Mamãe não Atendeu",
+      "dimensao": "Linguagem",
+      "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_201",
+    "conteudo": "Descrição: Mostre uma figura de um peixe voando no céu. Pergunte \"O que tem de errado aqui?\". Incentive a criança a apontar e dizer \"O peixe não voa!\".",
+    "metadata": {
+      "titulo": "O Peixe Voador",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_202",
+    "conteudo": "Descrição: Coloque um sapato na sua cabeça. Pergunte \"Isso está certo?\". Espere a criança apontar e rir, e depois diga \"O sapato vai no pé!\".",
+    "metadata": {
+      "titulo": "O Sapato na Cabeça",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_203",
+    "conteudo": "Descrição: Mostre a figura de uma vaca. Faça o som \"miau\" e pergunte \"A vaca faz miau?\". Incentive a criança a negar com a cabeça.",
+    "metadata": {
+      "titulo": "A Vaca Faz Miau",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_204",
+    "conteudo": "Descrição: Finja comer um brinquedo. Pergunte \"Eu posso comer o brinquedo?\". Modele a resposta: \"Não, o brinquedo não é de comer!\".",
+    "metadata": {
+      "titulo": "Comendo o Brinquedo",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_205",
+    "conteudo": "Descrição: Pegue uma camiseta e finja que está dando banho nela. Pergunte \"Como lavamos a roupa?\". Incentive a criança a apontar para a água.",
+    "metadata": {
+      "titulo": "Banho de Roupa",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_206",
+    "conteudo": "Descrição: Coloque um carrinho de brinquedo na bacia de água e finja que ele está nadando. Pergunte \"O que o carro faz?\".",
+    "metadata": {
+      "titulo": "O Carro na Água",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_207",
+    "conteudo": "Descrição: Pegue um livro e o coloque no pé. Pergunte \"Onde o livro vai?\". Incentive a criança a apontar para a mão.",
+    "metadata": {
+      "titulo": "O Livro no Pé",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_208",
+    "conteudo": "Descrição: Pegue um pente e finja pentear um sapato. Pergunte \"Eu posso pentear o sapato?\".",
+    "metadata": {
+      "titulo": "Penteando o Sapato",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_209",
+    "conteudo": "Descrição: Mostre a figura de um pato e diga \"O pato faz au-au!\". Espere a criança negar e corrigir o som.",
+    "metadata": {
+      "titulo": "O Pato Late",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_210",
+    "conteudo": "Descrição: Use uma figura de gata. Finja que ela está \"comendo\" a mesa. Pergunte \"A gata come a mesa?\".",
+    "metadata": {
+      "titulo": "A Gata Come a Mesa",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_211",
+    "conteudo": "Descrição: Finja colocar a sopa de brinquedo no seu cabelo. Pergunte \"A sopa vai no cabelo?\".",
+    "metadata": {
+      "titulo": "A Sopa no Cabelo",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_212",
+    "conteudo": "Descrição: Pegue um cachorro de brinquedo e o faça voar como um avião. Pergunte \"O que o cachorro está fazendo?\".",
+    "metadata": {
+      "titulo": "O Cachorro Voa",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_213",
+    "conteudo": "Descrição: Coloque um copo no seu nariz. Pergunte \"O que tem de errado?\".",
+    "metadata": {
+      "titulo": "O Copo no Nariz",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_214",
+    "conteudo": "Descrição: Mostre a criança vestida com o pijama e pergunte \"Usamos pijama para ir à escola?\".",
+    "metadata": {
+      "titulo": "O Pijama de Dia",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_215",
+    "conteudo": "Descrição: Mostre uma figura de um bolo voando. Pergunte \"Bolo voa?\".",
+    "metadata": {
+      "titulo": "O Bolo Voador",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_216",
+    "conteudo": "Descrição: Coloque uma cadeira de brinquedo na sua cabeça. Pergunte \"A cadeira vai aqui?\".",
+    "metadata": {
+      "titulo": "A Cadeira na Cabeça",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_217",
+    "conteudo": "Descrição: Use a mão como um pé e coloque o sapato nela. Pergunte \"Onde o sapato vai?\".",
+    "metadata": {
+      "titulo": "O Sapato na Mão",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_218",
+    "conteudo": "Descrição: Cante uma canção sobre o sol que brilha à noite. Pergunte \"O sol brilha à noite?\".",
+    "metadata": {
+      "titulo": "A Canção do 'Sol na Noite'",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_219",
+    "conteudo": "Descrição: Coloque um brinquedo na lixeira. Pergunte \"O brinquedo vai na lixeira?\".",
+    "metadata": {
+      "titulo": "O Jogo de Reciclagem Errado",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_220",
+    "conteudo": "Descrição: Coloque uma vassoura de brinquedo na cama. Pergunte \"A vassoura dorme na cama?\".",
+    "metadata": {
+      "titulo": "A Vassoura na Cama",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_221",
+    "conteudo": "Descrição: Finja que o chuveiro está ligado e diga \"Que frio! O chuveiro faz frio!\".",
+    "metadata": {
+      "titulo": "O Chuveiro Faz Frio",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_222",
+    "conteudo": "Descrição: Coloque um pão de brinquedo dentro do copo. Pergunte \"O pão vai no copo?\".",
+    "metadata": {
+      "titulo": "O Pão no Copo",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_223",
+    "conteudo": "Descrição: Finja que um carro de corrida está andando bem devagar. Pergunte \"O carro de corrida é lento?\".",
+    "metadata": {
+      "titulo": "O Carro Lento",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_224",
+    "conteudo": "Descrição: Jogue um livro de brinquedo na lixeira. Pergunte \"O que tem de errado?\".",
+    "metadata": {
+      "titulo": "O Livro no Lixo",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_225",
+    "conteudo": "Descrição: Coloque um telefone de brinquedo na orelha de um urso de pelúcia. Pergunte \"O urso está falando?\".",
+    "metadata": {
+      "titulo": "O Telefone na Orelha do Urso",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_226",
+    "conteudo": "Descrição: Faça um som de 'quente' com a sopa de brinquedo. Pergunte \"A sopa está fria?\".",
+    "metadata": {
+      "titulo": "A Sopa Fria",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_227",
+    "conteudo": "Descrição: Pegue um bloco quadrado. Diga \"Esta é a minha bola!\". Espere a criança negar.",
+    "metadata": {
+      "titulo": "A Bola Quadrada",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_228",
+    "conteudo": "Descrição: Coloque um peixe de brinquedo no tapete. Pergunte \"Onde o peixe vive?\".",
+    "metadata": {
+      "titulo": "O Peixe no Tapete",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_229",
+    "conteudo": "Descrição: Pegue um pente e finja pentear os dentes. Pergunte \"O que tem de errado?\".",
+    "metadata": {
+      "titulo": "O Pente no Dente",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_230",
+    "conteudo": "Descrição: Coloque um cinto de segurança de brinquedo no seu pescoço. Pergunte \"O cinto vai aqui?\".",
+    "metadata": {
+      "titulo": "O Cinto no Pescoço",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_231",
+    "conteudo": "Descrição: Coloque uma flor de brinquedo no prato de comida. Pergunte \"Podemos comer a flor?\".",
+    "metadata": {
+      "titulo": "A Flor na Comida",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_232",
+    "conteudo": "Descrição: Aponte para uma figura de gato e diga \"Este é um cão!\".",
+    "metadata": {
+      "titulo": "O Gato e o Cão",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_233",
+    "conteudo": "Descrição: Mostre a figura de um trem voando. Pergunte \"O trem voa?\".",
+    "metadata": {
+      "titulo": "O Trem no Ar",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_234",
+    "conteudo": "Descrição: Pegue uma escova de cabelo e finja que está escovando a boca. Pergunte \"O que tem de errado?\".",
+    "metadata": {
+      "titulo": "A Escova de Cabelo na Boca",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_235",
+    "conteudo": "Descrição: Coloque um urso de pelúcia em uma cadeira e finja que ele está lendo um jornal. Pergunte \"O urso lê jornal?\".",
+    "metadata": {
+      "titulo": "O Urso na Cadeira",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_236",
+    "conteudo": "Descrição: Diga uma frase errada, como \"O céu é verde?\". Incentive a criança a dizer \"não\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Não'",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_237",
+    "conteudo": "Descrição: Mova a cozinha de brinquedo para a sala e pergunte \"A cozinha vai na sala?\".",
+    "metadata": {
+      "titulo": "A Cozinha na Sala",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_238",
+    "conteudo": "Descrição: Finja comer o sabão de brinquedo. Pergunte \"Comemos sabão?\".",
+    "metadata": {
+      "titulo": "O Sabão na Boca",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_239",
+    "conteudo": "Descrição: Finja que está bebendo água e jogue no chão. Pergunte \"Podemos jogar água no chão?\".",
+    "metadata": {
+      "titulo": "A Água no Chão",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_240",
+    "conteudo": "Descrição: Mostre a figura de um coelho. Diga \"O coelho nada!\".",
+    "metadata": {
+      "titulo": "O Coelho Nada",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_241",
+    "conteudo": "Descrição: Mostre a figura de um pato. Diga \"O pato anda na terra!\".",
+    "metadata": {
+      "titulo": "O Pato na Terra",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_242",
+    "conteudo": "Descrição: Coloque a bota de um boneco na mão dele. Pergunte \"A bota vai na mão?\".",
+    "metadata": {
+      "titulo": "A Bota na Mão",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_243",
+    "conteudo": "Descrição: Mostre uma vela acesa. Diga \"A vela está apagada\".",
+    "metadata": {
+      "titulo": "A Vela Apagada",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_244",
+    "conteudo": "Descrição: Mostre a lixeira vazia e suja. Diga \"A lixeira está limpa!\".",
+    "metadata": {
+      "titulo": "O Lixo Limpo",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_245",
+    "conteudo": "Descrição: Coloque uma cama de brinquedo na cozinha. Pergunte \"A cama vai na cozinha?\".",
+    "metadata": {
+      "titulo": "A Cama na Cozinha",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_246",
+    "conteudo": "Descrição: Mostre uma criança de pijama e diga \"Vamos à rua de pijama?\".",
+    "metadata": {
+      "titulo": "O Pijama de Rua",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_247",
+    "conteudo": "Descrição: Abra um guarda-chuva dentro de casa. Pergunte \"Usamos guarda-chuva dentro de casa?\".",
+    "metadata": {
+      "titulo": "O Guarda-chuva sem Chuva",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_248",
+    "conteudo": "Descrição: Coloque uma panela de brinquedo no chão. Pergunte \"A panela vai no chão?\".",
+    "metadata": {
+      "titulo": "A Panela sem Fogo",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_249",
+    "conteudo": "Descrição: Finja que um ursinho de pelúcia está no telefone. Pergunte \"O que ele está falando?\".",
+    "metadata": {
+      "titulo": "O Urso e o Telefone",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_250",
+    "conteudo": "Descrição: Coloque a escova de dentes na mão de um boneco. Pergunte \"O que ele está fazendo?\".",
+    "metadata": {
+      "titulo": "A Escova de Dentes na Mão",
+      "dimensao": "Linguagem",
+      "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_251",
+    "conteudo": "Descrição: Aponte para o sol e diga \"O sol é claro\". Depois, aponte para a noite e diga \"A noite é...\". Incentive a criança a dizer \"escura!\".",
+    "metadata": {
+      "titulo": "O Sol e a Noite",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_252",
+    "conteudo": "Descrição: Use um gato de brinquedo e diga \"O gato é pequeno\". Use um cão de brinquedo e diga \"O cão é...\". Incentive a criança a dizer \"grande!\".",
+    "metadata": {
+      "titulo": "O Gato e o Cão",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_253",
+    "conteudo": "Descrição: Use uma sopa de brinquedo e diga \"A sopa é quente\". Use um copo com água e diga \"A água é...\". Incentive a criança a dizer \"fria!\".",
+    "metadata": {
+      "titulo": "A Sopa Quente e a Água Fria",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_254",
+    "conteudo": "Descrição: Aponte para a janela e diga \"Agora é dia\". Quando o dia escurecer, diga \"Agora é...\". Incentive a criança a dizer \"noite!\".",
+    "metadata": {
+      "titulo": "O Dia e a Noite",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_255",
+    "conteudo": "Descrição: Mostre um pote cheio e diga \"O pote está cheio\". Depois, esvazie-o e diga \"O pote está...\". Incentive a criança a dizer \"vazio!\".",
+    "metadata": {
+      "titulo": "O Pote Cheio e Vazio",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_256",
+    "conteudo": "Descrição: Faça um barulho com a boca e diga \"Faz barulho\". Depois, peça silêncio e diga \"Agora faz...\". Incentive a criança a dizer \"silêncio!\".",
+    "metadata": {
+      "titulo": "O Barulho e o Silêncio",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_257",
+    "conteudo": "Descrição: Aponte para uma cadeira grande e diga \"A cadeira é grande\". Aponte para um banquinho e diga \"O banquinho é...\". Incentive a criança a dizer \"pequeno!\".",
+    "metadata": {
+      "titulo": "A Cadeira e o Banquinho",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_258",
+    "conteudo": "Descrição: Mostre um pano limpo e diga \"O pano está limpo\". Suje-o de leve com algo e diga \"O pano está...\". Incentive a criança a dizer \"sujo!\".",
+    "metadata": {
+      "titulo": "O Limpo e o Sujo",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_259",
+    "conteudo": "Descrição: Mostre uma carinha feliz e diga \"Ele está feliz\". Depois, mostre uma carinha triste e diga \"Ele está...\". Incentive a criança a dizer \"triste!\".",
+    "metadata": {
+      "titulo": "O Feliz e o Triste",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_260",
+    "conteudo": "Descrição: Toque na massinha e diga \"A massinha é mole\". Toque em um bloco e diga \"O bloco é...\". Incentive a criança a dizer \"duro!\".",
+    "metadata": {
+      "titulo": "O Mole e o Duro",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_261",
+    "conteudo": "Descrição: Suba e desça a rampa. Diga \"Nós subimos, e agora nós vamos...\". Incentive a criança a dizer \"descer!\".",
+    "metadata": {
+      "titulo": "O Subir e o Descer",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_262",
+    "conteudo": "Descrição: Puxe um brinquedo. Diga \"Nós puxamos\". Empurre-o e diga \"E agora nós vamos...\". Incentive a criança a dizer \"empurrar!\".",
+    "metadata": {
+      "titulo": "O Puxar e o Empurrar",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_263",
+    "conteudo": "Descrição: Ande devagar com um brinquedo. Diga \"O carro anda devagar\". Depois, ande rápido e diga \"E agora ele anda...\". Incentive a criança a dizer \"rápido!\".",
+    "metadata": {
+      "titulo": "O Devagar e o Rápido",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_264",
+    "conteudo": "Descrição: Mostre um pano seco e diga \"O pano está seco\". Molhe-o e diga \"E agora está...\". Incentive a criança a dizer \"molhado!\".",
+    "metadata": {
+      "titulo": "O Seco e o Molhado",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_265",
+    "conteudo": "Descrição: Aponte para a sopa de brinquedo e diga \"A sopa é quente\". Aponte para o sorvete de brinquedo e diga \"O sorvete é...\". Incentive a criança a dizer \"frio!\".",
+    "metadata": {
+      "titulo": "O Quente e o Frio",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_266",
+    "conteudo": "Descrição: Levante as mãos para o alto e diga \"As mãos estão altas\". Baixe-as e diga \"E agora estão...\". Incentive a criança a dizer \"baixas!\".",
+    "metadata": {
+      "titulo": "O Alto e o Baixo",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_267",
+    "conteudo": "Descrição: Mostre a figura de um urso gordo e diga \"O urso é gordo\". Mostre a figura de um rato magro e diga \"O rato é...\". Incentive a criança a dizer \"magro!\".",
+    "metadata": {
+      "titulo": "O Gordo e o Magro",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_268",
+    "conteudo": "Descrição: Coloque um brinquedo dentro de uma caixa e diga \"O brinquedo está dentro\". Tire-o e diga \"E agora está...\". Incentive a criança a dizer \"fora!\".",
+    "metadata": {
+      "titulo": "O Dentro e o Fora",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_269",
+    "conteudo": "Descrição: Abra a porta de um armário e diga \"A porta está aberta\". Feche-a e diga \"E agora está...\". Incentive a criança a dizer \"fechada!\".",
+    "metadata": {
+      "titulo": "O Aberto e o Fechado",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_270",
+    "conteudo": "Descrição: Finja fazer força com o braço e diga \"Sou forte!\". Relaxe e diga \"E agora estou...\". Incentive a criança a dizer \"fraco!\".",
+    "metadata": {
+      "titulo": "O Forte e o Fraco",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_271",
+    "conteudo": "Descrição: Mostre um copo limpo e diga \"O copo está limpo\". Suje-o de leve e diga \"O copo está...\". Incentive a criança a dizer \"sujo!\".",
+    "metadata": {
+      "titulo": "O Limpo e o Sujo",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_272",
+    "conteudo": "Descrição: Coloque duas bolas na mesa. Aponte para a primeira e diga \"Esta é a primeira\". Aponte para a última e diga \"E esta é a...\". Incentive a criança a dizer \"última!\".",
+    "metadata": {
+      "titulo": "O Primeiro e o Último",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_273",
+    "conteudo": "Descrição: Ria com a criança e diga \"Estamos rindo\". Depois, finja chorar e diga \"Agora estamos...\". Incentive a criança a dizer \"chorando!\".",
+    "metadata": {
+      "titulo": "O Riso e o Choro",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_274",
+    "conteudo": "Descrição: Grite de forma suave. Diga \"Eu grito\". Sussurre e diga \"E agora eu...\". Incentive a criança a dizer \"sussurro!\".",
+    "metadata": {
+      "titulo": "O Grito e o Sussurro",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_275",
+    "conteudo": "Descrição: Acenda e apague a luz. Diga \"A luz está clara. Agora está...\". Incentive a criança a dizer \"escura!\".",
+    "metadata": {
+      "titulo": "O Claro e o Escuro",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_276",
+    "conteudo": "Descrição: Use um doce e um salgado de brinquedo. Diga \"O biscoito é doce\". Diga \"E o pão é...\". Incentive a criança a dizer \"salgado!\".",
+    "metadata": {
+      "titulo": "O Doce e o Salgado",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_277",
+    "conteudo": "Descrição: Mostre a figura de um boneco bonito e diga \"Ele é bonito\". Mostre a figura de um monstro e diga \"Ele é...\". Incentive a criança a dizer \"feio!\".",
+    "metadata": {
+      "titulo": "O Bonito e o Feio",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_278",
+    "conteudo": "Descrição: Pegue um carro grande de brinquedo e diga \"O carro é grande\". Pegue um carro pequeno e diga \"E este é...\". Incentive a criança a dizer \"pequeno!\".",
+    "metadata": {
+      "titulo": "O Grande e o Pequeno",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_279",
+    "conteudo": "Descrição: Mostre um brinquedo novo e diga \"Este brinquedo é novo\". Mostre um brinquedo velho e diga \"E este é...\". Incentive a criança a dizer \"velho!\".",
+    "metadata": {
+      "titulo": "O Novo e o Velho",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_280",
+    "conteudo": "Descrição: Encha um balde de brinquedo. Diga \"O balde está cheio\". Esvazie-o e diga \"E agora está...\". Incentive a criança a dizer \"vazio!\".",
+    "metadata": {
+      "titulo": "O Cheio e o Vazio",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_281",
+    "conteudo": "Descrição: Aponte para a luz no teto e diga \"A luz é alta\". Aponte para a mesa e diga \"A mesa é...\". Incentive a criança a dizer \"baixa!\".",
+    "metadata": {
+      "titulo": "O Alto e o Baixo",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_282",
+    "conteudo": "Descrição: Coloque um brinquedo longe. Diga \"O brinquedo está longe\". Aproxime-o e diga \"E agora está...\". Incentive a criança a dizer \"perto!\".",
+    "metadata": {
+      "titulo": "O Longe e o Perto",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_283",
+    "conteudo": "Descrição: Pegue um bloco pesado. Diga \"Este bloco é pesado\". Pegue uma pena. Diga \"E a pena é...\". Incentive a criança a dizer \"leve!\".",
+    "metadata": {
+      "titulo": "O Pesado e o Leve",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_284",
+    "conteudo": "Descrição: Mostre uma flor de plástico bonita. Diga \"A flor é bonita\". Mostre uma flor de plástico feia. Diga \"E a flor é...\". Incentive a criança a dizer \"feia!\".",
+    "metadata": {
+      "titulo": "O Bonito e o Feio",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_285",
+    "conteudo": "Descrição: Coloque um boneco em pé. Diga \"O boneco está em pé\". Deite-o e diga \"E agora está...\". Incentive a criança a dizer \"deitado!\".",
+    "metadata": {
+      "titulo": "O Em Pé e o Deitado",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_286",
+    "conteudo": "Descrição: Coloque as mãos dentro do bolso. Diga \"As mãos estão dentro\". Tire-as e diga \"E agora estão...\". Incentive a criança a dizer \"fora!\".",
+    "metadata": {
+      "titulo": "O Dentro e o Fora",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_287",
+    "conteudo": "Descrição: Corra com a criança. Diga \"Nós corremos rápido\". Ande devagar e diga \"E agora andamos...\". Incentive a criança a dizer \"lento!\".",
+    "metadata": {
+      "titulo": "O Rápido e o Lento",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_288",
+    "conteudo": "Descrição: Aperte um ursinho de pelúcia e diga \"O urso é mole\". Toque em um bloco e diga \"O bloco é...\". Incentive a criança a dizer \"duro!\".",
+    "metadata": {
+      "titulo": "O Mole e o Duro",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_289",
+    "conteudo": "Descrição: Aponte para a parte clara da sala. Diga \"Aqui é claro\". Aponte para um canto escuro. Diga \"E aqui é...\". Incentive a criança a dizer \"escuro!\".",
+    "metadata": {
+      "titulo": "O Claro e o Escuro",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_290",
+    "conteudo": "Descrição: Mostre um balde limpo. Diga \"O balde está limpo\". Ponha um pouco de sujeira de brinquedo. Diga \"O balde está...\". Incentive a criança a dizer \"sujo!\".",
+    "metadata": {
+      "titulo": "O Limpo e o Sujo",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_291",
+    "conteudo": "Descrição: Encha um copo com água. Diga \"O copo está cheio\". Beba a água e diga \"O copo está...\". Incentive a criança a dizer \"vazio!\".",
+    "metadata": {
+      "titulo": "O Cheio e o Vazio",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_292",
+    "conteudo": "Descrição: Molhe uma toalha. Diga \"A toalha está molhada\". Seque-a. Diga \"E agora está...\". Incentive a criança a dizer \"seca!\".",
+    "metadata": {
+      "titulo": "O Molhado e o Seco",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_293",
+    "conteudo": "Descrição: Dê um doce para a criança. Diga \"É doce!\". Dê uma fruta azeda. Diga \"E agora é...\". Incentive a criança a dizer \"azedo!\".",
+    "metadata": {
+      "titulo": "O Doce e o Azedo",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_294",
+    "conteudo": "Descrição: Jogue uma bola para cima. Diga \"A bola sobe\". Pegue-a quando cair e diga \"E agora ela...\". Incentive a criança a dizer \"desce!\".",
+    "metadata": {
+      "titulo": "O Subir e o Descer",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_295",
+    "conteudo": "Descrição: Pegue uma pedra de brinquedo e diga \"A pedra é pesada\". Pegue uma pena. Diga \"A pena é...\". Incentive a criança a dizer \"leve!\".",
+    "metadata": {
+      "titulo": "O Pesado e o Leve",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_296",
+    "conteudo": "Descrição: Faça uma fila com os brinquedos. Aponte para o primeiro e diga \"Este é o primeiro\". Aponte para o último e diga \"Este é o...\". Incentive a criança a dizer \"último!\".",
+    "metadata": {
+      "titulo": "O Primeiro e o Último",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_297",
+    "conteudo": "Descrição: Abra e feche um livro. Diga \"O livro está aberto. Agora está...\". Incentive a criança a dizer \"fechado!\".",
+    "metadata": {
+      "titulo": "O Aberto e o Fechado",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_298",
+    "conteudo": "Descrição: Use o braço para empurrar um bloco pesado. Diga \"Sou forte!\". Empurre um bloco leve. Diga \"E agora sou...\". Incentive a criança a dizer \"fraco!\".",
+    "metadata": {
+      "titulo": "O Forte e o Fraco",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_299",
+    "conteudo": "Descrição: Fale sobre algo que a criança gosta. Diga \"Você está feliz\". Fale sobre algo que não gosta. Diga \"Você está...\". Incentive a criança a dizer \"triste!\".",
+    "metadata": {
+      "titulo": "O Feliz e o Triste",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_300",
+    "conteudo": "Descrição: Coloque a mão dentro da luva. Diga \"A mão está dentro\". Tire a mão. Diga \"E agora está...\". Incentive a criança a dizer \"fora!\".",
+    "metadata": {
+      "titulo": "O Dentro e o Fora",
+      "dimensao": "Linguagem",
+      "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_301",
+    "conteudo": "Descrição: Use fantoches de dedo dos personagens de uma história conhecida. Peça para a criança recontar a história, movendo os fantoches na sequência correta.",
+    "metadata": {
+      "titulo": "A História com Fantoches de Dedo",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_302",
+    "conteudo": "Descrição: Leia uma história com muitas ações (ex: pular, correr). Peça para a criança recriar a história com os movimentos do corpo, sem o livro.",
+    "metadata": {
+      "titulo": "Contando com o Corpo",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_303",
+    "conteudo": "Descrição: Use cartões com figuras-chave da história. Embaralhe-os. Peça para a criança colocar as figuras na ordem correta, narrando o que acontece em cada uma.",
+    "metadata": {
+      "titulo": "O Jogo do 'Primeiro e Depois'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_304",
+    "conteudo": "Descrição: Coloque objetos que representem a história (ex: um ursinho, uma toalha, uma maçã) em uma cesta. Peça para a criança tirar os objetos e recontar a história.",
+    "metadata": {
+      "titulo": "A Cesta de Objetos",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_305",
+    "conteudo": "Descrição: Use uma caixa de areia. Peça para a criança desenhar o começo, o meio e o fim da história na areia, narrando enquanto desenha.",
+    "metadata": {
+      "titulo": "A História na Areia",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_306",
+    "conteudo": "Descrição: Use uma caixa de papelão como palco e figuras dos personagens em palitos. Peça para a criança recontar a história, movendo os bonecos no palco.",
+    "metadata": {
+      "titulo": "O Teatro de Caixa",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_307",
+    "conteudo": "Descrição: Peça para a criança imitar a voz dos personagens da história. A cada voz, pergunte \"O que [o personagem] disse?\".",
+    "metadata": {
+      "titulo": "A Voz dos Personagens",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_308",
+    "conteudo": "Descrição: Comece a recontar a história com uma frase (ex: \"Era uma vez um coelhinho...\") e faça uma pausa para a criança completar.",
+    "metadata": {
+      "titulo": "Completando a Frase",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_309",
+    "conteudo": "Descrição: Esconda objetos da história (ex: um boneco). Peça para a criança recontar a história para encontrar o objeto.",
+    "metadata": {
+      "titulo": "O Jogo do 'Onde Está?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_310",
+    "conteudo": "Descrição: Cante uma canção sobre a história. Peça para a criança cantar junto e contar a história através da música.",
+    "metadata": {
+      "titulo": "A Música da História",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_311",
+    "conteudo": "Descrição: Use uma versão da história sem figuras. Leia o texto e peça para a criança imaginar e narrar.",
+    "metadata": {
+      "titulo": "O Livro sem Figuras",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_312",
+    "conteudo": "Descrição: Use brinquedos de banho para recontar a história na bacia de água.",
+    "metadata": {
+      "titulo": "A História na Água",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_313",
+    "conteudo": "Descrição: Conte o começo da história e pergunte \"E o que aconteceu depois?\".",
+    "metadata": {
+      "titulo": "O Que Vem Depois?",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_314",
+    "conteudo": "Descrição: Use um pano grande. Peça para a criança recontar a história, usando o pano como cenário.",
+    "metadata": {
+      "titulo": "A História no Pano",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_315",
+    "conteudo": "Descrição: Use bonecos dos personagens. Peça para a criança recontar a história, movendo os bonecos na ordem correta.",
+    "metadata": {
+      "titulo": "Os Bonecos Acompanham",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_316",
+    "conteudo": "Descrição: Use os dedos como \"personagens\" da história. Peça para a criança recontar a história usando os dedos.",
+    "metadata": {
+      "titulo": "A História da Mão",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_317",
+    "conteudo": "Descrição: Use massinha de modelar para criar os personagens e os objetos da história.",
+    "metadata": {
+      "titulo": "O Jogo de Recriar",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_318",
+    "conteudo": "Descrição: Peça para a criança sentar na roda com os colegas e contar a história.",
+    "metadata": {
+      "titulo": "A Roda da História",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_319",
+    "conteudo": "Descrição: O fantoche \"pergunta\" o que aconteceu em seguida na história.",
+    "metadata": {
+      "titulo": "O Fantoche Curioso",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_320",
+    "conteudo": "Descrição: Use blocos para representar os personagens da história.",
+    "metadata": {
+      "titulo": "A História e os Blocos",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_321",
+    "conteudo": "Descrição: Tenha um caderno com a capa da história. Peça para a criança recontar a história olhando para a capa.",
+    "metadata": {
+      "titulo": "O Livro de Lembranças",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_322",
+    "conteudo": "Descrição: Use cartões com símbolos para as ações da história (ex: um pé para \"correr\"). Peça para a criança colocar os cartões na ordem.",
+    "metadata": {
+      "titulo": "Os Símbolos da História",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_323",
+    "conteudo": "Descrição: Use um quebra-cabeça com a sequência da história. Peça para a criança montar e recontar a história.",
+    "metadata": {
+      "titulo": "O Quebra-Cabeça da História",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_324",
+    "conteudo": "Descrição: Peça para a criança fazer os sons de cada parte da história (ex: \"au-au\" do cachorro).",
+    "metadata": {
+      "titulo": "A História e os Sons",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_325",
+    "conteudo": "Descrição: Use os dedos para recontar a história, como \"Era uma vez...\".",
+    "metadata": {
+      "titulo": "Os Dedos Narradores",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_326",
+    "conteudo": "Descrição: Peça para a criança fazer caretas para mostrar os sentimentos dos personagens.",
+    "metadata": {
+      "titulo": "O Jogo de Fazer Caretas",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_327",
+    "conteudo": "Descrição: Use a mesa como um palco para recontar a história.",
+    "metadata": {
+      "titulo": "A História na Mesa",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_328",
+    "conteudo": "Descrição: Esconda o livro da história. Peça para a criança recontar a história para você \"encontrar\" o livro.",
+    "metadata": {
+      "titulo": "O Livro Escondido",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_329",
+    "conteudo": "Descrição: Use potes de massinha para representar os personagens da história.",
+    "metadata": {
+      "titulo": "A História no Pote",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_330",
+    "conteudo": "Descrição: Use uma caixa com diferentes \"casas\". Peça para a criança colocar os personagens nas casas e recontar a história.",
+    "metadata": {
+      "titulo": "Onde Moram os Personagens?",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_331",
+    "conteudo": "Descrição: Pergunte \"Como o coelhinho correu?\". A criança deve recriar a ação.",
+    "metadata": {
+      "titulo": "O Jogo do 'Como?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_332",
+    "conteudo": "Descrição: Crie uma melodia para cada personagem da história.",
+    "metadata": {
+      "titulo": "A História na Música",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_333",
+    "conteudo": "Descrição: Use as mãos para fazer sombras na parede e recontar a história.",
+    "metadata": {
+      "titulo": "A História com Sombras",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_334",
+    "conteudo": "Descrição: Use diferentes cores de pano para representar o começo, meio e fim da história.",
+    "metadata": {
+      "titulo": "A História em Cores",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_335",
+    "conteudo": "Descrição: Faça mímica de uma parte da história e peça para a criança adivinhar o que aconteceu e contar.",
+    "metadata": {
+      "titulo": "O Jogo da Mímica",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_336",
+    "conteudo": "Descrição: Pergunte \"Quem apareceu na história primeiro?\". A criança deve responder o nome do personagem.",
+    "metadata": {
+      "titulo": "O Jogo do 'Quem?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_337",
+    "conteudo": "Descrição: Use uma placa de feltro com figuras para a criança recontar a história.",
+    "metadata": {
+      "titulo": "A História na Placa",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_338",
+    "conteudo": "Descrição: Use um livro com imagens e sem texto. Peça para a criança criar a própria história.",
+    "metadata": {
+      "titulo": "O Livro sem Palavras",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_339",
+    "conteudo": "Descrição: Peça para a criança fechar os olhos e imaginar a história enquanto você a conta. Depois, peça para ela recontar.",
+    "metadata": {
+      "titulo": "O Jogo do 'De Olhos Fechados'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_340",
+    "conteudo": "Descrição: Faça um desenho simples do começo da história. Peça para a criança desenhar o que aconteceu em seguida.",
+    "metadata": {
+      "titulo": "A História com Desenhos",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_341",
+    "conteudo": "Descrição: Conte a história de forma errada. \"O pato subiu na árvore!\". Espere a criança te corrigir e recontar a história certa.",
+    "metadata": {
+      "titulo": "O Jogo do 'Tudo Errado'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_342",
+    "conteudo": "Descrição: Use os alimentos do lanche para recontar a história.",
+    "metadata": {
+      "titulo": "A História e o Lanche",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_343",
+    "conteudo": "Descrição: Peça para a criança recontar a história em voz alta, e depois em voz baixa.",
+    "metadata": {
+      "titulo": "A História em Voz Alta e Baixa",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_344",
+    "conteudo": "Descrição: Sopre em uma pena. \"O vento soprou e a pena voou. E o que aconteceu depois?\".",
+    "metadata": {
+      "titulo": "O Jogo de Sopro",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_345",
+    "conteudo": "Descrição: Use uma linha no chão para a criança andar e recontar a história.",
+    "metadata": {
+      "titulo": "A História na Linha do Tempo",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_346",
+    "conteudo": "Descrição: Quando a criança contar uma parte, diga \"E então?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'E Então?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_347",
+    "conteudo": "Descrição: Use o espaço da sala. Peça para a criança caminhar e recontar a história.",
+    "metadata": {
+      "titulo": "A História no Espaço",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_348",
+    "conteudo": "Descrição: Diga \"Eu fui o coelho\". Peça para a criança dizer \"Eu fui o...\".",
+    "metadata": {
+      "titulo": "O Jogo de 'Eu Fui...'",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_349",
+    "conteudo": "Descrição: Peça para a criança recontar a história usando apenas os sons dos animais.",
+    "metadata": {
+      "titulo": "A História com Sons de Animais",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_350",
+    "conteudo": "Descrição: Peça para a criança fazer a mímica de uma parte da história. Adivinhe e a peça para contar o que aconteceu.",
+    "metadata": {
+      "titulo": "O Jogo da Adivinhação",
+      "dimensao": "Linguagem",
+      "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_351",
+    "conteudo": "Descrição: Diga uma palavra (ex: gato) e aponte para uma figura ou objeto que rime (ex: sapato). Pergunte \"O que rima com gato?\".",
+    "metadata": {
+      "titulo": "O Jogo da Rima",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_352",
+    "conteudo": "Descrição: Coloque objetos que rimam em uma caixa (ex: pão e cão). Tire o pão, diga \"pão!\". Tire o cão e diga \"cão!\". Explique que eles rimam.",
+    "metadata": {
+      "titulo": "A Caixa Mágica",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_353",
+    "conteudo": "Descrição: Cante uma canção simples como \"O sapo não lava o pé\". Deixe a criança completar as rimas, incentivando-a a dizer o som final.",
+    "metadata": {
+      "titulo": "Cantando Rimando",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_354",
+    "conteudo": "Descrição: Espalhe figuras de palavras que rimam (ex: lua, rua). Peça para a criança juntar as figuras que rimam.",
+    "metadata": {
+      "titulo": "Figuras que Rimam",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_355",
+    "conteudo": "Descrição: Leia um livro infantil com rimas. Faça uma pausa no final de cada frase para a criança completar a rima, como \"A borboleta está na cozinha, fazendo chocolate para a...\".",
+    "metadata": {
+      "titulo": "A História Rimada",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_356",
+    "conteudo": "Descrição: Diga uma palavra (chão) e bata palmas. Diga uma palavra que rima (pão) e bata palmas, chamando a atenção para o som final.",
+    "metadata": {
+      "titulo": "Rima de Palminhas",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_357",
+    "conteudo": "Descrição: Diga uma dupla de palavras que rima (ex: mala, fala). Peça para a criança repetir as duas palavras.",
+    "metadata": {
+      "titulo": "O Jogo do 'Eu Digo, Você Repete'",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_358",
+    "conteudo": "Descrição: Brinque de pular. A cada pulo, diga uma palavra que rima com a anterior (ex: pular, cantar).",
+    "metadata": {
+      "titulo": "Rima de Pula-Pula",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_359",
+    "conteudo": "Descrição: Use um fantoche. O fantoche diz \"Eu sou o João, e eu gosto de...\". Incentive a criança a completar com algo que rime com João.",
+    "metadata": {
+      "titulo": "O Fantoche Rima",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_360",
+    "conteudo": "Descrição: Fique com a criança na frente do espelho. Diga \"Olha o seu cabelo! Ele é tão...\". Incentive a criança a completar.",
+    "metadata": {
+      "titulo": "A Rima no Espelho",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_361",
+    "conteudo": "Descrição: Esconda objetos que rimam pela sala (ex: anel, papel). Diga a primeira palavra e peça para a criança achar a segunda.",
+    "metadata": {
+      "titulo": "Caça ao Tesouro das Rimas",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_362",
+    "conteudo": "Descrição: Tenha potes com figuras que rimam. O pote do \"gato\" tem a figura de um sapato. Peça para a criança colocar a figura no pote certo.",
+    "metadata": {
+      "titulo": "O Pote de Palavras",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_363",
+    "conteudo": "Descrição: Cante uma canção de rima no banho. \"O pato está na água, que legal, que...\". Incentive a criança a completar com \"legal\".",
+    "metadata": {
+      "titulo": "Rimas no Banho",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_364",
+    "conteudo": "Descrição: Desenhe duas figuras que rimam (ex: mola, bola). Peça para a criança dizer o nome de cada desenho.",
+    "metadata": {
+      "titulo": "O Desenho da Rima",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_365",
+    "conteudo": "Descrição: Coloque objetos em uma cesta. Tire um objeto (ex: panela) e peça para a criança encontrar outro objeto que rime (ex: canela de boneco).",
+    "metadata": {
+      "titulo": "A Cesta de Rimas",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_366",
+    "conteudo": "Descrição: Brinque de pular corda e cante uma rima (ex: \"Pula, pula, pulador, no meu pé tem...\"). Incentive a criança a completar.",
+    "metadata": {
+      "titulo": "Rima de Pula-Corda",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_367",
+    "conteudo": "Descrição: Use cubos com figuras que rimam. Peça para a criança empilhar os cubos que rimam.",
+    "metadata": {
+      "titulo": "O Jogo dos Cubos",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_368",
+    "conteudo": "Descrição: Diga uma rima usando partes do corpo (ex: pé, chulé).",
+    "metadata": {
+      "titulo": "Rimas com o Corpo",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_369",
+    "conteudo": "Descrição: Use um telefone de brinquedo. \"Alô? É a professora que rima com...\". Incentive a criança a pensar em uma palavra.",
+    "metadata": {
+      "titulo": "O Telefone Rimador",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_370",
+    "conteudo": "Descrição: Aponte para objetos na cozinha de brinquedo e rime (ex: garfo, larva de plástico).",
+    "metadata": {
+      "titulo": "A Rima na Cozinha",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_371",
+    "conteudo": "Descrição: Diga a palavra \"pão\". Pergunte \"Qual palavra termina igual a pão?\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Termina Igual'",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_372",
+    "conteudo": "Descrição: Mova as mãos e diga \"mão\". Depois, aponte para um cão de brinquedo e diga \"cão!\".",
+    "metadata": {
+      "titulo": "As Mãos Rimam",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_373",
+    "conteudo": "Descrição: Use um quebra-cabeça de duas peças com figuras que rimam. Peça para a criança montar o quebra-cabeça e dizer os nomes.",
+    "metadata": {
+      "titulo": "O Quebra-Cabeça da Rima",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_374",
+    "conteudo": "Descrição: Use as mãos para fazer sombras que rimam (ex: mão, pão de brinquedo).",
+    "metadata": {
+      "titulo": "O Jogo de Sombra",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_375",
+    "conteudo": "Descrição: Aponte para um relógio e diga \"relógio\". Aponte para um queijo de brinquedo e diga \"queijo\". Incentive a criança a perceber que eles não rimam.",
+    "metadata": {
+      "titulo": "O Relógio e o Queijo",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_376",
+    "conteudo": "Descrição: Crie rimas com o nome dos familiares (ex: \"Mamãe, mamãe, me dá a maçã\").",
+    "metadata": {
+      "titulo": "A Rima da Família",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_377",
+    "conteudo": "Descrição: Sopre em uma bolinha de papel. Diga \"soprar\" e \"voar\". Incentive a criança a repetir a rima.",
+    "metadata": {
+      "titulo": "O Jogo de Sopro",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_378",
+    "conteudo": "Descrição: Finja que o urso é o \"rei\", e o mel é o seu \"papel\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Faz de Conta'",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_379",
+    "conteudo": "Descrição: Esconda algo que rima com a palavra que você disser (ex: \"Escondi a panela. Onde está a... canela?\").",
+    "metadata": {
+      "titulo": "O Jogo do 'Onde Está?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_380",
+    "conteudo": "Descrição: Sente a criança na cadeira e diga \"A cadeira é da Ana, que rima com...\".",
+    "metadata": {
+      "titulo": "A Rima na Cadeira",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_381",
+    "conteudo": "Descrição: Diga \"Eu penso em uma coisa que rima com pato...\". Incentive a criança a adivinhar.",
+    "metadata": {
+      "titulo": "O Jogo da Adivinhação",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_382",
+    "conteudo": "Descrição: Aponte para a barriga. Diga \"A barriga é lisa, que rima com...\".",
+    "metadata": {
+      "titulo": "A Rima do Corpo",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_383",
+    "conteudo": "Descrição: Crie rimas engraçadas (ex: \"O carro correu, mas o coelho comeu!\").",
+    "metadata": {
+      "titulo": "O Jogo das Rimas Bobas",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_384",
+    "conteudo": "Descrição: Pule com a criança. Diga \"Pula, pula, pulador, no meu pé tem...\".",
+    "metadata": {
+      "titulo": "O Jogo de Pular Corda",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_385",
+    "conteudo": "Descrição: Use um livro com rimas de letras do alfabeto, como \"O A está na rua, e o B na lua\".",
+    "metadata": {
+      "titulo": "O Livro de Rimas do 'ABC'",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_386",
+    "conteudo": "Descrição: Diga \"É uma coisa que rima com chuva\". Aponte para uma luva.",
+    "metadata": {
+      "titulo": "O Jogo do 'O que é?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_387",
+    "conteudo": "Descrição: Rime com objetos do banheiro de brinquedo (ex: sabão, balão).",
+    "metadata": {
+      "titulo": "A Rima do Banheiro",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_388",
+    "conteudo": "Descrição: Balance a criança. Diga \"Vai e volta no balanço, que rima com...\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Vai e Volta'",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_389",
+    "conteudo": "Descrição: Toque na orelha e diga \"orelha\". Toque no cabelo e diga \"cabelo\". Explique que não rimam.",
+    "metadata": {
+      "titulo": "O Jogo do 'Orelha e Cabelo'",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_390",
+    "conteudo": "Descrição: Aponte para uma faca de brinquedo. Diga \"faca, que rima com...\".",
+    "metadata": {
+      "titulo": "A Rima na Cozinha",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_391",
+    "conteudo": "Descrição: Faça a mímica de uma palavra (ex: comer). Peça para a criança dizer uma palavra que rima com a ação (ex: fazer).",
+    "metadata": {
+      "titulo": "O Jogo da Rima de Mímica",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_392",
+    "conteudo": "Descrição: Crie uma rima sobre um brinquedo (ex: \"O trem, o trem, vai e vem\").",
+    "metadata": {
+      "titulo": "A Rima de Brincar",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_393",
+    "conteudo": "Descrição: Converse sobre sonhos. \"Eu sonhei com um dragão, que rima com...\".",
+    "metadata": {
+      "titulo": "A Rima de Sonhos",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_394",
+    "conteudo": "Descrição: Esconda cartões de rimas em um baú.",
+    "metadata": {
+      "titulo": "O Jogo das Rimas Escondidas",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_395",
+    "conteudo": "Descrição: Aponte para o sol e o céu e crie uma rima.",
+    "metadata": {
+      "titulo": "A Rima do Sol e do Céu",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_396",
+    "conteudo": "Descrição: Diga uma rima errada e espere a criança corrigir (ex: \"O sapato vai no cabelo\").",
+    "metadata": {
+      "titulo": "O Jogo de 'Tudo Errado'",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_397",
+    "conteudo": "Descrição: Crie uma rima com o nome da criança (ex: \"O [nome] é tão legal, que rima com...\").",
+    "metadata": {
+      "titulo": "A Rima do Nome",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_398",
+    "conteudo": "Descrição: Diga \"A cor azul, que rima com...\".",
+    "metadata": {
+      "titulo": "O Jogo das Cores",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_399",
+    "conteudo": "Descrição: Diga \"Conta uma rima pra mim!\".",
+    "metadata": {
+      "titulo": "O Jogo do 'Conta Pra Mim'",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_400",
+    "conteudo": "Descrição: Use objetos da natureza (ex: uma folha) e rime (ex: \"folha\" com \"bolha\").",
+    "metadata": {
+      "titulo": "A Rima da Natureza",
+      "dimensao": "Linguagem",
+      "habilidade": "Associa rimas.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_401",
+    "conteudo": "Descrição: Dê um tambor de brinquedo para a criança. Peça para ela bater forte e diga \"forte!\". Depois, peça para ela bater fraco e diga \"fraco!\".",
+    "metadata": {
+      "titulo": "O Tambor Forte e Fraco",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_402",
+    "conteudo": "Descrição: Diga uma palavra em voz alta e forte (ex: \"bola!\"). Repita a mesma palavra em voz baixa e fraca.",
+    "metadata": {
+      "titulo": "A Voz Forte e Fraca",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_403",
+    "conteudo": "Descrição: Use um tambor e um chocalho. Bata o tambor bem forte e diga \"forte!\". Balance o chocalho de leve e diga \"fraco!\".",
+    "metadata": {
+      "titulo": "O Jogo dos Instrumentos",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_404",
+    "conteudo": "Descrição: Faça o som de um leão em voz alta e forte (\"grrr!\"). Faça o som de um passarinho em voz baixa e fraca (\"piu, piu\").",
+    "metadata": {
+      "titulo": "O Som dos Animais",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_405",
+    "conteudo": "Descrição: Peça para a criança gritar uma palavra e depois sussurrar. Diga \"Você gritou forte, e sussurrou fraco!\".",
+    "metadata": {
+      "titulo": "O Grito e o Sussurro",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_406",
+    "conteudo": "Descrição: Bata palmas bem forte. Diga \"forte!\". Depois, junte as mãos de leve. Diga \"fraco!\".",
+    "metadata": {
+      "titulo": "O Jogo das Mãos",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_407",
+    "conteudo": "Descrição: Abra e feche a porta com força. Diga \"forte!\". Abra e feche a porta de leve. Diga \"fraco!\".",
+    "metadata": {
+      "titulo": "O Som da Porta",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_408",
+    "conteudo": "Descrição: Jogue os brinquedos na caixa de forma brusca e diga \"forte!\". Coloque-os devagar. Diga \"fraco!\".",
+    "metadata": {
+      "titulo": "O Barulho dos Brinquedos",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_409",
+    "conteudo": "Descrição: Use um telefone de brinquedo. Finja que a voz está alta e diga \"ALÔ, ALÔ!\". Depois, finja que a voz está baixa e diga \"alô, alô\".",
+    "metadata": {
+      "titulo": "O Telefone Forte e Fraco",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_410",
+    "conteudo": "Descrição: Use um chocalho. Balance-o forte e aponte para a criança. Balance-o fraco e esconda-o.",
+    "metadata": {
+      "titulo": "O Jogo do 'Cadê o Som?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_411",
+    "conteudo": "Descrição: Brinque com um trenzinho. Faça o som \"tchuc, tchuc\" bem forte. Depois, faça-o bem fraco.",
+    "metadata": {
+      "titulo": "O Trem Forte e Fraco",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_412",
+    "conteudo": "Descrição: Cubra um objeto (ex: um copo) com um pano. Bata no copo forte. Depois, bata fraco.",
+    "metadata": {
+      "titulo": "A Mágica do Som",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_413",
+    "conteudo": "Descrição: Faça o som de chuva forte batendo nas mãos. Diga \"forte!\". Faça o som de chuva fraca batendo nos dedos. Diga \"fraco!\".",
+    "metadata": {
+      "titulo": "O Som da Chuva",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_414",
+    "conteudo": "Descrição: Finja que um carrinho está fazendo um barulhão. Diga \"forte!\". Finja que ele está fazendo um barulhinho. Diga \"fraco!\".",
+    "metadata": {
+      "titulo": "O Carro Forte e Fraco",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_415",
+    "conteudo": "Descrição: Bata o pé no chão bem forte. Diga \"forte!\". Bata o pé de leve. Diga \"fraco!\".",
+    "metadata": {
+      "titulo": "O Jogo de Bater o Pé",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_416",
+    "conteudo": "Descrição: Faça o som de um pato em voz alta. Depois, faça-o em voz baixa.",
+    "metadata": {
+      "titulo": "O Som dos Bichos",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_417",
+    "conteudo": "Descrição: Dê um pandeiro de brinquedo. Peça para a criança bater forte e depois fraco.",
+    "metadata": {
+      "titulo": "O Pandeiro Forte e Fraco",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_418",
+    "conteudo": "Descrição: Use uma colher e uma panela de brinquedo. Bata forte e diga \"forte!\". Bata fraco e diga \"fraco!\".",
+    "metadata": {
+      "titulo": "A Colher na Panela",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_419",
+    "conteudo": "Descrição: Sopre um canudo com força. Diga \"forte!\". Sopre de leve. Diga \"fraco!\".",
+    "metadata": {
+      "titulo": "O Sopro Forte e Fraco",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_420",
+    "conteudo": "Descrição: Bata com a mão na mesa. Forte e fraco. Peça para a criança imitar.",
+    "metadata": {
+      "titulo": "O Jogo da Batida",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_421",
+    "conteudo": "Descrição: Coloque gelo em um copo. Balance forte e diga \"forte!\". Balance fraco e diga \"fraco!\".",
+    "metadata": {
+      "titulo": "O Som do Gelo",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_422",
+    "conteudo": "Descrição: Dê tapinhas fortes na sua barriga. Depois, tapinhas fracos.",
+    "metadata": {
+      "titulo": "O Tambor na Barriga",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_423",
+    "conteudo": "Descrição: Role um carrinho no chão. Role-o forte para fazer barulho. Role-o fraco para fazer barulhinho.",
+    "metadata": {
+      "titulo": "O Barulho da Roda",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_424",
+    "conteudo": "Descrição: Cante um passarinho bem forte e depois bem fraco.",
+    "metadata": {
+      "titulo": "O Canto dos Pássaros",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_425",
+    "conteudo": "Descrição: Bata no peito de forma suave e diga \"fraco!\". Depois, bata com mais força. Diga \"forte!\".",
+    "metadata": {
+      "titulo": "A Batida do Coração",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_426",
+    "conteudo": "Descrição: Faça o som de um sapo em voz alta e em voz baixa.",
+    "metadata": {
+      "titulo": "O Som do Sapo",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_427",
+    "conteudo": "Descrição: Feche os olhos da criança. Faça um som forte e pergunte \"Foi forte ou fraco?\".",
+    "metadata": {
+      "titulo": "O Jogo da Adivinhação",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_428",
+    "conteudo": "Descrição: Faça o som do vento com a boca. Forte e fraco.",
+    "metadata": {
+      "titulo": "O Som do Vento",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_429",
+    "conteudo": "Descrição: Sopre em uma pena com força para ela ir longe. Sopre de leve para ela ir perto.",
+    "metadata": {
+      "titulo": "O Jogo de Sopro na Pena",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_430",
+    "conteudo": "Descrição: Faça o som de uma borboleta voando (sopro). Fraco e suave. Depois, faça o som de um avião. Forte e alto.",
+    "metadata": {
+      "titulo": "O Som da Borboleta",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_431",
+    "conteudo": "Descrição: Sussurre uma palavra na orelha da criança. Diga \"O som é fraco!\". Fale normal. Diga \"O som é forte!\".",
+    "metadata": {
+      "titulo": "O Telefone Sem Fio",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_432",
+    "conteudo": "Descrição: Balance as chaves com força. Diga \"forte!\". Balance de leve. Diga \"fraco!\".",
+    "metadata": {
+      "titulo": "O Barulho da Chave",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_433",
+    "conteudo": "Descrição: Deixe uma moeda cair com força. Diga \"forte!\". Deixe-a cair de leve. Diga \"fraco!\".",
+    "metadata": {
+      "titulo": "O Som da Moeda",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_434",
+    "conteudo": "Descrição: Balance a criança. Na subida, faça um som forte. Na descida, um som fraco.",
+    "metadata": {
+      "titulo": "O Jogo do 'Vai e Volta'",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_435",
+    "conteudo": "Descrição: Jogue um sapo de borracha na bacia com força. Diga \"forte!\". Jogue-o de leve. Diga \"fraco!\".",
+    "metadata": {
+      "titulo": "O Som do Sapo na Água",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_436",
+    "conteudo": "Descrição: Use um sino de brinquedo. Toque forte e depois fraco.",
+    "metadata": {
+      "titulo": "O Sino Forte e Fraco",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_437",
+    "conteudo": "Descrição: Crie o som de um passarinho voando. Faça-o forte e depois fraco.",
+    "metadata": {
+      "titulo": "O Jogo do 'Passarinho'",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_438",
+    "conteudo": "Descrição: Estoure um balão. Diga \"O som é forte!\".",
+    "metadata": {
+      "titulo": "O Som do Balão",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_439",
+    "conteudo": "Descrição: Estale os dedos com força e depois de leve.",
+    "metadata": {
+      "titulo": "O Jogo de Estalar os Dedos",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_440",
+    "conteudo": "Descrição: Rasgue um papel de forma rápida e forte. Depois, rasgue de forma lenta e fraca.",
+    "metadata": {
+      "titulo": "O Som do Papel",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_441",
+    "conteudo": "Descrição: Amasse um pão de brinquedo com força. Diga \"forte!\". Amasse de leve. Diga \"fraco!\".",
+    "metadata": {
+      "titulo": "O Barulho do Pão",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_442",
+    "conteudo": "Descrição: Pergunte \"Como é o som do leão?\". Incentive a criança a fazer o som forte.",
+    "metadata": {
+      "titulo": "O Jogo do 'Como é?'",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_443",
+    "conteudo": "Descrição: Balance um brinquedo de chocalho com força. Depois, balance de leve.",
+    "metadata": {
+      "titulo": "O Barulho do Brinquedo",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_444",
+    "conteudo": "Descrição: Quique uma bola de borracha no chão. Forte e fraco.",
+    "metadata": {
+      "titulo": "O Som da Bola Quicando",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_445",
+    "conteudo": "Descrição: Deixe várias moedas caírem no chão. O som é forte. Deixe uma cair. O som é fraco.",
+    "metadata": {
+      "titulo": "O Jogo das Moedas",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_446",
+    "conteudo": "Descrição: Faça o som de um avião. Forte. Depois, o som de uma mosca. Fraco.",
+    "metadata": {
+      "titulo": "O Som do Avião",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_447",
+    "conteudo": "Descrição: Faça um som forte, e peça para a criança imitar. Depois, um som fraco.",
+    "metadata": {
+      "titulo": "O Jogo de 'Me Siga'",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_448",
+    "conteudo": "Descrição: Jogue a água de um copo na bacia. Forte e fraco.",
+    "metadata": {
+      "titulo": "O Som da Água",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_449",
+    "conteudo": "Descrição: Faça o som de um trem que está perto. Forte. Depois, o som de um trem que está longe. Fraco.",
+    "metadata": {
+      "titulo": "O Barulho do Trem",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  },
+  {
+    "id": "linguagem_4a5_450",
+    "conteudo": "Descrição: Dê uma gargalhada forte. Depois, uma gargalhada fraca.",
+    "metadata": {
+      "titulo": "O Som da Gargalhada",
+      "dimensao": "Linguagem",
+      "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
+      "nivel": "Nível 3",
+      "idade": "4 a 5 anos"
+    }
+  }
+]
