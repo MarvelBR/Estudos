@@ -4,7 +4,7 @@
     "conteudo": "Descrição: Fique a uma curta distância de uma parede e mostre à criança como chutar a bola para que ela volte.",
     "metadata": {
       "titulo": "O Chute da Parede",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -15,7 +15,7 @@
     "conteudo": "Descrição: Use uma caixa ou balde como gol. Incentive a criança a chutar a bola para dentro do gol.",
     "metadata": {
       "titulo": "O Chute do Gol",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -26,7 +26,7 @@
     "conteudo": "Descrição: Use garrafas de plástico vazias como pinos de boliche. Incentive a criança a chutar a bola para derrubar os pinos.",
     "metadata": {
       "titulo": "O Boliche de Garrafas",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -37,7 +37,7 @@
     "conteudo": "Descrição: Crie um túnel com as pernas ou com almofadas. Incentive a criança a chutar a bola para que ela passe por dentro do túnel.",
     "metadata": {
       "titulo": "O Chute do Túnel",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -48,7 +48,7 @@
     "conteudo": "Descrição: Use uma caixa de papelão. Incentive a criança a chutar a bola para dentro da caixa.",
     "metadata": {
       "titulo": "O Chute da Caixa",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -59,7 +59,7 @@
     "conteudo": "Descrição: Incentive a criança a chutar a bola para um robô de brinquedo.",
     "metadata": {
       "titulo": "O Chute do Robô",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -70,7 +70,7 @@
     "conteudo": "Descrição: Incentive a criança a chutar a bola para um elefante de pelúcia.",
     "metadata": {
       "titulo": "O Chute do Elefante",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -81,7 +81,7 @@
     "conteudo": "Descrição: Use um pato de borracha. Incentive a criança a chutar o pato para você, como se estivesse \"voando\".",
     "metadata": {
       "titulo": "O Chute do Pato",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -92,7 +92,7 @@
     "conteudo": "Descrição: Use um barco de brinquedo. Incentive a criança a chutar o barco para a água, como se estivesse \"navegando\".",
     "metadata": {
       "titulo": "O Chute do Barco",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -103,7 +103,7 @@
     "conteudo": "Descrição: Use um trem de brinquedo. Incentive a criança a chutar o trem para fazê-lo andar.",
     "metadata": {
       "titulo": "O Chute do Trem",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -114,7 +114,7 @@
     "conteudo": "Descrição: Use um avião de brinquedo. Incentive a criança a chutar o avião para fazê-lo \"voar\".",
     "metadata": {
       "titulo": "O Chute do Avião",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -125,7 +125,7 @@
     "conteudo": "Descrição: Incentive a criança a chutar a bola para um gato de pelúcia.",
     "metadata": {
       "titulo": "O Chute do Gato",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -136,7 +136,7 @@
     "conteudo": "Descrição: Incentive a criança a chutar a bola para uma tartaruga de pelúcia.",
     "metadata": {
       "titulo": "O Chute da Tartaruga",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -147,7 +147,7 @@
     "conteudo": "Descrição: Incentive a criança a chutar a bola para um leão de pelúcia.",
     "metadata": {
       "titulo": "O Chute do Leão",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -158,7 +158,7 @@
     "conteudo": "Descrição: Incentive a criança a chutar a bola para um tigre de pelúcia.",
     "metadata": {
       "titulo": "O Chute do Tigre",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -169,7 +169,7 @@
     "conteudo": "Descrição: Incentive a criança a chutar a bola para um urso de pelúcia.",
     "metadata": {
       "titulo": "O Chute do Urso",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -180,7 +180,7 @@
     "conteudo": "Descrição: Incentive a criança a chutar a bola para uma girafa de pelúcia.",
     "metadata": {
       "titulo": "O Chute da Girafa",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -191,7 +191,7 @@
     "conteudo": "Descrição: Incentive a criança a chutar a bola para um macaco de pelúcia.",
     "metadata": {
       "titulo": "O Chute do Macaco",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -202,7 +202,7 @@
     "conteudo": "Descrição: Incentive a criança a chutar a bola para uma zebra de pelúcia.",
     "metadata": {
       "titulo": "O Chute da Zebra",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -213,7 +213,7 @@
     "conteudo": "Descrição: Incentive a criança a chutar a bola para um pinguim de pelúcia.",
     "metadata": {
       "titulo": "O Chute do Pinguim",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -224,7 +224,7 @@
     "conteudo": "Descrição: Incentive a criança a chutar a bola para uma raposa de pelúcia.",
     "metadata": {
       "titulo": "O Chute da Raposa",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -235,7 +235,7 @@
     "conteudo": "Descrição: Use um carro de brinquedo. Incentive a criança a chutar o carro para fazê-lo andar.",
     "metadata": {
       "titulo": "O Chute do Carro",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -246,7 +246,7 @@
     "conteudo": "Descrição: Use um robô de brinquedo. Incentive a criança a chutar o robô para fazê-lo andar.",
     "metadata": {
       "titulo": "O Chute do Robô",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -257,7 +257,7 @@
     "conteudo": "Descrição: Use um elefante de pelúcia. Incentive a criança a chutar o elefante para fazê-lo \"falar\".",
     "metadata": {
       "titulo": "O Chute do Elefante",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -268,7 +268,7 @@
     "conteudo": "Descrição: Use um pato de pelúcia. Incentive a criança a chutar o pato para fazê-lo \"quack\".",
     "metadata": {
       "titulo": "O Chute do Pato",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -279,7 +279,7 @@
     "conteudo": "Descrição: Use uma tartaruga de pelúcia. Incentive a criança a chutar a tartaruga para fazê-la \"andar\".",
     "metadata": {
       "titulo": "O Chute da Tartaruga",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -290,7 +290,7 @@
     "conteudo": "Descrição: Use um leão de pelúcia. Incentive a criança a chutar o leão para fazê-lo \"rugir\".",
     "metadata": {
       "titulo": "O Chute do Leão",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -301,7 +301,7 @@
     "conteudo": "Descrição: Use um tigre de pelúcia. Incentive a criança a chutar o tigre para fazê-lo \"rugir\".",
     "metadata": {
       "titulo": "O Chute do Tigre",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -312,7 +312,7 @@
     "conteudo": "Descrição: Use um urso de pelúcia. Incentive a criança a chutar o urso para fazê-lo \"andar\".",
     "metadata": {
       "titulo": "O Chute do Urso",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -323,7 +323,7 @@
     "conteudo": "Descrição: Use uma girafa de pelúcia. Incentive a criança a chutar a girafa para fazê-la \"comer\".",
     "metadata": {
       "titulo": "O Chute da Girafa",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -334,7 +334,7 @@
     "conteudo": "Descrição: Use um macaco de pelúcia. Incentive a criança a chutar o macaco para fazê-lo \"pular\".",
     "metadata": {
       "titulo": "O Chute do Macaco",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -345,7 +345,7 @@
     "conteudo": "Descrição: Use uma zebra de pelúcia. Incentive a criança a chutar a zebra para fazê-la \"andar\".",
     "metadata": {
       "titulo": "O Chute da Zebra",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -356,7 +356,7 @@
     "conteudo": "Descrição: Use um pinguim de pelúcia. Incentive a criança a chutar o pinguim para fazê-lo \"nadar\".",
     "metadata": {
       "titulo": "O Chute do Pinguim",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -367,7 +367,7 @@
     "conteudo": "Descrição: Use uma raposa de pelúcia. Incentive a criança a chutar a raposa para fazê-la \"correr\".",
     "metadata": {
       "titulo": "O Chute da Raposa",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -378,7 +378,7 @@
     "conteudo": "Descrição: Use uma coruja de pelúcia. Incentive a criança a chutar a coruja para fazê-la \"voar\".",
     "metadata": {
       "titulo": "O Chute da Coruja",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -389,7 +389,7 @@
     "conteudo": "Descrição: Use uma baleia de pelúcia. Incentive a criança a chutar a baleia para fazê-la \"nadar\".",
     "metadata": {
       "titulo": "O Chute da Baleia",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -400,7 +400,7 @@
     "conteudo": "Descrição: Use um golfinho de pelúcia. Incentive a criança a chutar o golfinho para fazê-lo \"pular\".",
     "metadata": {
       "titulo": "O Chute do Golfinho",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -411,7 +411,7 @@
     "conteudo": "Descrição: Use um urso polar de pelúcia. Incentive a criança a chutar o urso polar para fazê-lo \"andar\".",
     "metadata": {
       "titulo": "O Chute do Urso Polar",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -422,7 +422,7 @@
     "conteudo": "Descrição: Use um lobo de pelúcia. Incentive a criança a chutar o lobo para fazê-lo \"correr\".",
     "metadata": {
       "titulo": "O Chute do Lobo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -433,7 +433,7 @@
     "conteudo": "Descrição: Use uma arara de pelúcia. Incentive a criança a chutar a arara para fazê-la \"voar\".",
     "metadata": {
       "titulo": "O Chute da Arara",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -444,7 +444,7 @@
     "conteudo": "Descrição: Use um tucano de pelúcia. Incentive a criança a chutar o tucano para fazê-lo \"voar\".",
     "metadata": {
       "titulo": "O Chute do Tucano",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -455,7 +455,7 @@
     "conteudo": "Descrição: Use um sapo de pelúcia. Incentive a criança a chutar o sapo para fazê-lo \"pular\".",
     "metadata": {
       "titulo": "O Chute do Sapo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -466,7 +466,7 @@
     "conteudo": "Descrição: Use uma cobra de pelúcia. Incentive a criança a chutar a cobra para fazê-la \"rastejar\".",
     "metadata": {
       "titulo": "O Chute da Cobra",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -477,7 +477,7 @@
     "conteudo": "Descrição: Use um jacaré de pelúcia. Incentive a criança a chutar o jacaré para fazê-lo \"andar\".",
     "metadata": {
       "titulo": "O Chute do Jacaré",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -488,7 +488,7 @@
     "conteudo": "Descrição: Use um crocodilo de pelúcia. Incentive a criança a chutar o crocodilo para fazê-lo \"andar\".",
     "metadata": {
       "titulo": "O Chute do Crocodilo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -499,7 +499,7 @@
     "conteudo": "Descrição: Use um dinossauro de pelúcia. Incentive a criança a chutar o dinossauro para fazê-lo \"rugir\".",
     "metadata": {
       "titulo": "O Chute do Dinossauro",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -510,7 +510,7 @@
     "conteudo": "Descrição: Use um dragão de pelúcia. Incentive a criança a chutar o dragão para fazê-lo \"voar\".",
     "metadata": {
       "titulo": "O Chute do Dragão",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -521,7 +521,7 @@
     "conteudo": "Descrição: Use um unicórnio de pelúcia. Incentive a criança a chutar o unicórnio para fazê-lo \"correr\".",
     "metadata": {
       "titulo": "O Chute do Unicórnio",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -532,7 +532,7 @@
     "conteudo": "Descrição: Use um cavalo de pelúcia. Incentive a criança a chutar o cavalo para fazê-lo \"galopar\".",
     "metadata": {
       "titulo": "O Chute do Cavalo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -543,7 +543,7 @@
     "conteudo": "Descrição: Use um gato de rua de pelúcia. Incentive a criança a chutar o gato para fazê-lo \"andar\".",
     "metadata": {
       "titulo": "O Chute do Gato de Rua",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -554,7 +554,7 @@
     "conteudo": "Descrição: Incentive a criança a correr com os braços abertos, como se fosse um avião, para coordenar os movimentos.",
     "metadata": {
       "titulo": "Corrida do Avião",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -565,7 +565,7 @@
     "conteudo": "Descrição: Use uma vassoura de brinquedo. Incentive a criança a segurá-la e a correr, movendo os braços.",
     "metadata": {
       "titulo": "Corrida da Vassoura",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -576,7 +576,7 @@
     "conteudo": "Descrição: Use fitas coloridas nas mãos e nos pés da criança. Incentive-a a correr para ver as fitas se moverem.",
     "metadata": {
       "titulo": "Corrida da Fita",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -587,7 +587,7 @@
     "conteudo": "Descrição: Incentive a criança a correr com os braços flexionados, como se fosse um robô, para coordenar os movimentos.",
     "metadata": {
       "titulo": "Corrida do Robô",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -598,7 +598,7 @@
     "conteudo": "Descrição: Crie um túnel com almofadas e cobertores. Incentive a criança a correr para passar por ele.",
     "metadata": {
       "titulo": "Corrida do Túnel",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -609,7 +609,7 @@
     "conteudo": "Descrição: Use um balão. Incentive a criança a segurá-lo enquanto corre.",
     "metadata": {
       "titulo": "Corrida do Balão",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -620,7 +620,7 @@
     "conteudo": "Descrição: Incentive a criança a correr como um animal, como um canguru ou um elefante.",
     "metadata": {
       "titulo": "Corrida do Animal",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -631,7 +631,7 @@
     "conteudo": "Descrição: Coloque uma música animada. Incentive a criança a correr no ritmo da música.",
     "metadata": {
       "titulo": "Corrida da Música",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -642,7 +642,7 @@
     "conteudo": "Descrição: Use uma pista de carrinhos de brinquedo. Incentive a criança a correr ao redor da pista.",
     "metadata": {
       "titulo": "Corrida da Pista",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -653,7 +653,7 @@
     "conteudo": "Descrição: Use um castelo de brinquedo. Incentive a criança a correr para \"defender\" o castelo.",
     "metadata": {
       "titulo": "Corrida do Castelo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -664,7 +664,7 @@
     "conteudo": "Descrição: Esconda brinquedos em diferentes locais. Incentive a criança a correr para encontrá-los.",
     "metadata": {
       "titulo": "Corrida do Tesouro",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -675,7 +675,7 @@
     "conteudo": "Descrição: Use um barco de brinquedo. Incentive a criança a correr, imitando um barco que navega.",
     "metadata": {
       "titulo": "Corrida do Barco",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -686,7 +686,7 @@
     "conteudo": "Descrição: Use um trem de brinquedo. Incentive a criança a correr, imitando um trem.",
     "metadata": {
       "titulo": "Corrida do Trem",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -697,7 +697,7 @@
     "conteudo": "Descrição: Use um avião de brinquedo. Incentive a criança a correr com o avião na mão.",
     "metadata": {
       "titulo": "Corrida do Avião",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -708,7 +708,7 @@
     "conteudo": "Descrição: Use um carro de brinquedo. Incentive a criança a correr, imitando um carro que anda.",
     "metadata": {
       "titulo": "Corrida do Carro",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -719,7 +719,7 @@
     "conteudo": "Descrição: Use um pato de pelúcia. Incentive a criança a correr, imitando um pato.",
     "metadata": {
       "titulo": "Corrida do Pato",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -730,7 +730,7 @@
     "conteudo": "Descrição: Use uma tartaruga de pelúcia. Incentive a criança a correr, imitando uma tartaruga.",
     "metadata": {
       "titulo": "Corrida da Tartaruga",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -741,7 +741,7 @@
     "conteudo": "Descrição: Use um leão de pelúcia. Incentive a criança a correr, imitando um leão.",
     "metadata": {
       "titulo": "Corrida do Leão",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -752,7 +752,7 @@
     "conteudo": "Descrição: Use um tigre de pelúcia. Incentive a criança a correr, imitando um tigre.",
     "metadata": {
       "titulo": "Corrida do Tigre",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -763,7 +763,7 @@
     "conteudo": "Descrição: Use um urso de pelúcia. Incentive a criança a correr, imitando um urso.",
     "metadata": {
       "titulo": "Corrida do Urso",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -774,7 +774,7 @@
     "conteudo": "Descrição: Use uma girafa de pelúcia. Incentive a criança a correr, imitando uma girafa.",
     "metadata": {
       "titulo": "Corrida da Girafa",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -785,7 +785,7 @@
     "conteudo": "Descrição: Use um macaco de pelúcia. Incentive a criança a correr, imitando um macaco.",
     "metadata": {
       "titulo": "Corrida do Macaco",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -796,7 +796,7 @@
     "conteudo": "Descrição: Use uma zebra de pelúcia. Incentive a criança a correr, imitando uma zebra.",
     "metadata": {
       "titulo": "Corrida da Zebra",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -807,7 +807,7 @@
     "conteudo": "Descrição: Use um pinguim de pelúcia. Incentive a criança a correr, imitando um pinguim.",
     "metadata": {
       "titulo": "Corrida do Pinguim",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -818,7 +818,7 @@
     "conteudo": "Descrição: Use uma raposa de pelúcia. Incentive a criança a correr, imitando uma raposa.",
     "metadata": {
       "titulo": "Corrida da Raposa",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -829,7 +829,7 @@
     "conteudo": "Descrição: Use uma coruja de pelúcia. Incentive a criança a correr, imitando uma coruja.",
     "metadata": {
       "titulo": "Corrida da Coruja",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -840,7 +840,7 @@
     "conteudo": "Descrição: Use uma baleia de pelúcia. Incentive a criança a correr, imitando uma baleia.",
     "metadata": {
       "titulo": "Corrida da Baleia",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -851,7 +851,7 @@
     "conteudo": "Descrição: Use um golfinho de pelúcia. Incentive a criança a correr, imitando um golfinho.",
     "metadata": {
       "titulo": "Corrida do Golfinho",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -862,7 +862,7 @@
     "conteudo": "Descrição: Use um urso polar de pelúcia. Incentive a criança a correr, imitando um urso polar.",
     "metadata": {
       "titulo": "Corrida do Urso Polar",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -873,7 +873,7 @@
     "conteudo": "Descrição: Use um lobo de pelúcia. Incentive a criança a correr, imitando um lobo.",
     "metadata": {
       "titulo": "Corrida do Lobo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -884,7 +884,7 @@
     "conteudo": "Descrição: Use uma arara de pelúcia. Incentive a criança a correr, imitando uma arara.",
     "metadata": {
       "titulo": "Corrida da Arara",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -895,7 +895,7 @@
     "conteudo": "Descrição: Use um tucano de pelúcia. Incentive a criança a correr, imitando um tucano.",
     "metadata": {
       "titulo": "Corrida do Tucano",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -906,7 +906,7 @@
     "conteudo": "Descrição: Use um sapo de pelúcia. Incentive a criança a correr, imitando um sapo.",
     "metadata": {
       "titulo": "Corrida do Sapo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -917,7 +917,7 @@
     "conteudo": "Descrição: Use uma cobra de pelúcia. Incentive a criança a correr, imitando uma cobra.",
     "metadata": {
       "titulo": "Corrida da Cobra",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -928,7 +928,7 @@
     "conteudo": "Descrição: Use um jacaré de pelúcia. Incentive a criança a correr, imitando um jacaré.",
     "metadata": {
       "titulo": "Corrida do Jacaré",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -939,7 +939,7 @@
     "conteudo": "Descrição: Use um crocodilo de pelúcia. Incentive a criança a correr, imitando um crocodilo.",
     "metadata": {
       "titulo": "Corrida do Crocodilo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -950,7 +950,7 @@
     "conteudo": "Descrição: Use um dinossauro de pelúcia. Incentive a criança a correr, imitando um dinossauro.",
     "metadata": {
       "titulo": "Corrida do Dinossauro",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -961,7 +961,7 @@
     "conteudo": "Descrição: Use um dragão de pelúcia. Incentive a criança a correr, imitando um dragão.",
     "metadata": {
       "titulo": "Corrida do Dragão",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -972,7 +972,7 @@
     "conteudo": "Descrição: Use um unicórnio de pelúcia. Incentive a criança a correr, imitando um unicórnio.",
     "metadata": {
       "titulo": "Corrida do Unicórnio",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -983,7 +983,7 @@
     "conteudo": "Descrição: Use um cavalo de pelúcia. Incentive a criança a correr, imitando um cavalo.",
     "metadata": {
       "titulo": "Corrida do Cavalo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -994,7 +994,7 @@
     "conteudo": "Descrição: Use um gato de rua de pelúcia. Incentive a criança a correr, imitando um gato.",
     "metadata": {
       "titulo": "Corrida do Gato de Rua",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1005,7 +1005,7 @@
     "conteudo": "Descrição: Incentive a criança a correr com os braços abertos, como os raios do sol.",
     "metadata": {
       "titulo": "Corrida do Sol",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1016,7 +1016,7 @@
     "conteudo": "Descrição: Incentive a criança a correr, imitando a lua.",
     "metadata": {
       "titulo": "Corrida da Lua",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1027,7 +1027,7 @@
     "conteudo": "Descrição: Incentive a criança a correr, imitando uma estrela.",
     "metadata": {
       "titulo": "Corrida da Estrela",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1038,7 +1038,7 @@
     "conteudo": "Descrição: Incentive a criança a correr, imitando as gotas de chuva.",
     "metadata": {
       "titulo": "Corrida da Chuva",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1049,7 +1049,7 @@
     "conteudo": "Descrição: Incentive a criança a correr, imitando o vento.",
     "metadata": {
       "titulo": "Corrida do Vento",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1060,7 +1060,7 @@
     "conteudo": "Descrição: Incentive a criança a correr, imitando as chamas.",
     "metadata": {
       "titulo": "Corrida do Fogo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1071,7 +1071,7 @@
     "conteudo": "Descrição: Incentive a criança a correr, imitando as ondas.",
     "metadata": {
       "titulo": "Corrida da Água",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1082,7 +1082,7 @@
     "conteudo": "Descrição: Incentive a criança a correr, imitando os flocos de neve.",
     "metadata": {
       "titulo": "Corrida da Neve",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1093,7 +1093,7 @@
     "conteudo": "Descrição: Incentive a criança a correr, imitando o gelo.",
     "metadata": {
       "titulo": "Corrida do Gelo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1104,7 +1104,7 @@
     "conteudo": "Descrição: Balance a criança suavemente e cante uma música. Incentive-a a movimentar o corpo no ritmo para continuar o balanço.",
     "metadata": {
       "titulo": "Balanço da Canção",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1115,7 +1115,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, com os braços abertos, como se estivesse voando.",
     "metadata": {
       "titulo": "Balanço do Avião",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1126,7 +1126,7 @@
     "conteudo": "Descrição: Segure a corrente do balanço e incentive a criança a empurrar com as pernas para manter o movimento.",
     "metadata": {
       "titulo": "Balanço da Corrente",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1137,7 +1137,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como um pássaro que voa.",
     "metadata": {
       "titulo": "Balanço do Pássaro",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1148,7 +1148,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo de forma rígida para frente e para trás, como um robô.",
     "metadata": {
       "titulo": "Balanço do Robô",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1159,7 +1159,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, imitando um caranguejo.",
     "metadata": {
       "titulo": "Balanço do Caranguejo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1170,7 +1170,7 @@
     "conteudo": "Descrição: Coloque uma música animada. Incentive a criança a mover o corpo no ritmo da música para manter o balanço.",
     "metadata": {
       "titulo": "Balanço da Música",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1181,7 +1181,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como se estivesse em um cavalo.",
     "metadata": {
       "titulo": "Balanço do Cavalo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1192,7 +1192,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como se estivesse em uma árvore.",
     "metadata": {
       "titulo": "Balanço do Macaco",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1203,7 +1203,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como um pato que nada.",
     "metadata": {
       "titulo": "Balanço do Pato",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1214,7 +1214,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo devagar para frente e para trás, como uma tartaruga.",
     "metadata": {
       "titulo": "Balanço da Tartaruga",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1225,7 +1225,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como um leão que anda.",
     "metadata": {
       "titulo": "Balanço do Leão",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1236,7 +1236,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como um tigre que anda.",
     "metadata": {
       "titulo": "Balanço do Tigre",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1247,7 +1247,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como um urso que anda.",
     "metadata": {
       "titulo": "Balanço do Urso",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1258,7 +1258,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como uma girafa que anda.",
     "metadata": {
       "titulo": "Balanço da Girafa",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1269,7 +1269,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como uma zebra que anda.",
     "metadata": {
       "titulo": "Balanço da Zebra",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1280,7 +1280,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo de um lado para o outro, como um pinguim.",
     "metadata": {
       "titulo": "Balanço do Pinguim",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1291,7 +1291,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como uma raposa que corre.",
     "metadata": {
       "titulo": "Balanço da Raposa",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1302,7 +1302,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como uma coruja que voa.",
     "metadata": {
       "titulo": "Balanço da Coruja",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1313,7 +1313,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como um golfinho que nada.",
     "metadata": {
       "titulo": "Balanço do Golfinho",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1324,7 +1324,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como um urso polar que anda.",
     "metadata": {
       "titulo": "Balanço do Urso Polar",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1335,7 +1335,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como um lobo que corre.",
     "metadata": {
       "titulo": "Balanço do Lobo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1346,7 +1346,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como uma arara que voa.",
     "metadata": {
       "titulo": "Balanço da Arara",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1357,7 +1357,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como um tucano que voa.",
     "metadata": {
       "titulo": "Balanço do Tucano",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1368,7 +1368,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como um sapo que pula.",
     "metadata": {
       "titulo": "Balanço do Sapo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1379,7 +1379,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como uma cobra que rasteja.",
     "metadata": {
       "titulo": "Balanço da Cobra",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1390,7 +1390,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como um jacaré que anda.",
     "metadata": {
       "titulo": "Balanço do Jacaré",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1401,7 +1401,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como um crocodilo que anda.",
     "metadata": {
       "titulo": "Balanço do Crocodilo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1412,7 +1412,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como um dinossauro que anda.",
     "metadata": {
       "titulo": "Balanço do Dinossauro",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1423,7 +1423,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como um dragão que voa.",
     "metadata": {
       "titulo": "Balanço do Dragão",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1434,7 +1434,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como um unicórnio que corre.",
     "metadata": {
       "titulo": "Balanço do Unicórnio",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1445,7 +1445,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como um cavalo que galopa.",
     "metadata": {
       "titulo": "Balanço do Cavalo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1456,7 +1456,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como um gato que anda.",
     "metadata": {
       "titulo": "Balanço do Gato de Rua",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1467,7 +1467,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como os raios do sol.",
     "metadata": {
       "titulo": "Balanço do Sol",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1478,7 +1478,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como a lua que se move.",
     "metadata": {
       "titulo": "Balanço da Lua",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1489,7 +1489,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como uma estrela que brilha.",
     "metadata": {
       "titulo": "Balanço da Estrela",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1500,7 +1500,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como as gotas de chuva.",
     "metadata": {
       "titulo": "Balanço da Chuva",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1511,7 +1511,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como o vento.",
     "metadata": {
       "titulo": "Balanço do Vento",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1522,7 +1522,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como as chamas.",
     "metadata": {
       "titulo": "Balanço do Fogo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1533,7 +1533,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como as ondas.",
     "metadata": {
       "titulo": "Balanço da Água",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1544,7 +1544,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como os flocos de neve.",
     "metadata": {
       "titulo": "Balanço da Neve",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1555,7 +1555,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como o gelo.",
     "metadata": {
       "titulo": "Balanço do Gelo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1566,7 +1566,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como o planeta que gira.",
     "metadata": {
       "titulo": "Balanço da Terra",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1577,7 +1577,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como as folhas de uma planta.",
     "metadata": {
       "titulo": "Balanço da Planta",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1588,7 +1588,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como as pétalas de uma flor.",
     "metadata": {
       "titulo": "Balanço da Flor",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1599,7 +1599,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como os galhos de uma árvore.",
     "metadata": {
       "titulo": "Balanço da Árvore",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1610,7 +1610,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como os animais da floresta.",
     "metadata": {
       "titulo": "Balanço da Floresta",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1621,7 +1621,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como os animais da fazenda.",
     "metadata": {
       "titulo": "Balanço da Fazenda",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1632,7 +1632,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como os carros e as pessoas da cidade.",
     "metadata": {
       "titulo": "Balanço da Cidade",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1643,7 +1643,7 @@
     "conteudo": "Descrição: Incentive a criança a se sentar no balanço e a mover o corpo para frente e para trás, como os trapezistas do circo.",
     "metadata": {
       "titulo": "Balanço do Circo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1654,7 +1654,7 @@
     "conteudo": "Descrição: Incentive a criança a subir o escorregador usando as pernas e as mãos. Fique ao lado dela para dar apoio.",
     "metadata": {
       "titulo": "A Escalada da Montanha Mágica",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1665,7 +1665,7 @@
     "conteudo": "Descrição: Coloque um brinquedo favorito no final do escorregador. Incentive a criança a subir para pegar o tesouro.",
     "metadata": {
       "titulo": "A Descida do Tesouro",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1676,7 +1676,7 @@
     "conteudo": "Descrição: Cante uma música sobre subir e descer. Incentive a criança a subir e descer no ritmo da música.",
     "metadata": {
       "titulo": "A Dança do Sobe e Desce",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1687,7 +1687,7 @@
     "conteudo": "Descrição: Incentive a criança a subir o escorregador de costas, como um caranguejo.",
     "metadata": {
       "titulo": "O Jogo do Caranguejo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1698,7 +1698,7 @@
     "conteudo": "Descrição: Crie um túnel com as pernas ou com almofadas. Incentive a criança a subir e a descer pelo túnel.",
     "metadata": {
       "titulo": "O Túnel Mágico",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1709,7 +1709,7 @@
     "conteudo": "Descrição: Use a escada do escorregador. Incentive a criança a subir a escada, como se estivesse subindo em uma árvore.",
     "metadata": {
       "titulo": "A Escalada da Árvore",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1720,7 +1720,7 @@
     "conteudo": "Descrição: Incentive a criança a subir e a descer pelo escorregador, como um gato.",
     "metadata": {
       "titulo": "O Jogo do Gato",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1731,7 +1731,7 @@
     "conteudo": "Descrição: Use um balde de brinquedo. Incentive a criança a subir e a descer pelo escorregador, como se estivesse em um barco.",
     "metadata": {
       "titulo": "A Descida do Barco",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1742,7 +1742,7 @@
     "conteudo": "Descrição: Incentive a criança a subir e a descer pelo escorregador, como um pássaro que voa.",
     "metadata": {
       "titulo": "O Jogo do Pássaro",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1753,7 +1753,7 @@
     "conteudo": "Descrição: Use a escada do escorregador. Incentive a criança a subir a escada, como se estivesse subindo em um castelo.",
     "metadata": {
       "titulo": "A Escalada do Castelo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1764,7 +1764,7 @@
     "conteudo": "Descrição: Incentive a criança a subir e a descer pelo escorregador de forma rígida, como um robô.",
     "metadata": {
       "titulo": "O Jogo do Robô",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1775,7 +1775,7 @@
     "conteudo": "Descrição: Incentive a criança a subir e a descer pelo escorregador, como um elefante.",
     "metadata": {
       "titulo": "A Descida do Elefante",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1786,7 +1786,7 @@
     "conteudo": "Descrição: Incentive a criança a subir e a descer pelo escorregador, como um pato que nada.",
     "metadata": {
       "titulo": "O Jogo do Pato",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1797,7 +1797,7 @@
     "conteudo": "Descrição: Use a escada do escorregador. Incentive a criança a subir a escada devagar, como uma tartaruga.",
     "metadata": {
       "titulo": "A Escalada da Tartaruga",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1808,7 +1808,7 @@
     "conteudo": "Descrição: Incentive a criança a subir e a descer pelo escorregador, como um leão.",
     "metadata": {
       "titulo": "O Jogo do Leão",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1819,7 +1819,7 @@
     "conteudo": "Descrição: Use a escada do escorregador. Incentive a criança a subir a escada, como um tigre.",
     "metadata": {
       "titulo": "A Escalada do Tigre",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1830,7 +1830,7 @@
     "conteudo": "Descrição: Incentive a criança a subir e a descer pelo escorregador, como um urso.",
     "metadata": {
       "titulo": "O Jogo do Urso",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1841,7 +1841,7 @@
     "conteudo": "Descrição: Use a escada do escorregador. Incentive a criança a subir a escada, como uma girafa.",
     "metadata": {
       "titulo": "A Escalada da Girafa",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1852,7 +1852,7 @@
     "conteudo": "Descrição: Incentive a criança a subir e a descer pelo escorregador, como um macaco.",
     "metadata": {
       "titulo": "O Jogo do Macaco",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1863,7 +1863,7 @@
     "conteudo": "Descrição: Use a escada do escorregador. Incentive a criança a subir a escada, como uma zebra.",
     "metadata": {
       "titulo": "A Escalada da Zebra",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1874,7 +1874,7 @@
     "conteudo": "Descrição: Incentive a criança a subir e a descer pelo escorregador, como um pinguim.",
     "metadata": {
       "titulo": "O Jogo do Pinguim",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1885,7 +1885,7 @@
     "conteudo": "Descrição: Use a escada do escorregador. Incentive a criança a subir a escada, como uma raposa.",
     "metadata": {
       "titulo": "A Escalada da Raposa",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1896,7 +1896,7 @@
     "conteudo": "Descrição: Incentive a criança a subir e a descer pelo escorregador, como uma coruja.",
     "metadata": {
       "titulo": "O Jogo da Coruja",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1907,7 +1907,7 @@
     "conteudo": "Descrição: Use a escada do escorregador. Incentive a criança a subir a escada, como uma baleia.",
     "metadata": {
       "titulo": "A Escalada da Baleia",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1918,7 +1918,7 @@
     "conteudo": "Descrição: Incentive a criança a subir e a descer pelo escorregador, como um golfinho.",
     "metadata": {
       "titulo": "O Jogo do Golfinho",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1929,7 +1929,7 @@
     "conteudo": "Descrição: Use a escada do escorregador. Incentive a criança a subir a escada, como um urso polar.",
     "metadata": {
       "titulo": "A Escalada do Urso Polar",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1940,7 +1940,7 @@
     "conteudo": "Descrição: Incentive a criança a subir e a descer pelo escorregador, como um lobo.",
     "metadata": {
       "titulo": "O Jogo do Lobo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1951,7 +1951,7 @@
     "conteudo": "Descrição: Use a escada do escorregador. Incentive a criança a subir a escada, como uma arara.",
     "metadata": {
       "titulo": "A Escalada da Arara",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1962,7 +1962,7 @@
     "conteudo": "Descrição: Incentive a criança a subir e a descer pelo escorregador, como um tucano.",
     "metadata": {
       "titulo": "O Jogo do Tucano",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1973,7 +1973,7 @@
     "conteudo": "Descrição: Use a escada do escorregador. Incentive a criança a subir a escada, como um sapo.",
     "metadata": {
       "titulo": "A Escalada do Sapo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1984,7 +1984,7 @@
     "conteudo": "Descrição: Incentive a criança a subir e a descer pelo escorregador, como uma cobra.",
     "metadata": {
       "titulo": "O Jogo da Cobra",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -1995,7 +1995,7 @@
     "conteudo": "Descrição: Use a escada do escorregador. Incentive a criança a subir a escada, como um jacaré.",
     "metadata": {
       "titulo": "A Escalada do Jacaré",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2006,7 +2006,7 @@
     "conteudo": "Descrição: Incentive a criança a subir e a descer pelo escorregador, como um crocodilo.",
     "metadata": {
       "titulo": "O Jogo do Crocodilo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2017,7 +2017,7 @@
     "conteudo": "Descrição: Use a escada do escorregador. Incentive a criança a subir a escada, como um dinossauro.",
     "metadata": {
       "titulo": "A Escalada do Dinossauro",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2028,7 +2028,7 @@
     "conteudo": "Descrição: Incentive a criança a subir e a descer pelo escorregador, como um dragão.",
     "metadata": {
       "titulo": "O Jogo do Dragão",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2039,7 +2039,7 @@
     "conteudo": "Descrição: Use a escada do escorregador. Incentive a criança a subir a escada, como um unicórnio.",
     "metadata": {
       "titulo": "A Escalada do Unicórnio",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2050,7 +2050,7 @@
     "conteudo": "Descrição: Incentive a criança a subir e a descer pelo escorregador, como um cavalo.",
     "metadata": {
       "titulo": "O Jogo do Cavalo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2061,7 +2061,7 @@
     "conteudo": "Descrição: Use a escada do escorregador. Incentive a criança a subir a escada, como um gato.",
     "metadata": {
       "titulo": "A Escalada do Gato de Rua",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2072,7 +2072,7 @@
     "conteudo": "Descrição: Incentive a criança a subir e a descer pelo escorregador, como os raios do sol.",
     "metadata": {
       "titulo": "O Jogo do Sol",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2083,7 +2083,7 @@
     "conteudo": "Descrição: Use a escada do escorregador. Incentive a criança a subir a escada, como a lua.",
     "metadata": {
       "titulo": "A Escalada da Lua",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2094,7 +2094,7 @@
     "conteudo": "Descrição: Incentive a criança a subir e a descer pelo escorregador, como uma estrela.",
     "metadata": {
       "titulo": "O Jogo da Estrela",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2105,7 +2105,7 @@
     "conteudo": "Descrição: Use a escada do escorregador. Incentive a criança a subir a escada, como as gotas de chuva.",
     "metadata": {
       "titulo": "A Escalada da Chuva",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2116,7 +2116,7 @@
     "conteudo": "Descrição: Incentive a criança a subir e a descer pelo escorregador, como o vento.",
     "metadata": {
       "titulo": "O Jogo do Vento",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2127,7 +2127,7 @@
     "conteudo": "Descrição: Use a escada do escorregador. Incentive a criança a subir a escada, como o fogo.",
     "metadata": {
       "titulo": "A Escalada do Fogo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2138,7 +2138,7 @@
     "conteudo": "Descrição: Incentive a criança a subir e a descer pelo escorregador, como a água.",
     "metadata": {
       "titulo": "O Jogo da Água",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2149,7 +2149,7 @@
     "conteudo": "Descrição: Use a escada do escorregador. Incentive a criança a subir a escada, como a neve.",
     "metadata": {
       "titulo": "A Escalada da Neve",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2160,7 +2160,7 @@
     "conteudo": "Descrição: Incentive a criança a subir e a descer pelo escorregador, como o gelo.",
     "metadata": {
       "titulo": "O Jogo do Gelo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2171,7 +2171,7 @@
     "conteudo": "Descrição: Use a escada do escorregador. Incentive a criança a subir a escada, como a terra.",
     "metadata": {
       "titulo": "A Escalada da Terra",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2182,7 +2182,7 @@
     "conteudo": "Descrição: Incentive a criança a subir e a descer pelo escorregador, como uma planta.",
     "metadata": {
       "titulo": "O Jogo da Planta",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2193,7 +2193,7 @@
     "conteudo": "Descrição: Use a escada do escorregador. Incentive a criança a subir a escada, como uma flor.",
     "metadata": {
       "titulo": "A Escalada da Flor",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2204,7 +2204,7 @@
     "conteudo": "Descrição: Use a escada de um escorregador. Incentive a criança a subir, colocando um pé em cada degrau, com o seu apoio.",
     "metadata": {
       "titulo": "A Escalada da Montanha Mágica",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2215,7 +2215,7 @@
     "conteudo": "Descrição: Cole adesivos de cores diferentes nos degraus. Incentive a criança a alternar os pés, colocando-os nas cores indicadas.",
     "metadata": {
       "titulo": "O Jogo dos Pés de Cores",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2226,7 +2226,7 @@
     "conteudo": "Descrição: Cante uma música sobre monstros enquanto a criança sobe a escada, incentivando-a a usar os dois pés.",
     "metadata": {
       "titulo": "A Escalada do Monstro",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2237,7 +2237,7 @@
     "conteudo": "Descrição: Use um telefone de brinquedo. Incentive a criança a subir a escada para \"conversar\" com você, alternando os pés.",
     "metadata": {
       "titulo": "O Jogo do Telefone",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2248,7 +2248,7 @@
     "conteudo": "Descrição: Use a escada do escorregador. Incentive a criança a subir a escada, como se estivesse subindo em um castelo.",
     "metadata": {
       "titulo": "A Escalada do Castelo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2259,7 +2259,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, imitando os pés de um animal (elefante, urso, etc.).",
     "metadata": {
       "titulo": "O Jogo dos Pés de Animal",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2270,7 +2270,7 @@
     "conteudo": "Descrição: Use a escada do escorregador. Incentive a criança a subir a escada, como se estivesse subindo em uma árvore.",
     "metadata": {
       "titulo": "A Escalada da Árvore",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2281,7 +2281,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada de costas, colocando um pé em cada degrau.",
     "metadata": {
       "titulo": "O Jogo do Caranguejo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2292,7 +2292,7 @@
     "conteudo": "Descrição: Use a escada do escorregador. Incentive a criança a subir a escada, como se estivesse em um barco.",
     "metadata": {
       "titulo": "A Escalada do Barco",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2303,7 +2303,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, balançando os braços como asas.",
     "metadata": {
       "titulo": "O Jogo do Pássaro",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2314,7 +2314,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada de forma rígida, como um robô, alternando os pés.",
     "metadata": {
       "titulo": "A Escalada do Robô",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2325,7 +2325,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, balançando o corpo de um lado para o outro, como um pato.",
     "metadata": {
       "titulo": "O Jogo do Patinho",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2336,7 +2336,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada devagar, como uma tartaruga.",
     "metadata": {
       "titulo": "A Escalada da Tartaruga",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2347,7 +2347,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, imitando um leão.",
     "metadata": {
       "titulo": "O Jogo do Leão",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2358,7 +2358,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, imitando um tigre.",
     "metadata": {
       "titulo": "A Escalada do Tigre",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2369,7 +2369,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, imitando um urso.",
     "metadata": {
       "titulo": "O Jogo do Urso",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2380,7 +2380,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, com os braços estendidos para cima, como uma girafa.",
     "metadata": {
       "titulo": "A Escalada da Girafa",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2391,7 +2391,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, balançando os braços, como um macaco.",
     "metadata": {
       "titulo": "O Jogo do Macaco",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2402,7 +2402,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, alternando os pés, como uma zebra.",
     "metadata": {
       "titulo": "A Escalada da Zebra",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2413,7 +2413,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, balançando o corpo de um lado para o outro.",
     "metadata": {
       "titulo": "O Jogo do Pinguim",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2424,7 +2424,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, alternando os pés, como uma raposa.",
     "metadata": {
       "titulo": "A Escalada da Raposa",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2435,7 +2435,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, imitando uma coruja.",
     "metadata": {
       "titulo": "O Jogo da Coruja",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2446,7 +2446,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, imitando uma baleia.",
     "metadata": {
       "titulo": "A Escalada da Baleia",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2457,7 +2457,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, imitando um golfinho.",
     "metadata": {
       "titulo": "O Jogo do Golfinho",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2468,7 +2468,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, imitando um urso polar.",
     "metadata": {
       "titulo": "A Escalada do Urso Polar",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2479,7 +2479,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, imitando um lobo.",
     "metadata": {
       "titulo": "O Jogo do Lobo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2490,7 +2490,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, imitando uma arara.",
     "metadata": {
       "titulo": "A Escalada da Arara",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2501,7 +2501,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, imitando um tucano.",
     "metadata": {
       "titulo": "O Jogo do Tucano",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2512,7 +2512,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, pulando como um sapo.",
     "metadata": {
       "titulo": "A Escalada do Sapo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2523,7 +2523,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, imitando uma cobra.",
     "metadata": {
       "titulo": "O Jogo da Cobra",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2534,7 +2534,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, imitando um jacaré.",
     "metadata": {
       "titulo": "A Escalada do Jacaré",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2545,7 +2545,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, imitando um crocodilo.",
     "metadata": {
       "titulo": "O Jogo do Crocodilo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2556,7 +2556,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, imitando um dinossauro.",
     "metadata": {
       "titulo": "A Escalada do Dinossauro",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2567,7 +2567,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, imitando um dragão.",
     "metadata": {
       "titulo": "O Jogo do Dragão",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2578,7 +2578,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, imitando um unicórnio.",
     "metadata": {
       "titulo": "A Escalada do Unicórnio",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2589,7 +2589,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, imitando um cavalo.",
     "metadata": {
       "titulo": "O Jogo do Cavalo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2600,7 +2600,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, imitando um gato.",
     "metadata": {
       "titulo": "A Escalada do Gato de Rua",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2611,7 +2611,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, com os braços abertos, como os raios do sol.",
     "metadata": {
       "titulo": "O Jogo do Sol",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2622,7 +2622,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, como a lua.",
     "metadata": {
       "titulo": "A Escalada da Lua",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2633,7 +2633,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, como uma estrela.",
     "metadata": {
       "titulo": "O Jogo da Estrela",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2644,7 +2644,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, imitando as gotas de chuva.",
     "metadata": {
       "titulo": "A Escalada da Chuva",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2655,7 +2655,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, imitando o vento.",
     "metadata": {
       "titulo": "O Jogo do Vento",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2666,7 +2666,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, imitando o fogo.",
     "metadata": {
       "titulo": "A Escalada do Fogo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2677,7 +2677,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, imitando a água.",
     "metadata": {
       "titulo": "O Jogo da Água",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2688,7 +2688,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, imitando a neve.",
     "metadata": {
       "titulo": "A Escalada da Neve",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2699,7 +2699,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, imitando o gelo.",
     "metadata": {
       "titulo": "O Jogo do Gelo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2710,7 +2710,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, imitando a terra.",
     "metadata": {
       "titulo": "A Escalada da Terra",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2721,7 +2721,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, imitando uma planta.",
     "metadata": {
       "titulo": "O Jogo da Planta",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2732,7 +2732,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, imitando uma flor.",
     "metadata": {
       "titulo": "A Escalada da Flor",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2743,7 +2743,7 @@
     "conteudo": "Descrição: Incentive a criança a subir a escada, imitando uma árvore.",
     "metadata": {
       "titulo": "O Jogo da Árvore",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2754,7 +2754,7 @@
     "conteudo": "Descrição: Sente-se a uma curta distância da criança. Jogue uma bola grande e macia para ela, incentivando-a a apanhá-la com as duas mãos.",
     "metadata": {
       "titulo": "A Bola Mágica",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2765,7 +2765,7 @@
     "conteudo": "Descrição: Use um balão. Jogue-o suavemente para a criança, incentivando-a a apanhá-lo com as duas mãos.",
     "metadata": {
       "titulo": "O Pega-Pega do Balão",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2776,7 +2776,7 @@
     "conteudo": "Descrição: Use uma bola leve e de espuma. Jogue-a suavemente para a criança, incentivando-a a apanhá-la com as duas mãos.",
     "metadata": {
       "titulo": "A Bola que Voa",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2787,7 +2787,7 @@
     "conteudo": "Descrição: Use uma roda de brinquedo. Role-a lentamente para a criança. Incentive-a a apanhá-la com as duas mãos.",
     "metadata": {
       "titulo": "O Jogo da Roda",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2798,7 +2798,7 @@
     "conteudo": "Descrição: Use um avião de brinquedo. Lance-o suavemente para a criança, incentivando-a a apanhá-lo com as duas mãos.",
     "metadata": {
       "titulo": "O Lançamento do Avião",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2809,7 +2809,7 @@
     "conteudo": "Descrição: Use um carro de brinquedo. Role-o para a criança. Incentive-a a apanhá-lo com as duas mãos.",
     "metadata": {
       "titulo": "O Jogo do Carro",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2820,7 +2820,7 @@
     "conteudo": "Descrição: Use uma bola que salta. Jogue-a no chão, para que ela salte e volte para a criança. Incentive-a a apanhá-la com as duas mãos.",
     "metadata": {
       "titulo": "A Bola que Salta",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2831,7 +2831,7 @@
     "conteudo": "Descrição: Use um pato de borracha. Jogue-o suavemente para a criança, incentivando-a a apanhá-lo com as duas mãos.",
     "metadata": {
       "titulo": "O Jogo do Pato",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2842,7 +2842,7 @@
     "conteudo": "Descrição: Use bolas de algodão. Jogue-as suavemente para a criança, incentivando-a a apanhá-las com as duas mãos.",
     "metadata": {
       "titulo": "A Bola de Neve Mágica",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2853,7 +2853,7 @@
     "conteudo": "Descrição: Use um coelho de pelúcia. Jogue-o suavemente para a criança, incentivando-a a apanhá-lo com as duas mãos.",
     "metadata": {
       "titulo": "O Jogo do Coelhinho",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2864,7 +2864,7 @@
     "conteudo": "Descrição: Use uma bola de papel amassada. Jogue-a suavemente para a criança, incentivando-a a apanhá-la com as duas mãos.",
     "metadata": {
       "titulo": "A Bola de Papel",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2875,7 +2875,7 @@
     "conteudo": "Descrição: Use um cachorro de pelúcia. Jogue-o suavemente para a criança, incentivando-a a apanhá-lo com as duas mãos.",
     "metadata": {
       "titulo": "O Jogo do Cachorrinho",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2886,7 +2886,7 @@
     "conteudo": "Descrição: Use uma bola de tecido. Jogue-a suavemente para a criança, incentivando-a a apanhá-la com as duas mãos.",
     "metadata": {
       "titulo": "A Bola de Tecido",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2897,7 +2897,7 @@
     "conteudo": "Descrição: Use um pinguim de pelúcia. Jogue-o suavemente para a criança, incentivando-a a apanhá-lo com as duas mãos.",
     "metadata": {
       "titulo": "O Jogo do Pinguim",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2908,7 +2908,7 @@
     "conteudo": "Descrição: Use uma bola de lã. Jogue-a suavemente para a criança, incentivando-a a apanhá-la com as duas mãos.",
     "metadata": {
       "titulo": "A Bola de Lã",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2919,7 +2919,7 @@
     "conteudo": "Descrição: Use uma raposa de pelúcia. Jogue-a suavemente para a criança, incentivando-a a apanhá-la com as duas mãos.",
     "metadata": {
       "titulo": "O Jogo da Raposa",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2930,7 +2930,7 @@
     "conteudo": "Descrição: Use uma bola de corda. Jogue-a suavemente para a criança, incentivando-a a apanhá-la com as duas mãos.",
     "metadata": {
       "titulo": "A Bola de Corda",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2941,7 +2941,7 @@
     "conteudo": "Descrição: Use uma tartaruga de pelúcia. Jogue-a suavemente para a criança, incentivando-a a apanhá-la com as duas mãos.",
     "metadata": {
       "titulo": "O Jogo da Tartaruga",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2952,7 +2952,7 @@
     "conteudo": "Descrição: Use uma bola de borracha. Jogue-a suavemente para a criança, incentivando-a a apanhá-la com as duas mãos.",
     "metadata": {
       "titulo": "A Bola de Borracha",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2963,7 +2963,7 @@
     "conteudo": "Descrição: Use um leão de pelúcia. Jogue-o suavemente para a criança, incentivando-a a apanhá-lo com as duas mãos.",
     "metadata": {
       "titulo": "O Jogo do Leão",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2974,7 +2974,7 @@
     "conteudo": "Descrição: Use uma bola de voleibol pequena. Jogue-a suavemente para a criança, incentivando-a a apanhá-la com as duas mãos.",
     "metadata": {
       "titulo": "A Bola de Voleibol",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2985,7 +2985,7 @@
     "conteudo": "Descrição: Use um urso de pelúcia. Jogue-o suavemente para a criança, incentivando-a a apanhá-lo com as duas mãos.",
     "metadata": {
       "titulo": "O Jogo do Urso",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -2996,7 +2996,7 @@
     "conteudo": "Descrição: Use uma bola de futebol pequena. Jogue-a suavemente para a criança, incentivando-a a apanhá-la com as duas mãos.",
     "metadata": {
       "titulo": "A Bola de Futebol",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3007,7 +3007,7 @@
     "conteudo": "Descrição: Use uma coruja de pelúcia. Jogue-a suavemente para a criança, incentivando-a a apanhá-la com as duas mãos.",
     "metadata": {
       "titulo": "O Jogo da Coruja",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3018,7 +3018,7 @@
     "conteudo": "Descrição: Use uma bola de basquete pequena. Jogue-a suavemente para a criança, incentivando-a a apanhá-la com as duas mãos.",
     "metadata": {
       "titulo": "A Bola de Basquete",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3029,7 +3029,7 @@
     "conteudo": "Descrição: Use uma baleia de pelúcia. Jogue-a suavemente para a criança, incentivando-a a apanhá-la com as duas mãos.",
     "metadata": {
       "titulo": "O Jogo da Baleia",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3040,7 +3040,7 @@
     "conteudo": "Descrição: Use uma bola de pano. Jogue-a suavemente para a criança, incentivando-a a apanhá-la com as duas mãos.",
     "metadata": {
       "titulo": "A Bola de Pano",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3051,7 +3051,7 @@
     "conteudo": "Descrição: Use um golfinho de pelúcia. Jogue-o suavemente para a criança, incentivando-a a apanhá-lo com as duas mãos.",
     "metadata": {
       "titulo": "O Jogo do Golfinho",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3062,7 +3062,7 @@
     "conteudo": "Descrição: Use uma bola que rola. Jogue-a para o chão, para que ela role para a criança. Incentive-a a apanhá-la com as duas mãos.",
     "metadata": {
       "titulo": "A Bola de Rola",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3073,7 +3073,7 @@
     "conteudo": "Descrição: Use uma fruta de brinquedo. Jogue-a suavemente para a criança, incentivando-a a apanhá-la com as duas mãos.",
     "metadata": {
       "titulo": "O Jogo da Fruta",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3084,7 +3084,7 @@
     "conteudo": "Descrição: Use uma bola de pelúcia. Jogue-a suavemente para a criança, incentivando-a a apanhá-la com as duas mãos.",
     "metadata": {
       "titulo": "A Bola de Pelúcia",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3095,7 +3095,7 @@
     "conteudo": "Descrição: Use um vegetal de brinquedo. Jogue-o suavemente para a criança, incentivando-a a apanhá-lo com as duas mãos.",
     "metadata": {
       "titulo": "O Jogo do Vegetal",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3106,7 +3106,7 @@
     "conteudo": "Descrição: Use uma bola de encaixe. Jogue-a suavemente para a criança, incentivando-a a apanhá-la com as duas mãos.",
     "metadata": {
       "titulo": "A Bola de Encaixe",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3117,7 +3117,7 @@
     "conteudo": "Descrição: Use um animal de pelúcia. Jogue-o suavemente para a criança, incentivando-a a apanhá-lo com as duas mãos.",
     "metadata": {
       "titulo": "O Jogo do Animal",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3128,7 +3128,7 @@
     "conteudo": "Descrição: Use uma bola com sinos dentro. Jogue-a suavemente para a criança, incentivando-a a apanhá-la com as duas mãos.",
     "metadata": {
       "titulo": "A Bola de Sinos",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3139,7 +3139,7 @@
     "conteudo": "Descrição: Use uma flor de tecido. Jogue-a suavemente para a criança, incentivando-a a apanhá-la com as duas mãos.",
     "metadata": {
       "titulo": "O Jogo da Flor",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3150,7 +3150,7 @@
     "conteudo": "Descrição: Use uma bola com luzes. Jogue-a suavemente para a criança, incentivando-a a apanhá-la com as duas mãos.",
     "metadata": {
       "titulo": "A Bola de Luzes",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3161,7 +3161,7 @@
     "conteudo": "Descrição: Use uma fruta e um vegetal de brinquedo. Jogue-os suavemente para a criança, incentivando-a a apanhá-los com as duas mãos.",
     "metadata": {
       "titulo": "O Jogo da Fruta e do Vegetal",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3172,7 +3172,7 @@
     "conteudo": "Descrição: Use uma bola com diferentes texturas. Jogue-a suavemente para a criança, incentivando-a a apanhá-la com as duas mãos.",
     "metadata": {
       "titulo": "A Bola de Texturas",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3183,7 +3183,7 @@
     "conteudo": "Descrição: Use uma comidinha de brinquedo. Jogue-a suavemente para a criança, incentivando-a a apanhá-la com as duas mãos.",
     "metadata": {
       "titulo": "O Jogo da Comidinha",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3194,7 +3194,7 @@
     "conteudo": "Descrição: Use uma bola de borracha que faça som. Jogue-a suavemente para a criança, incentivando-a a apanhá-la com as duas mãos.",
     "metadata": {
       "titulo": "A Bola de Borracha com Som",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3205,7 +3205,7 @@
     "conteudo": "Descrição: Use uma panelinha de brinquedo. Jogue-a suavemente para a criança, incentivando-a a apanhá-la com as duas mãos.",
     "metadata": {
       "titulo": "O Jogo da Panelinha",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3216,7 +3216,7 @@
     "conteudo": "Descrição: Use uma bola de pano com sons. Jogue-a suavemente para a criança, incentivando-a a apanhá-la com as duas mãos.",
     "metadata": {
       "titulo": "A Bola de Pano com Sons",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3227,7 +3227,7 @@
     "conteudo": "Descrição: Use um copo de plástico. Jogue-o suavemente para a criança, incentivando-a a apanhá-lo com as duas mãos.",
     "metadata": {
       "titulo": "O Jogo do Copo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3238,7 +3238,7 @@
     "conteudo": "Descrição: Use uma bola de massinha. Jogue-a suavemente para a criança, incentivando-a a apanhá-la com as duas mãos.",
     "metadata": {
       "titulo": "A Bola de Massinha",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3249,7 +3249,7 @@
     "conteudo": "Descrição: Use um pote de plástico. Jogue-o suavemente para a criança, incentivando-a a apanhá-lo com as duas mãos.",
     "metadata": {
       "titulo": "O Jogo do Pote",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3260,7 +3260,7 @@
     "conteudo": "Descrição: Use uma bola de papelão. Jogue-a suavemente para a criança, incentivando-a a apanhá-la com as duas mãos.",
     "metadata": {
       "titulo": "A Bola de Papelão",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3271,7 +3271,7 @@
     "conteudo": "Descrição: Use uma colher de plástico. Jogue-a suavemente para a criança, incentivando-a a apanhá-la com as duas mãos.",
     "metadata": {
       "titulo": "O Jogo da Colher",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3282,7 +3282,7 @@
     "conteudo": "Descrição: Use uma bola de fita adesiva. Jogue-a suavemente para a criança, incentivando-a a apanhá-la com as duas mãos.",
     "metadata": {
       "titulo": "A Bola de Fita",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3293,7 +3293,7 @@
     "conteudo": "Descrição: Use uma bacia de plástico. Jogue-a suavemente para a criança, incentivando-a a apanhá-la com as duas mãos.",
     "metadata": {
       "titulo": "O Jogo da Bacia",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3304,7 +3304,7 @@
     "conteudo": "Descrição: Desenhe uma linha pontilhada em um papel. Incentive a criança a passar um carrinho de brinquedo sobre o pontilhado.",
     "metadata": {
       "titulo": "O Caminho do Carro",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3315,7 +3315,7 @@
     "conteudo": "Descrição: Use fita adesiva colorida para criar um caminho no chão. Incentive a criança a caminhar sobre a fita.",
     "metadata": {
       "titulo": "A Estrada de Fita",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3326,7 +3326,7 @@
     "conteudo": "Descrição: Desenhe o contorno de uma forma geométrica (círculo, quadrado, etc.). Incentive a criança a cobrir o contorno com botões.",
     "metadata": {
       "titulo": "O Jogo dos Botões",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3337,7 +3337,7 @@
     "conteudo": "Descrição: Use massinha de modelar para fazer um contorno de uma forma. Incentive a criança a passar o dedo sobre o contorno.",
     "metadata": {
       "titulo": "O Contorno de Massinha",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3348,7 +3348,7 @@
     "conteudo": "Descrição: Desenhe um contorno em um espelho inquebrável com giz para vidro. A criança pode passar o dedo sobre o contorno.",
     "metadata": {
       "titulo": "O Desenho no Espelho",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3359,7 +3359,7 @@
     "conteudo": "Descrição: Use pompons pequenos e coloridos. Desenhe uma linha pontilhada. Incentive a criança a cobrir a linha com os pompons.",
     "metadata": {
       "titulo": "O Caminho do Pompom",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3370,7 +3370,7 @@
     "conteudo": "Descrição: Desenhe um contorno circular. Incentive a criança a passar uma roda de brinquedo sobre o contorno.",
     "metadata": {
       "titulo": "O Jogo da Roda",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3381,7 +3381,7 @@
     "conteudo": "Descrição: Desenhe um contorno. Incentive a criança a cobrir o contorno com grãos de feijão, milho ou arroz.",
     "metadata": {
       "titulo": "O Contorno de Grãos",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3392,7 +3392,7 @@
     "conteudo": "Descrição: Desenhe um contorno. Passe cola sobre o contorno. Incentive a criança a passar o dedo sobre a cola.",
     "metadata": {
       "titulo": "A Mágica da Cola",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3403,7 +3403,7 @@
     "conteudo": "Descrição: Desenhe um sol com pontilhados. Incentive a criança a cobrir os pontilhados com giz de cera.",
     "metadata": {
       "titulo": "O Caminho do Sol",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3414,7 +3414,7 @@
     "conteudo": "Descrição: Desenhe uma torre com pontilhados. A criança pode cobrir os pontilhados com giz de cera.",
     "metadata": {
       "titulo": "O Jogo da Torre",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3425,7 +3425,7 @@
     "conteudo": "Descrição: Desenhe o contorno de uma árvore. Incentive a criança a passar o dedo sobre o contorno.",
     "metadata": {
       "titulo": "O Contorno da Árvore",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3436,7 +3436,7 @@
     "conteudo": "Descrição: Desenhe o contorno de uma forma geométrica. Incentive a criança a cobrir o contorno com blocos de espuma.",
     "metadata": {
       "titulo": "O Jogo dos Blocos",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3447,7 +3447,7 @@
     "conteudo": "Descrição: Desenhe o contorno de uma flor. Incentive a criança a cobrir o contorno com pétalas de flores de tecido.",
     "metadata": {
       "titulo": "O Contorno da Flor",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3458,7 +3458,7 @@
     "conteudo": "Descrição: Use fita adesiva. Desenhe um contorno. Incentive a criança a passar o dedo sobre a fita.",
     "metadata": {
       "titulo": "O Jogo da Fita Mágica",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3469,7 +3469,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um animal. Incentive a criança a passar o dedo sobre o contorno.",
     "metadata": {
       "titulo": "O Contorno do Animal",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3480,7 +3480,7 @@
     "conteudo": "Descrição: Desenhe um contorno. Incentive a criança a cobrir o contorno com sementes de abóbora.",
     "metadata": {
       "titulo": "O Jogo da Semente",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3491,7 +3491,7 @@
     "conteudo": "Descrição: Desenhe o contorno de uma fruta. Incentive a criança a passar o dedo sobre o contorno.",
     "metadata": {
       "titulo": "O Contorno da Fruta",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3502,7 +3502,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um círculo. Incentive a criança a cobrir o contorno com botões de rosca.",
     "metadata": {
       "titulo": "O Jogo do Botão de Rosca",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3513,7 +3513,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um vegetal. Incentive a criança a passar o dedo sobre o contorno.",
     "metadata": {
       "titulo": "O Contorno do Vegetal",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3524,7 +3524,7 @@
     "conteudo": "Descrição: Desenhe um caminho com pontilhados. Incentive a criança a passar uma bolinha de gude sobre o caminho.",
     "metadata": {
       "titulo": "O Jogo da Bola de Gude",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3535,7 +3535,7 @@
     "conteudo": "Descrição: Use um objeto. Desenhe o contorno. Incentive a criança a passar o dedo sobre o contorno.",
     "metadata": {
       "titulo": "O Contorno do Objeto",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3546,7 +3546,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um círculo. Incentive a criança a cobrir o contorno com prendedores de roupa pequenos.",
     "metadata": {
       "titulo": "O Jogo do Pregador",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3557,7 +3557,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um barco. Incentive a criança a passar o dedo sobre o contorno.",
     "metadata": {
       "titulo": "O Contorno do Barco",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3568,7 +3568,7 @@
     "conteudo": "Descrição: Desenhe um contorno. Incentive a criança a cobrir o contorno com grãos de café.",
     "metadata": {
       "titulo": "O Jogo dos Grãos de Café",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3579,7 +3579,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um trem. Incentive a criança a passar o dedo sobre o contorno.",
     "metadata": {
       "titulo": "O Contorno do Trem",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3590,7 +3590,7 @@
     "conteudo": "Descrição: Desenhe um contorno. Incentive a criança a cobrir o contorno com fichas de plástico.",
     "metadata": {
       "titulo": "O Jogo das Fichas",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3601,7 +3601,7 @@
     "conteudo": "Descrição: Desenhe o contorno de uma casa. Incentive a criança a passar o dedo sobre o contorno.",
     "metadata": {
       "titulo": "O Contorno da Casa",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3612,7 +3612,7 @@
     "conteudo": "Descrição: Desenhe um contorno. Incentive a criança a cobrir o contorno com pedras de plástico coloridas.",
     "metadata": {
       "titulo": "O Jogo das Pedras Coloridas",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3623,7 +3623,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um avião. Incentive a criança a passar o dedo sobre o contorno.",
     "metadata": {
       "titulo": "O Contorno do Avião",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3634,7 +3634,7 @@
     "conteudo": "Descrição: Desenhe um contorno. Incentive a criança a cobrir o contorno com tampinhas de garrafa.",
     "metadata": {
       "titulo": "O Jogo das Tampinhas",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3645,7 +3645,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um robô. Incentive a criança a passar o dedo sobre o contorno.",
     "metadata": {
       "titulo": "O Contorno do Robô",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3656,7 +3656,7 @@
     "conteudo": "Descrição: Desenhe um contorno. Incentive a criança a cobrir o contorno com mini-bolinhas de plástico.",
     "metadata": {
       "titulo": "O Jogo das Mini-Bolinhas",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3667,7 +3667,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um elefante. Incentive a criança a passar o dedo sobre o contorno.",
     "metadata": {
       "titulo": "O Contorno do Elefante",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3678,7 +3678,7 @@
     "conteudo": "Descrição: Desenhe um contorno. Incentive a criança a cobrir o contorno com cubos de gelo.",
     "metadata": {
       "titulo": "O Jogo dos Cubos de Gelo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3689,7 +3689,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um pato. Incentive a criança a passar o dedo sobre o contorno.",
     "metadata": {
       "titulo": "O Contorno do Pato",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3700,7 +3700,7 @@
     "conteudo": "Descrição: Desenhe um contorno. Incentive a criança a passar um cotonete sobre o contorno.",
     "metadata": {
       "titulo": "O Jogo do Cotonete",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3711,7 +3711,7 @@
     "conteudo": "Descrição: Desenhe o contorno de uma tartaruga. Incentive a criança a passar o dedo sobre o contorno.",
     "metadata": {
       "titulo": "O Contorno da Tartaruga",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3722,7 +3722,7 @@
     "conteudo": "Descrição: Desenhe um contorno. Incentive a criança a cobrir o contorno com macarrão grande.",
     "metadata": {
       "titulo": "O Jogo das Massas de Macarrão",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3733,7 +3733,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um leão. Incentive a criança a passar o dedo sobre o contorno.",
     "metadata": {
       "titulo": "O Contorno do Leão",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3744,7 +3744,7 @@
     "conteudo": "Descrição: Desenhe um contorno. Incentive a criança a cobrir o contorno com sementes de abóbora.",
     "metadata": {
       "titulo": "O Jogo das Sementes de Abóbora",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3755,7 +3755,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um tigre. Incentive a criança a passar o dedo sobre o contorno.",
     "metadata": {
       "titulo": "O Contorno do Tigre",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3766,7 +3766,7 @@
     "conteudo": "Descrição: Desenhe um contorno. Incentive a criança a cobrir o contorno com conchas do mar.",
     "metadata": {
       "titulo": "O Jogo das Conchas do Mar",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3777,7 +3777,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um urso. Incentive a criança a passar o dedo sobre o contorno.",
     "metadata": {
       "titulo": "O Contorno do Urso",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3788,7 +3788,7 @@
     "conteudo": "Descrição: Desenhe um contorno. Incentive a criança a cobrir o contorno com grãos de feijão.",
     "metadata": {
       "titulo": "O Jogo do Feijão",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3799,7 +3799,7 @@
     "conteudo": "Descrição: Desenhe o contorno de uma girafa. Incentive a criança a passar o dedo sobre o contorno.",
     "metadata": {
       "titulo": "O Contorno da Girafa",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3810,7 +3810,7 @@
     "conteudo": "Descrição: Desenhe um contorno. Incentive a criança a cobrir o contorno com grãos de milho.",
     "metadata": {
       "titulo": "O Jogo do Milho",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3821,7 +3821,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um macaco. Incentive a criança a passar o dedo sobre o contorno.",
     "metadata": {
       "titulo": "O Contorno do Macaco",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3832,7 +3832,7 @@
     "conteudo": "Descrição: Desenhe um contorno. Incentive a criança a cobrir o contorno com grãos de arroz.",
     "metadata": {
       "titulo": "O Jogo do Arroz",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3843,7 +3843,7 @@
     "conteudo": "Descrição: Desenhe o contorno de uma zebra. Incentive a criança a passar o dedo sobre o contorno.",
     "metadata": {
       "titulo": "O Contorno da Zebra",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3854,7 +3854,7 @@
     "conteudo": "Descrição: Desenhe o contorno de uma nuvem em um pedaço de papel. Incentive a criança a cortar o contorno, seguindo as curvas.",
     "metadata": {
       "titulo": "O Corte da Nuvem",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3865,7 +3865,7 @@
     "conteudo": "Descrição: Desenhe uma maçã em um papel. A criança pode cortar o contorno, seguindo a forma arredondada.",
     "metadata": {
       "titulo": "O Corte da Maçã",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3876,7 +3876,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um sapo. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte do Sapo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3887,7 +3887,7 @@
     "conteudo": "Descrição: Desenhe uma árvore com folhagem arredondada. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte da Árvore",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3898,7 +3898,7 @@
     "conteudo": "Descrição: Desenhe um sol com pontilhados. Incentive a criança a cortar o contorno, seguindo o pontilhado.",
     "metadata": {
       "titulo": "O Corte do Sol",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3909,7 +3909,7 @@
     "conteudo": "Descrição: Desenhe o contorno de uma lua. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte da Lua",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3920,7 +3920,7 @@
     "conteudo": "Descrição: Desenhe um caracol com pontilhados. A criança pode cortar o contorno, seguindo a espiral.",
     "metadata": {
       "titulo": "O Corte do Caracol",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3931,7 +3931,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um morango. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte do Morango",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3942,7 +3942,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um peixe. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte do Peixe",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3953,7 +3953,7 @@
     "conteudo": "Descrição: Desenhe o contorno de uma joaninha. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte da Joaninha",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3964,7 +3964,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um pássaro. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte do Pássaro",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3975,7 +3975,7 @@
     "conteudo": "Descrição: Desenhe um rosto com olhos, nariz e boca arredondados. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte do Rosto",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3986,7 +3986,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um balão. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte do Balão",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -3997,7 +3997,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um ovo. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte do Ovo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4008,7 +4008,7 @@
     "conteudo": "Descrição: Desenhe o contorno de uma bolha de sabão. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte da Bolha",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4019,7 +4019,7 @@
     "conteudo": "Descrição: Desenhe a cabeça de um gato. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte da Cabeça do Gato",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4030,7 +4030,7 @@
     "conteudo": "Descrição: Desenhe a cabeça de um cachorro. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte da Cabeça do Cachorro",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4041,7 +4041,7 @@
     "conteudo": "Descrição: Desenhe o contorno de uma laranja. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte do Laranja",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4052,7 +4052,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um abacaxi. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte do Abacaxi",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4063,7 +4063,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um melão. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte do Melão",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4074,7 +4074,7 @@
     "conteudo": "Descrição: Desenhe o contorno de uma melancia. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte da Melancia",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4085,7 +4085,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um cacho de uvas. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte da Uva",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4096,7 +4096,7 @@
     "conteudo": "Descrição: Desenhe o contorno de uma pera. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte da Pera",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4107,7 +4107,7 @@
     "conteudo": "Descrição: Desenhe o contorno de uma cenoura. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte da Cenoura",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4118,7 +4118,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um brócolis. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte do Brócolis",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4129,7 +4129,7 @@
     "conteudo": "Descrição: Desenhe o contorno de uma batata. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte da Batata",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4140,7 +4140,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um tomate. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte do Tomate",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4151,7 +4151,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um pão. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte do Pão",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4162,7 +4162,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um bolo. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte do Bolo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4173,7 +4173,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um queijo. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte do Queijo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4184,7 +4184,7 @@
     "conteudo": "Descrição: Desenhe o contorno de uma bolacha. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte da Bolacha",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4195,7 +4195,7 @@
     "conteudo": "Descrição: Desenhe o contorno de uma panqueca. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte da Panqueca",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4206,7 +4206,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um hambúrguer. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte do Hambúrguer",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4217,7 +4217,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um sorvete. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte do Sorvete",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4228,7 +4228,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um picolé. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte do Picolé",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4239,7 +4239,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um chocolate. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte do Chocolate",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4250,7 +4250,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um pirulito. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte do Pirulito",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4261,7 +4261,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um copo. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte do Copo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4272,7 +4272,7 @@
     "conteudo": "Descrição: Desenhe o contorno de uma colher. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte da Colher",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4283,7 +4283,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um garfo. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte do Garfo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4294,7 +4294,7 @@
     "conteudo": "Descrição: Desenhe o contorno de uma faca. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte da Faca",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4305,7 +4305,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um prato. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte do Prato",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4316,7 +4316,7 @@
     "conteudo": "Descrição: Desenhe o contorno de uma cadeira. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte da Cadeira",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4327,7 +4327,7 @@
     "conteudo": "Descrição: Desenhe o contorno de uma mesa. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte da Mesa",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4338,7 +4338,7 @@
     "conteudo": "Descrição: Desenhe o contorno de uma cama. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte da Cama",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4349,7 +4349,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um travesseiro. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte do Travesseiro",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4360,7 +4360,7 @@
     "conteudo": "Descrição: Desenhe o contorno de uma janela. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte da Janela",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4371,7 +4371,7 @@
     "conteudo": "Descrição: Desenhe o contorno de uma porta. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte da Porta",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4382,7 +4382,7 @@
     "conteudo": "Descrição: Desenhe o contorno de uma casa. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte da Casa",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4393,7 +4393,7 @@
     "conteudo": "Descrição: Desenhe o contorno de um telhado. A criança pode cortar o contorno.",
     "metadata": {
       "titulo": "O Corte do Telhado",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4404,7 +4404,7 @@
     "conteudo": "Descrição: Use uma garrafa de plástico. Incentive a criança a girar a tampa para abrir a garrafa, como se estivesse abrindo um \"pote mágico\".",
     "metadata": {
       "titulo": "Abertura da Garrafa Mágica",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4415,7 +4415,7 @@
     "conteudo": "Descrição: Use potes de massinha de modelar. A criança pode girar a tampa para abrir e fechar os potes.",
     "metadata": {
       "titulo": "O Jogo dos Potes de Massinha",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4426,7 +4426,7 @@
     "conteudo": "Descrição: Use tampinhas de garrafa. Incentive a criança a empilhar as tampinhas e a girá-las para fazer uma \"torre de rosca\".",
     "metadata": {
       "titulo": "A Torre de Tampinhas",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4437,7 +4437,7 @@
     "conteudo": "Descrição: Use parafusos e porcas de brinquedo. A criança pode girar o parafuso e encaixá-lo na porca.",
     "metadata": {
       "titulo": "O Jogo dos Parafusos",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4448,7 +4448,7 @@
     "conteudo": "Descrição: Use um pote de plástico com tampa de rosca. Coloque brinquedos dentro. A criança pode girar a tampa para abrir e pegar os brinquedos.",
     "metadata": {
       "titulo": "O Pote de Brinquedos",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4459,7 +4459,7 @@
     "conteudo": "Descrição: Use um pote de creme vazio. A criança pode girar a tampa para abrir e fechar o pote.",
     "metadata": {
       "titulo": "Abertura do Creme",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4470,7 +4470,7 @@
     "conteudo": "Descrição: Use frascos de remédio de brinquedo. A criança pode girar a tampa para abrir e fechar os frascos.",
     "metadata": {
       "titulo": "O Jogo dos Frascos de Remédio",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4481,7 +4481,7 @@
     "conteudo": "Descrição: Use um cofrinho com uma tampa de rosca. A criança pode girar a tampa para abrir e fechar o cofrinho.",
     "metadata": {
       "titulo": "O Jogo do Cofrinho",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4492,7 +4492,7 @@
     "conteudo": "Descrição: Use potes de comida de bebê. A criança pode girar a tampa para abrir e fechar os potes.",
     "metadata": {
       "titulo": "Abertura do Pote de Comida",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4503,7 +4503,7 @@
     "conteudo": "Descrição: Use garrafas de água. A criança pode girar as tampas para abrir e fechar as garrafas.",
     "metadata": {
       "titulo": "O Jogo das Garrafas de Água",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4514,7 +4514,7 @@
     "conteudo": "Descrição: Use garrafas pet. A criança pode girar a tampa para abrir e fechar as garrafas.",
     "metadata": {
       "titulo": "A Torre de Garrafas Pet",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4525,7 +4525,7 @@
     "conteudo": "Descrição: Use botões de rosca. A criança pode usar a ponta dos dedos para girar e soltar o botão.",
     "metadata": {
       "titulo": "O Jogo dos Botões de Rosca",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4536,7 +4536,7 @@
     "conteudo": "Descrição: Use potes de iogurte. A criança pode girar a tampa para abrir e fechar os potes.",
     "metadata": {
       "titulo": "A Torre de Potes de Iogurte",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4547,7 +4547,7 @@
     "conteudo": "Descrição: Use potes de vidro vazios com tampa de rosca. A criança pode girar a tampa para abrir e fechar os potes.",
     "metadata": {
       "titulo": "O Jogo dos Potes de Vidro",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4558,7 +4558,7 @@
     "conteudo": "Descrição: Use potes de metal. A criança pode girar a tampa para abrir e fechar os potes.",
     "metadata": {
       "titulo": "A Torre de Potes de Metal",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4569,7 +4569,7 @@
     "conteudo": "Descrição: Use parafusos e porcas de plástico. A criança pode girar e encaixar os parafusos.",
     "metadata": {
       "titulo": "O Jogo das Porcas e Parafusos de Plástico",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4580,7 +4580,7 @@
     "conteudo": "Descrição: Use cubos de madeira com furos. A criança pode girar e encaixar os cubos em uma vareta.",
     "metadata": {
       "titulo": "A Torre de Cubos de Madeira",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4591,7 +4591,7 @@
     "conteudo": "Descrição: Use parafusos e porcas de madeira. A criança pode girar e encaixar os parafusos.",
     "metadata": {
       "titulo": "O Jogo dos Parafusos e Porcas de Madeira",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4602,7 +4602,7 @@
     "conteudo": "Descrição: Use parafusos e porcas de metal. A criança pode girar e encaixar os parafusos.",
     "metadata": {
       "titulo": "O Jogo dos Parafusos e Porcas de Metal",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4613,7 +4613,7 @@
     "conteudo": "Descrição: Use um robô de brinquedo com braços que giram. A criança pode girar os braços do robô.",
     "metadata": {
       "titulo": "O Jogo do Robô",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4624,7 +4624,7 @@
     "conteudo": "Descrição: Use uma roda de brinquedo que possa ser girada. Incentive a criança a usar as duas mãos para girar a roda.",
     "metadata": {
       "titulo": "A Roda Mágica",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4635,7 +4635,7 @@
     "conteudo": "Descrição: Use uma maçaneta de brinquedo ou um brinquedo com uma alça que possa ser girada. A criança pode girar a maçaneta para \"abrir\" a porta.",
     "metadata": {
       "titulo": "O Jogo da Maçaneta de Brinquedo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4646,7 +4646,7 @@
     "conteudo": "Descrição: Use uma roda de cores. A criança pode girar a roda para que a seta aponte para uma cor.",
     "metadata": {
       "titulo": "O Jogo da Roda de Cores",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4657,7 +4657,7 @@
     "conteudo": "Descrição: Use uma roda com fitas coloridas presas. A criança pode girar a roda para ver as fitas se moverem.",
     "metadata": {
       "titulo": "A Roda de Fitas",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4668,7 +4668,7 @@
     "conteudo": "Descrição: Use um timão de brinquedo. A criança pode girar o timão como se estivesse em um navio.",
     "metadata": {
       "titulo": "O Jogo do Timão",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4679,7 +4679,7 @@
     "conteudo": "Descrição: Use uma roda da fortuna de brinquedo. A criança pode girar a roda para ganhar um \"prêmio\".",
     "metadata": {
       "titulo": "A Roda da Fortuna",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4690,7 +4690,7 @@
     "conteudo": "Descrição: Use um relógio de brinquedo com ponteiros que giram. A criança pode girar os ponteiros para \"mudar a hora\".",
     "metadata": {
       "titulo": "O Jogo do Relógio",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4701,7 +4701,7 @@
     "conteudo": "Descrição: Use uma roda com imagens de frutas. A criança pode girar a roda para \"colher\" as frutas.",
     "metadata": {
       "titulo": "A Roda de Frutas",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4712,7 +4712,7 @@
     "conteudo": "Descrição: Use um carrossel de brinquedos. A criança pode girar o carrossel.",
     "metadata": {
       "titulo": "O Jogo do Carrossel",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4723,7 +4723,7 @@
     "conteudo": "Descrição: Use uma roda com imagens de emoções. A criança pode girar a roda para \"escolher\" uma emoção.",
     "metadata": {
       "titulo": "A Roda da Emoção",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4734,7 +4734,7 @@
     "conteudo": "Descrição: Use massinha de modelar para fazer uma maçaneta. A criança pode girá-la.",
     "metadata": {
       "titulo": "O Jogo da Maçaneta de Massinha",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4745,7 +4745,7 @@
     "conteudo": "Descrição: Use uma roda com imagens de carros. A criança pode girar a roda para ver os carros.",
     "metadata": {
       "titulo": "A Roda de Carros",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4756,7 +4756,7 @@
     "conteudo": "Descrição: Use um barco de brinquedo com um timão que gira. A criança pode girar o timão para \"navegar\" o barco.",
     "metadata": {
       "titulo": "O Jogo do Barco",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4767,7 +4767,7 @@
     "conteudo": "Descrição: Use uma roda com objetos. A criança pode girar a roda para \"pegar\" um objeto.",
     "metadata": {
       "titulo": "A Roda de Objetos",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4778,7 +4778,7 @@
     "conteudo": "Descrição: Use um trem de brinquedo com uma roda que gira. A criança pode girar a roda para fazer o trem andar.",
     "metadata": {
       "titulo": "O Jogo do Trem",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4789,7 +4789,7 @@
     "conteudo": "Descrição: Use uma roda com imagens de flores. A criança pode girar a roda para \"colher\" as flores.",
     "metadata": {
       "titulo": "A Roda de Flores",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4800,7 +4800,7 @@
     "conteudo": "Descrição: Use uma cesta com uma alça que gira. A criança pode girar a alça.",
     "metadata": {
       "titulo": "O Jogo da Cesta",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4811,7 +4811,7 @@
     "conteudo": "Descrição: Use uma roda de papel. A criança pode girar a roda com a ponta dos dedos.",
     "metadata": {
       "titulo": "A Roda de Papel",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4822,7 +4822,7 @@
     "conteudo": "Descrição: Use um robô de brinquedo com rodas que giram. A criança pode girar as rodas.",
     "metadata": {
       "titulo": "O Jogo do Robô com Rodas",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4833,7 +4833,7 @@
     "conteudo": "Descrição: Use uma roda com imagens de animais aquáticos. A criança pode girar a roda para ver os animais.",
     "metadata": {
       "titulo": "A Roda de Animais Aquáticos",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4844,7 +4844,7 @@
     "conteudo": "Descrição: Use um cofrinho com uma tampa de rosca. A criança pode girar a tampa para abrir e fechar o cofrinho.",
     "metadata": {
       "titulo": "O Jogo do Cofrinho",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4855,7 +4855,7 @@
     "conteudo": "Descrição: Use uma roda com imagens de insetos. A criança pode girar a roda para ver os insetos.",
     "metadata": {
       "titulo": "A Roda de Insetos",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4866,7 +4866,7 @@
     "conteudo": "Descrição: Use uma torre de anéis com aros que giram. A criança pode girar os aros para encaixá-los.",
     "metadata": {
       "titulo": "O Jogo da Torre de Anéis",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4877,7 +4877,7 @@
     "conteudo": "Descrição: Use uma roda de brinquedos. A criança pode girar a roda para \"escolher\" um brinquedo.",
     "metadata": {
       "titulo": "A Roda de Brinquedos",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4888,7 +4888,7 @@
     "conteudo": "Descrição: Use um pote de massinha com tampa de rosca. A criança pode girar a tampa para abrir e fechar o pote.",
     "metadata": {
       "titulo": "O Jogo do Pote de Massinha",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4899,7 +4899,7 @@
     "conteudo": "Descrição: Use uma roda com imagens de frutas e vegetais. A criança pode girar a roda para \"escolher\" uma fruta ou vegetal.",
     "metadata": {
       "titulo": "A Roda de Frutas e Vegetais",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4910,7 +4910,7 @@
     "conteudo": "Descrição: Use um telefone de brinquedo com um disco giratório. A criança pode girar o disco.",
     "metadata": {
       "titulo": "O Jogo do Telefone de Brinquedo com Disco",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4921,7 +4921,7 @@
     "conteudo": "Descrição: Use uma roda com formas geométricas. A criança pode girar a roda para ver as formas.",
     "metadata": {
       "titulo": "A Roda de Formas Geométricas",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4932,7 +4932,7 @@
     "conteudo": "Descrição: Use um quebra-cabeça com peças que giram. A criança pode girar as peças para encaixá-las.",
     "metadata": {
       "titulo": "O Jogo do Quebra-Cabeça",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4943,7 +4943,7 @@
     "conteudo": "Descrição: Use uma roda com desenhos de emoções. A criança pode girar a roda para ver as emoções.",
     "metadata": {
       "titulo": "A Roda de Emoções com Desenhos",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4954,7 +4954,7 @@
     "conteudo": "Descrição: Incentive a criança a usar as mãos para fazer montes de areia e depois a amassar para fazer uma \"torre\".",
     "metadata": {
       "titulo": "A Torre de Areia",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4965,7 +4965,7 @@
     "conteudo": "Descrição: Esconda brinquedos pequenos na areia. A criança pode usar as mãos ou uma pá para \"cavar\" e encontrar os tesouros.",
     "metadata": {
       "titulo": "O Tesouro Escondido",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4976,7 +4976,7 @@
     "conteudo": "Descrição: Use a areia para fazer \"macarrão\", usando um rolo. A criança pode se divertir amassando a areia.",
     "metadata": {
       "titulo": "O Jogo do Macarrão",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4987,7 +4987,7 @@
     "conteudo": "Descrição: Use diferentes objetos para fazer carimbos na areia, como tampas de garrafa, botões e moedas.",
     "metadata": {
       "titulo": "A Mágica do Carimbo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -4998,7 +4998,7 @@
     "conteudo": "Descrição: Use forminhas de massinha de diferentes formatos (animais, letras, etc.). A criança pode moldar as formas na areia.",
     "metadata": {
       "titulo": "O Jogo das Forminhas",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5009,7 +5009,7 @@
     "conteudo": "Descrição: Coloque diferentes objetos pequenos (escova, colher de pau, esponja) para a criança fazer carimbos na areia.",
     "metadata": {
       "titulo": "A Cesta de Tesouros",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5020,7 +5020,7 @@
     "conteudo": "Descrição: Use a areia para fazer \"comidinhas\" de brinquedo, como frutas e bolos.",
     "metadata": {
       "titulo": "O Jogo do Pic-nic",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5031,7 +5031,7 @@
     "conteudo": "Descrição: Use a terra para fazer uma \"estrada\" para um carro de brinquedo.",
     "metadata": {
       "titulo": "A Mágica do Carro",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5042,7 +5042,7 @@
     "conteudo": "Descrição: Incentive a criança a fazer um \"barco\" com a areia e a \"navegar\" com ele.",
     "metadata": {
       "titulo": "O Jogo do Barco",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5053,7 +5053,7 @@
     "conteudo": "Descrição: Use a terra para fazer um \"trenzinho\" de brinquedo.",
     "metadata": {
       "titulo": "A Mágica do Trenzinho",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5064,7 +5064,7 @@
     "conteudo": "Descrição: Incentive a criança a fazer um \"avião\" de brinquedo com a areia.",
     "metadata": {
       "titulo": "O Jogo do Avião",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5075,7 +5075,7 @@
     "conteudo": "Descrição: Use a terra para fazer um \"robô\" de brinquedo.",
     "metadata": {
       "titulo": "A Mágica do Robô",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5086,7 +5086,7 @@
     "conteudo": "Descrição: Incentive a criança a fazer um \"elefante\" de brinquedo com a areia.",
     "metadata": {
       "titulo": "O Jogo do Elefante",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5097,7 +5097,7 @@
     "conteudo": "Descrição: Use a areia para fazer um \"pato\" de brinquedo.",
     "metadata": {
       "titulo": "A Mágica do Pato",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5108,7 +5108,7 @@
     "conteudo": "Descrição: Incentive a criança a fazer uma \"tartaruga\" de brinquedo com a areia.",
     "metadata": {
       "titulo": "O Jogo da Tartaruga",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5119,7 +5119,7 @@
     "conteudo": "Descrição: Use a terra para fazer um \"leão\" de brinquedo.",
     "metadata": {
       "titulo": "A Mágica do Leão",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5130,7 +5130,7 @@
     "conteudo": "Descrição: Incentive a criança a fazer um \"tigre\" de brinquedo com a areia.",
     "metadata": {
       "titulo": "O Jogo do Tigre",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5141,7 +5141,7 @@
     "conteudo": "Descrição: Use a areia para fazer um \"urso\" de brinquedo.",
     "metadata": {
       "titulo": "A Mágica do Urso",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5152,7 +5152,7 @@
     "conteudo": "Descrição: Incentive a criança a fazer uma \"girafa\" de brinquedo com a areia.",
     "metadata": {
       "titulo": "O Jogo da Girafa",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5163,7 +5163,7 @@
     "conteudo": "Descrição: Use a terra para fazer um \"macaco\" de brinquedo.",
     "metadata": {
       "titulo": "A Mágica do Macaco",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5174,7 +5174,7 @@
     "conteudo": "Descrição: Incentive a criança a fazer uma \"zebra\" de brinquedo com a areia.",
     "metadata": {
       "titulo": "O Jogo da Zebra",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5185,7 +5185,7 @@
     "conteudo": "Descrição: Use a areia para fazer um \"pinguim\" de brinquedo.",
     "metadata": {
       "titulo": "A Mágica do Pinguim",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5196,7 +5196,7 @@
     "conteudo": "Descrição: Incentive a criança a fazer uma \"raposa\" de brinquedo com a areia.",
     "metadata": {
       "titulo": "O Jogo da Raposa",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5207,7 +5207,7 @@
     "conteudo": "Descrição: Use a areia para fazer uma \"estrela\".",
     "metadata": {
       "titulo": "A Mágica da Estrela",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5218,7 +5218,7 @@
     "conteudo": "Descrição: Incentive a criança a fazer uma \"lua\" com a areia.",
     "metadata": {
       "titulo": "O Jogo da Lua",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5229,7 +5229,7 @@
     "conteudo": "Descrição: Use a areia para fazer um \"sol\".",
     "metadata": {
       "titulo": "A Mágica do Sol",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5240,7 +5240,7 @@
     "conteudo": "Descrição: Incentive a criança a fazer \"gotas de chuva\" com a areia.",
     "metadata": {
       "titulo": "O Jogo da Chuva",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5251,7 +5251,7 @@
     "conteudo": "Descrição: Use a areia para fazer uma \"nuvem\" e soprar a areia.",
     "metadata": {
       "titulo": "A Mágica do Vento",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5262,7 +5262,7 @@
     "conteudo": "Descrição: Incentive a criança a fazer \"fogo\" com a areia.",
     "metadata": {
       "titulo": "O Jogo do Fogo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5273,7 +5273,7 @@
     "conteudo": "Descrição: Use a areia para fazer \"ondas\" de água.",
     "metadata": {
       "titulo": "A Mágica da Água",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5284,7 +5284,7 @@
     "conteudo": "Descrição: Incentive a criança a fazer \"bolas de neve\" com a areia.",
     "metadata": {
       "titulo": "O Jogo da Neve",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5295,7 +5295,7 @@
     "conteudo": "Descrição: Use a areia para fazer \"cubos de gelo\".",
     "metadata": {
       "titulo": "A Mágica do Gelo",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5306,7 +5306,7 @@
     "conteudo": "Descrição: Incentive a criança a fazer \"terra\" com a terra.",
     "metadata": {
       "titulo": "O Jogo da Terra",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5317,7 +5317,7 @@
     "conteudo": "Descrição: Use a areia para fazer uma \"planta\".",
     "metadata": {
       "titulo": "A Mágica da Planta",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5328,7 +5328,7 @@
     "conteudo": "Descrição: Incentive a criança a fazer uma \"flor\" com a areia.",
     "metadata": {
       "titulo": "O Jogo da Flor",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5339,7 +5339,7 @@
     "conteudo": "Descrição: Use a areia para fazer uma \"árvore\".",
     "metadata": {
       "titulo": "A Mágica da Árvore",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5350,7 +5350,7 @@
     "conteudo": "Descrição: Incentive a criança a fazer uma \"folha\" com a areia.",
     "metadata": {
       "titulo": "O Jogo da Folha",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5361,7 +5361,7 @@
     "conteudo": "Descrição: Use a areia para fazer uma \"pedra\".",
     "metadata": {
       "titulo": "A Mágica da Pedra",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5372,7 +5372,7 @@
     "conteudo": "Descrição: Incentive a criança a fazer uma \"concha\" com a areia.",
     "metadata": {
       "titulo": "O Jogo da Concha",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5383,7 +5383,7 @@
     "conteudo": "Descrição: Use a areia para fazer uma \"semente\".",
     "metadata": {
       "titulo": "A Mágica da Semente",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5394,7 +5394,7 @@
     "conteudo": "Descrição: Incentive a criança a fazer uma \"fruta\" com a areia.",
     "metadata": {
       "titulo": "O Jogo da Fruta",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5405,7 +5405,7 @@
     "conteudo": "Descrição: Use a areia para fazer um \"vegetal\".",
     "metadata": {
       "titulo": "A Mágica do Vegetal",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5416,7 +5416,7 @@
     "conteudo": "Descrição: Incentive a criança a fazer \"comidinhas\" de brinquedo com a areia.",
     "metadata": {
       "titulo": "O Jogo da Comidinha",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5427,7 +5427,7 @@
     "conteudo": "Descrição: Use a areia para fazer instrumentos musicais de brinquedo.",
     "metadata": {
       "titulo": "A Mágica da Canção",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5438,7 +5438,7 @@
     "conteudo": "Descrição: Incentive a criança a fazer \"desenhos\" com a areia.",
     "metadata": {
       "titulo": "O Jogo do Desenho",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5449,7 +5449,7 @@
     "conteudo": "Descrição: Use a areia para fazer letras e números.",
     "metadata": {
       "titulo": "A Mágica da Letra",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5460,7 +5460,7 @@
     "conteudo": "Descrição: Incentive a criança a fazer anéis de areia e a empilhá-los.",
     "metadata": {
       "titulo": "O Jogo da Torre de Anéis",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5471,7 +5471,7 @@
     "conteudo": "Descrição: Use a areia para fazer um labirinto e a criança pode usar os dedos para passar por ele.",
     "metadata": {
       "titulo": "A Mágica do Labirinto",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5482,7 +5482,7 @@
     "conteudo": "Descrição: Incentive a criança a fazer uma \"cesta\" com a areia e a colocar brinquedos dentro.",
     "metadata": {
       "titulo": "O Jogo do Cesto",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
@@ -5493,7 +5493,7 @@
     "conteudo": "Descrição: Use uma escavadeira de brinquedo. Incentive a criança a usar a escavadeira para cavar e mover a areia.",
     "metadata": {
       "titulo": "A Mágica da Escavadeira",
-      "dimensao": "HM",
+      "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
       "nivel": "Nível 3",
       "idade": "3 a 4 anos"
