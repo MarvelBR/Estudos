@@ -1,0 +1,31 @@
+Artigos: Feito
+41 Chunks
+
+Autocuidado - Nivel 1: Feito
+Autocuidado - Nivel 2: Feito
+Autocuidado - Nivel 3: Feito
+7649 Chunks
+
+Cognição - Nivel 1: Feito
+Cognição - Nivel 2: Feito
+Cognição - Nivel 3: Feito
+9450 Chunks
+
+HM - Nivel 1: Feito
+HM - Nivel 2: Feito
+HM - Nivel 3: Feito
+9750 Chunks
+
+Linguagem - Nivel 1: Feito
+Linguagem - Nivel 2: Feito
+Linguagem - Nivel 3: Feito
+8250 Chunks
+
+// Até aqui o Total de Chunks foi de 35140 (até agora tava tudo certo)
+
+Socialização - Nivel 1: Feito
+Socialização - Nivel 2: 
+Socialização - Nivel 3:  
+
+
+Total de Chunks previsto: 
