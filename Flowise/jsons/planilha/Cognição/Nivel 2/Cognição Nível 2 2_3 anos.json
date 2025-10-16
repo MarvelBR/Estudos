@@ -6,7 +6,7 @@
       "titulo": "Jogo do \"Pega o Livro\"",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -17,7 +17,7 @@
       "titulo": "Livro na Cesta",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -28,7 +28,7 @@
       "titulo": "Livro da Surpresa",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -39,7 +39,7 @@
       "titulo": "Jogo do \"Livro de Ninar\"",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -50,7 +50,7 @@
       "titulo": "O Livro \"Escondido\"",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -61,7 +61,7 @@
       "titulo": "Livro no Balde",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -72,7 +72,7 @@
       "titulo": "Jogo do \"Livro Favorito\"",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -83,7 +83,7 @@
       "titulo": "Livro de Banho",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -94,7 +94,7 @@
       "titulo": "Jogo do \"Pega o Livro Amarelo\"",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -105,7 +105,7 @@
       "titulo": "Livro no Túnel",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -116,7 +116,7 @@
       "titulo": "O Livro no Chão",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -127,7 +127,7 @@
       "titulo": "Jogo do \"Onde está o Livro?\"",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -138,7 +138,7 @@
       "titulo": "Livro na Bolsa",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -149,7 +149,7 @@
       "titulo": "Jogo do \"Ajudante da Biblioteca\"",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -160,7 +160,7 @@
       "titulo": "O Livro \"A-B-C\"",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -171,7 +171,7 @@
       "titulo": "Livro na Mesa",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -182,7 +182,7 @@
       "titulo": "Jogo do \"Siga o Som\"",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -193,7 +193,7 @@
       "titulo": "Livro do \"Boa Noite\"",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -204,7 +204,7 @@
       "titulo": "Jogo do \"Onde está o Urso?\"",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -215,7 +215,7 @@
       "titulo": "Livro na Caixa de Areia",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -226,7 +226,7 @@
       "titulo": "Jogo do \"Faz de Conta\"",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -237,7 +237,7 @@
       "titulo": "O Livro \"Musical\"",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -248,7 +248,7 @@
       "titulo": "Livro no Carro",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -259,7 +259,7 @@
       "titulo": "Jogo do \"Livro de Receitas\"",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -270,7 +270,7 @@
       "titulo": "O Livro do \"Faz de Conta\" de Vendedor",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -281,7 +281,7 @@
       "titulo": "Livro na Cadeira",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -292,7 +292,7 @@
       "titulo": "Jogo do \"Cadê a Bola?\"",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -303,7 +303,7 @@
       "titulo": "Livro do \"Faz de Conta\" de Médico",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -314,7 +314,7 @@
       "titulo": "O Livro no Travesseiro",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -325,7 +325,7 @@
       "titulo": "Jogo do \"Livro Grande\"",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -336,7 +336,7 @@
       "titulo": "O Livro \"Brilhante\"",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -347,7 +347,7 @@
       "titulo": "Livro no Túnel de Pano",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -358,7 +358,7 @@
       "titulo": "Jogo do \"Vamos ao Jardim\"",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -369,7 +369,7 @@
       "titulo": "O Livro do \"Dia Chuvoso\"",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -380,7 +380,7 @@
       "titulo": "Livro no Sofá",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -391,7 +391,7 @@
       "titulo": "Jogo do \"Pega o Livro com a Mão Esquerda\"",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -402,7 +402,7 @@
       "titulo": "O Livro \"Fantoche\"",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -413,7 +413,7 @@
       "titulo": "Jogo do \"Vamos Dormir\"",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -424,7 +424,7 @@
       "titulo": "O Livro do \"Dia Ensolarado\"",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -435,7 +435,7 @@
       "titulo": "Livro na Mesa de Centro",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -446,7 +446,7 @@
       "titulo": "Jogo do \"Pega o Livro Vermelho\"",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -457,7 +457,7 @@
       "titulo": "O Livro \"Musical\"",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -468,7 +468,7 @@
       "titulo": "Jogo do \"Achou o Livro?\"",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -479,7 +479,7 @@
       "titulo": "O Livro do \"Faz de Conta\" de Professor",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -490,7 +490,7 @@
       "titulo": "Livro no Berço",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -501,7 +501,7 @@
       "titulo": "Jogo do \"Onde está a Criança?\"",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -512,7 +512,7 @@
       "titulo": "O Livro \"Grande\" e o \"Pequeno\"",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -523,7 +523,7 @@
       "titulo": "Jogo do \"Livro de Plástico\"",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -534,7 +534,7 @@
       "titulo": "O Livro do \"Faz de Conta\" de Viagem",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -545,7 +545,7 @@
       "titulo": "Livro na Prateleira",
       "dimensao": "Cognição",
       "habilidade": "Localiza livros quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -556,7 +556,7 @@
       "titulo": "Encaixe de Blocos Simples",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -567,7 +567,7 @@
       "titulo": "Quebra-cabeça de 2 Peças",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -578,7 +578,7 @@
       "titulo": "Encaixe de Formas e Cores",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -589,7 +589,7 @@
       "titulo": "Jogo do \"Amigo Urso\"",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -600,7 +600,7 @@
       "titulo": "Quebra-cabeça de Encaixe Grande",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -611,7 +611,7 @@
       "titulo": "Encaixe de Animais",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -622,7 +622,7 @@
       "titulo": "Jogo do \"Caminhão de Bombeiro\"",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -633,7 +633,7 @@
       "titulo": "Encaixe de Frutas",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -644,7 +644,7 @@
       "titulo": "Quebra-cabeça de Família",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -655,7 +655,7 @@
       "titulo": "Encaixe de Carros",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -666,7 +666,7 @@
       "titulo": "Jogo do \"Bichinho Gêmeo\"",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -677,7 +677,7 @@
       "titulo": "Encaixe de Círculos",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -688,7 +688,7 @@
       "titulo": "Quebra-cabeça de Peixe",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -699,7 +699,7 @@
       "titulo": "Encaixe de Números",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -710,7 +710,7 @@
       "titulo": "Jogo do \"Trem Feliz\"",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -721,7 +721,7 @@
       "titulo": "Encaixe de Blocos de Cores",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -732,7 +732,7 @@
       "titulo": "Quebra-cabeça de Casa",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -743,7 +743,7 @@
       "titulo": "Encaixe de Vogais",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -754,7 +754,7 @@
       "titulo": "Jogo do \"Brinquedo Escondido\"",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -765,7 +765,7 @@
       "titulo": "Encaixe de Peças de Legos",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -776,7 +776,7 @@
       "titulo": "Quebra-cabeça de Abas",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -787,7 +787,7 @@
       "titulo": "Encaixe de Fichas",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -798,7 +798,7 @@
       "titulo": "Jogo do \"Sorvete\"",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -809,7 +809,7 @@
       "titulo": "Quebra-cabeça de Borboleta",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -820,7 +820,7 @@
       "titulo": "Encaixe de Copos",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -831,7 +831,7 @@
       "titulo": "Jogo do \"Sapato e Meia\"",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -842,7 +842,7 @@
       "titulo": "Encaixe de Blocos de Plástico",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -853,7 +853,7 @@
       "titulo": "Quebra-cabeça de Sol e Lua",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -864,7 +864,7 @@
       "titulo": "Encaixe de Potes",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -875,7 +875,7 @@
       "titulo": "Jogo do \"Coelho\"",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -886,7 +886,7 @@
       "titulo": "Encaixe de Bolas",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -897,7 +897,7 @@
       "titulo": "Quebra-cabeça de Trem de 3 Peças",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -908,7 +908,7 @@
       "titulo": "Encaixe de Cubos",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -919,7 +919,7 @@
       "titulo": "Jogo do \"Pato na Lagoa\"",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -930,7 +930,7 @@
       "titulo": "Encaixe de Pinos",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -941,7 +941,7 @@
       "titulo": "Quebra-cabeça de Carro de Corrida",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -952,7 +952,7 @@
       "titulo": "Encaixe de Potes de Iogurte",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -963,7 +963,7 @@
       "titulo": "Jogo do \"Caminhão de Lixo\"",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -974,7 +974,7 @@
       "titulo": "Encaixe de Conchas",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -985,7 +985,7 @@
       "titulo": "Quebra-cabeça de Gato",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -996,7 +996,7 @@
       "titulo": "Encaixe de Formas e Cores",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1007,7 +1007,7 @@
       "titulo": "Quebra-cabeça de Vaca",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1018,7 +1018,7 @@
       "titulo": "Encaixe de Figuras",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1029,7 +1029,7 @@
       "titulo": "Jogo do \"Baleiro\"",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1040,7 +1040,7 @@
       "titulo": "Quebra-cabeça de Cachorro",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1051,7 +1051,7 @@
       "titulo": "Encaixe de Blocos de Brinquedo",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1062,7 +1062,7 @@
       "titulo": "Quebra-cabeça de Pato",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1073,7 +1073,7 @@
       "titulo": "Encaixe de Potes com Cor",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1084,7 +1084,7 @@
       "titulo": "Quebra-cabeça de Cenoura",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1095,7 +1095,7 @@
       "titulo": "Jogo do \"Faz de Conta\" de Empilhar",
       "dimensao": "Cognição",
       "habilidade": "Monta quebra-cabeças e brinquedos de encaixe de até 4 peças.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1106,7 +1106,7 @@
       "titulo": "Linha Reta",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1117,7 +1117,7 @@
       "titulo": "O Círculo Mágico",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1128,7 +1128,7 @@
       "titulo": "O Sol Brilhante",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1139,7 +1139,7 @@
       "titulo": "A Chuva",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1150,7 +1150,7 @@
       "titulo": "A Cobra",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1161,7 +1161,7 @@
       "titulo": "A Torre",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1172,7 +1172,7 @@
       "titulo": "A Casa Simples",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1183,7 +1183,7 @@
       "titulo": "O Trem",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1194,7 +1194,7 @@
       "titulo": "A Flor",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1205,7 +1205,7 @@
       "titulo": "O Carro",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1216,7 +1216,7 @@
       "titulo": "A Escada",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1227,7 +1227,7 @@
       "titulo": "O Balão",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1238,7 +1238,7 @@
       "titulo": "A Árvore",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1249,7 +1249,7 @@
       "titulo": "O Caracol",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1260,7 +1260,7 @@
       "titulo": "O Boneco de Palito",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1271,7 +1271,7 @@
       "titulo": "O Rosto",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1282,7 +1282,7 @@
       "titulo": "O Sapo",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1293,7 +1293,7 @@
       "titulo": "O Caminho",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1304,7 +1304,7 @@
       "titulo": "A Montanha",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1315,7 +1315,7 @@
       "titulo": "A Caixa",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1326,7 +1326,7 @@
       "titulo": "O Coração",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1337,7 +1337,7 @@
       "titulo": "O Barco",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1348,7 +1348,7 @@
       "titulo": "A Nuvem",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1359,7 +1359,7 @@
       "titulo": "O Pato",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1370,7 +1370,7 @@
       "titulo": "A Abelha",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1381,7 +1381,7 @@
       "titulo": "A Gota",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1392,7 +1392,7 @@
       "titulo": "A Borboleta",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1403,7 +1403,7 @@
       "titulo": "O Peixe",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1414,7 +1414,7 @@
       "titulo": "O Biscoito",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1425,7 +1425,7 @@
       "titulo": "O Sapo Saltitante",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1436,7 +1436,7 @@
       "titulo": "O Gato",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1447,7 +1447,7 @@
       "titulo": "A Maçã",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1458,7 +1458,7 @@
       "titulo": "A Pera",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1469,7 +1469,7 @@
       "titulo": "A Cenoura",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1480,7 +1480,7 @@
       "titulo": "O Guarda-Chuva",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1491,7 +1491,7 @@
       "titulo": "O Sinal de Trânsito",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1502,7 +1502,7 @@
       "titulo": "A Joaninha",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1513,7 +1513,7 @@
       "titulo": "O Balão de Festa",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1524,7 +1524,7 @@
       "titulo": "A Vela",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1535,7 +1535,7 @@
       "titulo": "O Caminhão",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1546,7 +1546,7 @@
       "titulo": "O Avião",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1557,7 +1557,7 @@
       "titulo": "O Rosto Feliz",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1568,7 +1568,7 @@
       "titulo": "O Cubo",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1579,7 +1579,7 @@
       "titulo": "O Castelo",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1590,7 +1590,7 @@
       "titulo": "O Carro de Corrida",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1601,7 +1601,7 @@
       "titulo": "O Sol e a Nuvem",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1612,7 +1612,7 @@
       "titulo": "A Estrela",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1623,7 +1623,7 @@
       "titulo": "O Caminho Curvo",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1634,7 +1634,7 @@
       "titulo": "A Lua e a Estrela",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1645,7 +1645,7 @@
       "titulo": "O Cachorro",
       "dimensao": "Cognição",
       "habilidade": "Reproduz desenho imitando o adulto (passo a passo).",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1656,7 +1656,7 @@
       "titulo": "Jogo das Bolas Gigantes e Mini",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1667,7 +1667,7 @@
       "titulo": "A Caixa do Tesouro",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1678,7 +1678,7 @@
       "titulo": "O Brinquedo na Cesta",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1689,7 +1689,7 @@
       "titulo": "Bonecos Gêmeos",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1700,7 +1700,7 @@
       "titulo": "O Livro Gigante e o Livro Pequeno",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1711,7 +1711,7 @@
       "titulo": "Jogo do Carro",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1722,7 +1722,7 @@
       "titulo": "A Colher de Faz de Conta",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1733,7 +1733,7 @@
       "titulo": "Empilhando Copos",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1744,7 +1744,7 @@
       "titulo": "O Balde",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1755,7 +1755,7 @@
       "titulo": "A \"Chuva\" de Objetos",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1766,7 +1766,7 @@
       "titulo": "O Jogo do \"Cadê o Urso?\"",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1777,7 +1777,7 @@
       "titulo": "Blocos de Montar",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1788,7 +1788,7 @@
       "titulo": "A Cesta de Frutas",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1799,7 +1799,7 @@
       "titulo": "O Jogo do \"Amigo Chupeta\"",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1810,7 +1810,7 @@
       "titulo": "A Mochila",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1821,7 +1821,7 @@
       "titulo": "O Telefone",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1832,7 +1832,7 @@
       "titulo": "Jogo das Potes",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1843,7 +1843,7 @@
       "titulo": "O Livro de Cores",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1854,7 +1854,7 @@
       "titulo": "A Boneca e o Urso",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1865,7 +1865,7 @@
       "titulo": "O Jogo da \"Roupinha\"",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1876,7 +1876,7 @@
       "titulo": "O Carimbo",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1887,7 +1887,7 @@
       "titulo": "O Livro de Figuras",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1898,7 +1898,7 @@
       "titulo": "O Jogo do \"Balde de Água\"",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1909,7 +1909,7 @@
       "titulo": "A Cesta de Potes",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1920,7 +1920,7 @@
       "titulo": "O Chapéu",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1931,7 +1931,7 @@
       "titulo": "O Pote de Tampinhas",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1942,7 +1942,7 @@
       "titulo": "O Jogo do \"Cesta de Pães\"",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1953,7 +1953,7 @@
       "titulo": "A Boneca e o Carro",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1964,7 +1964,7 @@
       "titulo": "O Jogo do \"Livro de Mãos\"",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1975,7 +1975,7 @@
       "titulo": "O Pote de Legumes",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1986,7 +1986,7 @@
       "titulo": "O Jogo da \"Bola na Caixa\"",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -1997,7 +1997,7 @@
       "titulo": "O Urso e o Coelho",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2008,7 +2008,7 @@
       "titulo": "O Jogo do \"Pé e a Mão\"",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2019,7 +2019,7 @@
       "titulo": "A Cesta de Blocos",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2030,7 +2030,7 @@
       "titulo": "O Jogo do \"Caminhão de Lixo\"",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2041,7 +2041,7 @@
       "titulo": "A Boneca e o Telefone",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2052,7 +2052,7 @@
       "titulo": "O Jogo da \"Limpeza\"",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2063,7 +2063,7 @@
       "titulo": "O Pote de Fichas",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2074,7 +2074,7 @@
       "titulo": "A Caneca",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2085,7 +2085,7 @@
       "titulo": "O Jogo da \"Chupeta\"",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2096,7 +2096,7 @@
       "titulo": "O Livro de Texturas",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2107,7 +2107,7 @@
       "titulo": "A Cesta de Brinquedos",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2118,7 +2118,7 @@
       "titulo": "O Jogo da \"Sopa\"",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2129,7 +2129,7 @@
       "titulo": "O Pincel",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2140,7 +2140,7 @@
       "titulo": "O Jogo do \"Chapéu\"",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2151,7 +2151,7 @@
       "titulo": "A Brincadeira de \"Puxa-Saco\"",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2162,7 +2162,7 @@
       "titulo": "O Pote de Pinos",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2173,7 +2173,7 @@
       "titulo": "A Brincadeira do \"Faz de Conta\" de Médico",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2184,7 +2184,7 @@
       "titulo": "O Jogo da \"Bolinha no Túnel\"",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2195,7 +2195,7 @@
       "titulo": "A Cesta de Potes",
       "dimensao": "Cognição",
       "habilidade": "Identifica objetos grandes e pequenos quando solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2206,7 +2206,7 @@
       "titulo": "Coloca a Bola Dentro da Caixa",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2217,7 +2217,7 @@
       "titulo": "Jogo do \"Cachorro na Casinha\"",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2228,7 +2228,7 @@
       "titulo": "Empilha o Cubo em Cima do Outro",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2239,7 +2239,7 @@
       "titulo": "Coloca a Colher Dentro do Pote",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2250,7 +2250,7 @@
       "titulo": "O Jogo do \"Sapato Embaixo da Cadeira\"",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2261,7 +2261,7 @@
       "titulo": "Coloca o Brinquedo em Cima da Mesa",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2272,7 +2272,7 @@
       "titulo": "O Jogo do \"Pano no Balde\"",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2283,7 +2283,7 @@
       "titulo": "Deita Embaixo da Mesa",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2294,7 +2294,7 @@
       "titulo": "Pula em Cima do Tapete",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2305,7 +2305,7 @@
       "titulo": "Esconde o Urso Dentro da Cesta",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2316,7 +2316,7 @@
       "titulo": "O Jogo do \"Lápis em Cima do Livro\"",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2327,7 +2327,7 @@
       "titulo": "Coloca a Bola Embaixo da Cama",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2338,7 +2338,7 @@
       "titulo": "Jogo do \"Faz de Conta\" de Sopa",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2349,7 +2349,7 @@
       "titulo": "Põe a Mão em Cima da Cabeça",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2360,7 +2360,7 @@
       "titulo": "Joga o Pano Embaixo da Cadeira",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2371,7 +2371,7 @@
       "titulo": "O Jogo do \"Pote de Surpresas\"",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2382,7 +2382,7 @@
       "titulo": "Coloca o Livro em Cima da Estante",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2393,7 +2393,7 @@
       "titulo": "O Jogo do \"Trem na Garagem\"",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2404,7 +2404,7 @@
       "titulo": "Esconde o Brinquedo Embaixo do Travesseiro",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2415,7 +2415,7 @@
       "titulo": "Coloca a Fita Dentro da Caixa",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2426,7 +2426,7 @@
       "titulo": "Jogo do \"Guarda-Chuva\"",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2437,7 +2437,7 @@
       "titulo": "O Jogo do \"Cachorro Dentro do Túnel\"",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2448,7 +2448,7 @@
       "titulo": "Coloca o Chapéu em Cima da Cabeça",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2459,7 +2459,7 @@
       "titulo": "O Jogo do \"Coelho no Buraco\"",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2470,7 +2470,7 @@
       "titulo": "Joga o Brinquedo Embaixo do Sofá",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2481,7 +2481,7 @@
       "titulo": "Senta em Cima do Tapete",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2492,7 +2492,7 @@
       "titulo": "Coloca a Boneca Dentro da Bolsa",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2503,7 +2503,7 @@
       "titulo": "Jogo do \"Guarda-Roupa\"",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2514,7 +2514,7 @@
       "titulo": "O Jogo do \"Gato Escondido\"",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2525,7 +2525,7 @@
       "titulo": "Põe a Mão Embaixo da Mesa",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2536,7 +2536,7 @@
       "titulo": "Coloca o Telefone em Cima da Mesa",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2547,7 +2547,7 @@
       "titulo": "O Jogo do \"Faz de Conta\" de Carro",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2558,7 +2558,7 @@
       "titulo": "Joga o Bloco Dentro da Cesta",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2569,7 +2569,7 @@
       "titulo": "Sobe em Cima da Cadeira",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2580,7 +2580,7 @@
       "titulo": "Coloca o Travesseiro Embaixo do Braço",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2591,7 +2591,7 @@
       "titulo": "Jogo do \"Cachorro na Caverna\"",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2602,7 +2602,7 @@
       "titulo": "Põe a Mão Embaixo da Água",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2613,7 +2613,7 @@
       "titulo": "Coloca o Pote em Cima do Balde",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2624,7 +2624,7 @@
       "titulo": "O Jogo do \"Trem na Estação\"",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2635,7 +2635,7 @@
       "titulo": "Joga a Meia Embaixo da Cama",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2646,7 +2646,7 @@
       "titulo": "O Jogo do \"Faz de Conta\" de Pesca",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2657,7 +2657,7 @@
       "titulo": "Coloca o Pincel em Cima da Tinta",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2668,7 +2668,7 @@
       "titulo": "A Brincadeira do \"Esconde-Esconde\" de Brinquedos",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2679,7 +2679,7 @@
       "titulo": "Joga o Chapéu Embaixo da Cadeira",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2690,7 +2690,7 @@
       "titulo": "O Jogo do \"Sapo na Lagoa\"",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2701,7 +2701,7 @@
       "titulo": "Põe a Mão em Cima da Cadeira",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2712,7 +2712,7 @@
       "titulo": "Coloca o Pano Dentro da Bolsa",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2723,7 +2723,7 @@
       "titulo": "O Jogo do \"Carro no Túnel\"",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2734,7 +2734,7 @@
       "titulo": "Coloca o Bloco Embaixo da Mesa",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2745,7 +2745,7 @@
       "titulo": "Jogo do \"Faz de Conta\" de Cozinhar",
       "dimensao": "Cognição",
       "habilidade": "Reconhece os conceitos dentro, em cima e embaixo e atende aos comandos conforme solicitado.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2756,7 +2756,7 @@
       "titulo": "Livro dos \"Faz e Acontece\"",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2767,7 +2767,7 @@
       "titulo": "O Jogo das Cartas",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2778,7 +2778,7 @@
       "titulo": "A Janela Mágica",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2789,7 +2789,7 @@
       "titulo": "Jogo do \"O Que a Mamãe Faz?\"",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2800,7 +2800,7 @@
       "titulo": "O Livro de Animais",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2811,7 +2811,7 @@
       "titulo": "Jogo do \"Cachorro e Gato\"",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2822,7 +2822,7 @@
       "titulo": "A Brincadeira do \"Faz de Conta\" de Sopa",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2833,7 +2833,7 @@
       "titulo": "O Livro de Crianças",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2844,7 +2844,7 @@
       "titulo": "Jogo do \"O Que o Bebê Faz?\"",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2855,7 +2855,7 @@
       "titulo": "A História dos Brinquedos",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2866,7 +2866,7 @@
       "titulo": "Jogo do \"Onde está a Bola?\"",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2877,7 +2877,7 @@
       "titulo": "A Brincadeira do \"Faz de Conta\" de Médico",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2888,7 +2888,7 @@
       "titulo": "O Livro de Roupas",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2899,7 +2899,7 @@
       "titulo": "Jogo do \"O Que a Família Faz?\"",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2910,7 +2910,7 @@
       "titulo": "A Brincadeira do \"Faz de Conta\" de Limpeza",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2921,7 +2921,7 @@
       "titulo": "O Livro de Comidas",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2932,7 +2932,7 @@
       "titulo": "Jogo do \"O Que o Pássaro Faz?\"",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2943,7 +2943,7 @@
       "titulo": "A Brincadeira do \"Faz de Conta\" de Pular",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2954,7 +2954,7 @@
       "titulo": "O Livro de Cores",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2965,7 +2965,7 @@
       "titulo": "Jogo do \"O Que a Criança Pinta?\"",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2976,7 +2976,7 @@
       "titulo": "A Brincadeira do \"Faz de Conta\" de Regar a Planta",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2987,7 +2987,7 @@
       "titulo": "O Livro de Carros",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -2998,7 +2998,7 @@
       "titulo": "Jogo do \"O Que o Astronauta Faz?\"",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3009,7 +3009,7 @@
       "titulo": "A Brincadeira do \"Faz de Conta\" de Escrever",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3020,7 +3020,7 @@
       "titulo": "O Livro de Brinquedos",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3031,7 +3031,7 @@
       "titulo": "Jogo do \"O Que a Borboleta Faz?\"",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3042,7 +3042,7 @@
       "titulo": "A Brincadeira do \"Faz de Conta\" de Ler",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3053,7 +3053,7 @@
       "titulo": "O Livro de Frutas",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3064,7 +3064,7 @@
       "titulo": "Jogo do \"O Que o Bebê Sente?\"",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3075,7 +3075,7 @@
       "titulo": "A Brincadeira do \"Faz de Conta\" de Tomar Banho",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3086,7 +3086,7 @@
       "titulo": "O Livro de Bichos de Pelúcia",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3097,7 +3097,7 @@
       "titulo": "Jogo do \"O Que a Vaca Faz?\"",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3108,7 +3108,7 @@
       "titulo": "A Brincadeira do \"Faz de Conta\" de Ir à Escola",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3119,7 +3119,7 @@
       "titulo": "O Livro de Esportes",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3130,7 +3130,7 @@
       "titulo": "Jogo do \"O Que o Palhaço Faz?\"",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3141,7 +3141,7 @@
       "titulo": "A Brincadeira do \"Faz de Conta\" de Dormir",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3152,7 +3152,7 @@
       "titulo": "O Livro de Músicas",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3163,7 +3163,7 @@
       "titulo": "Jogo do \"O Que o Pato Faz?\"",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3174,7 +3174,7 @@
       "titulo": "A Brincadeira do \"Faz de Conta\" de Plantar",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3185,7 +3185,7 @@
       "titulo": "O Livro de Brinquedos",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3196,7 +3196,7 @@
       "titulo": "Jogo do \"O Que a Flor Faz?\"",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3207,7 +3207,7 @@
       "titulo": "A Brincadeira do \"Faz de Conta\" de Cozinhar",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3218,7 +3218,7 @@
       "titulo": "O Livro de Férias",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3229,7 +3229,7 @@
       "titulo": "Jogo do \"O Que o Bebê Chora?\"",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3240,7 +3240,7 @@
       "titulo": "A Brincadeira do \"Faz de Conta\" de Lanchar",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3251,7 +3251,7 @@
       "titulo": "O Livro de Carrinhos",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3262,7 +3262,7 @@
       "titulo": "Jogo do \"O Que a Família Agradece?\"",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3273,7 +3273,7 @@
       "titulo": "A Brincadeira do \"Faz de Conta\" de Ler",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3284,7 +3284,7 @@
       "titulo": "O Livro de Instrumentos",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3295,7 +3295,7 @@
       "titulo": "Jogo do \"O Que o Ursinho Faz?\"",
       "dimensao": "Cognição",
       "habilidade": "Quando indagado, nomeia ações expressas em figuras, tais como: “O que é isso? O que está acontecendo aqui? O que fulano está fazendo?”.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3306,7 +3306,7 @@
       "titulo": "Jogo do Círculo Azul",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3317,7 +3317,7 @@
       "titulo": "Pareando Quadrados Vermelhos",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3328,7 +3328,7 @@
       "titulo": "O Triângulo Amarelo",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3339,7 +3339,7 @@
       "titulo": "A Estrela Verde",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3350,7 +3350,7 @@
       "titulo": "O Coração Rosa",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3361,7 +3361,7 @@
       "titulo": "Pareando com Caixas",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3372,7 +3372,7 @@
       "titulo": "Jogo do \"Caminho de Formas\"",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3383,7 +3383,7 @@
       "titulo": "A Cesta de Formas",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3394,7 +3394,7 @@
       "titulo": "Pareando com Massinha",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3405,7 +3405,7 @@
       "titulo": "O Jogo do \"Robô Geométrico\"",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3416,7 +3416,7 @@
       "titulo": "Pareando em Potes",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3427,7 +3427,7 @@
       "titulo": "Jogo da \"Casa de Formas\"",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3438,7 +3438,7 @@
       "titulo": "O Livro de Formas",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3449,7 +3449,7 @@
       "titulo": "Pareando no Tapete",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3460,7 +3460,7 @@
       "titulo": "Jogo da \"Pizza de Formas\"",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3471,7 +3471,7 @@
       "titulo": "Pareando com Legos",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3482,7 +3482,7 @@
       "titulo": "Jogo do \"Trem de Formas\"",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3493,7 +3493,7 @@
       "titulo": "Pareando com Blocos",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3504,7 +3504,7 @@
       "titulo": "A Brincadeira do \"Faz de Conta\" de Sopa",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3515,7 +3515,7 @@
       "titulo": "Jogo do \"Carimbo de Formas\"",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3526,7 +3526,7 @@
       "titulo": "Pareando com Fichas",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3537,7 +3537,7 @@
       "titulo": "Jogo da \"Árvore de Formas\"",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3548,7 +3548,7 @@
       "titulo": "Pareando com Tinta",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3559,7 +3559,7 @@
       "titulo": "O Jogo do \"Amigo Forma\"",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3570,7 +3570,7 @@
       "titulo": "Pareando na Mesa de Luz",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3581,7 +3581,7 @@
       "titulo": "Jogo do \"Onde está a Forma?\"",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3592,7 +3592,7 @@
       "titulo": "Pareando com Argolas",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3603,7 +3603,7 @@
       "titulo": "Jogo do \"Cesto de Formas\"",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3614,7 +3614,7 @@
       "titulo": "Pareando com Plástico Bolha",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3625,7 +3625,7 @@
       "titulo": "Jogo do \"Sorvete de Formas\"",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3636,7 +3636,7 @@
       "titulo": "Pareando com Meias",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3647,7 +3647,7 @@
       "titulo": "Jogo do \"Faz de Conta\" de Plantar",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3658,7 +3658,7 @@
       "titulo": "Pareando com Corda",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3669,7 +3669,7 @@
       "titulo": "Jogo do \"Baleiro de Formas\"",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3680,7 +3680,7 @@
       "titulo": "Pareando com Potes de Creme",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3691,7 +3691,7 @@
       "titulo": "Jogo da \"Pista de Corrida\"",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3702,7 +3702,7 @@
       "titulo": "Pareando com Massinha e Fichas",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3713,7 +3713,7 @@
       "titulo": "Jogo do \"Encaixe no Livro\"",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3724,7 +3724,7 @@
       "titulo": "Pareando com Pano",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3735,7 +3735,7 @@
       "titulo": "Jogo do \"Boneco de Formas\"",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3746,7 +3746,7 @@
       "titulo": "Pareando com Balões",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3757,7 +3757,7 @@
       "titulo": "Jogo do \"Tesouro de Formas\"",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3768,7 +3768,7 @@
       "titulo": "Pareando com Adesivos",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3779,7 +3779,7 @@
       "titulo": "Jogo do \"Faz de Conta\" de Construir",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3790,7 +3790,7 @@
       "titulo": "Pareando com Plástico Transparente",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3801,7 +3801,7 @@
       "titulo": "Jogo do \"Caminho de Pedras\"",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3812,7 +3812,7 @@
       "titulo": "Pareando com Fichas e Potes",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3823,7 +3823,7 @@
       "titulo": "Jogo da \"Casa da Árvore\"",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3834,7 +3834,7 @@
       "titulo": "Pareando com Imagens e Objetos",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   },
@@ -3845,7 +3845,7 @@
       "titulo": "Jogo do \"Livro de Recortes\"",
       "dimensao": "Cognição",
       "habilidade": "Pareia figuras geométricas com formas geométricas concretas.",
-      "nivel": "Nível 2",
+      "nivel_autismo": "Nível 2",
       "idade": "2 a 3 anos"
     }
   }

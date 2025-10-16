@@ -6,7 +6,7 @@
       "titulo": "Bola Grande e Pequena",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -17,7 +17,7 @@
       "titulo": "O Carro Vermelho",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -28,7 +28,7 @@
       "titulo": "A Água Fria",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -39,7 +39,7 @@
       "titulo": "O Livro Pesado",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -50,7 +50,7 @@
       "titulo": "A Cama Mole",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -61,7 +61,7 @@
       "titulo": "O Bloco Duro",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -72,7 +72,7 @@
       "titulo": "Sopa Quente",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -83,7 +83,7 @@
       "titulo": "O Urso Macio",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -94,7 +94,7 @@
       "titulo": "O Travesseiro Fofo",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -105,7 +105,7 @@
       "titulo": "A Toalha Molhada",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -116,7 +116,7 @@
       "titulo": "O Balde Vazio",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -127,7 +127,7 @@
       "titulo": "A Caixa Cheia",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -138,7 +138,7 @@
       "titulo": "O Nariz Gelado",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -149,7 +149,7 @@
       "titulo": "A Mãozinha Suja",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -160,7 +160,7 @@
       "titulo": "O Cabelo Molhado",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -171,7 +171,7 @@
       "titulo": "O Jogo Acabou",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -182,7 +182,7 @@
       "titulo": "O Pão Gostoso",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -193,7 +193,7 @@
       "titulo": "A Canção Lenta",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -204,7 +204,7 @@
       "titulo": "A Canção Rápida",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -215,7 +215,7 @@
       "titulo": "A Luz Brilhante",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -226,7 +226,7 @@
       "titulo": "A Roupa Limpa",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -237,7 +237,7 @@
       "titulo": "O Pássaro Pequeno",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -248,7 +248,7 @@
       "titulo": "O Cachorro Grande",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -259,7 +259,7 @@
       "titulo": "O Gato Preto",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -270,7 +270,7 @@
       "titulo": "A Flor Amarela",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -281,7 +281,7 @@
       "titulo": "O Ônibus Azul",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -292,7 +292,7 @@
       "titulo": "O Avião Longe",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -303,7 +303,7 @@
       "titulo": "O Carro Perto",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -314,7 +314,7 @@
       "titulo": "O Biscoito Duro",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -325,7 +325,7 @@
       "titulo": "A Comida Boa",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -336,7 +336,7 @@
       "titulo": "O Lixo Ruim",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -347,7 +347,7 @@
       "titulo": "A Porta Fechada",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -358,7 +358,7 @@
       "titulo": "A Porta Aberta",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -369,7 +369,7 @@
       "titulo": "A Caixa Vazia",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -380,7 +380,7 @@
       "titulo": "O Travesseiro Macio",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -391,7 +391,7 @@
       "titulo": "O Livro Fechado",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -402,7 +402,7 @@
       "titulo": "O Livro Aberto",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -413,7 +413,7 @@
       "titulo": "O Copo Cheio",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -424,7 +424,7 @@
       "titulo": "O Sol Quente",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -435,7 +435,7 @@
       "titulo": "O Balde Pesado",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -446,7 +446,7 @@
       "titulo": "A Meia Suja",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -457,7 +457,7 @@
       "titulo": "A Meia Limpa",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -468,7 +468,7 @@
       "titulo": "A Mamadeira Cheia",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -479,7 +479,7 @@
       "titulo": "A Chave Pequena",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -490,7 +490,7 @@
       "titulo": "O Cabelo Limpo",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -501,7 +501,7 @@
       "titulo": "A Cadeira Vazia",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -512,7 +512,7 @@
       "titulo": "O Pote Vazio",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -523,7 +523,7 @@
       "titulo": "A Boneca Feliz",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -534,7 +534,7 @@
       "titulo": "O Bebê Lindo",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -545,7 +545,7 @@
       "titulo": "A Mão Forte",
       "dimensao": "Linguagem",
       "habilidade": "Forma frases simples de 2 palavras, juntando adjetivo e substantivo (ex.: bola grande).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -556,7 +556,7 @@
       "titulo": "O Carro Anda",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -567,7 +567,7 @@
       "titulo": "A Bola Rola",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -578,7 +578,7 @@
       "titulo": "O Bebê Come",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -589,7 +589,7 @@
       "titulo": "O Cachorro Corre",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -600,7 +600,7 @@
       "titulo": "A Luz Acende",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -611,7 +611,7 @@
       "titulo": "A Boneca Pula",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -622,7 +622,7 @@
       "titulo": "O Trem Corre",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -633,7 +633,7 @@
       "titulo": "O Pato Nada",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -644,7 +644,7 @@
       "titulo": "Mamãe Fala",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -655,7 +655,7 @@
       "titulo": "A Cadeira Senta",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -666,7 +666,7 @@
       "titulo": "O Coelho Pula",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -677,7 +677,7 @@
       "titulo": "A Chuva Cai",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -688,7 +688,7 @@
       "titulo": "O Avião Voa",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -699,7 +699,7 @@
       "titulo": "O Gato Dorme",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -710,7 +710,7 @@
       "titulo": "A Criança Corre",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -721,7 +721,7 @@
       "titulo": "O Pássaro Voa",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -732,7 +732,7 @@
       "titulo": "O Rato Corre",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -743,7 +743,7 @@
       "titulo": "A Mão Bate",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -754,7 +754,7 @@
       "titulo": "O Pé Anda",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -765,7 +765,7 @@
       "titulo": "A Boca Abre",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -776,7 +776,7 @@
       "titulo": "O Olho Pisca",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -787,7 +787,7 @@
       "titulo": "O Dedo Sobe",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -798,7 +798,7 @@
       "titulo": "O Dedo Desce",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -809,7 +809,7 @@
       "titulo": "O Peixe Nada",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -820,7 +820,7 @@
       "titulo": "O Sino Toca",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -831,7 +831,7 @@
       "titulo": "O Leão Ruge",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -842,7 +842,7 @@
       "titulo": "A Formiga Anda",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -853,7 +853,7 @@
       "titulo": "O Macaco Pula",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -864,7 +864,7 @@
       "titulo": "O Lobo Uiva",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -875,7 +875,7 @@
       "titulo": "O Coelho Come",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -886,7 +886,7 @@
       "titulo": "O Pote Abre",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -897,7 +897,7 @@
       "titulo": "A Caixa Fecha",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -908,7 +908,7 @@
       "titulo": "O Livro Fecha",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -919,7 +919,7 @@
       "titulo": "A Porta Fecha",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -930,7 +930,7 @@
       "titulo": "O Pano Cai",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -941,7 +941,7 @@
       "titulo": "A Água Cai",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -952,7 +952,7 @@
       "titulo": "A Rampa Rola",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -963,7 +963,7 @@
       "titulo": "O Bebê Chora",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -974,7 +974,7 @@
       "titulo": "O Papai Sorri",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -985,7 +985,7 @@
       "titulo": "A Mamãe Canta",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -996,7 +996,7 @@
       "titulo": "O Coelho Come",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1007,7 +1007,7 @@
       "titulo": "A Joaninha Voa",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1018,7 +1018,7 @@
       "titulo": "O Pinguim Anda",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1029,7 +1029,7 @@
       "titulo": "O Gato Bebe",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1040,7 +1040,7 @@
       "titulo": "O Pato Cala",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1051,7 +1051,7 @@
       "titulo": "O Leão Dorme",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1062,7 +1062,7 @@
       "titulo": "O Sapo Pula",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1073,7 +1073,7 @@
       "titulo": "A Vaca Bebe",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1084,7 +1084,7 @@
       "titulo": "O Peixe Pula",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1095,7 +1095,7 @@
       "titulo": "O Elefante Chora",
       "dimensao": "Linguagem",
       "habilidade": "Usa frases curtas combinando substantivo e verbo (ex.: menino corre).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1106,7 +1106,7 @@
       "titulo": "A Boneca está com Fome",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1117,7 +1117,7 @@
       "titulo": "O Ursinho com Sede",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1128,7 +1128,7 @@
       "titulo": "Vamos dar Banho na Bebê",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1139,7 +1139,7 @@
       "titulo": "O Dedo doeu!",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1150,7 +1150,7 @@
       "titulo": "A Hora do Lanchinho",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1161,7 +1161,7 @@
       "titulo": "O Jogo do Copinho",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1172,7 +1172,7 @@
       "titulo": "Sons de Fome",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1183,7 +1183,7 @@
       "titulo": "Cadê o Banheiro?",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1194,7 +1194,7 @@
       "titulo": "O Jogo do Curativo",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1205,7 +1205,7 @@
       "titulo": "A Chuquinha Vazia",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1216,7 +1216,7 @@
       "titulo": "A Barriga Roncando",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1227,7 +1227,7 @@
       "titulo": "O Pãozinho do Brinquedo",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1238,7 +1238,7 @@
       "titulo": "O Jogo da Fome e Sede",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1249,7 +1249,7 @@
       "titulo": "O Chuveiro Faz 'Chuá'",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1260,7 +1260,7 @@
       "titulo": "O Jogo da Ação e Reação",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1271,7 +1271,7 @@
       "titulo": "A Caixa de Surpresas com Comida",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1282,7 +1282,7 @@
       "titulo": "A Cozinha de Brinquedo",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1293,7 +1293,7 @@
       "titulo": "A Hora do Suquinho",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1304,7 +1304,7 @@
       "titulo": "O Jogo do 'Não Dói'",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1315,7 +1315,7 @@
       "titulo": "O Banheiro do Ursinho",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1326,7 +1326,7 @@
       "titulo": "O Jogo do 'Vai, vai'",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1337,7 +1337,7 @@
       "titulo": "O Quebra-Cabeça da Fome",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1348,7 +1348,7 @@
       "titulo": "O Jogo de Curativo",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1359,7 +1359,7 @@
       "titulo": "O Jogo das Placas",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1370,7 +1370,7 @@
       "titulo": "A Câmera da Fome",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1381,7 +1381,7 @@
       "titulo": "O Jogo do 'Onde Dói?'",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1392,7 +1392,7 @@
       "titulo": "A Canção da Sede",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1403,7 +1403,7 @@
       "titulo": "A Canção da Fome",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1414,7 +1414,7 @@
       "titulo": "O Jogo do 'Tudo Bem'",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1425,7 +1425,7 @@
       "titulo": "O Banheiro do Pano",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1436,7 +1436,7 @@
       "titulo": "O Jogo do 'Quer Mais?'",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1447,7 +1447,7 @@
       "titulo": "A Sede da Planta",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1458,7 +1458,7 @@
       "titulo": "O Jogo da Ação",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1469,7 +1469,7 @@
       "titulo": "A Escova de Dentes",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1480,7 +1480,7 @@
       "titulo": "O Jogo do 'Tudo Dói'",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1491,7 +1491,7 @@
       "titulo": "O Jogo do 'Não Dói'",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1502,7 +1502,7 @@
       "titulo": "A Sede do Cachorro",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1513,7 +1513,7 @@
       "titulo": "O Jogo da Fome do Gato",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1524,7 +1524,7 @@
       "titulo": "O Jogo da Dor do Pato",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1535,7 +1535,7 @@
       "titulo": "O Balão de Ar",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1546,7 +1546,7 @@
       "titulo": "A Vassoura de Brinquedo",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1557,7 +1557,7 @@
       "titulo": "O Urso e a Fome",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1568,7 +1568,7 @@
       "titulo": "A Boneca e o Banheiro",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1579,7 +1579,7 @@
       "titulo": "A Água do Pato",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1590,7 +1590,7 @@
       "titulo": "O Jogo do 'Toda Parte Dói'",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1601,7 +1601,7 @@
       "titulo": "O Lanche no Jogo",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1612,7 +1612,7 @@
       "titulo": "O Jogo do 'Sopro'",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1623,7 +1623,7 @@
       "titulo": "O Jogo da Boca",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1634,7 +1634,7 @@
       "titulo": "O Jogo da Sede com o Pato",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1645,7 +1645,7 @@
       "titulo": "O Jogo da Banheira Vazia",
       "dimensao": "Linguagem",
       "habilidade": "Comunica-se para indicar necessidade de ir ao banheiro, sede, fome e dor.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1656,7 +1656,7 @@
       "titulo": "Cadê o Urso?",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1667,7 +1667,7 @@
       "titulo": "O Carro Escondido",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1678,7 +1678,7 @@
       "titulo": "A Bola Sumiu",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1689,7 +1689,7 @@
       "titulo": "O Sapato no Pé",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1700,7 +1700,7 @@
       "titulo": "A Colher Mágica",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1711,7 +1711,7 @@
       "titulo": "O Copo de Água",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1722,7 +1722,7 @@
       "titulo": "A Boneca na Cadeira",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1733,7 +1733,7 @@
       "titulo": "O Gato no Sofá",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1744,7 +1744,7 @@
       "titulo": "O Pato no Banho",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1755,7 +1755,7 @@
       "titulo": "A Luz na Parede",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1766,7 +1766,7 @@
       "titulo": "Onde Está a Mamãe?",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1777,7 +1777,7 @@
       "titulo": "Onde Está o Papai?",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1788,7 +1788,7 @@
       "titulo": "O Livro no Chão",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1799,7 +1799,7 @@
       "titulo": "A Flor no Vaso",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1810,7 +1810,7 @@
       "titulo": "A Cama Fofinha",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1821,7 +1821,7 @@
       "titulo": "O Travesseiro",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1832,7 +1832,7 @@
       "titulo": "A Meia no Pé",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1843,7 +1843,7 @@
       "titulo": "O Chapéu na Cabeça",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1854,7 +1854,7 @@
       "titulo": "O Pente na Mão",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1865,7 +1865,7 @@
       "titulo": "O Telefone na Mesa",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1876,7 +1876,7 @@
       "titulo": "O Balde de Areia",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1887,7 +1887,7 @@
       "titulo": "O Cinto do Carro",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1898,7 +1898,7 @@
       "titulo": "O Lápis de Cor",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1909,7 +1909,7 @@
       "titulo": "A Escova de Dentes",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1920,7 +1920,7 @@
       "titulo": "O Relógio na Parede",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1931,7 +1931,7 @@
       "titulo": "O Jogo na Prateleira",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1942,7 +1942,7 @@
       "titulo": "A Janela",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1953,7 +1953,7 @@
       "titulo": "A Porta",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1964,7 +1964,7 @@
       "titulo": "A Vassoura",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1975,7 +1975,7 @@
       "titulo": "A Cadeira",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1986,7 +1986,7 @@
       "titulo": "O Pano Seco",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1997,7 +1997,7 @@
       "titulo": "A Caixa de Surpresas",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2008,7 +2008,7 @@
       "titulo": "O Pão na Cesta",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2019,7 +2019,7 @@
       "titulo": "A Meia Fofinha",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2030,7 +2030,7 @@
       "titulo": "A Chave do Tesouro",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2041,7 +2041,7 @@
       "titulo": "O Espelho Mágico",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2052,7 +2052,7 @@
       "titulo": "Onde Está o Nariz?",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2063,7 +2063,7 @@
       "titulo": "Onde Está a Mão?",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2074,7 +2074,7 @@
       "titulo": "Onde Está o Pé?",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2085,7 +2085,7 @@
       "titulo": "Onde Está a Orelha?",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2096,7 +2096,7 @@
       "titulo": "Onde Está a Boca?",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2107,7 +2107,7 @@
       "titulo": "A Fruta na Cesta",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2118,7 +2118,7 @@
       "titulo": "A Boneca na Cama",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2129,7 +2129,7 @@
       "titulo": "O Balão no Teto",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2140,7 +2140,7 @@
       "titulo": "O Gato na Janela",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2151,7 +2151,7 @@
       "titulo": "A Caixa de Lenços",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2162,7 +2162,7 @@
       "titulo": "O Boneco no Carrinho",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2173,7 +2173,7 @@
       "titulo": "O Pote Vazio",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2184,7 +2184,7 @@
       "titulo": "O Ursinho no Colo",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2195,7 +2195,7 @@
       "titulo": "O Coelho Escondido",
       "dimensao": "Linguagem",
       "habilidade": "Localiza objetos ao responder a perguntas do tipo “Onde está…?”.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2206,7 +2206,7 @@
       "titulo": "Parabéns Pra Você",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2217,7 +2217,7 @@
       "titulo": "O Espelho Mágico",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2228,7 +2228,7 @@
       "titulo": "O Fantoche Curioso",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2239,7 +2239,7 @@
       "titulo": "A Torre de Blocos",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2250,7 +2250,7 @@
       "titulo": "A Canção dos Dedos",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2261,7 +2261,7 @@
       "titulo": "O Aniversário da Boneca",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2272,7 +2272,7 @@
       "titulo": "Soprando as Velas",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2283,7 +2283,7 @@
       "titulo": "As Mãos que Falam",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2294,7 +2294,7 @@
       "titulo": "O Jogo do 'Eu'",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2305,7 +2305,7 @@
       "titulo": "A Hora da História",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2316,7 +2316,7 @@
       "titulo": "O Espelho da Idade",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2327,7 +2327,7 @@
       "titulo": "A Caixa de Surpresas",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2338,7 +2338,7 @@
       "titulo": "O Trem dos Anos",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2349,7 +2349,7 @@
       "titulo": "Cantando no Banho",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2360,7 +2360,7 @@
       "titulo": "O Desenho da Mão",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2371,7 +2371,7 @@
       "titulo": "O Jogo do 'Toque'",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2382,7 +2382,7 @@
       "titulo": "A Canção do Pato",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2393,7 +2393,7 @@
       "titulo": "A Hora da Comida",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2404,7 +2404,7 @@
       "titulo": "Os Dedos Brincalhões",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2415,7 +2415,7 @@
       "titulo": "O Jogo de Sombra",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2426,7 +2426,7 @@
       "titulo": "O Coelho e os Anos",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2437,7 +2437,7 @@
       "titulo": "Os Dedos Escondidos",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2448,7 +2448,7 @@
       "titulo": "O Canto do Abraço",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2459,7 +2459,7 @@
       "titulo": "O Jogo do 'Vai e Volta'",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2470,7 +2470,7 @@
       "titulo": "O Jogo do 'Olha aqui!'",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2481,7 +2481,7 @@
       "titulo": "O Jogo do 'Para o Ar'",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2492,7 +2492,7 @@
       "titulo": "A História das Mãos",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2503,7 +2503,7 @@
       "titulo": "O Boneco da Idade",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2514,7 +2514,7 @@
       "titulo": "O Jogo do 'Eu Sou...'",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2525,7 +2525,7 @@
       "titulo": "O Balde da Idade",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2536,7 +2536,7 @@
       "titulo": "O Jogo da Fila",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2547,7 +2547,7 @@
       "titulo": "O Aniversário do Cachorro",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2558,7 +2558,7 @@
       "titulo": "O Jogo das Cores",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2569,7 +2569,7 @@
       "titulo": "A Canção da Família",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2580,7 +2580,7 @@
       "titulo": "O Jogo do Pano",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2591,7 +2591,7 @@
       "titulo": "O Jogo de Sopro",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2602,7 +2602,7 @@
       "titulo": "O Jogo do Quebra-Cabeça",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2613,7 +2613,7 @@
       "titulo": "O Jogo das Massinhas",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2624,7 +2624,7 @@
       "titulo": "O Jogo do 'Eu sei'",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2635,7 +2635,7 @@
       "titulo": "O Jogo do Abraço",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2646,7 +2646,7 @@
       "titulo": "O Jogo da Surpresa",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2657,7 +2657,7 @@
       "titulo": "O Jogo da 'Voz'",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2668,7 +2668,7 @@
       "titulo": "A Canção do 'Caiu'",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2679,7 +2679,7 @@
       "titulo": "O Jogo de Sentar",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2690,7 +2690,7 @@
       "titulo": "O Jogo do 'Sim'",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2701,7 +2701,7 @@
       "titulo": "O Jogo da Bolha de Sabão",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2712,7 +2712,7 @@
       "titulo": "A História dos Dedos",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2723,7 +2723,7 @@
       "titulo": "A Brincadeira de 'Sopro'",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2734,7 +2734,7 @@
       "titulo": "O Jogo dos Balões",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2745,7 +2745,7 @@
       "titulo": "O Jogo do 'Conta Comigo'",
       "dimensao": "Linguagem",
       "habilidade": "Mostra a idade usando os dedos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2756,7 +2756,7 @@
       "titulo": "O Carro Roda",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2767,7 +2767,7 @@
       "titulo": "A Bola Pula",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2778,7 +2778,7 @@
       "titulo": "A Boneca Dorme",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2789,7 +2789,7 @@
       "titulo": "O Papai Canta",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2800,7 +2800,7 @@
       "titulo": "O Cachorro Corre",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2811,7 +2811,7 @@
       "titulo": "A Mamãe Anda",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2822,7 +2822,7 @@
       "titulo": "O Pato Nada",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2833,7 +2833,7 @@
       "titulo": "O Bebê Come",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2844,7 +2844,7 @@
       "titulo": "O Gato Bebe",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2855,7 +2855,7 @@
       "titulo": "A Luz Acende",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2866,7 +2866,7 @@
       "titulo": "A Porta Fecha",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2877,7 +2877,7 @@
       "titulo": "A Chuva Cai",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2888,7 +2888,7 @@
       "titulo": "O Avião Voa",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2899,7 +2899,7 @@
       "titulo": "O Livro Fecha",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2910,7 +2910,7 @@
       "titulo": "A Criança Pula",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2921,7 +2921,7 @@
       "titulo": "O Jogo de Sopro",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2932,7 +2932,7 @@
       "titulo": "A Massinha Amassa",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2943,7 +2943,7 @@
       "titulo": "A Mão Bate",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2954,7 +2954,7 @@
       "titulo": "O Urso Abraça",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2965,7 +2965,7 @@
       "titulo": "O Balão Enche",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2976,7 +2976,7 @@
       "titulo": "O Coelho Pula",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2987,7 +2987,7 @@
       "titulo": "O Pente Penteia",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2998,7 +2998,7 @@
       "titulo": "O Telefone Toca",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3009,7 +3009,7 @@
       "titulo": "O Sino Toca",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3020,7 +3020,7 @@
       "titulo": "O Gato Morde",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3031,7 +3031,7 @@
       "titulo": "O Bebê Chora",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3042,7 +3042,7 @@
       "titulo": "O Bebê Ri",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3053,7 +3053,7 @@
       "titulo": "O Patinho Nada",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3064,7 +3064,7 @@
       "titulo": "O Cachorro Late",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3075,7 +3075,7 @@
       "titulo": "O Leão Ruge",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3086,7 +3086,7 @@
       "titulo": "A Vaca Come",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3097,7 +3097,7 @@
       "titulo": "A Formiga Anda",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3108,7 +3108,7 @@
       "titulo": "O Sapo Pula",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3119,7 +3119,7 @@
       "titulo": "A Mamãe Cozinha",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3130,7 +3130,7 @@
       "titulo": "O Papai Lava",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3141,7 +3141,7 @@
       "titulo": "O Pão Cai",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3152,7 +3152,7 @@
       "titulo": "A Chuva Para",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3163,7 +3163,7 @@
       "titulo": "A Vassoura Varre",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3174,7 +3174,7 @@
       "titulo": "A Água Cai",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3185,7 +3185,7 @@
       "titulo": "O Sol Brilha",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3196,7 +3196,7 @@
       "titulo": "A Estrela Pisca",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3207,7 +3207,7 @@
       "titulo": "A Orelha Escuta",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3218,7 +3218,7 @@
       "titulo": "A Boca Fala",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3229,7 +3229,7 @@
       "titulo": "O Olho Olha",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3240,7 +3240,7 @@
       "titulo": "O Trem Para",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3251,7 +3251,7 @@
       "titulo": "A Caixa Abre",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3262,7 +3262,7 @@
       "titulo": "A Rampa Desce",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3273,7 +3273,7 @@
       "titulo": "A Menina Penteia",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3284,7 +3284,7 @@
       "titulo": "O Pássaro Voa",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3295,7 +3295,7 @@
       "titulo": "O Macaco Pula",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “O que… está fazendo?” para atividades imediatas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3306,7 +3306,7 @@
       "titulo": "O Espelho Mágico",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3317,7 +3317,7 @@
       "titulo": "O Jogo do 'De Quem É?'",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3328,7 +3328,7 @@
       "titulo": "Vamos Vestir o(a) [Nome]",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3339,7 +3339,7 @@
       "titulo": "A Hora de Comer",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3350,7 +3350,7 @@
       "titulo": "A Canção do Nome",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3361,7 +3361,7 @@
       "titulo": "Onde Está o(a) [Nome]?",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3372,7 +3372,7 @@
       "titulo": "Fotos da Família",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3383,7 +3383,7 @@
       "titulo": "O Telefone Tocou!",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3394,7 +3394,7 @@
       "titulo": "A Boneca que se Apresenta",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3405,7 +3405,7 @@
       "titulo": "A Brincadeira de 'Sopro'",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3416,7 +3416,7 @@
       "titulo": "O Balde de Brinquedos",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3427,7 +3427,7 @@
       "titulo": "O Pulo do(a) [Nome]",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3438,7 +3438,7 @@
       "titulo": "O Lanche Delicioso",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3449,7 +3449,7 @@
       "titulo": "O Jogo de Sombra",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3460,7 +3460,7 @@
       "titulo": "A Cama Fofinha",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3471,7 +3471,7 @@
       "titulo": "A Água no Copo",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3482,7 +3482,7 @@
       "titulo": "A Canção da Barriga",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3493,7 +3493,7 @@
       "titulo": "O Jogo do 'Vai e Volta'",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3504,7 +3504,7 @@
       "titulo": "O Jogo de Encaixe",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3515,7 +3515,7 @@
       "titulo": "O Banho de Bolhas",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3526,7 +3526,7 @@
       "titulo": "O Coelho Pula",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3537,7 +3537,7 @@
       "titulo": "O Cachorro Faz 'Au-au'",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3548,7 +3548,7 @@
       "titulo": "O Jogo do 'Quente e Frio'",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3559,7 +3559,7 @@
       "titulo": "O Carro de Brinquedo",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3570,7 +3570,7 @@
       "titulo": "O Livro de Histórias",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3581,7 +3581,7 @@
       "titulo": "O Jogo de Bater Palma",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3592,7 +3592,7 @@
       "titulo": "A Hora de Dar Tchau",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3603,7 +3603,7 @@
       "titulo": "O Telefone Toca",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3614,7 +3614,7 @@
       "titulo": "O Ursinho Dormiu",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3625,7 +3625,7 @@
       "titulo": "A Luz do Quarto",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3636,7 +3636,7 @@
       "titulo": "O Jogo do 'Quem é?'",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3647,7 +3647,7 @@
       "titulo": "A Despedida da Família",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3658,7 +3658,7 @@
       "titulo": "O Jogo da Rampa",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3669,7 +3669,7 @@
       "titulo": "A Escova de Dentes",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3680,7 +3680,7 @@
       "titulo": "O Pente",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3691,7 +3691,7 @@
       "titulo": "O Sapato",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3702,7 +3702,7 @@
       "titulo": "A Meia",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3713,7 +3713,7 @@
       "titulo": "O Chapéu",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3724,7 +3724,7 @@
       "titulo": "A Porta da Rua",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3735,7 +3735,7 @@
       "titulo": "O Chaveiro",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3746,7 +3746,7 @@
       "titulo": "O Jogo do 'Sopa'",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3757,7 +3757,7 @@
       "titulo": "A Vassoura de Brinquedo",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3768,7 +3768,7 @@
       "titulo": "A Brincadeira de 'Sobe e Desce'",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3779,7 +3779,7 @@
       "titulo": "O Jogo da Massinha",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3790,7 +3790,7 @@
       "titulo": "A Cadeira",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3801,7 +3801,7 @@
       "titulo": "O Jogo do 'Não'",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3812,7 +3812,7 @@
       "titulo": "A Sombra do Corpo",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3823,7 +3823,7 @@
       "titulo": "A Mão na Água",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3834,7 +3834,7 @@
       "titulo": "O Piquenique",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3845,7 +3845,7 @@
       "titulo": "O Jogo da 'Eu quero'",
       "dimensao": "Linguagem",
       "habilidade": "Refere-se a si mesmo(a) utilizando o próprio nome. ",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3856,7 +3856,7 @@
       "titulo": "Uma Bola, Várias Bolas",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3867,7 +3867,7 @@
       "titulo": "O Sapato e os Sapatos",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3878,7 +3878,7 @@
       "titulo": "O Livro e os Livros",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3889,7 +3889,7 @@
       "titulo": "O Carro e os Carros",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3900,7 +3900,7 @@
       "titulo": "O Pato e os Patos",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3911,7 +3911,7 @@
       "titulo": "O Bloco e os Blocos",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3922,7 +3922,7 @@
       "titulo": "A Meia e as Meias",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3933,7 +3933,7 @@
       "titulo": "O Biscoito e os Biscoitos",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3944,7 +3944,7 @@
       "titulo": "A Colher e as Colheres",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3955,7 +3955,7 @@
       "titulo": "A Fruta e as Frutas",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3966,7 +3966,7 @@
       "titulo": "O Lápis e os Lápis",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3977,7 +3977,7 @@
       "titulo": "O Pássaro e os Pássaros",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3988,7 +3988,7 @@
       "titulo": "O Ursinho e os Ursinhos",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3999,7 +3999,7 @@
       "titulo": "A Bolinha e as Bolinhas",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4010,7 +4010,7 @@
       "titulo": "A Cadeira e as Cadeiras",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4021,7 +4021,7 @@
       "titulo": "O Gato e os Gatos",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4032,7 +4032,7 @@
       "titulo": "O Cachorro e os Cachorros",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4043,7 +4043,7 @@
       "titulo": "A Boneca e as Bonecas",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4054,7 +4054,7 @@
       "titulo": "A Meia Suja e as Meias Sujas",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4065,7 +4065,7 @@
       "titulo": "O Copo e os Copos",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4076,7 +4076,7 @@
       "titulo": "O Prato e os Pratos",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4087,7 +4087,7 @@
       "titulo": "A Porta e as Portas",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4098,7 +4098,7 @@
       "titulo": "A Janela e as Janelas",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4109,7 +4109,7 @@
       "titulo": "A Flor e as Flores",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4120,7 +4120,7 @@
       "titulo": "A Folha e as Folhas",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4131,7 +4131,7 @@
       "titulo": "O Jogo e os Jogos",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4142,7 +4142,7 @@
       "titulo": "A Peça e as Peças",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4153,7 +4153,7 @@
       "titulo": "O Dedo e os Dedos",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4164,7 +4164,7 @@
       "titulo": "O Pé e os Pés",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4175,7 +4175,7 @@
       "titulo": "O Joelho e os Joelhos",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4186,7 +4186,7 @@
       "titulo": "O Braço e os Braços",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4197,7 +4197,7 @@
       "titulo": "A Mão e as Mãos",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4208,7 +4208,7 @@
       "titulo": "O Olho e os Olhos",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4219,7 +4219,7 @@
       "titulo": "A Orelha e as Orelhas",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4230,7 +4230,7 @@
       "titulo": "O Brinquedo e os Brinquedos",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4241,7 +4241,7 @@
       "titulo": "O Cesto e os Cestos",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4252,7 +4252,7 @@
       "titulo": "A Lata e as Latas",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4263,7 +4263,7 @@
       "titulo": "A Caneca e as Canecas",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4274,7 +4274,7 @@
       "titulo": "O Pote e os Potes",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4285,7 +4285,7 @@
       "titulo": "O Copinho e os Copinhos",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4296,7 +4296,7 @@
       "titulo": "O Balão e os Balões",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4307,7 +4307,7 @@
       "titulo": "A Massinha e as Massinhas",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4318,7 +4318,7 @@
       "titulo": "A Vela e as Velas",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4329,7 +4329,7 @@
       "titulo": "O Desenho e os Desenhos",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4340,7 +4340,7 @@
       "titulo": "A Criança e as Crianças",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4351,7 +4351,7 @@
       "titulo": "O Jogo do 'Mais'",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4362,7 +4362,7 @@
       "titulo": "O Pote de Giz",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4373,7 +4373,7 @@
       "titulo": "A Flor e os Caules",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4384,7 +4384,7 @@
       "titulo": "O Urso e os Abraços",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4395,7 +4395,7 @@
       "titulo": "O Lixo e os Lixos",
       "dimensao": "Linguagem",
       "habilidade": "Usa o plural em frases ou palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4406,7 +4406,7 @@
       "titulo": "O Carro Perto e Longe",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4417,7 +4417,7 @@
       "titulo": "A Bola na Cesta",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4428,7 +4428,7 @@
       "titulo": "A Boneca na Cadeira",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4439,7 +4439,7 @@
       "titulo": "O Livro na Mesa",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4450,7 +4450,7 @@
       "titulo": "A Luz do Quarto",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4461,7 +4461,7 @@
       "titulo": "A Janela e a Porta",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4472,7 +4472,7 @@
       "titulo": "O Urso e a Zebra",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4483,7 +4483,7 @@
       "titulo": "A Maçã na Mão",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4494,7 +4494,7 @@
       "titulo": "Os Sapatos no Chão",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4505,7 +4505,7 @@
       "titulo": "O Balão na Mão",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4516,7 +4516,7 @@
       "titulo": "O Gato no Sofá",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4527,7 +4527,7 @@
       "titulo": "A Caneta no Estojo",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4538,7 +4538,7 @@
       "titulo": "O Pato na Água",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4549,7 +4549,7 @@
       "titulo": "A Flor na Mesa",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4560,7 +4560,7 @@
       "titulo": "O Pão na Mão",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4571,7 +4571,7 @@
       "titulo": "A Cadeira Vazia",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4582,7 +4582,7 @@
       "titulo": "O Carrinho de Compras",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4593,7 +4593,7 @@
       "titulo": "A Mamadeira Cheia",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4604,7 +4604,7 @@
       "titulo": "O Telefone na Orelha",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4615,7 +4615,7 @@
       "titulo": "O Prato de Comida",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4626,7 +4626,7 @@
       "titulo": "O Jogo de Encaixe",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4637,7 +4637,7 @@
       "titulo": "As Meias no Cesto",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4648,7 +4648,7 @@
       "titulo": "O Bebê na Cama",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4659,7 +4659,7 @@
       "titulo": "O Lápis na Mesa",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4670,7 +4670,7 @@
       "titulo": "O Papel na Mão",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4681,7 +4681,7 @@
       "titulo": "O Lixo Perto e Longe",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4692,7 +4692,7 @@
       "titulo": "O Travesseiro Fofinho",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4703,7 +4703,7 @@
       "titulo": "A Cortina da Janela",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4714,7 +4714,7 @@
       "titulo": "O Brinquedo na Prateleira",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4725,7 +4725,7 @@
       "titulo": "A Luz do Quarto",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4736,7 +4736,7 @@
       "titulo": "O Balão na Mão",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4747,7 +4747,7 @@
       "titulo": "A Vaca e o Cachorro",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4758,7 +4758,7 @@
       "titulo": "O Saco Cheio e Vazio",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4769,7 +4769,7 @@
       "titulo": "A Água no Copo",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4780,7 +4780,7 @@
       "titulo": "O Dedo na Mão",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4791,7 +4791,7 @@
       "titulo": "O Joelho na Perna",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4802,7 +4802,7 @@
       "titulo": "A Orelha Perto",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4813,7 +4813,7 @@
       "titulo": "O Nariz e o Olho",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4824,7 +4824,7 @@
       "titulo": "O Telefone na Mesa",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4835,7 +4835,7 @@
       "titulo": "O Carrinho na Mão",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4846,7 +4846,7 @@
       "titulo": "O Guarda-Roupa Aberto e Fechado",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4857,7 +4857,7 @@
       "titulo": "A Vassoura e o Rodo",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4868,7 +4868,7 @@
       "titulo": "A Cama e a Mesa",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4879,7 +4879,7 @@
       "titulo": "O Pão e a Biscoito",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4890,7 +4890,7 @@
       "titulo": "O Cesto de Brinquedos",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4901,7 +4901,7 @@
       "titulo": "A Bacia de Água",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4912,7 +4912,7 @@
       "titulo": "O Sapato de Quem?",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4923,7 +4923,7 @@
       "titulo": "O Cinto do Carro",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4934,7 +4934,7 @@
       "titulo": "O Brinquedo Quebrado",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4945,7 +4945,7 @@
       "titulo": "O Papai Perto e a Mamãe Longe",
       "dimensao": "Linguagem",
       "habilidade": "Usa palavras como “este/esta” e “aquele/aquela” para indicar objetos ou pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4956,7 +4956,7 @@
       "titulo": "Quem Chegou?",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4967,7 +4967,7 @@
       "titulo": "O Álbum da Família",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4978,7 +4978,7 @@
       "titulo": "A Foto do Papai",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4989,7 +4989,7 @@
       "titulo": "O Jogo do Esconde",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5000,7 +5000,7 @@
       "titulo": "A Visita do Fantoche",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5011,7 +5011,7 @@
       "titulo": "O Espelho Mágico",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5022,7 +5022,7 @@
       "titulo": "O Telefone Tocou!",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5033,7 +5033,7 @@
       "titulo": "A Hora do Lanche",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5044,7 +5044,7 @@
       "titulo": "A Canção dos Nomes",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5055,7 +5055,7 @@
       "titulo": "O Desenho dos Amigos",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5066,7 +5066,7 @@
       "titulo": "A Boneca que Fala",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5077,7 +5077,7 @@
       "titulo": "O Brinquedo do Amigo",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5088,7 +5088,7 @@
       "titulo": "O Jogo do 'Não Sou Eu'",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5099,7 +5099,7 @@
       "titulo": "A Voz da Família",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5110,7 +5110,7 @@
       "titulo": "O Jogo da Adivinhação",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5121,7 +5121,7 @@
       "titulo": "O Jogo de Sombra",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5132,7 +5132,7 @@
       "titulo": "Onde Está o Amigo?",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5143,7 +5143,7 @@
       "titulo": "O Canto da Roda",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5154,7 +5154,7 @@
       "titulo": "O Jogo do 'Quem é Mais...'",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5165,7 +5165,7 @@
       "titulo": "O Jogo do 'Me Ajuda'",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5176,7 +5176,7 @@
       "titulo": "O Jogo do 'Vai e Volta'",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5187,7 +5187,7 @@
       "titulo": "A Hora de Sair",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5198,7 +5198,7 @@
       "titulo": "O Carro de Quem?",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5209,7 +5209,7 @@
       "titulo": "O Jogo do Espelho de Mão",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5220,7 +5220,7 @@
       "titulo": "O Abraço do Amigo",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5231,7 +5231,7 @@
       "titulo": "O Jogo de Passar o Brinquedo",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5242,7 +5242,7 @@
       "titulo": "A Cozinha de Brinquedo",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5253,7 +5253,7 @@
       "titulo": "O Jogo do 'Você'",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5264,7 +5264,7 @@
       "titulo": "A Brincadeira de 'Sopro'",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5275,7 +5275,7 @@
       "titulo": "O Jogo do 'Não'",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5286,7 +5286,7 @@
       "titulo": "O Jogo do 'Quem Gosta de...'",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5297,7 +5297,7 @@
       "titulo": "A Despedida da Família",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5308,7 +5308,7 @@
       "titulo": "O Jogo do 'Senta e Levanta'",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5319,7 +5319,7 @@
       "titulo": "A Canção do 'Pula'",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5330,7 +5330,7 @@
       "titulo": "O Canto da Amizade",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5341,7 +5341,7 @@
       "titulo": "O Jogo do 'Quem Quer?'",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5352,7 +5352,7 @@
       "titulo": "O Jogo da Mão",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5363,7 +5363,7 @@
       "titulo": "O Jogo da Corrida",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5374,7 +5374,7 @@
       "titulo": "O Jogo de Partes do Corpo",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5385,7 +5385,7 @@
       "titulo": "O Jogo de 'Me Ajuda'",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5396,7 +5396,7 @@
       "titulo": "A Brincadeira de 'Sopro'",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5407,7 +5407,7 @@
       "titulo": "A Brincadeira do 'Toca'",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5418,7 +5418,7 @@
       "titulo": "A Brincadeira do 'Caiu'",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5429,7 +5429,7 @@
       "titulo": "O Jogo de Sombra",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5440,7 +5440,7 @@
       "titulo": "O Jogo do 'Olha'",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5451,7 +5451,7 @@
       "titulo": "O Jogo do 'Acabou'",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5462,7 +5462,7 @@
       "titulo": "O Jogo de 'Olá'",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5473,7 +5473,7 @@
       "titulo": "O Jogo de 'Tudo Bem'",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5484,7 +5484,7 @@
       "titulo": "O Jogo do 'Papai'",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5495,7 +5495,7 @@
       "titulo": "O Jogo da 'Mamãe'",
       "dimensao": "Linguagem",
       "habilidade": "Responde à pergunta “Quem?” identificando a pessoa pelo nome.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5506,7 +5506,7 @@
       "titulo": "Cesta de Frutas",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5517,7 +5517,7 @@
       "titulo": "Saco de Animais",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5528,7 +5528,7 @@
       "titulo": "A Cozinha de Brinquedo",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5539,7 +5539,7 @@
       "titulo": "A Caixa de Brinquedos",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5550,7 +5550,7 @@
       "titulo": "O Livro de Roupas",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5561,7 +5561,7 @@
       "titulo": "O Livro da Fazenda",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5572,7 +5572,7 @@
       "titulo": "Os Lápis de Cor",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5583,7 +5583,7 @@
       "titulo": "As Partes do Corpo",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5594,7 +5594,7 @@
       "titulo": "A Roda de Veículos",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5605,7 +5605,7 @@
       "titulo": "Caça ao Tesouro",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5616,7 +5616,7 @@
       "titulo": "O Jogo da Comida",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5627,7 +5627,7 @@
       "titulo": "As Coisas de Banho",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5638,7 +5638,7 @@
       "titulo": "Álbum de Família",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5649,7 +5649,7 @@
       "titulo": "O Balde dos Animais do Mar",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5660,7 +5660,7 @@
       "titulo": "Os Brinquedos na Prateleira",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5671,7 +5671,7 @@
       "titulo": "Os Sons dos Animais",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5682,7 +5682,7 @@
       "titulo": "Os Doces",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5693,7 +5693,7 @@
       "titulo": "As Coisas do Quarto",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5704,7 +5704,7 @@
       "titulo": "O Jogo de Sombra",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5715,7 +5715,7 @@
       "titulo": "As Coisas que Voam",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5726,7 +5726,7 @@
       "titulo": "Os Objetos na Mesa",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5737,7 +5737,7 @@
       "titulo": "O Livro dos Sentimentos",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5748,7 +5748,7 @@
       "titulo": "As Coisas da Natureza",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5759,7 +5759,7 @@
       "titulo": "Os Bichinhos da Selva",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5770,7 +5770,7 @@
       "titulo": "Os Instrumentos Musicais",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5781,7 +5781,7 @@
       "titulo": "O Guarda-Roupa",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5792,7 +5792,7 @@
       "titulo": "Os Brinquedos que Giram",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5803,7 +5803,7 @@
       "titulo": "A Cesta de Bolas",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5814,7 +5814,7 @@
       "titulo": "O Jogo dos Cubos",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5825,7 +5825,7 @@
       "titulo": "O Livro dos Transportes",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5836,7 +5836,7 @@
       "titulo": "Os Itens de Banheiro",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5847,7 +5847,7 @@
       "titulo": "A Família do Jardim",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5858,7 +5858,7 @@
       "titulo": "Os Animais da Fazenda",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5869,7 +5869,7 @@
       "titulo": "Os Itens de Papelaria",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5880,7 +5880,7 @@
       "titulo": "O Jogo dos Sentidos",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5891,7 +5891,7 @@
       "titulo": "O Jogo dos Gatinhos",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5902,7 +5902,7 @@
       "titulo": "A Cozinha",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5913,7 +5913,7 @@
       "titulo": "O Quarto",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5924,7 +5924,7 @@
       "titulo": "Os Instrumentos de Sopro",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5935,7 +5935,7 @@
       "titulo": "Os Legumes",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5946,7 +5946,7 @@
       "titulo": "Os Cereais",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5957,7 +5957,7 @@
       "titulo": "Os Doces",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5968,7 +5968,7 @@
       "titulo": "Os Tipos de Bebidas",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5979,7 +5979,7 @@
       "titulo": "As Coisas que Fazem Barulho",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5990,7 +5990,7 @@
       "titulo": "Os Amigos da Floresta",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6001,7 +6001,7 @@
       "titulo": "O Jogo das Cores",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6012,7 +6012,7 @@
       "titulo": "Os Bichinhos de Jardim",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6023,7 +6023,7 @@
       "titulo": "As Coisas de Limpeza",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6034,7 +6034,7 @@
       "titulo": "Os Transportes Aquáticos",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6045,7 +6045,7 @@
       "titulo": "As Partes do Corpo",
       "dimensao": "Linguagem",
       "habilidade": "Nomeia objetos ou seres indicando grupos ou categorias (como animais ou frutas).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6056,7 +6056,7 @@
       "titulo": "A Caixa de Brinquedos",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6067,7 +6067,7 @@
       "titulo": "O Livro Dorminhoco",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6078,7 +6078,7 @@
       "titulo": "A Porta da Casa",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6089,7 +6089,7 @@
       "titulo": "O Pote de Biscoitos",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6100,7 +6100,7 @@
       "titulo": "A Gaveta Escondida",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6111,7 +6111,7 @@
       "titulo": "A Geladeira de Brinquedo",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6122,7 +6122,7 @@
       "titulo": "A Janela",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6133,7 +6133,7 @@
       "titulo": "A Mãozinha",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6144,7 +6144,7 @@
       "titulo": "Os Olhos do Bebê",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6155,7 +6155,7 @@
       "titulo": "O Zíper da Bolsa",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6166,7 +6166,7 @@
       "titulo": "O Zíper da Roupa",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6177,7 +6177,7 @@
       "titulo": "A Porta do Forno",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6188,7 +6188,7 @@
       "titulo": "O Armário do Quarto",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6199,7 +6199,7 @@
       "titulo": "A Mochila",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6210,7 +6210,7 @@
       "titulo": "O Estojo de Lápis",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6221,7 +6221,7 @@
       "titulo": "A Caixa de Surpresas",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6232,7 +6232,7 @@
       "titulo": "A Garrafa de Água",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6243,7 +6243,7 @@
       "titulo": "A Boca que Fala",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6254,7 +6254,7 @@
       "titulo": "A Geladeira da Casa",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6265,7 +6265,7 @@
       "titulo": "O Jogo de Encaixe",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6276,7 +6276,7 @@
       "titulo": "O Guarda-Roupa",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6287,7 +6287,7 @@
       "titulo": "O Baú do Tesouro",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6298,7 +6298,7 @@
       "titulo": "O Livro de Sons",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6309,7 +6309,7 @@
       "titulo": "A Lancheira",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6320,7 +6320,7 @@
       "titulo": "A Cesta de Pic-nic",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6331,7 +6331,7 @@
       "titulo": "O Jogo do 'Cadê?'",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6342,7 +6342,7 @@
       "titulo": "O Carrinho com Porta",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6353,7 +6353,7 @@
       "titulo": "O Telefone de Brinquedo",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6364,7 +6364,7 @@
       "titulo": "A Caixinha de Jóias",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6375,7 +6375,7 @@
       "titulo": "O Frasco de Remédio",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6386,7 +6386,7 @@
       "titulo": "O Baú de Areia",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6397,7 +6397,7 @@
       "titulo": "A Porta do Gato",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6408,7 +6408,7 @@
       "titulo": "O Pote de Geleia",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6419,7 +6419,7 @@
       "titulo": "O Chaveiro Secreto",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6430,7 +6430,7 @@
       "titulo": "O Cesto de Roupas",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6441,7 +6441,7 @@
       "titulo": "O Balde de Bolinhas",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6452,7 +6452,7 @@
       "titulo": "O Estojo de Pincéis",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6463,7 +6463,7 @@
       "titulo": "O Forno de Brinquedo",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6474,7 +6474,7 @@
       "titulo": "O Jogo do 'Abre' e 'Fecha'",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6485,7 +6485,7 @@
       "titulo": "A Sopa na Panela",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6496,7 +6496,7 @@
       "titulo": "O Saco Plástico",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6507,7 +6507,7 @@
       "titulo": "O Pote de Massinha",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6518,7 +6518,7 @@
       "titulo": "A Carteira",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6529,7 +6529,7 @@
       "titulo": "A Caixa de Papelão",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6540,7 +6540,7 @@
       "titulo": "O Jogo de Sombra",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6551,7 +6551,7 @@
       "titulo": "O Guarda-Roupa da Boneca",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6562,7 +6562,7 @@
       "titulo": "O Jogo do Zíper",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6573,7 +6573,7 @@
       "titulo": "O Bule de Brinquedo",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6584,7 +6584,7 @@
       "titulo": "A Porta da Máquina de Lavar",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -6595,7 +6595,7 @@
       "titulo": "O Jogo do 'Vai e Volta'",
       "dimensao": "Linguagem",
       "habilidade": "Diz se os objetos estão abertos ou fechados.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   }

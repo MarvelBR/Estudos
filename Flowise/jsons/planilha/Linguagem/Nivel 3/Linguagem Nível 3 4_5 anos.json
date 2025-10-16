@@ -6,7 +6,7 @@
       "titulo": "Onde Está o Outro Sapato?",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -17,7 +17,7 @@
       "titulo": "A Meia Gêmea",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -28,7 +28,7 @@
       "titulo": "Jogo da Memória com Cartas",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -39,7 +39,7 @@
       "titulo": "Chá para o Urso",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -50,7 +50,7 @@
       "titulo": "A Escova e a Pasta",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -61,7 +61,7 @@
       "titulo": "O Pato e a Água",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -72,7 +72,7 @@
       "titulo": "O Macaco e a Banana",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -83,7 +83,7 @@
       "titulo": "As Cores Gêmeas",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -94,7 +94,7 @@
       "titulo": "O Carro e o Posto",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -105,7 +105,7 @@
       "titulo": "Animais Gêmeos",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -116,7 +116,7 @@
       "titulo": "O Martelo e o Prego",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -127,7 +127,7 @@
       "titulo": "O Pão e a Manteiga",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -138,7 +138,7 @@
       "titulo": "O Cão e o Osso",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -149,7 +149,7 @@
       "titulo": "A Flor e a Abelha",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -160,7 +160,7 @@
       "titulo": "O Pote e a Tampa",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -171,7 +171,7 @@
       "titulo": "O Lápis e o Apontador",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -182,7 +182,7 @@
       "titulo": "A Mamãe e o Bebê",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -193,7 +193,7 @@
       "titulo": "A Boneca e o Carrinho",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -204,7 +204,7 @@
       "titulo": "O Telefone e o Fone",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -215,7 +215,7 @@
       "titulo": "O Balão e o Vento",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -226,7 +226,7 @@
       "titulo": "O Prato e a Comida",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -237,7 +237,7 @@
       "titulo": "O Quebra-Cabeça",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -248,7 +248,7 @@
       "titulo": "O Copo e o Canudo",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -259,7 +259,7 @@
       "titulo": "O Carro e a Garagem",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -270,7 +270,7 @@
       "titulo": "O Tênis e o Cadarço",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -281,7 +281,7 @@
       "titulo": "O Tambor e a Baqueta",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -292,7 +292,7 @@
       "titulo": "A Tesoura e o Papel",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -303,7 +303,7 @@
       "titulo": "O Bolo e a Vela",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -314,7 +314,7 @@
       "titulo": "O Travesseiro e o Cobertor",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -325,7 +325,7 @@
       "titulo": "A Xícara e o Bule",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -336,7 +336,7 @@
       "titulo": "O Trem e a Linha",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -347,7 +347,7 @@
       "titulo": "A Lua e a Estrela",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -358,7 +358,7 @@
       "titulo": "O Pato e a Vaca",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -369,7 +369,7 @@
       "titulo": "O Leão e a Leoa",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -380,7 +380,7 @@
       "titulo": "O Cesto e a Tampa",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -391,7 +391,7 @@
       "titulo": "O Pincel e a Tinta",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -402,7 +402,7 @@
       "titulo": "O Pote e o Lápis",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -413,7 +413,7 @@
       "titulo": "O Guarda-chuva e a Chuva",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -424,7 +424,7 @@
       "titulo": "O Pote de Geleia e a Colher",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -435,7 +435,7 @@
       "titulo": "A Varinha e a Bolinha",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -446,7 +446,7 @@
       "titulo": "O Balde e a Pá",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -457,7 +457,7 @@
       "titulo": "A Flor e o Vaso",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -468,7 +468,7 @@
       "titulo": "A Caneta e o Caderno",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -479,7 +479,7 @@
       "titulo": "A Maçã e a Árvore",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -490,7 +490,7 @@
       "titulo": "O Gato e o Rato",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -501,7 +501,7 @@
       "titulo": "O Coelho e a Cenoura",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -512,7 +512,7 @@
       "titulo": "O Pinguim e o Gelo",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -523,7 +523,7 @@
       "titulo": "O Espelho e o Rosto",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -534,7 +534,7 @@
       "titulo": "O Telefone e a Tomada",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -545,7 +545,7 @@
       "titulo": "O Cesto de Roupas e a Roupa",
       "dimensao": "Linguagem",
       "habilidade": "Consegue identificar objetos ou figuras que formam par quando solicitado.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -556,7 +556,7 @@
       "titulo": "O Que Vamos Fazer?",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -567,7 +567,7 @@
       "titulo": "A Hora do Lanche",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -578,7 +578,7 @@
       "titulo": "A História do Amanhã",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -589,7 +589,7 @@
       "titulo": "O Carro Vai Correr",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -600,7 +600,7 @@
       "titulo": "A Bola Vai Pular",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -611,7 +611,7 @@
       "titulo": "A Boneca Vai Dormir",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -622,7 +622,7 @@
       "titulo": "O Trem Vai Chegar",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -633,7 +633,7 @@
       "titulo": "A Vaca Vai Comer",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -644,7 +644,7 @@
       "titulo": "O Coelho Vai Pular",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -655,7 +655,7 @@
       "titulo": "A Hora de Sair",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -666,7 +666,7 @@
       "titulo": "O Banho de Bolhas",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -677,7 +677,7 @@
       "titulo": "O Piquenique de Brinquedo",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -688,7 +688,7 @@
       "titulo": "A Música Vai Tocar",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -699,7 +699,7 @@
       "titulo": "O Livro Vai Abrir",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -710,7 +710,7 @@
       "titulo": "O Desenho na Parede",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -721,7 +721,7 @@
       "titulo": "O Jogo Vai Começar",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -732,7 +732,7 @@
       "titulo": "O Balanço Vai e Volta",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -743,7 +743,7 @@
       "titulo": "A Luz Vai Acender",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -754,7 +754,7 @@
       "titulo": "A Porta Vai Abrir",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -765,7 +765,7 @@
       "titulo": "O Pato Vai Nadar",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -776,7 +776,7 @@
       "titulo": "O Gato Vai Dormir",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -787,7 +787,7 @@
       "titulo": "O Biscoito Vai Sumir",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -798,7 +798,7 @@
       "titulo": "O Chocalho Vai Fazer Barulho",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -809,7 +809,7 @@
       "titulo": "O Pote Vai Fechar",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -820,7 +820,7 @@
       "titulo": "O Livro Vai Fechar",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -831,7 +831,7 @@
       "titulo": "A Água Vai Cair",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -842,7 +842,7 @@
       "titulo": "A Canção Vai Começar",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -853,7 +853,7 @@
       "titulo": "O Sabão Vai Fazer Espuma",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -864,7 +864,7 @@
       "titulo": "O Pente Vai Pentear",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -875,7 +875,7 @@
       "titulo": "A Vassoura Vai Varrer",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -886,7 +886,7 @@
       "titulo": "O Papai Vai Chegar",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -897,7 +897,7 @@
       "titulo": "A Mamãe Vai Ligar",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -908,7 +908,7 @@
       "titulo": "A Brincadeira Vai Acabar",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -919,7 +919,7 @@
       "titulo": "O Avião Vai Voar",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -930,7 +930,7 @@
       "titulo": "A Cadeira Vai Levantar",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -941,7 +941,7 @@
       "titulo": "A Bola Vai Rolar",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -952,7 +952,7 @@
       "titulo": "A Massinha Vai Amassar",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -963,7 +963,7 @@
       "titulo": "O Lixo Vai Ser Jogad",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -974,7 +974,7 @@
       "titulo": "O Urso Vai Abraçar",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -985,7 +985,7 @@
       "titulo": "O Chuveiro Vai Ligar",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -996,7 +996,7 @@
       "titulo": "A Sopa Vai Esquentar",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1007,7 +1007,7 @@
       "titulo": "A Lancheira Vai Abrir",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1018,7 +1018,7 @@
       "titulo": "A Criança Vai Sentar",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1029,7 +1029,7 @@
       "titulo": "O Quebra-Cabeça Vai Encaixar",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1040,7 +1040,7 @@
       "titulo": "O Balão Vai Estourar",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1051,7 +1051,7 @@
       "titulo": "A Caneca Vai Ter Chá",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1062,7 +1062,7 @@
       "titulo": "O Martelo Vai Bater",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1073,7 +1073,7 @@
       "titulo": "O Pente Vai Arrumar",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1084,7 +1084,7 @@
       "titulo": "O Sapato Vai Pro Pé",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1095,7 +1095,7 @@
       "titulo": "O Coelho Vai Correr",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no futuro para falar sobre acontecimentos que ainda vão acontecer.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1106,7 +1106,7 @@
       "titulo": "O Jogo que Acabou",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1117,7 +1117,7 @@
       "titulo": "O Lanche que Já Foi",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1128,7 +1128,7 @@
       "titulo": "A História da Foto",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1139,7 +1139,7 @@
       "titulo": "A Chuva que Passou",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1150,7 +1150,7 @@
       "titulo": "O Carro que Andou",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1161,7 +1161,7 @@
       "titulo": "A Bola que Pulou",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1172,7 +1172,7 @@
       "titulo": "O Pato que Nadou",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1183,7 +1183,7 @@
       "titulo": "O Balanço que Parou",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1194,7 +1194,7 @@
       "titulo": "A Canção que Cantamos",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1205,7 +1205,7 @@
       "titulo": "A Luz que Acendeu",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1216,7 +1216,7 @@
       "titulo": "A Porta que Fechou",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1227,7 +1227,7 @@
       "titulo": "O Banho que Tomamos",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1238,7 +1238,7 @@
       "titulo": "O Ursinho que Dormiu",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1249,7 +1249,7 @@
       "titulo": "O Livro que Lemos",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1260,7 +1260,7 @@
       "titulo": "A Cadeira que Sentamos",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1271,7 +1271,7 @@
       "titulo": "O Jogo que Acabou",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1282,7 +1282,7 @@
       "titulo": "A Roupa que Vestimos",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1293,7 +1293,7 @@
       "titulo": "A Massinha que Amassamos",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1304,7 +1304,7 @@
       "titulo": "O Jogo do 'Primeiro e Depois'",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1315,7 +1315,7 @@
       "titulo": "A Visita do Vovô",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1326,7 +1326,7 @@
       "titulo": "O Lápis que Desenhou",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1337,7 +1337,7 @@
       "titulo": "A Mão que Bateu Palma",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1348,7 +1348,7 @@
       "titulo": "O Pé que Andou",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1359,7 +1359,7 @@
       "titulo": "A História do que Aconteceu",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1370,7 +1370,7 @@
       "titulo": "O Telefone que Tocou",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1381,7 +1381,7 @@
       "titulo": "O Gato que Miou",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1392,7 +1392,7 @@
       "titulo": "O Biscoito que Quebrou",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1403,7 +1403,7 @@
       "titulo": "A Brincadeira de Esconde",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1414,7 +1414,7 @@
       "titulo": "O Jogo de Recriar",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1425,7 +1425,7 @@
       "titulo": "O Pão que Partimos",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1436,7 +1436,7 @@
       "titulo": "O Jogo de Sombra",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1447,7 +1447,7 @@
       "titulo": "A Chuva que Molhou",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1458,7 +1458,7 @@
       "titulo": "O Balde que Enchemos",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1469,7 +1469,7 @@
       "titulo": "O Lixo que Jogamos",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1480,7 +1480,7 @@
       "titulo": "O Urso que Abraçamos",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1491,7 +1491,7 @@
       "titulo": "O Pijama que Vestimos",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1502,7 +1502,7 @@
       "titulo": "O Sapato que Colocamos",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1513,7 +1513,7 @@
       "titulo": "A Canção do que Fui",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1524,7 +1524,7 @@
       "titulo": "O Jogo do 'Você fez'",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1535,7 +1535,7 @@
       "titulo": "O Balão que Estourou",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1546,7 +1546,7 @@
       "titulo": "O Pato que Lavamos",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1557,7 +1557,7 @@
       "titulo": "O Pente que Usamos",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1568,7 +1568,7 @@
       "titulo": "A Vassoura que Varreu",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1579,7 +1579,7 @@
       "titulo": "A Toalha que Secamos",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1590,7 +1590,7 @@
       "titulo": "O Riso que Demos",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1601,7 +1601,7 @@
       "titulo": "O Jogo da Rampa",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1612,7 +1612,7 @@
       "titulo": "O Gato que Correu",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1623,7 +1623,7 @@
       "titulo": "O Sapo que Pulo",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1634,7 +1634,7 @@
       "titulo": "O Brinquedo que Sumiu",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1645,7 +1645,7 @@
       "titulo": "O Balanço que Subiu",
       "dimensao": "Linguagem",
       "habilidade": "Usa formas verbais no passado para falar sobre acontecimentos que já aconteceram.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1656,7 +1656,7 @@
       "titulo": "O Lanche do Urso",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1667,7 +1667,7 @@
       "titulo": "O Carro e a Bola",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1678,7 +1678,7 @@
       "titulo": "O Jogo do 'Mas'",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1689,7 +1689,7 @@
       "titulo": "Você Quer Suco ou Água?",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1700,7 +1700,7 @@
       "titulo": "A Mamãe e o Papai",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1711,7 +1711,7 @@
       "titulo": "O Gato Dormiu, mas Acordou",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1722,7 +1722,7 @@
       "titulo": "O Pato Nada e o Coelho Pula",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1733,7 +1733,7 @@
       "titulo": "Comi, mas não Gostei",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1744,7 +1744,7 @@
       "titulo": "O Carro é Grande e a Moto é Pequena",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1755,7 +1755,7 @@
       "titulo": "A Roupa do Dia",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1766,7 +1766,7 @@
       "titulo": "O Coelho Come Cenoura ou Alface?",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1777,7 +1777,7 @@
       "titulo": "O Sol Brilha, mas o Vento Sopra",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1788,7 +1788,7 @@
       "titulo": "Eu Gosto de Doce, mas não Gosto de Salgado",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1799,7 +1799,7 @@
       "titulo": "O Jogo da Adivinhação",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1810,7 +1810,7 @@
       "titulo": "Você Quer a Bola Amarela ou a Bola Azul?",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1821,7 +1821,7 @@
       "titulo": "O Jogo do 'E'",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1832,7 +1832,7 @@
       "titulo": "A História do Lápis e do Papel",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1843,7 +1843,7 @@
       "titulo": "A Canção do 'E'",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1854,7 +1854,7 @@
       "titulo": "A Brincadeira do 'Ou'",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1865,7 +1865,7 @@
       "titulo": "O Balanço Sobe, mas Desce",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1876,7 +1876,7 @@
       "titulo": "O Pote Cheio e a Caixa Vazia",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1887,7 +1887,7 @@
       "titulo": "O Pão é Gostoso, mas a Sopa é Quente",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1898,7 +1898,7 @@
       "titulo": "O Quebra-Cabeça",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1909,7 +1909,7 @@
       "titulo": "O Jogo dos Cubos",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1920,7 +1920,7 @@
       "titulo": "O Cãozinho Late e a Gatinha Mia",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1931,7 +1931,7 @@
       "titulo": "O Livro Tem Fotos e Desenhos",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1942,7 +1942,7 @@
       "titulo": "A Hora de Guardar",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1953,7 +1953,7 @@
       "titulo": "Você Quer Desenhar ou Pintar?",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1964,7 +1964,7 @@
       "titulo": "O Ursinho é Grande, mas é Leve",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1975,7 +1975,7 @@
       "titulo": "O Trem é Lento, mas o Carro é Rápido",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1986,7 +1986,7 @@
       "titulo": "O Balão Subiu, mas Depois Caiu",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -1997,7 +1997,7 @@
       "titulo": "A Chuva Molhou, mas o Sol Secou",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2008,7 +2008,7 @@
       "titulo": "A Vassoura Varre, mas a Pá Recolhe",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2019,7 +2019,7 @@
       "titulo": "Você Gosta de Frio ou de Quente?",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2030,7 +2030,7 @@
       "titulo": "O Lixo é Ruim, mas a Comida é Boa",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2041,7 +2041,7 @@
       "titulo": "O Sapato é Preto, mas a Meia é Branca",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2052,7 +2052,7 @@
       "titulo": "A Bola é Redonda e o Bloco é Quadrado",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2063,7 +2063,7 @@
       "titulo": "O Peixe Nada e o Pássaro Voa",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2074,7 +2074,7 @@
       "titulo": "O Jogo do 'Faz de Conta'",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2085,7 +2085,7 @@
       "titulo": "O Travesseiro é Macio, mas a Mesa é Dura",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2096,7 +2096,7 @@
       "titulo": "O Biscoito é Doce e o Pão é Salgado",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2107,7 +2107,7 @@
       "titulo": "A Janela Abre ou Fecha?",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2118,7 +2118,7 @@
       "titulo": "A Chave é Pequena, mas Abre a Porta Grande",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2129,7 +2129,7 @@
       "titulo": "Você Quer o Pato Amarelo ou o Pato Azul?",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2140,7 +2140,7 @@
       "titulo": "O Cachorro Late, mas o Gato Mia",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2151,7 +2151,7 @@
       "titulo": "A História do 'E'",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2162,7 +2162,7 @@
       "titulo": "Onde está a Caneta e o Papel?",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2173,7 +2173,7 @@
       "titulo": "O Jogo da Memória",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2184,7 +2184,7 @@
       "titulo": "O Saco Tem Brinquedos, mas não Tem Comida",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2195,7 +2195,7 @@
       "titulo": "O Telefone Tocou, mas a Mamãe não Atendeu",
       "dimensao": "Linguagem",
       "habilidade": "Constrói frases compostas ligando ideias por coordenação (ex.: e, mas, ou).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2206,7 +2206,7 @@
       "titulo": "O Peixe Voador",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2217,7 +2217,7 @@
       "titulo": "O Sapato na Cabeça",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2228,7 +2228,7 @@
       "titulo": "A Vaca Faz Miau",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2239,7 +2239,7 @@
       "titulo": "Comendo o Brinquedo",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2250,7 +2250,7 @@
       "titulo": "Banho de Roupa",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2261,7 +2261,7 @@
       "titulo": "O Carro na Água",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2272,7 +2272,7 @@
       "titulo": "O Livro no Pé",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2283,7 +2283,7 @@
       "titulo": "Penteando o Sapato",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2294,7 +2294,7 @@
       "titulo": "O Pato Late",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2305,7 +2305,7 @@
       "titulo": "A Gata Come a Mesa",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2316,7 +2316,7 @@
       "titulo": "A Sopa no Cabelo",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2327,7 +2327,7 @@
       "titulo": "O Cachorro Voa",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2338,7 +2338,7 @@
       "titulo": "O Copo no Nariz",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2349,7 +2349,7 @@
       "titulo": "O Pijama de Dia",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2360,7 +2360,7 @@
       "titulo": "O Bolo Voador",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2371,7 +2371,7 @@
       "titulo": "A Cadeira na Cabeça",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2382,7 +2382,7 @@
       "titulo": "O Sapato na Mão",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2393,7 +2393,7 @@
       "titulo": "A Canção do 'Sol na Noite'",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2404,7 +2404,7 @@
       "titulo": "O Jogo de Reciclagem Errado",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2415,7 +2415,7 @@
       "titulo": "A Vassoura na Cama",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2426,7 +2426,7 @@
       "titulo": "O Chuveiro Faz Frio",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2437,7 +2437,7 @@
       "titulo": "O Pão no Copo",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2448,7 +2448,7 @@
       "titulo": "O Carro Lento",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2459,7 +2459,7 @@
       "titulo": "O Livro no Lixo",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2470,7 +2470,7 @@
       "titulo": "O Telefone na Orelha do Urso",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2481,7 +2481,7 @@
       "titulo": "A Sopa Fria",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2492,7 +2492,7 @@
       "titulo": "A Bola Quadrada",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2503,7 +2503,7 @@
       "titulo": "O Peixe no Tapete",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2514,7 +2514,7 @@
       "titulo": "O Pente no Dente",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2525,7 +2525,7 @@
       "titulo": "O Cinto no Pescoço",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2536,7 +2536,7 @@
       "titulo": "A Flor na Comida",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2547,7 +2547,7 @@
       "titulo": "O Gato e o Cão",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2558,7 +2558,7 @@
       "titulo": "O Trem no Ar",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2569,7 +2569,7 @@
       "titulo": "A Escova de Cabelo na Boca",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2580,7 +2580,7 @@
       "titulo": "O Urso na Cadeira",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2591,7 +2591,7 @@
       "titulo": "O Jogo do 'Não'",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2602,7 +2602,7 @@
       "titulo": "A Cozinha na Sala",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2613,7 +2613,7 @@
       "titulo": "O Sabão na Boca",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2624,7 +2624,7 @@
       "titulo": "A Água no Chão",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2635,7 +2635,7 @@
       "titulo": "O Coelho Nada",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2646,7 +2646,7 @@
       "titulo": "O Pato na Terra",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2657,7 +2657,7 @@
       "titulo": "A Bota na Mão",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2668,7 +2668,7 @@
       "titulo": "A Vela Apagada",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2679,7 +2679,7 @@
       "titulo": "O Lixo Limpo",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2690,7 +2690,7 @@
       "titulo": "A Cama na Cozinha",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2701,7 +2701,7 @@
       "titulo": "O Pijama de Rua",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2712,7 +2712,7 @@
       "titulo": "O Guarda-chuva sem Chuva",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2723,7 +2723,7 @@
       "titulo": "A Panela sem Fogo",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2734,7 +2734,7 @@
       "titulo": "O Urso e o Telefone",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2745,7 +2745,7 @@
       "titulo": "A Escova de Dentes na Mão",
       "dimensao": "Linguagem",
       "habilidade": "Consegue perceber situações ou figuras que não fazem sentido, apontando absurdos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2756,7 +2756,7 @@
       "titulo": "O Sol e a Noite",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2767,7 +2767,7 @@
       "titulo": "O Gato e o Cão",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2778,7 +2778,7 @@
       "titulo": "A Sopa Quente e a Água Fria",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2789,7 +2789,7 @@
       "titulo": "O Dia e a Noite",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2800,7 +2800,7 @@
       "titulo": "O Pote Cheio e Vazio",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2811,7 +2811,7 @@
       "titulo": "O Barulho e o Silêncio",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2822,7 +2822,7 @@
       "titulo": "A Cadeira e o Banquinho",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2833,7 +2833,7 @@
       "titulo": "O Limpo e o Sujo",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2844,7 +2844,7 @@
       "titulo": "O Feliz e o Triste",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2855,7 +2855,7 @@
       "titulo": "O Mole e o Duro",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2866,7 +2866,7 @@
       "titulo": "O Subir e o Descer",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2877,7 +2877,7 @@
       "titulo": "O Puxar e o Empurrar",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2888,7 +2888,7 @@
       "titulo": "O Devagar e o Rápido",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2899,7 +2899,7 @@
       "titulo": "O Seco e o Molhado",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2910,7 +2910,7 @@
       "titulo": "O Quente e o Frio",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2921,7 +2921,7 @@
       "titulo": "O Alto e o Baixo",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2932,7 +2932,7 @@
       "titulo": "O Gordo e o Magro",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2943,7 +2943,7 @@
       "titulo": "O Dentro e o Fora",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2954,7 +2954,7 @@
       "titulo": "O Aberto e o Fechado",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2965,7 +2965,7 @@
       "titulo": "O Forte e o Fraco",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2976,7 +2976,7 @@
       "titulo": "O Limpo e o Sujo",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2987,7 +2987,7 @@
       "titulo": "O Primeiro e o Último",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -2998,7 +2998,7 @@
       "titulo": "O Riso e o Choro",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3009,7 +3009,7 @@
       "titulo": "O Grito e o Sussurro",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3020,7 +3020,7 @@
       "titulo": "O Claro e o Escuro",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3031,7 +3031,7 @@
       "titulo": "O Doce e o Salgado",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3042,7 +3042,7 @@
       "titulo": "O Bonito e o Feio",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3053,7 +3053,7 @@
       "titulo": "O Grande e o Pequeno",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3064,7 +3064,7 @@
       "titulo": "O Novo e o Velho",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3075,7 +3075,7 @@
       "titulo": "O Cheio e o Vazio",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3086,7 +3086,7 @@
       "titulo": "O Alto e o Baixo",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3097,7 +3097,7 @@
       "titulo": "O Longe e o Perto",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3108,7 +3108,7 @@
       "titulo": "O Pesado e o Leve",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3119,7 +3119,7 @@
       "titulo": "O Bonito e o Feio",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3130,7 +3130,7 @@
       "titulo": "O Em Pé e o Deitado",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3141,7 +3141,7 @@
       "titulo": "O Dentro e o Fora",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3152,7 +3152,7 @@
       "titulo": "O Rápido e o Lento",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3163,7 +3163,7 @@
       "titulo": "O Mole e o Duro",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3174,7 +3174,7 @@
       "titulo": "O Claro e o Escuro",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3185,7 +3185,7 @@
       "titulo": "O Limpo e o Sujo",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3196,7 +3196,7 @@
       "titulo": "O Cheio e o Vazio",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3207,7 +3207,7 @@
       "titulo": "O Molhado e o Seco",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3218,7 +3218,7 @@
       "titulo": "O Doce e o Azedo",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3229,7 +3229,7 @@
       "titulo": "O Subir e o Descer",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3240,7 +3240,7 @@
       "titulo": "O Pesado e o Leve",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3251,7 +3251,7 @@
       "titulo": "O Primeiro e o Último",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3262,7 +3262,7 @@
       "titulo": "O Aberto e o Fechado",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3273,7 +3273,7 @@
       "titulo": "O Forte e o Fraco",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3284,7 +3284,7 @@
       "titulo": "O Feliz e o Triste",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3295,7 +3295,7 @@
       "titulo": "O Dentro e o Fora",
       "dimensao": "Linguagem",
       "habilidade": "Completa frases usando palavras com sentido oposto (antônimos).",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3306,7 +3306,7 @@
       "titulo": "A História com Fantoches de Dedo",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3317,7 +3317,7 @@
       "titulo": "Contando com o Corpo",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3328,7 +3328,7 @@
       "titulo": "O Jogo do 'Primeiro e Depois'",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3339,7 +3339,7 @@
       "titulo": "A Cesta de Objetos",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3350,7 +3350,7 @@
       "titulo": "A História na Areia",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3361,7 +3361,7 @@
       "titulo": "O Teatro de Caixa",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3372,7 +3372,7 @@
       "titulo": "A Voz dos Personagens",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3383,7 +3383,7 @@
       "titulo": "Completando a Frase",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3394,7 +3394,7 @@
       "titulo": "O Jogo do 'Onde Está?'",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3405,7 +3405,7 @@
       "titulo": "A Música da História",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3416,7 +3416,7 @@
       "titulo": "O Livro sem Figuras",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3427,7 +3427,7 @@
       "titulo": "A História na Água",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3438,7 +3438,7 @@
       "titulo": "O Que Vem Depois?",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3449,7 +3449,7 @@
       "titulo": "A História no Pano",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3460,7 +3460,7 @@
       "titulo": "Os Bonecos Acompanham",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3471,7 +3471,7 @@
       "titulo": "A História da Mão",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3482,7 +3482,7 @@
       "titulo": "O Jogo de Recriar",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3493,7 +3493,7 @@
       "titulo": "A Roda da História",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3504,7 +3504,7 @@
       "titulo": "O Fantoche Curioso",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3515,7 +3515,7 @@
       "titulo": "A História e os Blocos",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3526,7 +3526,7 @@
       "titulo": "O Livro de Lembranças",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3537,7 +3537,7 @@
       "titulo": "Os Símbolos da História",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3548,7 +3548,7 @@
       "titulo": "O Quebra-Cabeça da História",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3559,7 +3559,7 @@
       "titulo": "A História e os Sons",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3570,7 +3570,7 @@
       "titulo": "Os Dedos Narradores",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3581,7 +3581,7 @@
       "titulo": "O Jogo de Fazer Caretas",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3592,7 +3592,7 @@
       "titulo": "A História na Mesa",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3603,7 +3603,7 @@
       "titulo": "O Livro Escondido",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3614,7 +3614,7 @@
       "titulo": "A História no Pote",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3625,7 +3625,7 @@
       "titulo": "Onde Moram os Personagens?",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3636,7 +3636,7 @@
       "titulo": "O Jogo do 'Como?'",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3647,7 +3647,7 @@
       "titulo": "A História na Música",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3658,7 +3658,7 @@
       "titulo": "A História com Sombras",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3669,7 +3669,7 @@
       "titulo": "A História em Cores",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3680,7 +3680,7 @@
       "titulo": "O Jogo da Mímica",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3691,7 +3691,7 @@
       "titulo": "O Jogo do 'Quem?'",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3702,7 +3702,7 @@
       "titulo": "A História na Placa",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3713,7 +3713,7 @@
       "titulo": "O Livro sem Palavras",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3724,7 +3724,7 @@
       "titulo": "O Jogo do 'De Olhos Fechados'",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3735,7 +3735,7 @@
       "titulo": "A História com Desenhos",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3746,7 +3746,7 @@
       "titulo": "O Jogo do 'Tudo Errado'",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3757,7 +3757,7 @@
       "titulo": "A História e o Lanche",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3768,7 +3768,7 @@
       "titulo": "A História em Voz Alta e Baixa",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3779,7 +3779,7 @@
       "titulo": "O Jogo de Sopro",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3790,7 +3790,7 @@
       "titulo": "A História na Linha do Tempo",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3801,7 +3801,7 @@
       "titulo": "O Jogo do 'E Então?'",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3812,7 +3812,7 @@
       "titulo": "A História no Espaço",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3823,7 +3823,7 @@
       "titulo": "O Jogo de 'Eu Fui...'",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3834,7 +3834,7 @@
       "titulo": "A História com Sons de Animais",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3845,7 +3845,7 @@
       "titulo": "O Jogo da Adivinhação",
       "dimensao": "Linguagem",
       "habilidade": "Relata uma história conhecida sem precisar de apoio visual, lembrando a sequência dos fatos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3856,7 +3856,7 @@
       "titulo": "O Jogo da Rima",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3867,7 +3867,7 @@
       "titulo": "A Caixa Mágica",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3878,7 +3878,7 @@
       "titulo": "Cantando Rimando",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3889,7 +3889,7 @@
       "titulo": "Figuras que Rimam",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3900,7 +3900,7 @@
       "titulo": "A História Rimada",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3911,7 +3911,7 @@
       "titulo": "Rima de Palminhas",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3922,7 +3922,7 @@
       "titulo": "O Jogo do 'Eu Digo, Você Repete'",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3933,7 +3933,7 @@
       "titulo": "Rima de Pula-Pula",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3944,7 +3944,7 @@
       "titulo": "O Fantoche Rima",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3955,7 +3955,7 @@
       "titulo": "A Rima no Espelho",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3966,7 +3966,7 @@
       "titulo": "Caça ao Tesouro das Rimas",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3977,7 +3977,7 @@
       "titulo": "O Pote de Palavras",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3988,7 +3988,7 @@
       "titulo": "Rimas no Banho",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -3999,7 +3999,7 @@
       "titulo": "O Desenho da Rima",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4010,7 +4010,7 @@
       "titulo": "A Cesta de Rimas",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4021,7 +4021,7 @@
       "titulo": "Rima de Pula-Corda",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4032,7 +4032,7 @@
       "titulo": "O Jogo dos Cubos",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4043,7 +4043,7 @@
       "titulo": "Rimas com o Corpo",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4054,7 +4054,7 @@
       "titulo": "O Telefone Rimador",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4065,7 +4065,7 @@
       "titulo": "A Rima na Cozinha",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4076,7 +4076,7 @@
       "titulo": "O Jogo do 'Termina Igual'",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4087,7 +4087,7 @@
       "titulo": "As Mãos Rimam",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4098,7 +4098,7 @@
       "titulo": "O Quebra-Cabeça da Rima",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4109,7 +4109,7 @@
       "titulo": "O Jogo de Sombra",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4120,7 +4120,7 @@
       "titulo": "O Relógio e o Queijo",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4131,7 +4131,7 @@
       "titulo": "A Rima da Família",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4142,7 +4142,7 @@
       "titulo": "O Jogo de Sopro",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4153,7 +4153,7 @@
       "titulo": "O Jogo do 'Faz de Conta'",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4164,7 +4164,7 @@
       "titulo": "O Jogo do 'Onde Está?'",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4175,7 +4175,7 @@
       "titulo": "A Rima na Cadeira",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4186,7 +4186,7 @@
       "titulo": "O Jogo da Adivinhação",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4197,7 +4197,7 @@
       "titulo": "A Rima do Corpo",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4208,7 +4208,7 @@
       "titulo": "O Jogo das Rimas Bobas",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4219,7 +4219,7 @@
       "titulo": "O Jogo de Pular Corda",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4230,7 +4230,7 @@
       "titulo": "O Livro de Rimas do 'ABC'",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4241,7 +4241,7 @@
       "titulo": "O Jogo do 'O que é?'",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4252,7 +4252,7 @@
       "titulo": "A Rima do Banheiro",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4263,7 +4263,7 @@
       "titulo": "O Jogo do 'Vai e Volta'",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4274,7 +4274,7 @@
       "titulo": "O Jogo do 'Orelha e Cabelo'",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4285,7 +4285,7 @@
       "titulo": "A Rima na Cozinha",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4296,7 +4296,7 @@
       "titulo": "O Jogo da Rima de Mímica",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4307,7 +4307,7 @@
       "titulo": "A Rima de Brincar",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4318,7 +4318,7 @@
       "titulo": "A Rima de Sonhos",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4329,7 +4329,7 @@
       "titulo": "O Jogo das Rimas Escondidas",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4340,7 +4340,7 @@
       "titulo": "A Rima do Sol e do Céu",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4351,7 +4351,7 @@
       "titulo": "O Jogo de 'Tudo Errado'",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4362,7 +4362,7 @@
       "titulo": "A Rima do Nome",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4373,7 +4373,7 @@
       "titulo": "O Jogo das Cores",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4384,7 +4384,7 @@
       "titulo": "O Jogo do 'Conta Pra Mim'",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4395,7 +4395,7 @@
       "titulo": "A Rima da Natureza",
       "dimensao": "Linguagem",
       "habilidade": "Associa rimas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4406,7 +4406,7 @@
       "titulo": "O Tambor Forte e Fraco",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4417,7 +4417,7 @@
       "titulo": "A Voz Forte e Fraca",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4428,7 +4428,7 @@
       "titulo": "O Jogo dos Instrumentos",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4439,7 +4439,7 @@
       "titulo": "O Som dos Animais",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4450,7 +4450,7 @@
       "titulo": "O Grito e o Sussurro",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4461,7 +4461,7 @@
       "titulo": "O Jogo das Mãos",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4472,7 +4472,7 @@
       "titulo": "O Som da Porta",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4483,7 +4483,7 @@
       "titulo": "O Barulho dos Brinquedos",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4494,7 +4494,7 @@
       "titulo": "O Telefone Forte e Fraco",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4505,7 +4505,7 @@
       "titulo": "O Jogo do 'Cadê o Som?'",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4516,7 +4516,7 @@
       "titulo": "O Trem Forte e Fraco",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4527,7 +4527,7 @@
       "titulo": "A Mágica do Som",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4538,7 +4538,7 @@
       "titulo": "O Som da Chuva",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4549,7 +4549,7 @@
       "titulo": "O Carro Forte e Fraco",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4560,7 +4560,7 @@
       "titulo": "O Jogo de Bater o Pé",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4571,7 +4571,7 @@
       "titulo": "O Som dos Bichos",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4582,7 +4582,7 @@
       "titulo": "O Pandeiro Forte e Fraco",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4593,7 +4593,7 @@
       "titulo": "A Colher na Panela",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4604,7 +4604,7 @@
       "titulo": "O Sopro Forte e Fraco",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4615,7 +4615,7 @@
       "titulo": "O Jogo da Batida",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4626,7 +4626,7 @@
       "titulo": "O Som do Gelo",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4637,7 +4637,7 @@
       "titulo": "O Tambor na Barriga",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4648,7 +4648,7 @@
       "titulo": "O Barulho da Roda",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4659,7 +4659,7 @@
       "titulo": "O Canto dos Pássaros",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4670,7 +4670,7 @@
       "titulo": "A Batida do Coração",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4681,7 +4681,7 @@
       "titulo": "O Som do Sapo",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4692,7 +4692,7 @@
       "titulo": "O Jogo da Adivinhação",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4703,7 +4703,7 @@
       "titulo": "O Som do Vento",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4714,7 +4714,7 @@
       "titulo": "O Jogo de Sopro na Pena",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4725,7 +4725,7 @@
       "titulo": "O Som da Borboleta",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4736,7 +4736,7 @@
       "titulo": "O Telefone Sem Fio",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4747,7 +4747,7 @@
       "titulo": "O Barulho da Chave",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4758,7 +4758,7 @@
       "titulo": "O Som da Moeda",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4769,7 +4769,7 @@
       "titulo": "O Jogo do 'Vai e Volta'",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4780,7 +4780,7 @@
       "titulo": "O Som do Sapo na Água",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4791,7 +4791,7 @@
       "titulo": "O Sino Forte e Fraco",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4802,7 +4802,7 @@
       "titulo": "O Jogo do 'Passarinho'",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4813,7 +4813,7 @@
       "titulo": "O Som do Balão",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4824,7 +4824,7 @@
       "titulo": "O Jogo de Estalar os Dedos",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4835,7 +4835,7 @@
       "titulo": "O Som do Papel",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4846,7 +4846,7 @@
       "titulo": "O Barulho do Pão",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4857,7 +4857,7 @@
       "titulo": "O Jogo do 'Como é?'",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4868,7 +4868,7 @@
       "titulo": "O Barulho do Brinquedo",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4879,7 +4879,7 @@
       "titulo": "O Som da Bola Quicando",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4890,7 +4890,7 @@
       "titulo": "O Jogo das Moedas",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4901,7 +4901,7 @@
       "titulo": "O Som do Avião",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4912,7 +4912,7 @@
       "titulo": "O Jogo de 'Me Siga'",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4923,7 +4923,7 @@
       "titulo": "O Som da Água",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4934,7 +4934,7 @@
       "titulo": "O Barulho do Trem",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   },
@@ -4945,7 +4945,7 @@
       "titulo": "O Som da Gargalhada",
       "dimensao": "Linguagem",
       "habilidade": "Diferencia sons fortes de sons fracos ao ouvir palavras.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "4 a 5 anos"
     }
   }

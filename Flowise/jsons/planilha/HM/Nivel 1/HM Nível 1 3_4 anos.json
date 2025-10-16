@@ -6,7 +6,7 @@
       "titulo": "Bate-Bola Simples",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -17,7 +17,7 @@
       "titulo": "Boliche de Garrafas",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -28,7 +28,7 @@
       "titulo": "O Canhão do Castelo",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -39,7 +39,7 @@
       "titulo": "Chute na Parede Sonora",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -50,7 +50,7 @@
       "titulo": "Gol no Caixote",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -61,7 +61,7 @@
       "titulo": "A Bola Flutuante",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -72,7 +72,7 @@
       "titulo": "Chute com Balão",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -83,7 +83,7 @@
       "titulo": "Bola com Guizo",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -94,7 +94,7 @@
       "titulo": "Monstro da Bagunça",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -105,7 +105,7 @@
       "titulo": "Chute Musical",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -116,7 +116,7 @@
       "titulo": "Gol entre Cones",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -127,7 +127,7 @@
       "titulo": "Acertando o Alvo",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -138,7 +138,7 @@
       "titulo": "O Entregador",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -149,7 +149,7 @@
       "titulo": "A Bola Foge-Foge",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -160,7 +160,7 @@
       "titulo": "Alimentando o Jacaré",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -171,7 +171,7 @@
       "titulo": "O Carro na Garagem",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -182,7 +182,7 @@
       "titulo": "Boliche de Cores",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -193,7 +193,7 @@
       "titulo": "O Resgate na Ilha",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -204,7 +204,7 @@
       "titulo": "Pare e Chute",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -215,7 +215,7 @@
       "titulo": "A Bola na Cesta",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -226,7 +226,7 @@
       "titulo": "Chute e Pega",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -237,7 +237,7 @@
       "titulo": "Bobinho Adaptado",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -248,7 +248,7 @@
       "titulo": "Corrida do Chute",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -259,7 +259,7 @@
       "titulo": "Chute com Obstáculos",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -270,7 +270,7 @@
       "titulo": "Futebol de Pano",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -281,7 +281,7 @@
       "titulo": "Chute na Rampa",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -292,7 +292,7 @@
       "titulo": "O Goleiro",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -303,7 +303,7 @@
       "titulo": "Futebol de Sabão",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -314,7 +314,7 @@
       "titulo": "O Jogo da Sombra",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -325,7 +325,7 @@
       "titulo": "Chute no Escuro",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -336,7 +336,7 @@
       "titulo": "Chute Zangado, Chute Feliz",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -347,7 +347,7 @@
       "titulo": "A Dança do Chute",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -358,7 +358,7 @@
       "titulo": "O Chute do Robô",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -369,7 +369,7 @@
       "titulo": "O Chute do Super-Herói",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -380,7 +380,7 @@
       "titulo": "A Bailarina e a Bola",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -391,7 +391,7 @@
       "titulo": "Chute e Pose",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -402,7 +402,7 @@
       "titulo": "O Chute Surpresa",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -413,7 +413,7 @@
       "titulo": "Chute com Pés Descalços",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -424,7 +424,7 @@
       "titulo": "O Chute do Eco",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -435,7 +435,7 @@
       "titulo": "Pirâmide de Copos",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -446,7 +446,7 @@
       "titulo": "O Passe para o Amigo",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -457,7 +457,7 @@
       "titulo": "Chute com a Outra Perna",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -468,7 +468,7 @@
       "titulo": "O Carteiro Real",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -479,7 +479,7 @@
       "titulo": "O Caçador de Tesouros",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -490,7 +490,7 @@
       "titulo": "Futebol de Mesa Humano",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -501,7 +501,7 @@
       "titulo": "Chute na Água",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -512,7 +512,7 @@
       "titulo": "O Chute do Balanço",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -523,7 +523,7 @@
       "titulo": "O Ritual do Chute",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -534,7 +534,7 @@
       "titulo": "Chute e Busca",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -545,7 +545,7 @@
       "titulo": "Comemoração Final",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Chuta bola grande quando direcionada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -556,7 +556,7 @@
       "titulo": "O Voo do Avião",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -567,7 +567,7 @@
       "titulo": "A Marcha do Elefante",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -578,7 +578,7 @@
       "titulo": "Siga o Mestre Corredor",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -589,7 +589,7 @@
       "titulo": "Corrida com Fitas",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -600,7 +600,7 @@
       "titulo": "Pega-pega em Câmera Lenta",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -611,7 +611,7 @@
       "titulo": "A Corrida do Super-Herói",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -622,7 +622,7 @@
       "titulo": "Estátua Musical",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -633,7 +633,7 @@
       "titulo": "O Carteiro Veloz",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -644,7 +644,7 @@
       "titulo": "Corrida Ritmada",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -655,7 +655,7 @@
       "titulo": "O Trem Desgovernado",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -666,7 +666,7 @@
       "titulo": "Corrida de Obstáculos Simples",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -677,7 +677,7 @@
       "titulo": "O Cavalo Galopante",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -688,7 +688,7 @@
       "titulo": "Pulseiras com Sinos",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -699,7 +699,7 @@
       "titulo": "Marcha do Soldado",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -710,7 +710,7 @@
       "titulo": "O Espelho Corredor",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -721,7 +721,7 @@
       "titulo": "A Fuga do Dinossauro",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -732,7 +732,7 @@
       "titulo": "Corrida com Pompons",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -743,7 +743,7 @@
       "titulo": "O Vento Forte",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -754,7 +754,7 @@
       "titulo": "Siga a Linha",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -765,7 +765,7 @@
       "titulo": "O Jogador de Futebol",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -776,7 +776,7 @@
       "titulo": "O Voo do Pássaro",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -787,7 +787,7 @@
       "titulo": "Corrida para o Abraço",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -798,7 +798,7 @@
       "titulo": "O Esquilo Ligeiro",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -809,7 +809,7 @@
       "titulo": "Corrida de Costas",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -820,7 +820,7 @@
       "titulo": "A Dança da Corrida",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -831,7 +831,7 @@
       "titulo": "Corrida com Paradas",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -842,7 +842,7 @@
       "titulo": "O Bombeiro em Ação",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -853,7 +853,7 @@
       "titulo": "O Caçador de Borboletas",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -864,7 +864,7 @@
       "titulo": "Corrida na Grama",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -875,7 +875,7 @@
       "titulo": "O Atleta Olímpico",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -886,7 +886,7 @@
       "titulo": "A Corrida da Formiga",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -897,7 +897,7 @@
       "titulo": "O Gigante Adormecido",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -908,7 +908,7 @@
       "titulo": "A Corrida do Saci",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -919,7 +919,7 @@
       "titulo": "Toque Cruzado em Movimento",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -930,7 +930,7 @@
       "titulo": "O Lançamento do Foguete",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -941,7 +941,7 @@
       "titulo": "Corrida em Zigue-zague",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -952,7 +952,7 @@
       "titulo": "O Trem de Carga Pesada",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -963,7 +963,7 @@
       "titulo": "Corrida com Bolhas de Sabão",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -974,7 +974,7 @@
       "titulo": "A Corrida do Caranguejo (para frente)",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -985,7 +985,7 @@
       "titulo": "O Relógio",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -996,7 +996,7 @@
       "titulo": "Corrida para o Esconderijo",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1007,7 +1007,7 @@
       "titulo": "O Mar e a Areia",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1018,7 +1018,7 @@
       "titulo": "O Cãozinho e o Dono",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1029,7 +1029,7 @@
       "titulo": "A Corrida da Pipoca",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1040,7 +1040,7 @@
       "titulo": "A Corrida do Fantasma",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1051,7 +1051,7 @@
       "titulo": "O Entregador de Pizza",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1062,7 +1062,7 @@
       "titulo": "A Corrida das Cores",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1073,7 +1073,7 @@
       "titulo": "O Piquenique",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1084,7 +1084,7 @@
       "titulo": "A Corrida do Campeão",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1095,7 +1095,7 @@
       "titulo": "O Ritual da Corrida",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Ao correr, demonstra coordenação de movimentos entre os braços e os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1106,7 +1106,7 @@
       "titulo": "O Barquinho no Chão",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1117,7 +1117,7 @@
       "titulo": "Gangorra de Deitar",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1128,7 +1128,7 @@
       "titulo": "Estica e Encolhe",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1139,7 +1139,7 @@
       "titulo": "Chutes no Ar",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1150,7 +1150,7 @@
       "titulo": "Ponte de Elevação",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1161,7 +1161,7 @@
       "titulo": "O Vento que Empurra",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1172,7 +1172,7 @@
       "titulo": "Balanço Musical",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1183,7 +1183,7 @@
       "titulo": "Pare e Vá",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1194,7 +1194,7 @@
       "titulo": "Contando o Balanço",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1205,7 +1205,7 @@
       "titulo": "O Balanço do Avião",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1216,7 +1216,7 @@
       "titulo": "Chute a Bola Mágica",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1227,7 +1227,7 @@
       "titulo": "Pés de Foguete",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1238,7 +1238,7 @@
       "titulo": "Encolhendo as Perninhas",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1249,7 +1249,7 @@
       "titulo": "O Jogo do Estica-Encolhe",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1260,7 +1260,7 @@
       "titulo": "Pegando o Tesouro com os Pés",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1271,7 +1271,7 @@
       "titulo": "O Pedal Invisível",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1282,7 +1282,7 @@
       "titulo": "Pés de Pássaro",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1293,7 +1293,7 @@
       "titulo": "O Limpador de Para-brisa",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1304,7 +1304,7 @@
       "titulo": "O Segredo do Sapato",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1315,7 +1315,7 @@
       "titulo": "Os Pés que Dizem \"Oi\"",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1326,7 +1326,7 @@
       "titulo": "Céu e Terra",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1337,7 +1337,7 @@
       "titulo": "O Corpo de Macarrão",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1348,7 +1348,7 @@
       "titulo": "Abraço no Vento",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1359,7 +1359,7 @@
       "titulo": "O Segredo nas Costas",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1370,7 +1370,7 @@
       "titulo": "O Bote do Jacaré",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1381,7 +1381,7 @@
       "titulo": "O Segredo do Pés-Costas",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1392,7 +1392,7 @@
       "titulo": "O Guia Físico",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1403,7 +1403,7 @@
       "titulo": "Siga o Mestre no Chão",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1414,7 +1414,7 @@
       "titulo": "O Grande Impulso",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1425,7 +1425,7 @@
       "titulo": "O Foguete Espacial",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1436,7 +1436,7 @@
       "titulo": "Remando o Barco no Ar",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1447,7 +1447,7 @@
       "titulo": "O Pêndulo do Relógio",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1458,7 +1458,7 @@
       "titulo": "O Voo do Super-Herói",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1469,7 +1469,7 @@
       "titulo": "A Escalada Invisível",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1480,7 +1480,7 @@
       "titulo": "O Sino do Vento",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1491,7 +1491,7 @@
       "titulo": "A Dança do Balanço",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1502,7 +1502,7 @@
       "titulo": "O Impulso Trocado",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1513,7 +1513,7 @@
       "titulo": "O Balanço Independente",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1524,7 +1524,7 @@
       "titulo": "O Desafio dos 3 Balanços",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1535,7 +1535,7 @@
       "titulo": "O Bicho-Preguiça",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1546,7 +1546,7 @@
       "titulo": "A Conquista da Lua",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1557,7 +1557,7 @@
       "titulo": "A Fuga do Vulcão",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1568,7 +1568,7 @@
       "titulo": "O Piloto de Avião",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1579,7 +1579,7 @@
       "titulo": "O Balanço que Canta",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1590,7 +1590,7 @@
       "titulo": "O Espelho no Balanço",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1601,7 +1601,7 @@
       "titulo": "O Campeão do Parquinho",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1612,7 +1612,7 @@
       "titulo": "A Tarefa Final",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1623,7 +1623,7 @@
       "titulo": "O Impulso do \"Power-Up\"",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1634,7 +1634,7 @@
       "titulo": "Resgate nas Alturas",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1645,7 +1645,7 @@
       "titulo": "O Impulso na Parede",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Consegue movimentar o corpo para fazer um balanço continuar em movimento.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1656,7 +1656,7 @@
       "titulo": "Explorando o Escorregador",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1667,7 +1667,7 @@
       "titulo": "Corrida de Carrinhos",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1678,7 +1678,7 @@
       "titulo": "Escalada Invertida",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1689,7 +1689,7 @@
       "titulo": "O Primeiro Degrau",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1700,7 +1700,7 @@
       "titulo": "O Ritual de Subida",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1711,7 +1711,7 @@
       "titulo": "A Escalada do Adesivo",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1722,7 +1722,7 @@
       "titulo": "Virando no Chão",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1733,7 +1733,7 @@
       "titulo": "Virando no Degrau",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1744,7 +1744,7 @@
       "titulo": "Escorregando no Colo",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1755,7 +1755,7 @@
       "titulo": "Meio Caminho",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1766,7 +1766,7 @@
       "titulo": "O Grande Abraço no Final",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1777,7 +1777,7 @@
       "titulo": "Desembarque na Almofada",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1788,7 +1788,7 @@
       "titulo": "O Resgate do Boneco",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1799,7 +1799,7 @@
       "titulo": "O Escorregador de Bichos",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1810,7 +1810,7 @@
       "titulo": "O Foguete Vai Lançar!",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1821,7 +1821,7 @@
       "titulo": "O Bombeiro Corajoso",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1832,7 +1832,7 @@
       "titulo": "A Cachoeira",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1843,7 +1843,7 @@
       "titulo": "O Entregador Rápido",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1854,7 +1854,7 @@
       "titulo": "Boliche Humano",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1865,7 +1865,7 @@
       "titulo": "O Mergulho na Piscina",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1876,7 +1876,7 @@
       "titulo": "Escorregando com Estilo",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1887,7 +1887,7 @@
       "titulo": "O Som da Descida",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1898,7 +1898,7 @@
       "titulo": "Escorregando para a Música",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1909,7 +1909,7 @@
       "titulo": "O Túnel Mágico",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1920,7 +1920,7 @@
       "titulo": "O Circuito do Atleta",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1931,7 +1931,7 @@
       "titulo": "O Colecionador de Tesouros",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1942,7 +1942,7 @@
       "titulo": "Escorregando para as Cores",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1953,7 +1953,7 @@
       "titulo": "Onde Está o Animal?",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1964,7 +1964,7 @@
       "titulo": "Escorregando de Barriga",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1975,7 +1975,7 @@
       "titulo": "O Desafio do Silêncio",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1986,7 +1986,7 @@
       "titulo": "O Desafio do Tempo",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1997,7 +1997,7 @@
       "titulo": "Siga o Mestre",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2008,7 +2008,7 @@
       "titulo": "O Quebra-Cabeça do Escorregador",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2019,7 +2019,7 @@
       "titulo": "O Pedágio",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2030,7 +2030,7 @@
       "titulo": "O Fotógrafo",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2041,7 +2041,7 @@
       "titulo": "O Escorregador de Histórias",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2052,7 +2052,7 @@
       "titulo": "O \"De Novo!\"",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2063,7 +2063,7 @@
       "titulo": "O Escorregador Invertido",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2074,7 +2074,7 @@
       "titulo": "O Lanche no Topo",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2085,7 +2085,7 @@
       "titulo": "O Clima do Dia",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2096,7 +2096,7 @@
       "titulo": "O Pintor",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2107,7 +2107,7 @@
       "titulo": "A Corrida de Duplas",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2118,7 +2118,7 @@
       "titulo": "O Escorregador de Sombra",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2129,7 +2129,7 @@
       "titulo": "O Construtor",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2140,7 +2140,7 @@
       "titulo": "A Comemoração na Chegada",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2151,7 +2151,7 @@
       "titulo": "O Escorregador-Transportador",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2162,7 +2162,7 @@
       "titulo": "O Escorregador Temático",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2173,7 +2173,7 @@
       "titulo": "A Chegada Sensorial",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2184,7 +2184,7 @@
       "titulo": "O Escorregador-Cachoeira de Bolinhas",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2195,7 +2195,7 @@
       "titulo": "A Missão do Espião",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe e desce pelo escorregador.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2206,7 +2206,7 @@
       "titulo": "Marcha do Soldado",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2217,7 +2217,7 @@
       "titulo": "Pegadas Mágicas",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2228,7 +2228,7 @@
       "titulo": "O Caminho dos Adesivos",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2239,7 +2239,7 @@
       "titulo": "O Resgate do Dinossauro",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2250,7 +2250,7 @@
       "titulo": "Siga o Mestre na Escada",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2261,7 +2261,7 @@
       "titulo": "O Carteiro Sobe e Desce",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2272,7 +2272,7 @@
       "titulo": "Caça ao Tesouro Degrau por Degrau",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2283,7 +2283,7 @@
       "titulo": "Sapatos de Cores Diferentes",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2294,7 +2294,7 @@
       "titulo": "A Escalada da Montanha",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2305,7 +2305,7 @@
       "titulo": "Foguete para a Lua",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2316,7 +2316,7 @@
       "titulo": "Subindo com Música",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2327,7 +2327,7 @@
       "titulo": "O Toque do Pé",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2338,7 +2338,7 @@
       "titulo": "O Som dos Pés",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2349,7 +2349,7 @@
       "titulo": "O Entregador de Compras",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2360,7 +2360,7 @@
       "titulo": "A Corrida das Formigas",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2371,7 +2371,7 @@
       "titulo": "A Corrida do Guepardo",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2382,7 +2382,7 @@
       "titulo": "Subindo com as Mãos Ocupadas",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2393,7 +2393,7 @@
       "titulo": "O Espião Silencioso",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2404,7 +2404,7 @@
       "titulo": "Quebra-Cabeça na Escada",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2415,7 +2415,7 @@
       "titulo": "A Ponte de Um Degrau",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2426,7 +2426,7 @@
       "titulo": "Subindo no Meio-fio",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2437,7 +2437,7 @@
       "titulo": "A Escada de Animais",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2448,7 +2448,7 @@
       "titulo": "Toque Cruzado",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2459,7 +2459,7 @@
       "titulo": "O Guia Suave",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2470,7 +2470,7 @@
       "titulo": "\"Luz Verde, Luz Vermelha\" na Escada",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2481,7 +2481,7 @@
       "titulo": "O Obstáculo no Degrau",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2492,7 +2492,7 @@
       "titulo": "A Escada ao Contrário",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2503,7 +2503,7 @@
       "titulo": "Carregando a Torre",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2514,7 +2514,7 @@
       "titulo": "O Bilhete do Trem",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2525,7 +2525,7 @@
       "titulo": "O Lanche no Topo",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2536,7 +2536,7 @@
       "titulo": "A Corrida de Duplas",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2547,7 +2547,7 @@
       "titulo": "O Som Secreto",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2558,7 +2558,7 @@
       "titulo": "A Escada Cantante",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2569,7 +2569,7 @@
       "titulo": "Subindo com o Espelho",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2580,7 +2580,7 @@
       "titulo": "O Fotógrafo",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2591,7 +2591,7 @@
       "titulo": "A Escada Escura",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2602,7 +2602,7 @@
       "titulo": "O Piquenique no Patamar",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2613,7 +2613,7 @@
       "titulo": "O Regador de Plantas",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2624,7 +2624,7 @@
       "titulo": "O Guarda de Trânsito",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2635,7 +2635,7 @@
       "titulo": "A Escada de Texturas",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2646,7 +2646,7 @@
       "titulo": "O Desafio dos Sapatos",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2657,7 +2657,7 @@
       "titulo": "A Subida do Bicho-Preguiça",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2668,7 +2668,7 @@
       "titulo": "A Escada da História",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2679,7 +2679,7 @@
       "titulo": "A Coleta de Cores",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2690,7 +2690,7 @@
       "titulo": "O \"Bom Dia\" para os Bonecos",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2701,7 +2701,7 @@
       "titulo": "O Construtor",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2712,7 +2712,7 @@
       "titulo": "A Escada que Vira Montanha-Russa",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2723,7 +2723,7 @@
       "titulo": "O Desafio de Olhos Fechados",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2734,7 +2734,7 @@
       "titulo": "O Prêmio Final",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2745,7 +2745,7 @@
       "titulo": "A Comemoração do Topo",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Sobe escadas intercalando os pés.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2756,7 +2756,7 @@
       "titulo": "Rola-Bola Sentado",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2767,7 +2767,7 @@
       "titulo": "O Voo Lento do Balão",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2778,7 +2778,7 @@
       "titulo": "A Cesta no Colo",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2789,7 +2789,7 @@
       "titulo": "O Abraço de Urso",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2800,7 +2800,7 @@
       "titulo": "Apanha com o Lenço",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2811,7 +2811,7 @@
       "titulo": "O Ovo de Dinossauro",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2822,7 +2822,7 @@
       "titulo": "Apanha com a Caixa",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2833,7 +2833,7 @@
       "titulo": "A Bola com Guizo",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2844,7 +2844,7 @@
       "titulo": "Lançamento de Perto",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2855,7 +2855,7 @@
       "titulo": "O Goleiro",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2866,7 +2866,7 @@
       "titulo": "Rampa de Papelão",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2877,7 +2877,7 @@
       "titulo": "Apanhando o Bichinho",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2888,7 +2888,7 @@
       "titulo": "Bola na Água",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2899,7 +2899,7 @@
       "titulo": "O Planeta que Cai",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2910,7 +2910,7 @@
       "titulo": "Bola de Sabão Gigante",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2921,7 +2921,7 @@
       "titulo": "Apanha e Senta",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2932,7 +2932,7 @@
       "titulo": "Apanha e Grita uma Cor",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2943,7 +2943,7 @@
       "titulo": "O Muro de Almofadas",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2954,7 +2954,7 @@
       "titulo": "Bola de Meia",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2965,7 +2965,7 @@
       "titulo": "Apanha e Joga de Volta",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2976,7 +2976,7 @@
       "titulo": "O Entregador de Pizza",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2987,7 +2987,7 @@
       "titulo": "A Teia de Aranha",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2998,7 +2998,7 @@
       "titulo": "O Fantasma Amigo",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3009,7 +3009,7 @@
       "titulo": "Apanha de Costas para a Parede",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3020,7 +3020,7 @@
       "titulo": "A Cesta Ambulante",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3031,7 +3031,7 @@
       "titulo": "A Batata Quente (Lenta)",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3042,7 +3042,7 @@
       "titulo": "Apanhando com Luvas",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3053,7 +3053,7 @@
       "titulo": "O Tesouro na Bola",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3064,7 +3064,7 @@
       "titulo": "Apanha e Congela",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3075,7 +3075,7 @@
       "titulo": "Bola de Papel Amassado",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3086,7 +3086,7 @@
       "titulo": "O Ímã Humano",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3097,7 +3097,7 @@
       "titulo": "A Chuva de Bolinhas",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3108,7 +3108,7 @@
       "titulo": "Apanha com os Olhos no Alvo",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3119,7 +3119,7 @@
       "titulo": "Contando os Apanhados",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3130,7 +3130,7 @@
       "titulo": "Apanha com uma Mão e Ajuda com a Outra",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3141,7 +3141,7 @@
       "titulo": "A Lua e o Astronauta",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3152,7 +3152,7 @@
       "titulo": "O Fruto no Pomar",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3163,7 +3163,7 @@
       "titulo": "O \"Quase Caiu!\"",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3174,7 +3174,7 @@
       "titulo": "Apanha na Sombra",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3185,7 +3185,7 @@
       "titulo": "O Som do Apanhado",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3196,7 +3196,7 @@
       "titulo": "O Desafio da Bola Bumpy",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3207,7 +3207,7 @@
       "titulo": "Rolando no Sofá",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3218,7 +3218,7 @@
       "titulo": "O Pedido Especial",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3229,7 +3229,7 @@
       "titulo": "Apanhando o Sol",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3240,7 +3240,7 @@
       "titulo": "O Jogo do Espelho",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3251,7 +3251,7 @@
       "titulo": "O Apanhador de Sonhos",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3262,7 +3262,7 @@
       "titulo": "A Letra na Bola",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3273,7 +3273,7 @@
       "titulo": "Apanha e Rola",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3284,7 +3284,7 @@
       "titulo": "O Piquenique",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3295,7 +3295,7 @@
       "titulo": "A Grande Recompensa",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Apanha a bola com as duas mãos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3306,7 +3306,7 @@
       "titulo": "A Estrada Gigante",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3317,7 +3317,7 @@
       "titulo": "O Caminho de Areia",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3328,7 +3328,7 @@
       "titulo": "O Dedo Pintor",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3339,7 +3339,7 @@
       "titulo": "Leve a Abelha até a Flor",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3350,7 +3350,7 @@
       "titulo": "O Caminho de Relevo",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3361,7 +3361,7 @@
       "titulo": "Conectando os Adesivos",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3372,7 +3372,7 @@
       "titulo": "A Chuva Colorida",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3383,7 +3383,7 @@
       "titulo": "O Labirinto do Rato",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3394,7 +3394,7 @@
       "titulo": "Contorno com Massinha",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3405,7 +3405,7 @@
       "titulo": "O Fio do Balão",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3416,7 +3416,7 @@
       "titulo": "Pintura com Cotonetes",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3427,7 +3427,7 @@
       "titulo": "O Contorno Mágico",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3438,7 +3438,7 @@
       "titulo": "A Estrada na Lousa",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3449,7 +3449,7 @@
       "titulo": "O Contorno de Lã",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3460,7 +3460,7 @@
       "titulo": "O Desenho Surpresa",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3471,7 +3471,7 @@
       "titulo": "Completando o Sol",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3482,7 +3482,7 @@
       "titulo": "O Carimbo de Batata",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3493,7 +3493,7 @@
       "titulo": "Seguindo a Luz",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3504,7 +3504,7 @@
       "titulo": "O Caminho de Água",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3515,7 +3515,7 @@
       "titulo": "O Contorno de Lixa",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3526,7 +3526,7 @@
       "titulo": "As Rodas do Ônibus",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3537,7 +3537,7 @@
       "titulo": "O Pote de Biscoitos",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3548,7 +3548,7 @@
       "titulo": "O Contorno na Janela",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3559,7 +3559,7 @@
       "titulo": "O Caracol em Espiral",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3570,7 +3570,7 @@
       "titulo": "O Voo da Borboleta",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3581,7 +3581,7 @@
       "titulo": "Costurando o Papel",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3592,7 +3592,7 @@
       "titulo": "O Cabelo do Leão",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3603,7 +3603,7 @@
       "titulo": "O Rastro da Estrela Cadente",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3614,7 +3614,7 @@
       "titulo": "O Esqueleto do Peixe",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3625,7 +3625,7 @@
       "titulo": "O Contorno com Ímãs",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3636,7 +3636,7 @@
       "titulo": "A Teia de Aranha",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3647,7 +3647,7 @@
       "titulo": "As Ondas do Mar",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3658,7 +3658,7 @@
       "titulo": "O Pulo do Sapo",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3669,7 +3669,7 @@
       "titulo": "O Contorno de Glitter",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3680,7 +3680,7 @@
       "titulo": "Desenhando na Neve (Falsa)",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3691,7 +3691,7 @@
       "titulo": "O Alfabeto Pontilhado",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3702,7 +3702,7 @@
       "titulo": "O Contorno na Argila",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3713,7 +3713,7 @@
       "titulo": "O Labirinto de Lã",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3724,7 +3724,7 @@
       "titulo": "O Contorno Escondido",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3735,7 +3735,7 @@
       "titulo": "Conectando os Números",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3746,7 +3746,7 @@
       "titulo": "As Patas do Cachorro",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3757,7 +3757,7 @@
       "titulo": "O Contorno na Areia Molhada",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3768,7 +3768,7 @@
       "titulo": "O Delineado do Desenho",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3779,7 +3779,7 @@
       "titulo": "O Contorno de Gelo",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3790,7 +3790,7 @@
       "titulo": "O Trem nos Trilhos",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3801,7 +3801,7 @@
       "titulo": "O Contorno no Ar",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3812,7 +3812,7 @@
       "titulo": "O Fio do Telefone",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3823,7 +3823,7 @@
       "titulo": "O Desafio do Espelho",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3834,7 +3834,7 @@
       "titulo": "O Contorno Cooperativo",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3845,7 +3845,7 @@
       "titulo": "O Mural de Contornos",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Segue contornos ou pontilhados em desenhos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3856,7 +3856,7 @@
       "titulo": "O Carro na Curva",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3867,7 +3867,7 @@
       "titulo": "Rasgando o Círculo",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3878,7 +3878,7 @@
       "titulo": "Cortando Minhocas de Massinha",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3889,7 +3889,7 @@
       "titulo": "Aparando os Cantos",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3900,7 +3900,7 @@
       "titulo": "A Mão que Ajuda",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3911,7 +3911,7 @@
       "titulo": "As Ondas do Mar",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3922,7 +3922,7 @@
       "titulo": "O Sorriso do Rosto",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3933,7 +3933,7 @@
       "titulo": "A Pizza Deliciosa",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3944,7 +3944,7 @@
       "titulo": "O Corpo da Lagarta",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3955,7 +3955,7 @@
       "titulo": "As Rodas do Ônibus",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3966,7 +3966,7 @@
       "titulo": "O Sol Radiante",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3977,7 +3977,7 @@
       "titulo": "A Lua Crescente",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3988,7 +3988,7 @@
       "titulo": "O Biscoito Redondo",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3999,7 +3999,7 @@
       "titulo": "O Prato do Jantar",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4010,7 +4010,7 @@
       "titulo": "Recortando Feltro",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4021,7 +4021,7 @@
       "titulo": "A Lente do Óculos",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4032,7 +4032,7 @@
       "titulo": "Os Planetas do Sistema Solar",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4043,7 +4043,7 @@
       "titulo": "A Bola Colorida",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4054,7 +4054,7 @@
       "titulo": "O Corpo do Caracol",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4065,7 +4065,7 @@
       "titulo": "A Gota de Chuva",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4076,7 +4076,7 @@
       "titulo": "O Chapéu do Cogumelo",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4087,7 +4087,7 @@
       "titulo": "As Pétalas da Flor",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4098,7 +4098,7 @@
       "titulo": "A Casca do Ovo Quebrado",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4109,7 +4109,7 @@
       "titulo": "O Coração Apaixonado",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4120,7 +4120,7 @@
       "titulo": "O Arco-Íris",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4131,7 +4131,7 @@
       "titulo": "A Casa do Caracol (Espiral)",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4142,7 +4142,7 @@
       "titulo": "Recortando EVA",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4153,7 +4153,7 @@
       "titulo": "As Asas da Borboleta",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4164,7 +4164,7 @@
       "titulo": "A Folha da Árvore",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4175,7 +4175,7 @@
       "titulo": "O Fantasma Amigável",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4186,7 +4186,7 @@
       "titulo": "A Nuvem Fofinha",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4197,7 +4197,7 @@
       "titulo": "O Quebra-Cabeça de Círculo",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4208,7 +4208,7 @@
       "titulo": "Recorte de Adesivo",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4219,7 +4219,7 @@
       "titulo": "A Máscara de Carnaval",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4230,7 +4230,7 @@
       "titulo": "A Mancha de Tinta",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4241,7 +4241,7 @@
       "titulo": "A Chave do Tesouro",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4252,7 +4252,7 @@
       "titulo": "O Contorno da Mão",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4263,7 +4263,7 @@
       "titulo": "O Gomo da Laranja",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4274,7 +4274,7 @@
       "titulo": "A Orelha do Coelho",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4285,7 +4285,7 @@
       "titulo": "A Barriga do Sapo",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4296,7 +4296,7 @@
       "titulo": "O Escudo do Herói",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4307,7 +4307,7 @@
       "titulo": "O Pote de Ouro",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4318,7 +4318,7 @@
       "titulo": "A Fatia de Melancia",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4329,7 +4329,7 @@
       "titulo": "O Igloo do Esquimó",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4340,7 +4340,7 @@
       "titulo": "O Sorvete na Casquinha",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4351,7 +4351,7 @@
       "titulo": "O Barco à Vela",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4362,7 +4362,7 @@
       "titulo": "O Contorno da Sombra",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4373,7 +4373,7 @@
       "titulo": "O Bumerangue",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4384,7 +4384,7 @@
       "titulo": "O Amendoim",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4395,7 +4395,7 @@
       "titulo": "A Comemoração Curva",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Utiliza tesoura para realizar recortes com contornos arredondados.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4406,7 +4406,7 @@
       "titulo": "O Pote do Tesouro",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4417,7 +4417,7 @@
       "titulo": "A Força para o Lanche",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4428,7 +4428,7 @@
       "titulo": "A Garrafa de Água",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4439,7 +4439,7 @@
       "titulo": "A Oficina do Mecânico",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4450,7 +4450,7 @@
       "titulo": "Encontre a Tampa Certa",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4461,7 +4461,7 @@
       "titulo": "O Segredo do Cofrinho",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4472,7 +4472,7 @@
       "titulo": "O Construtor",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4483,7 +4483,7 @@
       "titulo": "O Pote de Bolhas de Sabão",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4494,7 +4494,7 @@
       "titulo": "O Laboratório de Cores",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4505,7 +4505,7 @@
       "titulo": "O Posto de Gasolina",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4516,7 +4516,7 @@
       "titulo": "A Lâmpada Mágica",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4527,7 +4527,7 @@
       "titulo": "O Encanador Divertido",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4538,7 +4538,7 @@
       "titulo": "A Tampa Meio Aberta",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4549,7 +4549,7 @@
       "titulo": "O Pote de Massinha",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4560,7 +4560,7 @@
       "titulo": "A Roda do Carro",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4571,7 +4571,7 @@
       "titulo": "A Boneca Russa (Matrioska)",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4582,7 +4582,7 @@
       "titulo": "A Lanterna do Explorador",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4593,7 +4593,7 @@
       "titulo": "O Som Secreto",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4604,7 +4604,7 @@
       "titulo": "A Torre de Potes",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4615,7 +4615,7 @@
       "titulo": "O Jogo da Memória de Tampas",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4626,7 +4626,7 @@
       "titulo": "A Garrafa Resistente",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4637,7 +4637,7 @@
       "titulo": "O Doutor e os Potes de Remédio",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4648,7 +4648,7 @@
       "titulo": "Brincando na Água",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4659,7 +4659,7 @@
       "titulo": "A Fábrica de Perfumes",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4670,7 +4670,7 @@
       "titulo": "O Pote de Tinta",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4681,7 +4681,7 @@
       "titulo": "O Vaso de Flores",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4692,7 +4692,7 @@
       "titulo": "A Chave Inglesa de Brinquedo",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4703,7 +4703,7 @@
       "titulo": "O Cozinheiro e os Temperos",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4714,7 +4714,7 @@
       "titulo": "Desmontando a Caneta",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4725,7 +4725,7 @@
       "titulo": "O Desafio com Luvas",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4736,7 +4736,7 @@
       "titulo": "O Bule de Chá",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4747,7 +4747,7 @@
       "titulo": "O Submarino Secreto",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4758,7 +4758,7 @@
       "titulo": "A Caixa de Ferramentas",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4769,7 +4769,7 @@
       "titulo": "A Barraca de Montar",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4780,7 +4780,7 @@
       "titulo": "O Lançador de Foguete",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4791,7 +4791,7 @@
       "titulo": "O Relógio do Vovô",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4802,7 +4802,7 @@
       "titulo": "O Binóculo de Foco",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4813,7 +4813,7 @@
       "titulo": "O Caleidoscópio",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4824,7 +4824,7 @@
       "titulo": "O Pote de Guloseimas",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4835,7 +4835,7 @@
       "titulo": "A Roda Gigante de Brinquedo",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4846,7 +4846,7 @@
       "titulo": "O Espremedor de Frutas",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4857,7 +4857,7 @@
       "titulo": "A Manivela",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4868,7 +4868,7 @@
       "titulo": "O Extintor de Incêndio",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4879,7 +4879,7 @@
       "titulo": "O Galheteiro",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4890,7 +4890,7 @@
       "titulo": "O Pote de Creme",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4901,7 +4901,7 @@
       "titulo": "A Câmera Fotográfica",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4912,7 +4912,7 @@
       "titulo": "O Robô Articulado",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4923,7 +4923,7 @@
       "titulo": "O Pêndulo",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4934,7 +4934,7 @@
       "titulo": "A Comemoração Final",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4945,7 +4945,7 @@
       "titulo": "O Cientista Maluco",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Realiza movimentos de rosca em objetos como tampinhas de garrafa.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4956,7 +4956,7 @@
       "titulo": "Fronteira Segura",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4967,7 +4967,7 @@
       "titulo": "Apenas os Pés",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4978,7 +4978,7 @@
       "titulo": "O Tatu Cavador",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4989,7 +4989,7 @@
       "titulo": "O Canteiro de Obras",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5000,7 +5000,7 @@
       "titulo": "A Cozinha de Areia",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5011,7 +5011,7 @@
       "titulo": "Enterrando o Tesouro",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5022,7 +5022,7 @@
       "titulo": "O Castelo Perfeito",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5033,7 +5033,7 @@
       "titulo": "A Peneira Mágica",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5044,7 +5044,7 @@
       "titulo": "A Montanha Gigante",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5055,7 +5055,7 @@
       "titulo": "O Vulcão em Erupção",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5066,7 +5066,7 @@
       "titulo": "Marcas e Pegadas",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5077,7 +5077,7 @@
       "titulo": "O Escavador de Dinossauros",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5088,7 +5088,7 @@
       "titulo": "A Estrada Sinuosa",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5099,7 +5099,7 @@
       "titulo": "O Jardim de Gravetos",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5110,7 +5110,7 @@
       "titulo": "Transferência de Areia",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5121,7 +5121,7 @@
       "titulo": "O Rio e a Represa",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5132,7 +5132,7 @@
       "titulo": "A Caça às Conchas",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5143,7 +5143,7 @@
       "titulo": "O Alfabeto de Areia",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5154,7 +5154,7 @@
       "titulo": "A Chuva de Areia",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5165,7 +5165,7 @@
       "titulo": "Decorando o Bolo de Areia",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5176,7 +5176,7 @@
       "titulo": "O Funil Engraçado",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5187,7 +5187,7 @@
       "titulo": "O Circuito das Bolinhas",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5198,7 +5198,7 @@
       "titulo": "Os Carimbos de Areia",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5209,7 +5209,7 @@
       "titulo": "A Toca do Coelho",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5220,7 +5220,7 @@
       "titulo": "A Guerra de Areia (Segura)",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5231,7 +5231,7 @@
       "titulo": "O Mosaico de Pedrinhas",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5242,7 +5242,7 @@
       "titulo": "A Ponte sobre o Fosso",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5253,7 +5253,7 @@
       "titulo": "O Rastro do Bicho",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5264,7 +5264,7 @@
       "titulo": "A Ilha do Tesouro",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5275,7 +5275,7 @@
       "titulo": "O Relógio de Sol",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5286,7 +5286,7 @@
       "titulo": "A Areia que espirra",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5297,7 +5297,7 @@
       "titulo": "O Alvo na Areia",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5308,7 +5308,7 @@
       "titulo": "A Máquina de Chuva",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5319,7 +5319,7 @@
       "titulo": "A Pintura de Terra",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5330,7 +5330,7 @@
       "titulo": "As Formas Geométricas",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5341,7 +5341,7 @@
       "titulo": "A Cidade de Areia",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5352,7 +5352,7 @@
       "titulo": "O Jogo da Memória de Areia",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5363,7 +5363,7 @@
       "titulo": "A Escrita Secreta",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5374,7 +5374,7 @@
       "titulo": "O Barco no Mar",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5385,7 +5385,7 @@
       "titulo": "A Medição da Profundidade",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5396,7 +5396,7 @@
       "titulo": "O Transportador de Água",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5407,7 +5407,7 @@
       "titulo": "O Aniversário na Praia",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5418,7 +5418,7 @@
       "titulo": "A Pista de Corrida Oval",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5429,7 +5429,7 @@
       "titulo": "A Sopa de Letras",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5440,7 +5440,7 @@
       "titulo": "A Batalha de Tratores",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5451,7 +5451,7 @@
       "titulo": "O Deserto e o Oásis",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5462,7 +5462,7 @@
       "titulo": "A Areia Quente e a Fria",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5473,7 +5473,7 @@
       "titulo": "O Piquenique na \"Praia\"",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5484,7 +5484,7 @@
       "titulo": "O Ritual de Limpeza",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -5495,7 +5495,7 @@
       "titulo": "O Resgate dos Animais",
       "dimensao": "Habilidades Motoras",
       "habilidade": "Brinca sentado(a) na areia e/ou na terra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   }

@@ -6,7 +6,7 @@
       "titulo": "Quebra-cabeça de Pinus",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -17,7 +17,7 @@
       "titulo": "Potes Mágicos",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -28,7 +28,7 @@
       "titulo": "Colocando o Fio no Tubo",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -39,7 +39,7 @@
       "titulo": "Pintando com a Mão",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -50,7 +50,7 @@
       "titulo": "Brincando com Massinha",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -61,7 +61,7 @@
       "titulo": "Torre de Cubos",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -72,7 +72,7 @@
       "titulo": "Desenho na Areia",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -83,7 +83,7 @@
       "titulo": "Carimbando com Batatas",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -94,7 +94,7 @@
       "titulo": "Fita Adesiva Divertida",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -105,7 +105,7 @@
       "titulo": "Brincando de Pesca",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -116,7 +116,7 @@
       "titulo": "Encaixando Peças",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -127,7 +127,7 @@
       "titulo": "Desenhando com Giz",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -138,7 +138,7 @@
       "titulo": "Passando Massinha no Peneira",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -149,7 +149,7 @@
       "titulo": "Brincando de Enrolar o Barbante",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -160,7 +160,7 @@
       "titulo": "Colocando Bolinhas no Pote",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -171,7 +171,7 @@
       "titulo": "Empilhando Potes",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -182,7 +182,7 @@
       "titulo": "Brincando com Pompom",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -193,7 +193,7 @@
       "titulo": "Pintando com o Rolo",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -204,7 +204,7 @@
       "titulo": "Lousa Mágica",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -215,7 +215,7 @@
       "titulo": "Brincando de Transferir",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -226,7 +226,7 @@
       "titulo": "Brinquedo com Rosca",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -237,7 +237,7 @@
       "titulo": "Construindo com Lego",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -248,7 +248,7 @@
       "titulo": "Pintando com Gelo",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -259,7 +259,7 @@
       "titulo": "Mini-Cenário de Fazenda",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -270,7 +270,7 @@
       "titulo": "Brincando com Adesivos",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -281,7 +281,7 @@
       "titulo": "Pintura com Bolhas",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -292,7 +292,7 @@
       "titulo": "Brincando de Limpeza",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -303,7 +303,7 @@
       "titulo": "Encaixando Pinos",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -314,7 +314,7 @@
       "titulo": "Pintando com a Esponja",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -325,7 +325,7 @@
       "titulo": "Brincando com Argila",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -336,7 +336,7 @@
       "titulo": "Colocando o Macarrão",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -347,7 +347,7 @@
       "titulo": "Pintura com Fios",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -358,7 +358,7 @@
       "titulo": "Brincando de 'Passa o Brinquedo'",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -369,7 +369,7 @@
       "titulo": "Pintando com Areia",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -380,7 +380,7 @@
       "titulo": "Jogo da Classificação",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -391,7 +391,7 @@
       "titulo": "Brincando de Bolinhas de Papel",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -402,7 +402,7 @@
       "titulo": "Pintura com os Pés",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -413,7 +413,7 @@
       "titulo": "Construindo com Blocos de Encaixe",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -424,7 +424,7 @@
       "titulo": "Brincando de Fazer Comida",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -435,7 +435,7 @@
       "titulo": "Pintura com Esponja e Elástico",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -446,7 +446,7 @@
       "titulo": "Puxando as Fitas",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -457,7 +457,7 @@
       "titulo": "Brincando de 'Faz de Conta'",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -468,7 +468,7 @@
       "titulo": "Pintando com a Água",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -479,7 +479,7 @@
       "titulo": "Brincando com Pote e Água",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -490,7 +490,7 @@
       "titulo": "Pintura com Giz Molhado",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -501,7 +501,7 @@
       "titulo": "Construindo com Palitos",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -512,7 +512,7 @@
       "titulo": "Brincando com Massinha de Farinha",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -523,7 +523,7 @@
       "titulo": "Pintura com Bolhas e Canudo",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -534,7 +534,7 @@
       "titulo": "Brincando com Rolo de Papel",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -545,7 +545,7 @@
       "titulo": "Brincando de Jardinagem",
       "dimensao": "Socialização",
       "habilidade": "Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por pelo menos 10 minutos.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -556,7 +556,7 @@
       "titulo": "Bate Palmas",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -567,7 +567,7 @@
       "titulo": "Faz o 'Shhh!'",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -578,7 +578,7 @@
       "titulo": "Abraço de Ursinho",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -589,7 +589,7 @@
       "titulo": "Faz o 'Miau'",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -600,7 +600,7 @@
       "titulo": "Dá Tchauzinho",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -611,7 +611,7 @@
       "titulo": "Pega o Brinquedo",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -622,7 +622,7 @@
       "titulo": "Empurra o Carrinho",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -633,7 +633,7 @@
       "titulo": "Guarda o Bloquinho",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -644,7 +644,7 @@
       "titulo": "Bate na Mesa",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -655,7 +655,7 @@
       "titulo": "Joga a Massinha",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -666,7 +666,7 @@
       "titulo": "Põe o Pote",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -677,7 +677,7 @@
       "titulo": "Abre e Fecha a Mão",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -688,7 +688,7 @@
       "titulo": "Pula, Pula!",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -699,7 +699,7 @@
       "titulo": "Sentado no Chão",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -710,7 +710,7 @@
       "titulo": "Guarda o Livrinho",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -721,7 +721,7 @@
       "titulo": "Dá um Beijo no Ursinho",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -732,7 +732,7 @@
       "titulo": "Passa a Colher",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -743,7 +743,7 @@
       "titulo": "Balança o Lenço",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -754,7 +754,7 @@
       "titulo": "Dá o Abraço",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -765,7 +765,7 @@
       "titulo": "Guarda o Pano",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -776,7 +776,7 @@
       "titulo": "Bate o Pé no Chão",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -787,7 +787,7 @@
       "titulo": "Joga o Anel",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -798,7 +798,7 @@
       "titulo": "Dá a Mão",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -809,7 +809,7 @@
       "titulo": "Pega o Pincel",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -820,7 +820,7 @@
       "titulo": "Pega o Giz",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -831,7 +831,7 @@
       "titulo": "Chuta a Bola",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -842,7 +842,7 @@
       "titulo": "Vem pra Mesa!",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -853,7 +853,7 @@
       "titulo": "Vai pra Roda!",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -864,7 +864,7 @@
       "titulo": "Faz o 'Au-au'",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -875,7 +875,7 @@
       "titulo": "Abre o Livro",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -886,7 +886,7 @@
       "titulo": "Fecha o Livro",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -897,7 +897,7 @@
       "titulo": "Põe o Sapato",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -908,7 +908,7 @@
       "titulo": "Tira o Sapato",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -919,7 +919,7 @@
       "titulo": "Pega o Chapéu",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -930,7 +930,7 @@
       "titulo": "Põe o Chapéu",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -941,7 +941,7 @@
       "titulo": "Toca o Tambor",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -952,7 +952,7 @@
       "titulo": "Sopra as Bolhas",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -963,7 +963,7 @@
       "titulo": "Pega a Boneca",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -974,7 +974,7 @@
       "titulo": "Passa a Bola",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -985,7 +985,7 @@
       "titulo": "Guarda o Carrinho",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -996,7 +996,7 @@
       "titulo": "Abre o Pote",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1007,7 +1007,7 @@
       "titulo": "Fecha o Pote",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1018,7 +1018,7 @@
       "titulo": "Pega o Patinho",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1029,7 +1029,7 @@
       "titulo": "Põe a Peça",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1040,7 +1040,7 @@
       "titulo": "Toca no Ombro",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1051,7 +1051,7 @@
       "titulo": "Toca no Nariz",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1062,7 +1062,7 @@
       "titulo": "Pega o Pano",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1073,7 +1073,7 @@
       "titulo": "Limpa a Mesa",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1084,7 +1084,7 @@
       "titulo": "Faz o Sol",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1095,7 +1095,7 @@
       "titulo": "Pega a Fruta",
       "dimensao": "Socialização",
       "habilidade": "Segue instruções simples de 1 etapa dadas à turma ou a um grupo.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1106,7 +1106,7 @@
       "titulo": "Tchau, Boneco!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1117,7 +1117,7 @@
       "titulo": "Tchau, na Porta!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1128,7 +1128,7 @@
       "titulo": "Tchau, tchau, Mamãe!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1139,7 +1139,7 @@
       "titulo": "Tchau de Fantoche",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1150,7 +1150,7 @@
       "titulo": "Tchau, tchau, Brinquedo!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1161,7 +1161,7 @@
       "titulo": "Tchau, tchau, Professora!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1172,7 +1172,7 @@
       "titulo": "Tchau, tchau, Ursinho!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1183,7 +1183,7 @@
       "titulo": "Tchau, tchau, Livrinho!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1194,7 +1194,7 @@
       "titulo": "Tchau, tchau, Patinho!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1205,7 +1205,7 @@
       "titulo": "Tchau, tchau, Amiguinho!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1216,7 +1216,7 @@
       "titulo": "Tchau, tchau, Sol!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1227,7 +1227,7 @@
       "titulo": "Tchau, tchau, Lanche!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1238,7 +1238,7 @@
       "titulo": "Tchau, tchau, Cadeira!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1249,7 +1249,7 @@
       "titulo": "Tchau, tchau, Pano!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1260,7 +1260,7 @@
       "titulo": "Tchau, tchau, Bola!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1271,7 +1271,7 @@
       "titulo": "Tchau, tchau, Meia!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1282,7 +1282,7 @@
       "titulo": "Tchau, tchau, Sapato!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1293,7 +1293,7 @@
       "titulo": "Tchau, tchau, Coberta!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1304,7 +1304,7 @@
       "titulo": "Tchau, tchau, Lápis!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1315,7 +1315,7 @@
       "titulo": "Tchau, tchau, Livro de Cores!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1326,7 +1326,7 @@
       "titulo": "Tchau, tchau, Dedo!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1337,7 +1337,7 @@
       "titulo": "Tchau, tchau, Mãozinha!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1348,7 +1348,7 @@
       "titulo": "Tchau, tchau, Luz!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1359,7 +1359,7 @@
       "titulo": "Tchau, tchau, Pote!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1370,7 +1370,7 @@
       "titulo": "Tchau, tchau, Balão!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1381,7 +1381,7 @@
       "titulo": "Tchau, tchau, Carrinho!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1392,7 +1392,7 @@
       "titulo": "Tchau, tchau, Massinha!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1403,7 +1403,7 @@
       "titulo": "Tchau, tchau, Livro!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1414,7 +1414,7 @@
       "titulo": "Tchau, tchau, Bacia!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1425,7 +1425,7 @@
       "titulo": "Tchau, tchau, Cozinha!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1436,7 +1436,7 @@
       "titulo": "Tchau, tchau, Tambor!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1447,7 +1447,7 @@
       "titulo": "Tchau, tchau, Chocalho!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1458,7 +1458,7 @@
       "titulo": "Tchau, tchau, Boneca!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1469,7 +1469,7 @@
       "titulo": "Tchau, tchau, Bloco!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1480,7 +1480,7 @@
       "titulo": "Tchau, tchau, Janela!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1491,7 +1491,7 @@
       "titulo": "Tchau, tchau, Mesa!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1502,7 +1502,7 @@
       "titulo": "Tchau, tchau, Porta!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1513,7 +1513,7 @@
       "titulo": "Tchau, tchau, Escola!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1524,7 +1524,7 @@
       "titulo": "Tchau, tchau, Pássaro!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1535,7 +1535,7 @@
       "titulo": "Tchau, tchau, Cachorro!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1546,7 +1546,7 @@
       "titulo": "Tchau, tchau, Gato!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1557,7 +1557,7 @@
       "titulo": "Tchau, tchau, Sapo!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1568,7 +1568,7 @@
       "titulo": "Tchau, tchau, Peixe!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1579,7 +1579,7 @@
       "titulo": "Tchau, tchau, Elefante!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1590,7 +1590,7 @@
       "titulo": "Tchau, tchau, Leão!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1601,7 +1601,7 @@
       "titulo": "Tchau, tchau, Coelhinho!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1612,7 +1612,7 @@
       "titulo": "Tchau, tchau, Macaco!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1623,7 +1623,7 @@
       "titulo": "Tchau, tchau, Abelha!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1634,7 +1634,7 @@
       "titulo": "Tchau, tchau, Vaca!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1645,7 +1645,7 @@
       "titulo": "Tchau, tchau, Borboleta!",
       "dimensao": "Socialização",
       "habilidade": "Despede-se ao sair de um ambiente ou ao ir embora de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1656,7 +1656,7 @@
       "titulo": "Olá, na Porta!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1667,7 +1667,7 @@
       "titulo": "Dá um Tchau para o Amigo",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1678,7 +1678,7 @@
       "titulo": "Tchau de Fantoche",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1689,7 +1689,7 @@
       "titulo": "Olá, Boneco!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1700,7 +1700,7 @@
       "titulo": "Tchau, tchau, Mamãe!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1711,7 +1711,7 @@
       "titulo": "Olá, na Canção!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1722,7 +1722,7 @@
       "titulo": "Tchau, tchau, Brinquedo!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1733,7 +1733,7 @@
       "titulo": "Dá um Toca Aqui",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1744,7 +1744,7 @@
       "titulo": "Olá, na Roda!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1755,7 +1755,7 @@
       "titulo": "Tchau, tchau, Professora!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1766,7 +1766,7 @@
       "titulo": "Olá, na Foto!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1777,7 +1777,7 @@
       "titulo": "Tchau, tchau, Lanche!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1788,7 +1788,7 @@
       "titulo": "Olá, Balão!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1799,7 +1799,7 @@
       "titulo": "Tchau, tchau, Livrinho!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1810,7 +1810,7 @@
       "titulo": "Olá, no Espelho!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1821,7 +1821,7 @@
       "titulo": "Dá um Tchau para a Turma",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1832,7 +1832,7 @@
       "titulo": "Olá, na Mesa!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1843,7 +1843,7 @@
       "titulo": "Tchau, tchau, Ursinho!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1854,7 +1854,7 @@
       "titulo": "Olá, para a Mãe de um Amigo",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1865,7 +1865,7 @@
       "titulo": "Tchau, tchau, Patinho!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1876,7 +1876,7 @@
       "titulo": "Olá, no Lanche!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1887,7 +1887,7 @@
       "titulo": "Tchau, tchau, Lápis!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1898,7 +1898,7 @@
       "titulo": "Olá, para o Colega!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1909,7 +1909,7 @@
       "titulo": "Tchau, tchau, Coberta!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1920,7 +1920,7 @@
       "titulo": "Olá, para o Cachorro!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1931,7 +1931,7 @@
       "titulo": "Tchau, tchau, Gato!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1942,7 +1942,7 @@
       "titulo": "Olá, para o Sapo!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1953,7 +1953,7 @@
       "titulo": "Tchau, tchau, Peixe!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1964,7 +1964,7 @@
       "titulo": "Olá, para a Vaca!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1975,7 +1975,7 @@
       "titulo": "Tchau, tchau, Elefante!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1986,7 +1986,7 @@
       "titulo": "Olá, para a Borboleta!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -1997,7 +1997,7 @@
       "titulo": "Tchau, tchau, Macaco!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2008,7 +2008,7 @@
       "titulo": "Olá, para o Leão!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2019,7 +2019,7 @@
       "titulo": "Tchau, tchau, Carrinho!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2030,7 +2030,7 @@
       "titulo": "Olá, para a Bola!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2041,7 +2041,7 @@
       "titulo": "Tchau, tchau, Massinha!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2052,7 +2052,7 @@
       "titulo": "Olá, para a Boneca!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2063,7 +2063,7 @@
       "titulo": "Tchau, tchau, Bloco!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2074,7 +2074,7 @@
       "titulo": "Olá, para a Árvore!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2085,7 +2085,7 @@
       "titulo": "Tchau, tchau, Chuva!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2096,7 +2096,7 @@
       "titulo": "Olá, para o Sol!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2107,7 +2107,7 @@
       "titulo": "Tchau, tchau, Céu!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2118,7 +2118,7 @@
       "titulo": "Olá, para o Pato!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2129,7 +2129,7 @@
       "titulo": "Tchau, tchau, Pano!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2140,7 +2140,7 @@
       "titulo": "Olá, para a Música!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2151,7 +2151,7 @@
       "titulo": "Tchau, tchau, Som!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2162,7 +2162,7 @@
       "titulo": "Olá, para o Brinquedo Novo!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2173,7 +2173,7 @@
       "titulo": "Tchau, tchau, Brinquedo Velho!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2184,7 +2184,7 @@
       "titulo": "Olá, para a Luz!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2195,7 +2195,7 @@
       "titulo": "Tchau, tchau, Escuro!",
       "dimensao": "Socialização",
       "habilidade": "Cumprimenta os(as) professores(as) e amigos(as) dizendo “oi” ou acenando de forma independente.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2206,7 +2206,7 @@
       "titulo": "Abre o Pote",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2217,7 +2217,7 @@
       "titulo": "A Torre de Blocos",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2228,7 +2228,7 @@
       "titulo": "O Carrinho Preso",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2239,7 +2239,7 @@
       "titulo": "Pega o Brinquedo Alto",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2250,7 +2250,7 @@
       "titulo": "O Quebra-Cabeça Difícil",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2261,7 +2261,7 @@
       "titulo": "A Garrafa Sensorial",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2272,7 +2272,7 @@
       "titulo": "O Livro Virado",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2283,7 +2283,7 @@
       "titulo": "O Chocalho Escondido",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2294,7 +2294,7 @@
       "titulo": "O Brinquedo com Corda",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2305,7 +2305,7 @@
       "titulo": "O Balde Pesado",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2316,7 +2316,7 @@
       "titulo": "O Túnel de Cobertor",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2327,7 +2327,7 @@
       "titulo": "A Porta de Papel",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2338,7 +2338,7 @@
       "titulo": "A Bolha de Sabão Presa",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2349,7 +2349,7 @@
       "titulo": "A Boneca Vestida",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2360,7 +2360,7 @@
       "titulo": "A Tampa da Caixa",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2371,7 +2371,7 @@
       "titulo": "O Saco de Surpresas",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2382,7 +2382,7 @@
       "titulo": "O Lápis Curto",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2393,7 +2393,7 @@
       "titulo": "A Fita Adesiva",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2404,7 +2404,7 @@
       "titulo": "O Telefone Sem Fio",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2415,7 +2415,7 @@
       "titulo": "O Bloquinho Caiu",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2426,7 +2426,7 @@
       "titulo": "O Balde Virado",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2437,7 +2437,7 @@
       "titulo": "O Pão Escondido",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2448,7 +2448,7 @@
       "titulo": "O Livro Pesado",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2459,7 +2459,7 @@
       "titulo": "A Brincadeira da Bola",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2470,7 +2470,7 @@
       "titulo": "A Brincadeira de Chaves",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2481,7 +2481,7 @@
       "titulo": "O Balão no Teto",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2492,7 +2492,7 @@
       "titulo": "O Fantoche Preso",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2503,7 +2503,7 @@
       "titulo": "A Massinha Dura",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2514,7 +2514,7 @@
       "titulo": "O Chuveiro Desligado",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2525,7 +2525,7 @@
       "titulo": "A Música que Parou",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2536,7 +2536,7 @@
       "titulo": "O Pote com Água",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2547,7 +2547,7 @@
       "titulo": "A Brincadeira do Esconderijo",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2558,7 +2558,7 @@
       "titulo": "O Robô sem Bateria",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2569,7 +2569,7 @@
       "titulo": "O Zíper Difícil",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2580,7 +2580,7 @@
       "titulo": "A Coberta no Chão",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2591,7 +2591,7 @@
       "titulo": "O Brinquedo que Sumiu",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2602,7 +2602,7 @@
       "titulo": "O Quebra-cabeça de Várias Peças",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2613,7 +2613,7 @@
       "titulo": "A Brincadeira do Cinto",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2624,7 +2624,7 @@
       "titulo": "O Brinquedo Alto",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2635,7 +2635,7 @@
       "titulo": "A Torre que Quebrou",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2646,7 +2646,7 @@
       "titulo": "O Balde Vazio",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2657,7 +2657,7 @@
       "titulo": "O Brinquedo com Corda Enrolada",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2668,7 +2668,7 @@
       "titulo": "A Cesta de Brinquedos",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2679,7 +2679,7 @@
       "titulo": "O Jogo de Botões",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2690,7 +2690,7 @@
       "titulo": "A Brincadeira de Pano",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2701,7 +2701,7 @@
       "titulo": "O Livro no Chão",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2712,7 +2712,7 @@
       "titulo": "A Brincadeira de Esconde-Esconde",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2723,7 +2723,7 @@
       "titulo": "A Bolinha no Pano",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2734,7 +2734,7 @@
       "titulo": "O Pote com Furo",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2745,7 +2745,7 @@
       "titulo": "O Carrinho com Rodas Soltas",
       "dimensao": "Socialização",
       "habilidade": "Pede ajuda para executar ou concluir uma ação simples.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2756,7 +2756,7 @@
       "titulo": "Vamos Brincar com o Carrinho?",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2767,7 +2767,7 @@
       "titulo": "Quer Massinha?",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2778,7 +2778,7 @@
       "titulo": "Pega a Bola!",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2789,7 +2789,7 @@
       "titulo": "Quer Sentar Aqui?",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2800,7 +2800,7 @@
       "titulo": "Olha o Livro!",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2811,7 +2811,7 @@
       "titulo": "Vamos Fazer a Torre?",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2822,7 +2822,7 @@
       "titulo": "Me Dá a Mão!",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2833,7 +2833,7 @@
       "titulo": "Vamos Brincar de Pega-Pega?",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2844,7 +2844,7 @@
       "titulo": "Quer Chocalho?",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2855,7 +2855,7 @@
       "titulo": "Olha o Desenho!",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2866,7 +2866,7 @@
       "titulo": "Vamos Dançar?",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2877,7 +2877,7 @@
       "titulo": "Quer um Abraço?",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2888,7 +2888,7 @@
       "titulo": "Me Ajuda!",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2899,7 +2899,7 @@
       "titulo": "Olha a Borboleta!",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2910,7 +2910,7 @@
       "titulo": "Vamos Fazer o Trem?",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2921,7 +2921,7 @@
       "titulo": "Quer Balão?",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2932,7 +2932,7 @@
       "titulo": "Olha a Surpresa!",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2943,7 +2943,7 @@
       "titulo": "Vamos Brincar na Areia?",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2954,7 +2954,7 @@
       "titulo": "Quer Escova?",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2965,7 +2965,7 @@
       "titulo": "Vamos Brincar com a Água?",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2976,7 +2976,7 @@
       "titulo": "Olha o Gato!",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2987,7 +2987,7 @@
       "titulo": "Vamos Construir?",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -2998,7 +2998,7 @@
       "titulo": "Quer Lápis de Cor?",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3009,7 +3009,7 @@
       "titulo": "Vamos Cantar?",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3020,7 +3020,7 @@
       "titulo": "Olha a Fita!",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3031,7 +3031,7 @@
       "titulo": "Quer Pano?",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3042,7 +3042,7 @@
       "titulo": "Vamos Subir no Escorregador?",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3053,7 +3053,7 @@
       "titulo": "Olha o Carro!",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3064,7 +3064,7 @@
       "titulo": "Vamos Brincar com as Bonecas?",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3075,7 +3075,7 @@
       "titulo": "Quer Boneco?",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3086,7 +3086,7 @@
       "titulo": "Vamos Brincar na Cozinha?",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3097,7 +3097,7 @@
       "titulo": "Olha a Luz!",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3108,7 +3108,7 @@
       "titulo": "Vamos Pular?",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3119,7 +3119,7 @@
       "titulo": "Quer Xícara?",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3130,7 +3130,7 @@
       "titulo": "Vamos Fazer o Carrossel?",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3141,7 +3141,7 @@
       "titulo": "Olha o Chuveiro!",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3152,7 +3152,7 @@
       "titulo": "Vamos Brincar com os Potes?",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3163,7 +3163,7 @@
       "titulo": "Quer o Tambor?",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3174,7 +3174,7 @@
       "titulo": "Vamos Brincar de Estátua?",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3185,7 +3185,7 @@
       "titulo": "Olha o Pé!",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3196,7 +3196,7 @@
       "titulo": "Vamos Brincar de 'Esconde-Esconde'?",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3207,7 +3207,7 @@
       "titulo": "Quer o Livro de Texturas?",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3218,7 +3218,7 @@
       "titulo": "Vamos Andar de Mãos Dadas?",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3229,7 +3229,7 @@
       "titulo": "Olha a Boneca!",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3240,7 +3240,7 @@
       "titulo": "Vamos Fazer a Massinha?",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3251,7 +3251,7 @@
       "titulo": "Quer o Pincel?",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3262,7 +3262,7 @@
       "titulo": "Vamos Correr?",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3273,7 +3273,7 @@
       "titulo": "Olha o Tubo!",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3284,7 +3284,7 @@
       "titulo": "Vamos Brincar de 'Faz de Conta'?",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3295,7 +3295,7 @@
       "titulo": "Quer o Balde?",
       "dimensao": "Socialização",
       "habilidade": "Aceita convites dos(as) amigos(as) para brincar.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3306,7 +3306,7 @@
       "titulo": "Cadê a Professora?",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3317,7 +3317,7 @@
       "titulo": "Quem Chegou?",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3328,7 +3328,7 @@
       "titulo": "Foto do Amiguinho",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3339,7 +3339,7 @@
       "titulo": "A Canção dos Nomes",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3350,7 +3350,7 @@
       "titulo": "Toque no Colega",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3361,7 +3361,7 @@
       "titulo": "Onde está a Professora?",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3372,7 +3372,7 @@
       "titulo": "Boneco com Nome",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3383,7 +3383,7 @@
       "titulo": "A Boneca que fala",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3394,7 +3394,7 @@
       "titulo": "Ligue os Nomes",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3405,7 +3405,7 @@
       "titulo": "Faz o 'Tchau'",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3416,7 +3416,7 @@
       "titulo": "Quem é o Amiguinho?",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3427,7 +3427,7 @@
       "titulo": "O Jogo das Cadeiras",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3438,7 +3438,7 @@
       "titulo": "Quem está com a Bola?",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3449,7 +3449,7 @@
       "titulo": "A Canção da Roda",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3460,7 +3460,7 @@
       "titulo": "Dá a Mão",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3471,7 +3471,7 @@
       "titulo": "O Jogo do Espelho",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3482,7 +3482,7 @@
       "titulo": "O Lanche com Nome",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3493,7 +3493,7 @@
       "titulo": "A Mochila do Amiguinho",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3504,7 +3504,7 @@
       "titulo": "Quem está em Pé?",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3515,7 +3515,7 @@
       "titulo": "O Jogo do 'Esconde-Esconde'",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3526,7 +3526,7 @@
       "titulo": "O Desenho do Amiguinho",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3537,7 +3537,7 @@
       "titulo": "O Brinquedo do Amigo",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3548,7 +3548,7 @@
       "titulo": "Faz o 'Toca Aqui'",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3559,7 +3559,7 @@
       "titulo": "O Fantoche que Fala",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3570,7 +3570,7 @@
       "titulo": "O Abraço do Amigo",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3581,7 +3581,7 @@
       "titulo": "Faz o 'Tchuf-Tchuf'",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3592,7 +3592,7 @@
       "titulo": "O Carrinho que Roda",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3603,7 +3603,7 @@
       "titulo": "Quem está Chorando?",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3614,7 +3614,7 @@
       "titulo": "O Quebra-Cabeça",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3625,7 +3625,7 @@
       "titulo": "A Canção do Nome",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3636,7 +3636,7 @@
       "titulo": "Quem está Escondido?",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3647,7 +3647,7 @@
       "titulo": "O Jogo do Espelho",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3658,7 +3658,7 @@
       "titulo": "O Jogo da Bola",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3669,7 +3669,7 @@
       "titulo": "O Cantinho dos Nomes",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3680,7 +3680,7 @@
       "titulo": "O Livro do Grupo",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3691,7 +3691,7 @@
       "titulo": "O Jogo dos Chapéus",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3702,7 +3702,7 @@
       "titulo": "Quem está na Janela?",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3713,7 +3713,7 @@
       "titulo": "O Jogo da Massinha",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3724,7 +3724,7 @@
       "titulo": "O Jogo da Música",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3735,7 +3735,7 @@
       "titulo": "A Brincadeira do Pano",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3746,7 +3746,7 @@
       "titulo": "O Brinquedo Falante",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3757,7 +3757,7 @@
       "titulo": "O Jogo do Dedo",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3768,7 +3768,7 @@
       "titulo": "A Festa dos Nomes",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3779,7 +3779,7 @@
       "titulo": "O Jogo do Telefone",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3790,7 +3790,7 @@
       "titulo": "O Carrinho com Nome",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3801,7 +3801,7 @@
       "titulo": "Quem está Sentado?",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3812,7 +3812,7 @@
       "titulo": "A Canção do Beijo",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3823,7 +3823,7 @@
       "titulo": "O Jogo do Abraço",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3834,7 +3834,7 @@
       "titulo": "O Jogo da Mímica",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3845,7 +3845,7 @@
       "titulo": "O Jogo do Espelho Mágico",
       "dimensao": "Socialização",
       "habilidade": "Identifica professores(as) ou colegas e sabe dizer seus nomes.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3856,7 +3856,7 @@
       "titulo": "Espelho das Emoções",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3867,7 +3867,7 @@
       "titulo": "O Ursinho Feliz",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3878,7 +3878,7 @@
       "titulo": "Música das Emoções",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3889,7 +3889,7 @@
       "titulo": "Livro das Caretas",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3900,7 +3900,7 @@
       "titulo": "Desenho das Emoções",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3911,7 +3911,7 @@
       "titulo": "Balão Feliz",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3922,7 +3922,7 @@
       "titulo": "Faz de Conta com a Boneca",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3933,7 +3933,7 @@
       "titulo": "A Máscara Mágica",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3944,7 +3944,7 @@
       "titulo": "O Gato Assustado",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3955,7 +3955,7 @@
       "titulo": "A Sombra Feliz",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3966,7 +3966,7 @@
       "titulo": "Brincando com a Massinha",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3977,7 +3977,7 @@
       "titulo": "O Cachorro Bravo",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3988,7 +3988,7 @@
       "titulo": "O Pote da Alegria",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -3999,7 +3999,7 @@
       "titulo": "A Canção da Alegria",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4010,7 +4010,7 @@
       "titulo": "O Espelho que Responde",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4021,7 +4021,7 @@
       "titulo": "O Pano das Emoções",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4032,7 +4032,7 @@
       "titulo": "O Jogo do Abraço",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4043,7 +4043,7 @@
       "titulo": "O Livro do Choro",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4054,7 +4054,7 @@
       "titulo": "O Barulho Assustado",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4065,7 +4065,7 @@
       "titulo": "O Sol Feliz",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4076,7 +4076,7 @@
       "titulo": "A Chuva Triste",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4087,7 +4087,7 @@
       "titulo": "O Grito da Felicidade",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4098,7 +4098,7 @@
       "titulo": "A Voz da Emoção",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4109,7 +4109,7 @@
       "titulo": "O Sapo Feliz",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4120,7 +4120,7 @@
       "titulo": "O Ursinho com Sono",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4131,7 +4131,7 @@
       "titulo": "O Jogo da Mímica",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4142,7 +4142,7 @@
       "titulo": "O Livro das Caretas",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4153,7 +4153,7 @@
       "titulo": "A Massinha das Emoções",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4164,7 +4164,7 @@
       "titulo": "O Jogo do Espelho Mágico",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4175,7 +4175,7 @@
       "titulo": "O Pincel da Emoção",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4186,7 +4186,7 @@
       "titulo": "A Caixa da Surpresa",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4197,7 +4197,7 @@
       "titulo": "A Canção da Raiva",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4208,7 +4208,7 @@
       "titulo": "O Livro do Abraço",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4219,7 +4219,7 @@
       "titulo": "O Jogo do 'Não Quero!'",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4230,7 +4230,7 @@
       "titulo": "A História do Cachorro",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4241,7 +4241,7 @@
       "titulo": "O Barulho de Assustar",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4252,7 +4252,7 @@
       "titulo": "O Pano do 'Buh!'",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4263,7 +4263,7 @@
       "titulo": "O Livro do Sorriso",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4274,7 +4274,7 @@
       "titulo": "O Jogo do 'Estou com Fome!'",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4285,7 +4285,7 @@
       "titulo": "O Balão Triste",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4296,7 +4296,7 @@
       "titulo": "A Cama com Sono",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4307,7 +4307,7 @@
       "titulo": "O Brinquedo Quebrado",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4318,7 +4318,7 @@
       "titulo": "O Jogo da Ação",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4329,7 +4329,7 @@
       "titulo": "O Espelho do Amiguinho",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4340,7 +4340,7 @@
       "titulo": "A História do Monstro",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4351,7 +4351,7 @@
       "titulo": "O Jogo do 'Puxa o Cabelo!'",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4362,7 +4362,7 @@
       "titulo": "O Livro do Amor",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4373,7 +4373,7 @@
       "titulo": "A Canção do Medo",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4384,7 +4384,7 @@
       "titulo": "O Jogo do 'Estou Cansado!'",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4395,7 +4395,7 @@
       "titulo": "O Fantoche que Chora",
       "dimensao": "Socialização",
       "habilidade": "Reconhece e expressa emoções, próprias ou de outras pessoas.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4406,7 +4406,7 @@
       "titulo": "Não Pode Bater",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4417,7 +4417,7 @@
       "titulo": "Não Pode Jogar",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4428,7 +4428,7 @@
       "titulo": "Não Pode Correr!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4439,7 +4439,7 @@
       "titulo": "Não Pode Puxar!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4450,7 +4450,7 @@
       "titulo": "Não Pode Subir!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4461,7 +4461,7 @@
       "titulo": "Não Pode Morder!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4472,7 +4472,7 @@
       "titulo": "Não Pode Rasgar!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4483,7 +4483,7 @@
       "titulo": "Não Pode Jogar no Chão!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4494,7 +4494,7 @@
       "titulo": "Não Pode Pular!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4505,7 +4505,7 @@
       "titulo": "Não Pode Gritar!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4516,7 +4516,7 @@
       "titulo": "Não Pode Bater no Amigo!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4527,7 +4527,7 @@
       "titulo": "Não Pode Mexer!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4538,7 +4538,7 @@
       "titulo": "Não Pode Chutar!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4549,7 +4549,7 @@
       "titulo": "Não Pode Jogar Água!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4560,7 +4560,7 @@
       "titulo": "Não Pode Comer!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4571,7 +4571,7 @@
       "titulo": "Não Pode Empurrar!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4582,7 +4582,7 @@
       "titulo": "Não Pode Correr na Mesa!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4593,7 +4593,7 @@
       "titulo": "Não Pode Puxar o Cabelo!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4604,7 +4604,7 @@
       "titulo": "Não Pode Subir no Sofá!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4615,7 +4615,7 @@
       "titulo": "Não Pode Morder a Mão!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4626,7 +4626,7 @@
       "titulo": "Não Pode Bater a Porta!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4637,7 +4637,7 @@
       "titulo": "Não Pode Puxar o Pano!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4648,7 +4648,7 @@
       "titulo": "Não Pode Subir na Cama!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4659,7 +4659,7 @@
       "titulo": "Não Pode Bater no Gato!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4670,7 +4670,7 @@
       "titulo": "Não Pode Rasgar o Livro!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4681,7 +4681,7 @@
       "titulo": "Não Pode Gritar com o Amigo!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4692,7 +4692,7 @@
       "titulo": "Não Pode Jogar Comida!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4703,7 +4703,7 @@
       "titulo": "Não Pode Jogar Areia!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4714,7 +4714,7 @@
       "titulo": "Não Pode Chutar a Cadeira!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4725,7 +4725,7 @@
       "titulo": "Não Pode Puxar o Cabelo da Boneca!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4736,7 +4736,7 @@
       "titulo": "Não Pode Bater o Balão!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4747,7 +4747,7 @@
       "titulo": "Não Pode Empurrar o Carrinho!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4758,7 +4758,7 @@
       "titulo": "Não Pode Bater o Brinquedo!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4769,7 +4769,7 @@
       "titulo": "Não Pode Gritar no Brinquedo!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4780,7 +4780,7 @@
       "titulo": "Não Pode Morder a Boneca!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4791,7 +4791,7 @@
       "titulo": "Não Pode Pular no Chão!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4802,7 +4802,7 @@
       "titulo": "Não Pode Correr na Areia!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4813,7 +4813,7 @@
       "titulo": "Não Pode Subir na Mesa!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4824,7 +4824,7 @@
       "titulo": "Não Pode Bater no Brinquedo do Amigo!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4835,7 +4835,7 @@
       "titulo": "Não Pode Morder o Colega!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4846,7 +4846,7 @@
       "titulo": "Não Pode Rasgar a Folha!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4857,7 +4857,7 @@
       "titulo": "Não Pode Gritar na Porta!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4868,7 +4868,7 @@
       "titulo": "Não Pode Chutar a Porta!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4879,7 +4879,7 @@
       "titulo": "Não Pode Pular da Cadeira!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4890,7 +4890,7 @@
       "titulo": "Não Pode Rasgar o Pano!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4901,7 +4901,7 @@
       "titulo": "Não Pode Morder a Roupa!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4912,7 +4912,7 @@
       "titulo": "Não Pode Bater no Chão!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4923,7 +4923,7 @@
       "titulo": "Não Pode Jogar o Sapato!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4934,7 +4934,7 @@
       "titulo": "Não Pode Correr no Corredor!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4945,7 +4945,7 @@
       "titulo": "Não Pode Jogar o Brinquedo!",
       "dimensao": "Socialização",
       "habilidade": "Atende ao comando de “não pode” do(a) professor(a) em situações de risco, interrompendo ou deixando de realizar a ação.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4956,7 +4956,7 @@
       "titulo": "Passa a Bola",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4967,7 +4967,7 @@
       "titulo": "Um de Cada Vez",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4978,7 +4978,7 @@
       "titulo": "Pega o Cubo",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -4989,7 +4989,7 @@
       "titulo": "Dividindo a Massinha",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5000,7 +5000,7 @@
       "titulo": "Passa a Garrafa",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5011,7 +5011,7 @@
       "titulo": "Vai e Volta",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5022,7 +5022,7 @@
       "titulo": "Quebra-cabeça em Equipe",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5033,7 +5033,7 @@
       "titulo": "Cenário Compartilhado",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5044,7 +5044,7 @@
       "titulo": "Pega o Balde",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5055,7 +5055,7 @@
       "titulo": "Passa o Pano",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5066,7 +5066,7 @@
       "titulo": "Hora de Compartilhar",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5077,7 +5077,7 @@
       "titulo": "Um Pincel de Cada Vez",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5088,7 +5088,7 @@
       "titulo": "Dividindo as Bolinhas",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5099,7 +5099,7 @@
       "titulo": "Passa o Livro",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5110,7 +5110,7 @@
       "titulo": "Dá o Abraço",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5121,7 +5121,7 @@
       "titulo": "Colocando e Tirando",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5132,7 +5132,7 @@
       "titulo": "Um de Cada Cor",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5143,7 +5143,7 @@
       "titulo": "Dividindo o Lanche",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5154,7 +5154,7 @@
       "titulo": "Passa a Xícara",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5165,7 +5165,7 @@
       "titulo": "Revezando o Balão",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5176,7 +5176,7 @@
       "titulo": "Dá o Carrinho",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5187,7 +5187,7 @@
       "titulo": "Dividindo a Comida",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5198,7 +5198,7 @@
       "titulo": "Passa a Areia",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5209,7 +5209,7 @@
       "titulo": "Dá o Chapéu",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5220,7 +5220,7 @@
       "titulo": "Passa a Boneca",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5231,7 +5231,7 @@
       "titulo": "Dividindo os Sons",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5242,7 +5242,7 @@
       "titulo": "Um por Um",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5253,7 +5253,7 @@
       "titulo": "Passa a Varinha Mágica",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5264,7 +5264,7 @@
       "titulo": "Dividindo os Livros",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5275,7 +5275,7 @@
       "titulo": "Dá o Rolo",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5286,7 +5286,7 @@
       "titulo": "Revezando o Telefone",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5297,7 +5297,7 @@
       "titulo": "Um para a Professora",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5308,7 +5308,7 @@
       "titulo": "Passa o Chocalho",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5319,7 +5319,7 @@
       "titulo": "Dividindo a Água",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5330,7 +5330,7 @@
       "titulo": "Dá o Quebra-cabeça",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5341,7 +5341,7 @@
       "titulo": "Passa o Pincel",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5352,7 +5352,7 @@
       "titulo": "Dividindo os Bichinhos",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5363,7 +5363,7 @@
       "titulo": "Revezando o Balde",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5374,7 +5374,7 @@
       "titulo": "Dá a Mão",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5385,7 +5385,7 @@
       "titulo": "Dividindo os Panos",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5396,7 +5396,7 @@
       "titulo": "Passa o Pote",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5407,7 +5407,7 @@
       "titulo": "Dividindo as Tampinhas",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5418,7 +5418,7 @@
       "titulo": "Revezando o Brinquedo Musical",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5429,7 +5429,7 @@
       "titulo": "Dá o Abraço no Amigo",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5440,7 +5440,7 @@
       "titulo": "Dividindo o Papel",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5451,7 +5451,7 @@
       "titulo": "Passa o Sapato da Boneca",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5462,7 +5462,7 @@
       "titulo": "Dividindo a Roupa da Boneca",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5473,7 +5473,7 @@
       "titulo": "Revezando a Escova",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5484,7 +5484,7 @@
       "titulo": "Dá o Chaveiro",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   },
@@ -5495,7 +5495,7 @@
       "titulo": "Dividindo o Lenço",
       "dimensao": "Socialização",
       "habilidade": "Compartilha/reveza brinquedos e outros itens favoritos quando lembrado ou incentivado por um adulto.",
-      "nivel": "Nível 3",
+      "nivel_autismo": "Nível 3",
       "idade": "2 a 3 anos"
     }
   }

@@ -6,7 +6,7 @@
       "titulo": "O Detetive de Abas",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -17,7 +17,7 @@
       "titulo": "A Cesta de Tesouros da História",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -28,7 +28,7 @@
       "titulo": "O Teatro de Fantoches",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -39,7 +39,7 @@
       "titulo": "O Corpo Conta a História",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -50,7 +50,7 @@
       "titulo": "O Soundtrack da Criança",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -61,7 +61,7 @@
       "titulo": "A Exploração Sensorial do Livro",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -72,7 +72,7 @@
       "titulo": "A História na Areia",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -83,7 +83,7 @@
       "titulo": "A Leitura com Lanterna",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -94,7 +94,7 @@
       "titulo": "O Livro Pop-Up Mágico",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -105,7 +105,7 @@
       "titulo": "A Caça ao Urso na Sala",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -116,7 +116,7 @@
       "titulo": "O Livro Personalizado",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -127,7 +127,7 @@
       "titulo": "A História com Pausas",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -138,7 +138,7 @@
       "titulo": "O Dedo Viajante",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -149,7 +149,7 @@
       "titulo": "O Cenário de Feltro",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -160,7 +160,7 @@
       "titulo": "A História na Janela",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -171,7 +171,7 @@
       "titulo": "A Chuva de Borrifador",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -182,7 +182,7 @@
       "titulo": "O Quebra-cabeça da História",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -193,7 +193,7 @@
       "titulo": "A Música da História",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -204,7 +204,7 @@
       "titulo": "O Cheirinho da História",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -215,7 +215,7 @@
       "titulo": "A Leitura na Cabana",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -226,7 +226,7 @@
       "titulo": "O Dado Contador de Histórias",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -237,7 +237,7 @@
       "titulo": "A Leitura Reversa",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -248,7 +248,7 @@
       "titulo": "O Jogo do \"Ache o Detalhe\"",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -259,7 +259,7 @@
       "titulo": "O Eco da Leitura",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -270,7 +270,7 @@
       "titulo": "O Teatro de Sombras",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -281,7 +281,7 @@
       "titulo": "A Massinha da História",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -292,7 +292,7 @@
       "titulo": "O Lanche Temático",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -303,7 +303,7 @@
       "titulo": "A Leitura em Dupla",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -314,7 +314,7 @@
       "titulo": "O Mapa do Tesouro",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -325,7 +325,7 @@
       "titulo": "A Voz dos Personagens",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -336,7 +336,7 @@
       "titulo": "A História em Loop",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -347,7 +347,7 @@
       "titulo": "O Brinquedo Protagonista",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -358,7 +358,7 @@
       "titulo": "A História Adesiva",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -369,7 +369,7 @@
       "titulo": "O Carimbo da História",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -380,7 +380,7 @@
       "titulo": "A Leitura Compartilhada",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -391,7 +391,7 @@
       "titulo": "A Sequência de Figuras",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -402,7 +402,7 @@
       "titulo": "O Figurino da História",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -413,7 +413,7 @@
       "titulo": "A Pergunta Mágica",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -424,7 +424,7 @@
       "titulo": "A História no Tablet",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -435,7 +435,7 @@
       "titulo": "O Gravador de Voz",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -446,7 +446,7 @@
       "titulo": "A História na Mesa de Luz",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -457,7 +457,7 @@
       "titulo": "A Construção da Cena",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -468,7 +468,7 @@
       "titulo": "A História Cantada",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -479,7 +479,7 @@
       "titulo": "O Jogo do \"O que acontece depois?\"",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -490,7 +490,7 @@
       "titulo": "A História com Expressões Faciais",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -501,7 +501,7 @@
       "titulo": "O \"Rewind\" da História",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -512,7 +512,7 @@
       "titulo": "A História dos Dedoches",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -523,7 +523,7 @@
       "titulo": "A Troca de Papéis",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -534,7 +534,7 @@
       "titulo": "A História com Final Surpresa",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -545,7 +545,7 @@
       "titulo": "O Contador de Páginas",
       "dimensao": "Linguagem",
       "habilidade": "Consegue prestar atenção a uma história lida por cerca de 5 minutos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -556,7 +556,7 @@
       "titulo": "A Assinatura do Artista",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -567,7 +567,7 @@
       "titulo": "A Ficha do Paciente",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -578,7 +578,7 @@
       "titulo": "O Jingle do Nome Completo",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -589,7 +589,7 @@
       "titulo": "A Senha da Cabana Secreta",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -600,7 +600,7 @@
       "titulo": "O Diploma de Campeão",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -611,7 +611,7 @@
       "titulo": "A Entrevista com o Famoso",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -622,7 +622,7 @@
       "titulo": "Missão Espacial: Identificação",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -633,7 +633,7 @@
       "titulo": "O Chamado do Rei",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -644,7 +644,7 @@
       "titulo": "O Documento de Identidade de Brinquedo",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -655,7 +655,7 @@
       "titulo": "O Crachá do Evento",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -666,7 +666,7 @@
       "titulo": "O Baú do Tesouro",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -677,7 +677,7 @@
       "titulo": "O Livro Pessoal",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -688,7 +688,7 @@
       "titulo": "O Rap do Nome",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -699,7 +699,7 @@
       "titulo": "A Apresentação no Palco",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -710,7 +710,7 @@
       "titulo": "O Atleta Olímpico",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -721,7 +721,7 @@
       "titulo": "O Agente Secreto 00[Nome]",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -732,7 +732,7 @@
       "titulo": "A Passagem de Avião",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -743,7 +743,7 @@
       "titulo": "O Chefe de Cozinha",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -754,7 +754,7 @@
       "titulo": "O Construtor da Cidade",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -765,7 +765,7 @@
       "titulo": "O Pedido na Biblioteca",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -776,7 +776,7 @@
       "titulo": "O Eco da Montanha",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -787,7 +787,7 @@
       "titulo": "A Canção da Família",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -798,7 +798,7 @@
       "titulo": "O Desafio do Robô",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -809,7 +809,7 @@
       "titulo": "A Lista de Convidados",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -820,7 +820,7 @@
       "titulo": "O Gravador de Voz",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -831,7 +831,7 @@
       "titulo": "O Herói da História",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -842,7 +842,7 @@
       "titulo": "O Porteiro do Castelo",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -853,7 +853,7 @@
       "titulo": "O Visto no Passaporte",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -864,7 +864,7 @@
       "titulo": "A Entrega Especial",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -875,7 +875,7 @@
       "titulo": "O Certificado de Coragem",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -886,7 +886,7 @@
       "titulo": "A Chamada Oficial",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -897,7 +897,7 @@
       "titulo": "O Desejo para o Gênio",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -908,7 +908,7 @@
       "titulo": "A Placa de \"Funcionário do Mês\"",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -919,7 +919,7 @@
       "titulo": "A Apólice de Seguro de Brinquedo",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -930,7 +930,7 @@
       "titulo": "O Teste de Super-herói",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -941,7 +941,7 @@
       "titulo": "A Composição da Turma",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -952,7 +952,7 @@
       "titulo": "O Locutor de Rádio",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -963,7 +963,7 @@
       "titulo": "O Teste de Visão",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -974,7 +974,7 @@
       "titulo": "A Cadeira do Chefe",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -985,7 +985,7 @@
       "titulo": "A Mensagem na Garrafa",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -996,7 +996,7 @@
       "titulo": "O Bilhete de Trem",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1007,7 +1007,7 @@
       "titulo": "O Repórter Fotográfico",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1018,7 +1018,7 @@
       "titulo": "O Caçador de Autógrafos",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1029,7 +1029,7 @@
       "titulo": "O Testemunho no Tribunal",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1040,7 +1040,7 @@
       "titulo": "A Reserva no Restaurante",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1051,7 +1051,7 @@
       "titulo": "O Concurso de Talentos",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1062,7 +1062,7 @@
       "titulo": "A Matrícula da Escola",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1073,7 +1073,7 @@
       "titulo": "O Capitão do Navio",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1084,7 +1084,7 @@
       "titulo": "O Piloto do Avião",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1095,7 +1095,7 @@
       "titulo": "O Pedido da Pizza",
       "dimensao": "Linguagem",
       "habilidade": "Diz seu nome completo quando alguém pergunta.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1106,7 +1106,7 @@
       "titulo": "O Segredo da Colher",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1117,7 +1117,7 @@
       "titulo": "O Risco no Papel",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1128,7 +1128,7 @@
       "titulo": "A Mágica do Sabão",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1139,7 +1139,7 @@
       "titulo": "O Chute Poderoso",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1150,7 +1150,7 @@
       "titulo": "A Torre Alta",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1161,7 +1161,7 @@
       "titulo": "O Corte da Massinha",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1172,7 +1172,7 @@
       "titulo": "Abrindo o Pote",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1183,7 +1183,7 @@
       "titulo": "O Som do Tambor",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1194,7 +1194,7 @@
       "titulo": "O Motor do Carrinho",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1205,7 +1205,7 @@
       "titulo": "Bebendo no Copo",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1216,7 +1216,7 @@
       "titulo": "A Leitura Mágica",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1227,7 +1227,7 @@
       "titulo": "O Segredo da Cola",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1238,7 +1238,7 @@
       "titulo": "O Zíper do Casaco",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1249,7 +1249,7 @@
       "titulo": "O Dente Limpinho",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1260,7 +1260,7 @@
       "titulo": "O Canto do Pássaro",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1271,7 +1271,7 @@
       "titulo": "A Massagem Relaxante",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1282,7 +1282,7 @@
       "titulo": "O Balanço no Ar",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1293,7 +1293,7 @@
       "titulo": "Secando a Mão",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1304,7 +1304,7 @@
       "titulo": "Guardando os Brinquedos",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1315,7 +1315,7 @@
       "titulo": "O Cabelo Arrumado",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1326,7 +1326,7 @@
       "titulo": "O Cheiro da Flor",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1337,7 +1337,7 @@
       "titulo": "A Tinta no Dedo",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1348,7 +1348,7 @@
       "titulo": "O \"Toca Aqui\"",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1359,7 +1359,7 @@
       "titulo": "O \"Au Au\" do Cachorro",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1370,7 +1370,7 @@
       "titulo": "A Porta Secreta",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1381,7 +1381,7 @@
       "titulo": "O Rolo de Massinha",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1392,7 +1392,7 @@
       "titulo": "O Sopro da Bolha",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1403,7 +1403,7 @@
       "titulo": "A Construção do Castelo",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1414,7 +1414,7 @@
       "titulo": "O Carimbo Divertido",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1425,7 +1425,7 @@
       "titulo": "A Escada do Escorregador",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1436,7 +1436,7 @@
       "titulo": "O Encaixe do Quebra-cabeça",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1447,7 +1447,7 @@
       "titulo": "A Canção de Ninar",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1458,7 +1458,7 @@
       "titulo": "O \"Tchau\" com a Mão",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1469,7 +1469,7 @@
       "titulo": "O Sabor do Lanche",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1480,7 +1480,7 @@
       "titulo": "A Limpeza da Mesa",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1491,7 +1491,7 @@
       "titulo": "O Rasgo no Papel",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1502,7 +1502,7 @@
       "titulo": "O Abraço de Urso",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1513,7 +1513,7 @@
       "titulo": "A Soneca do Boneco",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1524,7 +1524,7 @@
       "titulo": "O Som do Chocalho",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1535,7 +1535,7 @@
       "titulo": "A Corrida no Pátio",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1546,7 +1546,7 @@
       "titulo": "O Desenho com o Dedo",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1557,7 +1557,7 @@
       "titulo": "A Mola do Brinquedo",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1568,7 +1568,7 @@
       "titulo": "O Calçar da Meia",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1579,7 +1579,7 @@
       "titulo": "O Apagar da Vela",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1590,7 +1590,7 @@
       "titulo": "O \"Miau\" do Gato",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1601,7 +1601,7 @@
       "titulo": "O Barco na Água",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1612,7 +1612,7 @@
       "titulo": "A Abertura do Livro",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1623,7 +1623,7 @@
       "titulo": "O Beijo de Carinho",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1634,7 +1634,7 @@
       "titulo": "A Colagem com Fita",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1645,7 +1645,7 @@
       "titulo": "O Olhar do Pirata",
       "dimensao": "Linguagem",
       "habilidade": "Responde a perguntas simples que começam com “Como…?”, explicando maneiras de fazer algo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1656,7 +1656,7 @@
       "titulo": "O Jogo do \"O Que Fizemos?\"",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1667,7 +1667,7 @@
       "titulo": "A Foto Mágica",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1678,7 +1678,7 @@
       "titulo": "O Detetive do Lanche",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1689,7 +1689,7 @@
       "titulo": "Repórter do Parquinho",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1700,7 +1700,7 @@
       "titulo": "Contando para o Fantoche",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1711,7 +1711,7 @@
       "titulo": "O Desenho da Memória",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1722,7 +1722,7 @@
       "titulo": "O Filme do Dia",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1733,7 +1733,7 @@
       "titulo": "O Objeto Misterioso",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1744,7 +1744,7 @@
       "titulo": "O Mensageiro da Família",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1755,7 +1755,7 @@
       "titulo": "O Livro da Nossa Manhã",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1766,7 +1766,7 @@
       "titulo": "A Canção do que Passou",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1777,7 +1777,7 @@
       "titulo": "A Caixa Vazia",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1788,7 +1788,7 @@
       "titulo": "O Quebra-cabeça da Rotina",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1799,7 +1799,7 @@
       "titulo": "O Visitante Curioso",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1810,7 +1810,7 @@
       "titulo": "A Sequência de Blocos",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1821,7 +1821,7 @@
       "titulo": "A Lembrança do Lanche",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1832,7 +1832,7 @@
       "titulo": "O Diário em Áudio",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1843,7 +1843,7 @@
       "titulo": "A Testemunha Ocular",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1854,7 +1854,7 @@
       "titulo": "O Relatório para o Diretor",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1865,7 +1865,7 @@
       "titulo": "O Mural do \"Eu Fiz!\"",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1876,7 +1876,7 @@
       "titulo": "A Culinária Passo a Passo",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1887,7 +1887,7 @@
       "titulo": "O Jardineiro de Memórias",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1898,7 +1898,7 @@
       "titulo": "O \"Antes e Agora\"",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1909,7 +1909,7 @@
       "titulo": "O Construtor e a Obra",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1920,7 +1920,7 @@
       "titulo": "A Lembrança da Música",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1931,7 +1931,7 @@
       "titulo": "O Roteiro do Passeio",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1942,7 +1942,7 @@
       "titulo": "O Saco de Pistas",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1953,7 +1953,7 @@
       "titulo": "A Previsão do Tempo Invertida",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1964,7 +1964,7 @@
       "titulo": "O \"Replay\" da Ação",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1975,7 +1975,7 @@
       "titulo": "A História do Lanche",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1986,7 +1986,7 @@
       "titulo": "A Roupa Suja",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1997,7 +1997,7 @@
       "titulo": "O Mapa da Sala",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2008,7 +2008,7 @@
       "titulo": "A Escolha do Brinquedo",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2019,7 +2019,7 @@
       "titulo": "O Amigo Visitante",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2030,7 +2030,7 @@
       "titulo": "A Caixa de Correio de Memórias",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2041,7 +2041,7 @@
       "titulo": "O Cheiro da Lembrança",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2052,7 +2052,7 @@
       "titulo": "O Jogo do Contraste",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2063,7 +2063,7 @@
       "titulo": "A Chamada de Vídeo",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2074,7 +2074,7 @@
       "titulo": "O \"Checklist\" da Rotina",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2085,7 +2085,7 @@
       "titulo": "O Que Tinha na Mesa?",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2096,7 +2096,7 @@
       "titulo": "O Pote de Areia",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2107,7 +2107,7 @@
       "titulo": "A Surpresa na Mochila",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2118,7 +2118,7 @@
       "titulo": "O Som da Atividade",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2129,7 +2129,7 @@
       "titulo": "A História do Dodói",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2140,7 +2140,7 @@
       "titulo": "O Pedido Invertido",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2151,7 +2151,7 @@
       "titulo": "A Visita à Cozinha",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2162,7 +2162,7 @@
       "titulo": "A Cesta de Frutas",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2173,7 +2173,7 @@
       "titulo": "O Relatório do Herói",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2184,7 +2184,7 @@
       "titulo": "O Fim do Livro",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2195,7 +2195,7 @@
       "titulo": "A Pista do Jardim",
       "dimensao": "Linguagem",
       "habilidade": "Relata experiências que aconteceram recentemente, contando fatos do dia a dia.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2206,7 +2206,7 @@
       "titulo": "A Missão da Colher",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2217,7 +2217,7 @@
       "titulo": "O Copo Sedento",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2228,7 +2228,7 @@
       "titulo": "O Segredo da Chave",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2239,7 +2239,7 @@
       "titulo": "O Pente Mágico",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2250,7 +2250,7 @@
       "titulo": "A Cadeira do Descanso",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2261,7 +2261,7 @@
       "titulo": "O Super Sabão",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2272,7 +2272,7 @@
       "titulo": "O Lápis Artista",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2283,7 +2283,7 @@
       "titulo": "A Cama da Soneca",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2294,7 +2294,7 @@
       "titulo": "A Bola Saltitante",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2305,7 +2305,7 @@
       "titulo": "O Sapato Protetor",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2316,7 +2316,7 @@
       "titulo": "O Manto da Toalha",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2327,7 +2327,7 @@
       "titulo": "O Livro de Histórias",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2338,7 +2338,7 @@
       "titulo": "O Telefone Falante",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2349,7 +2349,7 @@
       "titulo": "A Vassoura Faxineira",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2360,7 +2360,7 @@
       "titulo": "O Chapéu do Sol",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2371,7 +2371,7 @@
       "titulo": "O Garfo Espetado",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2382,7 +2382,7 @@
       "titulo": "O Prato de Papá",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2393,7 +2393,7 @@
       "titulo": "A Tesoura Recortadora",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2404,7 +2404,7 @@
       "titulo": "O Travesseiro Fofinho",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2415,7 +2415,7 @@
       "titulo": "O Casaco do Frio",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2426,7 +2426,7 @@
       "titulo": "A Mochila dos Segredos",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2437,7 +2437,7 @@
       "titulo": "O Carrinho Veloz",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2448,7 +2448,7 @@
       "titulo": "O Rádio Dançante",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2459,7 +2459,7 @@
       "titulo": "A Luz que Ilumina",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2470,7 +2470,7 @@
       "titulo": "A Escova de Dentes",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2481,7 +2481,7 @@
       "titulo": "O Estetoscópio do Doutor",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2492,7 +2492,7 @@
       "titulo": "O Martelo do Construtor",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2503,7 +2503,7 @@
       "titulo": "O Óculos de Sol",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2514,7 +2514,7 @@
       "titulo": "O \"Uso Errado\" do Pente",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2525,7 +2525,7 @@
       "titulo": "O \"Uso Errado\" da Chave",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2536,7 +2536,7 @@
       "titulo": "O Balde de Areia",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2547,7 +2547,7 @@
       "titulo": "O Controle Remoto",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2558,7 +2558,7 @@
       "titulo": "O Pincel do Pintor",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2569,7 +2569,7 @@
       "titulo": "A Mangueira de Água",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2580,7 +2580,7 @@
       "titulo": "A Cola Grudenta",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2591,7 +2591,7 @@
       "titulo": "O Apito Barulhento",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2602,7 +2602,7 @@
       "titulo": "O Computador de Brinquedo",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2613,7 +2613,7 @@
       "titulo": "O Rodo de Limpeza",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2624,7 +2624,7 @@
       "titulo": "O Espelho Vaidoso",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2635,7 +2635,7 @@
       "titulo": "O Zíper que Fecha",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2646,7 +2646,7 @@
       "titulo": "O Regador Amigo das Plantas",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2657,7 +2657,7 @@
       "titulo": "O Prendedor de Roupa",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2668,7 +2668,7 @@
       "titulo": "A Câmera Fotográfica",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2679,7 +2679,7 @@
       "titulo": "A Fita Adesiva",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2690,7 +2690,7 @@
       "titulo": "O Guarda-Chuva Protetor",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2701,7 +2701,7 @@
       "titulo": "O Berço da Boneca",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2712,7 +2712,7 @@
       "titulo": "A Panela do Chef",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2723,7 +2723,7 @@
       "titulo": "O Ralador de Massinha",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2734,7 +2734,7 @@
       "titulo": "O Rolo de Macarrão",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2745,7 +2745,7 @@
       "titulo": "O Cobertor Quentinho",
       "dimensao": "Linguagem",
       "habilidade": "Explica para que servem objetos comuns.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2756,7 +2756,7 @@
       "titulo": "A Caixa do \"O\" e a Caixa da \"A\"",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2767,7 +2767,7 @@
       "titulo": "O Lanche Sonoro",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2778,7 +2778,7 @@
       "titulo": "O Chef e a Cozinha",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2789,7 +2789,7 @@
       "titulo": "O Menino e a Menina",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2800,7 +2800,7 @@
       "titulo": "Eu Espio com Meu Olhinho",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2811,7 +2811,7 @@
       "titulo": "O Caçador de Objetos",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2822,7 +2822,7 @@
       "titulo": "O que está Faltando?",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2833,7 +2833,7 @@
       "titulo": "O Varal dos Gêneros",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2844,7 +2844,7 @@
       "titulo": "A Mala de Viagem",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2855,7 +2855,7 @@
       "titulo": "O Desenho Misterioso",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2866,7 +2866,7 @@
       "titulo": "O Jogo do \"Me Dá\"",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2877,7 +2877,7 @@
       "titulo": "O Supermercado de Brinquedo",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2888,7 +2888,7 @@
       "titulo": "A Cesta de Piquenique",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2899,7 +2899,7 @@
       "titulo": "A Garagem e a Casinha",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2910,7 +2910,7 @@
       "titulo": "O Livro de Figuras",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2921,7 +2921,7 @@
       "titulo": "O Jogo da Memória de Pares",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2932,7 +2932,7 @@
       "titulo": "O Quebra-cabeça de Encaixe",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2943,7 +2943,7 @@
       "titulo": "A Fantasia do Dia",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2954,7 +2954,7 @@
       "titulo": "A Fazenda de Brinquedo",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2965,7 +2965,7 @@
       "titulo": "O Doutor e a Doutora",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2976,7 +2976,7 @@
       "titulo": "A Rotina do Banho",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2987,7 +2987,7 @@
       "titulo": "O Som dos Objetos",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2998,7 +2998,7 @@
       "titulo": "O Presente Surpresa",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3009,7 +3009,7 @@
       "titulo": "O Jogo do Contrário",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3020,7 +3020,7 @@
       "titulo": "A Canção dos Artigos",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3031,7 +3031,7 @@
       "titulo": "O Corpo Humano",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3042,7 +3042,7 @@
       "titulo": "O Tesouro na Areia",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3053,7 +3053,7 @@
       "titulo": "A Rotina da Alimentação",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3064,7 +3064,7 @@
       "titulo": "O Passeio no Parque",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3075,7 +3075,7 @@
       "titulo": "O Jogo do \"Siga o Mestre\"",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3086,7 +3086,7 @@
       "titulo": "O Teatro de Fantoches",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3097,7 +3097,7 @@
       "titulo": "A Loja de Brinquedos",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3108,7 +3108,7 @@
       "titulo": "A Orquestra da Sala",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3119,7 +3119,7 @@
       "titulo": "O Carteiro Chegou",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3130,7 +3130,7 @@
       "titulo": "O Jogo das Sombras",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3141,7 +3141,7 @@
       "titulo": "A Previsão do Tempo",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3152,7 +3152,7 @@
       "titulo": "O Jogo do Ímã",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3163,7 +3163,7 @@
       "titulo": "O Álbum de Animais",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3174,7 +3174,7 @@
       "titulo": "A Culinária de Mentirinha",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3185,7 +3185,7 @@
       "titulo": "O Desfile de Roupas",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3196,7 +3196,7 @@
       "titulo": "A Abertura dos Potes",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3207,7 +3207,7 @@
       "titulo": "O Que Tem na Sacola?",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3218,7 +3218,7 @@
       "titulo": "A Construção da Cidade",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3229,7 +3229,7 @@
       "titulo": "A Rotina de Dormir",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3240,7 +3240,7 @@
       "titulo": "O Jogo do Dado",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3251,7 +3251,7 @@
       "titulo": "O Piquenique dos Bonecos",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3262,7 +3262,7 @@
       "titulo": "O Banho dos Carrinhos",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3273,7 +3273,7 @@
       "titulo": "A Corrida dos Bichos",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3284,7 +3284,7 @@
       "titulo": "O Guarda-Roupa Organizado",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3295,7 +3295,7 @@
       "titulo": "O Jogo do \"Meu\" e \"Minha\"",
       "dimensao": "Linguagem",
       "habilidade": "Usa corretamente palavras no gênero masculino e feminino ao falar.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3306,7 +3306,7 @@
       "titulo": "O Jogo do \"Primeiro, Depois\"",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3317,7 +3317,7 @@
       "titulo": "A Missão do Sapato",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3328,7 +3328,7 @@
       "titulo": "O Lanche em Duas Etapas",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3339,7 +3339,7 @@
       "titulo": "O Desenho Mágico",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3350,7 +3350,7 @@
       "titulo": "A Soneca da Boneca",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3361,7 +3361,7 @@
       "titulo": "Mãos Limpas e Secas",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3372,7 +3372,7 @@
       "titulo": "A Viagem do Carrinho",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3383,7 +3383,7 @@
       "titulo": "A Colagem Brilhante",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3394,7 +3394,7 @@
       "titulo": "Pula e Bate",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3405,7 +3405,7 @@
       "titulo": "A Aventura no Parquinho",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3416,7 +3416,7 @@
       "titulo": "A Foto-Sequência",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3427,7 +3427,7 @@
       "titulo": "Abrir e Fechar",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3438,7 +3438,7 @@
       "titulo": "O Supermercado Rápido",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3449,7 +3449,7 @@
       "titulo": "O Banho do Cachorrinho",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3460,7 +3460,7 @@
       "titulo": "O Piquenique dos Ursos",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3471,7 +3471,7 @@
       "titulo": "A Jardinagem Simples",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3482,7 +3482,7 @@
       "titulo": "Montando o Quebra-cabeça",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3493,7 +3493,7 @@
       "titulo": "A Carta para a Mamãe",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3504,7 +3504,7 @@
       "titulo": "O Guarda-Roupa Organizado",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3515,7 +3515,7 @@
       "titulo": "O Jogo da Chave",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3526,7 +3526,7 @@
       "titulo": "A Rotina da Manhã",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3537,7 +3537,7 @@
       "titulo": "O Desafio do Copo",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3548,7 +3548,7 @@
       "titulo": "O Som e a Ação",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3559,7 +3559,7 @@
       "titulo": "A Receita do Suco",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3570,7 +3570,7 @@
       "titulo": "A Limpeza do Brinquedo",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3581,7 +3581,7 @@
       "titulo": "O Doutor e o Paciente",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3592,7 +3592,7 @@
       "titulo": "O Acampamento na Sala",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3603,7 +3603,7 @@
       "titulo": "O Fantoche e a História",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3614,7 +3614,7 @@
       "titulo": "O Ciclo da Semente",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3625,7 +3625,7 @@
       "titulo": "O Sorvete de Mentirinha",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3636,7 +3636,7 @@
       "titulo": "O Cabelo da Boneca",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3647,7 +3647,7 @@
       "titulo": "A Corrida de Obstáculos",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3658,7 +3658,7 @@
       "titulo": "O Boliche Divertido",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3669,7 +3669,7 @@
       "titulo": "O Pintor de Paredes",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3680,7 +3680,7 @@
       "titulo": "O Mergulho do Peixe",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3691,7 +3691,7 @@
       "titulo": "O Pássaro no Ninho",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3702,7 +3702,7 @@
       "titulo": "O Sanduíche de Massinha",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3713,7 +3713,7 @@
       "titulo": "A Troca de Roupa do Boneco",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3724,7 +3724,7 @@
       "titulo": "O Carimbo Mágico",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3735,7 +3735,7 @@
       "titulo": "A Pescaria no Lago",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3746,7 +3746,7 @@
       "titulo": "O Segredo da Massagem",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3757,7 +3757,7 @@
       "titulo": "A Despedida do Sol",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3768,7 +3768,7 @@
       "titulo": "O Presente Escondido",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3779,7 +3779,7 @@
       "titulo": "O Ciclo da Borboleta",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3790,7 +3790,7 @@
       "titulo": "O Atleta Completo",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3801,7 +3801,7 @@
       "titulo": "A Construção e a Destruição",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3812,7 +3812,7 @@
       "titulo": "O Pedido no Restaurante",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3823,7 +3823,7 @@
       "titulo": "O Plantio da Flor",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3834,7 +3834,7 @@
       "titulo": "O Envio da Carta",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3845,7 +3845,7 @@
       "titulo": "A História em Fotos",
       "dimensao": "Linguagem",
       "habilidade": "Conta 2 acontecimentos em sequência, respeitando a ordem em que ocorreram.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3856,7 +3856,7 @@
       "titulo": "O Bloco do Topo",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3867,7 +3867,7 @@
       "titulo": "A Base da Torre",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3878,7 +3878,7 @@
       "titulo": "A Aventura no Escorregador",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3889,7 +3889,7 @@
       "titulo": "Da Cabeça aos Pés",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3900,7 +3900,7 @@
       "titulo": "O Céu e a Terra de Adesivos",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3911,7 +3911,7 @@
       "titulo": "A Garagem de Cima e de Baixo",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3922,7 +3922,7 @@
       "titulo": "O Macaco na Árvore",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3933,7 +3933,7 @@
       "titulo": "A Minhoca na Terra",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3944,7 +3944,7 @@
       "titulo": "O Livro na Estante",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3955,7 +3955,7 @@
       "titulo": "A Torre de Pratos",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3966,7 +3966,7 @@
       "titulo": "O Chapéu e o Sapato",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3977,7 +3977,7 @@
       "titulo": "Pintando o Quadro",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3988,7 +3988,7 @@
       "titulo": "Enchendo o Copo",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3999,7 +3999,7 @@
       "titulo": "O Quebra-cabeça Vertical",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4010,7 +4010,7 @@
       "titulo": "O Sol e as Raízes",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4021,7 +4021,7 @@
       "titulo": "O Carimbo Mágico",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4032,7 +4032,7 @@
       "titulo": "O Trem Beliche",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4043,7 +4043,7 @@
       "titulo": "O Sanduíche de Andares",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4054,7 +4054,7 @@
       "titulo": "A Janela do Prédio",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4065,7 +4065,7 @@
       "titulo": "O Jogo do \"Siga o Mestre\"",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4076,7 +4076,7 @@
       "titulo": "O Avião e o Submarino",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4087,7 +4087,7 @@
       "titulo": "A Posição do Livro",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4098,7 +4098,7 @@
       "titulo": "O Semáforo de Brinquedo",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4109,7 +4109,7 @@
       "titulo": "A Decoração da Casa de Boneca",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4120,7 +4120,7 @@
       "titulo": "O Castelo de Areia",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4131,7 +4131,7 @@
       "titulo": "O Fantoche no Palco",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4142,7 +4142,7 @@
       "titulo": "A Roupa no Varal",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4153,7 +4153,7 @@
       "titulo": "O Computador de Brinquedo",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4164,7 +4164,7 @@
       "titulo": "A Foto na Parede",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4175,7 +4175,7 @@
       "titulo": "O Jogo do Sobe e Desce",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4186,7 +4186,7 @@
       "titulo": "A Escova de Dentes",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4197,7 +4197,7 @@
       "titulo": "O Jogo da Sombra",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4208,7 +4208,7 @@
       "titulo": "A Colagem da Árvore",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4219,7 +4219,7 @@
       "titulo": "O Guarda-Roupa Organizado",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4230,7 +4230,7 @@
       "titulo": "O Bolo de Andares",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4241,7 +4241,7 @@
       "titulo": "O Carrinho na Ponte",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4252,7 +4252,7 @@
       "titulo": "O Gato e o Rato",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4263,7 +4263,7 @@
       "titulo": "O Desenho da Casa",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4274,7 +4274,7 @@
       "titulo": "A Cesta de Basquete",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4285,7 +4285,7 @@
       "titulo": "O Cobertor e o Travesseiro",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4296,7 +4296,7 @@
       "titulo": "A Luz e o Tapete",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4307,7 +4307,7 @@
       "titulo": "O Jogo do Elevador",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4318,7 +4318,7 @@
       "titulo": "O Ímã na Geladeira",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4329,7 +4329,7 @@
       "titulo": "A Pirâmide de Copos",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4340,7 +4340,7 @@
       "titulo": "O Piquenique na Montanha",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4351,7 +4351,7 @@
       "titulo": "A Coruja e a Cobra",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4362,7 +4362,7 @@
       "titulo": "O Quadro de Avisos",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4373,7 +4373,7 @@
       "titulo": "O Hambúrguer de Brinquedo",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4384,7 +4384,7 @@
       "titulo": "A Mão e o Pé",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4395,7 +4395,7 @@
       "titulo": "A Tampa da Garrafa",
       "dimensao": "Linguagem",
       "habilidade": "Identifica corretamente a parte de cima e a parte de baixo dos objetos quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   }

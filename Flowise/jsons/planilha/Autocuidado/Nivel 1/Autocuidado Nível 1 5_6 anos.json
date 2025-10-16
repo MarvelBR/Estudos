@@ -6,7 +6,7 @@
       "titulo": "Espelho, Espelho Meu",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -17,7 +17,7 @@
       "titulo": "O Dente Sujinho de Mentira",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -28,7 +28,7 @@
       "titulo": "Caça à Pasta de Dente",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -39,7 +39,7 @@
       "titulo": "A Música da Escovação",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -50,7 +50,7 @@
       "titulo": "Sequência de Fotos",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -61,7 +61,7 @@
       "titulo": "Escovando os Brinquedos",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -72,7 +72,7 @@
       "titulo": "Adivinhe o Sabor",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -83,7 +83,7 @@
       "titulo": "Quadro de Recompensas dos Dentes Brilhantes",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -94,7 +94,7 @@
       "titulo": "O Jogo do \"Simão Mandou\"",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -105,7 +105,7 @@
       "titulo": "Teatrinho dos Dentes",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -116,7 +116,7 @@
       "titulo": "Pintura com Escova",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -127,7 +127,7 @@
       "titulo": "O Desafio do Bochecho",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -138,7 +138,7 @@
       "titulo": "Montando a Boca Gigante",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -149,7 +149,7 @@
       "titulo": "O Caminho da Escova",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -160,7 +160,7 @@
       "titulo": "Escova Sensorial",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -171,7 +171,7 @@
       "titulo": "Aplicando a Pasta no Alvo",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -182,7 +182,7 @@
       "titulo": "Luz, Câmera, Escovação!",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -193,7 +193,7 @@
       "titulo": "Dentes de Massinha",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -204,7 +204,7 @@
       "titulo": "Qual é o Objeto?",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -215,7 +215,7 @@
       "titulo": "O Cronômetro Divertido",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -226,7 +226,7 @@
       "titulo": "Histórias Sociais da Escovação",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -237,7 +237,7 @@
       "titulo": "Escovação em Dupla",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -248,7 +248,7 @@
       "titulo": "O Som da Escova",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -259,7 +259,7 @@
       "titulo": "Treino de Pegada",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -270,7 +270,7 @@
       "titulo": "O Desafio do Cuspe",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -281,7 +281,7 @@
       "titulo": "Limpando o \"Gelo Sujo\"",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -292,7 +292,7 @@
       "titulo": "O Dente de Isopor",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -303,7 +303,7 @@
       "titulo": "A Escolha do Herói da Escovação",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -314,7 +314,7 @@
       "titulo": "Contagem Regressiva",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -325,7 +325,7 @@
       "titulo": "O Mapa da Boca",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -336,7 +336,7 @@
       "titulo": "Bolhas de Sabão Bucais",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -347,7 +347,7 @@
       "titulo": "Experimento do Ovo",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -358,7 +358,7 @@
       "titulo": "Quebra-cabeça da Escovação",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -369,7 +369,7 @@
       "titulo": "O Guardião da Escova",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -380,7 +380,7 @@
       "titulo": "A Força da Pasta",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -391,7 +391,7 @@
       "titulo": "Fantoche com Bocão",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -402,7 +402,7 @@
       "titulo": "O Dente Limpo vs. Dente Triste",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -413,7 +413,7 @@
       "titulo": "Ginástica da Língua",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -424,7 +424,7 @@
       "titulo": "Escovando com a Mão Contrária",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -435,7 +435,7 @@
       "titulo": "O Cheirinho da Limpeza",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -446,7 +446,7 @@
       "titulo": "Adesivos no Espelho",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -457,7 +457,7 @@
       "titulo": "O Jacaré Bocudo",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -468,7 +468,7 @@
       "titulo": "A Corrida da Água",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -479,7 +479,7 @@
       "titulo": "O Som do Silêncio",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -490,7 +490,7 @@
       "titulo": "Desenho Cego da Boca",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -501,7 +501,7 @@
       "titulo": "O Super-Herói dos Dentes",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -512,7 +512,7 @@
       "titulo": "Enxaguando o Copo",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -523,7 +523,7 @@
       "titulo": "A Escova Viajante",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -534,7 +534,7 @@
       "titulo": "O Dia de Spa dos Dentes",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -545,7 +545,7 @@
       "titulo": "A Lanterna Mágica",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -556,7 +556,7 @@
       "titulo": "Estacionamento da Mochila",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -567,7 +567,7 @@
       "titulo": "Guardião da Lancheira",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -578,7 +578,7 @@
       "titulo": "Checagem de Presença Divertida",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -589,7 +589,7 @@
       "titulo": "Missão \"Agenda Secreta\"",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -600,7 +600,7 @@
       "titulo": "O Mensageiro do Bom Dia",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -611,7 +611,7 @@
       "titulo": "Patrulha da Cadeira",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -622,7 +622,7 @@
       "titulo": "Detetive dos Materiais",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -633,7 +633,7 @@
       "titulo": "Ritual da Água",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -644,7 +644,7 @@
       "titulo": "Fiscal da Mesa Limpa",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -655,7 +655,7 @@
       "titulo": "Operação \"Restinhos no Lixo\"",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -666,7 +666,7 @@
       "titulo": "Mãos Mágicas",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -677,7 +677,7 @@
       "titulo": "O Organizador de Brinquedos",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -688,7 +688,7 @@
       "titulo": "O Bibliotecário Ajudante",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -699,7 +699,7 @@
       "titulo": "Desafio do Sapato Certo",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -710,7 +710,7 @@
       "titulo": "O Guardião do Silêncio",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -721,7 +721,7 @@
       "titulo": "Sinal Verde para o Parque",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -732,7 +732,7 @@
       "titulo": "O Último a Sair, Apaga a Luz",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -743,7 +743,7 @@
       "titulo": "Equipe de Limpeza Artística",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -754,7 +754,7 @@
       "titulo": "Construtor Consciente",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -765,7 +765,7 @@
       "titulo": "Hora do Pijama (dos bonecos)",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -776,7 +776,7 @@
       "titulo": "O Jardineiro da Semana",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -787,7 +787,7 @@
       "titulo": "Fechando a Loja de Massinha",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -798,7 +798,7 @@
       "titulo": "O Carteiro do Dia",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -809,7 +809,7 @@
       "titulo": "Missão \"Casaco no Corpo\"",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -820,7 +820,7 @@
       "titulo": "Fotógrafo do Dia",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -831,7 +831,7 @@
       "titulo": "DJ da Limpeza",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -842,7 +842,7 @@
       "titulo": "Chefe dos Jogos de Encaixe",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -853,7 +853,7 @@
       "titulo": "Especialista em Papéis",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -864,7 +864,7 @@
       "titulo": "Repórter do Tempo",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -875,7 +875,7 @@
       "titulo": "Despedida da Cadeira",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -886,7 +886,7 @@
       "titulo": "Caçador de Lápis Perdidos",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -897,7 +897,7 @@
       "titulo": "Reabastecendo a Arte",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -908,7 +908,7 @@
       "titulo": "Passaporte para o Lanche",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -919,7 +919,7 @@
       "titulo": "O Alinhador de Almofadas",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -930,7 +930,7 @@
       "titulo": "Inspetor de Mochilas",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -941,7 +941,7 @@
       "titulo": "Controlador de Volume",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -952,7 +952,7 @@
       "titulo": "A Ponte para o Banheiro",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -963,7 +963,7 @@
       "titulo": "O Mágico das Toalhas",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -974,7 +974,7 @@
       "titulo": "Entregador de Livros da Biblioteca",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -985,7 +985,7 @@
       "titulo": "Piloto de Fila",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -996,7 +996,7 @@
       "titulo": "Guardião do Quadro Branco",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1007,7 +1007,7 @@
       "titulo": "O Colecionador de Cores",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1018,7 +1018,7 @@
       "titulo": "Agente do Zíper",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1029,7 +1029,7 @@
       "titulo": "Sentinela da Porta",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1040,7 +1040,7 @@
       "titulo": "O Contador de Passos",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1051,7 +1051,7 @@
       "titulo": "Amigo da Natureza",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1062,7 +1062,7 @@
       "titulo": "Chefe de Cozinha",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1073,7 +1073,7 @@
       "titulo": "O Resgate dos Pincéis",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1084,7 +1084,7 @@
       "titulo": "Desativando a Brincadeira",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1095,7 +1095,7 @@
       "titulo": "O Guardião Final",
       "dimensao": "Autocuidado",
       "habilidade": "Cumpre tarefas ou rotinas na escola, sejam diárias ou semanais, quando lembrado pelo(a) professor(a) ou mediador(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1106,7 +1106,7 @@
       "titulo": "Caça ao Tesouro Nutritivo",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1117,7 +1117,7 @@
       "titulo": "Detetive de Lancheiras",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1128,7 +1128,7 @@
       "titulo": "Lanche-Express",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1139,7 +1139,7 @@
       "titulo": "O Sinal Secreto do Lanche",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1150,7 +1150,7 @@
       "titulo": "Estacionamento de Lancheiras",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1161,7 +1161,7 @@
       "titulo": "Simulador de Lanche",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1172,7 +1172,7 @@
       "titulo": "O Robô do Lanche",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1183,7 +1183,7 @@
       "titulo": "Qual é a Minha?",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1194,7 +1194,7 @@
       "titulo": "O Ímã de Lancheira",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1205,7 +1205,7 @@
       "titulo": "Missão Espacial",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1216,7 +1216,7 @@
       "titulo": "A Ponte do Equilíbrio",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1227,7 +1227,7 @@
       "titulo": "Foto-Guia",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1238,7 +1238,7 @@
       "titulo": "O Som da Fome",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1249,7 +1249,7 @@
       "titulo": "O Esquilo Faminto",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1260,7 +1260,7 @@
       "titulo": "Jogo da Memória de Lancheiras",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1271,7 +1271,7 @@
       "titulo": "Corrida de Tartarugas",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1282,7 +1282,7 @@
       "titulo": "Crachá de Acesso",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1293,7 +1293,7 @@
       "titulo": "Espelho, Espelho Meu",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1304,7 +1304,7 @@
       "titulo": "Chamada por Cores",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1315,7 +1315,7 @@
       "titulo": "O Chefe de Cozinha",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1326,7 +1326,7 @@
       "titulo": "Lanterna Mágica",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1337,7 +1337,7 @@
       "titulo": "A Torre de Lanches",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1348,7 +1348,7 @@
       "titulo": "Treinamento de Peso",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1359,7 +1359,7 @@
       "titulo": "Jogo do \"Está Frio, Está Quente\"",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1370,7 +1370,7 @@
       "titulo": "Herói do Lanche",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1381,7 +1381,7 @@
       "titulo": "Quebra-cabeça do Lanche",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1392,7 +1392,7 @@
       "titulo": "A Cesta de Piquenique",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1403,7 +1403,7 @@
       "titulo": "Siga o Mestre do Lanche",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1414,7 +1414,7 @@
       "titulo": "Etiqueta Tátil",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1425,7 +1425,7 @@
       "titulo": "Canção do Lanchinho",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1436,7 +1436,7 @@
       "titulo": "Circuito do Lanche",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1447,7 +1447,7 @@
       "titulo": "Identificação às Cegas",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1458,7 +1458,7 @@
       "titulo": "O Vigia da Lancheira",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1469,7 +1469,7 @@
       "titulo": "Classificação de Lancheiras",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1480,7 +1480,7 @@
       "titulo": "Ordem de Chegada",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1491,7 +1491,7 @@
       "titulo": "O Desafio do Zíper",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1502,7 +1502,7 @@
       "titulo": "O Lanche Viajante",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1513,7 +1513,7 @@
       "titulo": "Conexão Visual",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1524,7 +1524,7 @@
       "titulo": "O Ajudante do Professor",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1535,7 +1535,7 @@
       "titulo": "O Som do Meu Nome",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1546,7 +1546,7 @@
       "titulo": "Adesivo Premiado",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1557,7 +1557,7 @@
       "titulo": "Transporte Seguro",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1568,7 +1568,7 @@
       "titulo": "Checagem Dupla",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1579,7 +1579,7 @@
       "titulo": "O Lanche Escondido",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1590,7 +1590,7 @@
       "titulo": "Time do Lanche",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1601,7 +1601,7 @@
       "titulo": "O Guardião da Mesa",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1612,7 +1612,7 @@
       "titulo": "O Lanche Mais Rápido (e cuidadoso) do Oeste",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1623,7 +1623,7 @@
       "titulo": "Decifre o Código",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1634,7 +1634,7 @@
       "titulo": "O Lanche Perfumado",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1645,7 +1645,7 @@
       "titulo": "A Recompensa Final",
       "dimensao": "Autocuidado",
       "habilidade": "Pega o próprio lanche ou almoço.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1656,7 +1656,7 @@
       "titulo": "O Escultor de Massinha",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1667,7 +1667,7 @@
       "titulo": "Abertura Premiada",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1678,7 +1678,7 @@
       "titulo": "Cortando a Banana-Trilho",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1689,7 +1689,7 @@
       "titulo": "O Segredo do Pote de Iogurte",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1700,7 +1700,7 @@
       "titulo": "Mestre do Picadinho de Argila",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1711,7 +1711,7 @@
       "titulo": "O Rasgo do Gigante",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1722,7 +1722,7 @@
       "titulo": "Geleia Mágica",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1733,7 +1733,7 @@
       "titulo": "Caça à Fita",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1744,7 +1744,7 @@
       "titulo": "O Construtor de Frutas",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1755,7 +1755,7 @@
       "titulo": "Libertando o Biscoito",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1766,7 +1766,7 @@
       "titulo": "Cozinha de Areia Cinética",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1777,7 +1777,7 @@
       "titulo": "O Desafio da Caixinha",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1788,7 +1788,7 @@
       "titulo": "Piquenique dos Bichinhos",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1799,7 +1799,7 @@
       "titulo": "Abrindo a Janelinha do Queijo",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1810,7 +1810,7 @@
       "titulo": "Cortando Nuvens de Marshmallow",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1821,7 +1821,7 @@
       "titulo": "O Mapa do Tesouro (Guardanapo)",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1832,7 +1832,7 @@
       "titulo": "O Sushiman de Pepino",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1843,7 +1843,7 @@
       "titulo": "A Força para Abrir a Garrafa",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1854,7 +1854,7 @@
       "titulo": "Fatiando o Bolo de Batata",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1865,7 +1865,7 @@
       "titulo": "O Carteiro Chegou!",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1876,7 +1876,7 @@
       "titulo": "Cortando o Jiló-Esponja",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1887,7 +1887,7 @@
       "titulo": "O Portal do Suco",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1898,7 +1898,7 @@
       "titulo": "Ajudante de Cozinha: Ovos Cozidos",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1909,7 +1909,7 @@
       "titulo": "Abrindo o Presente de Alumínio",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1920,7 +1920,7 @@
       "titulo": "O Cabelereiro de Alface",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1931,7 +1931,7 @@
       "titulo": "Descascando a Mexerica",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1942,7 +1942,7 @@
       "titulo": "O Cortador de Pizza de Brinquedo",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1953,7 +1953,7 @@
       "titulo": "Separando os Gomos",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1964,7 +1964,7 @@
       "titulo": "A Ponte de Salsicha",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1975,7 +1975,7 @@
       "titulo": "O Zíper Mágico",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1986,7 +1986,7 @@
       "titulo": "Desenhando na Melancia",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -1997,7 +1997,7 @@
       "titulo": "Abrindo a Ostra de Biscoito",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2008,7 +2008,7 @@
       "titulo": "Jardinagem na Comida",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2019,7 +2019,7 @@
       "titulo": "O Desafio do Pote de Rosca",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2030,7 +2030,7 @@
       "titulo": "Monstrinhos de Morango",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2041,7 +2041,7 @@
       "titulo": "O Desembrulhador de Balas",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2052,7 +2052,7 @@
       "titulo": "O Picador de Cogumelos",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2063,7 +2063,7 @@
       "titulo": "Soltando a Tampa do Danoninho",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2074,7 +2074,7 @@
       "titulo": "O Lenhador de Tofu",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2085,7 +2085,7 @@
       "titulo": "A Cascata de Cereal",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2096,7 +2096,7 @@
       "titulo": "O Chef de Omelete",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2107,7 +2107,7 @@
       "titulo": "Quebrando a Casquinha do Chocolate",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2118,7 +2118,7 @@
       "titulo": "Cortando o Cabelo do Milho",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2129,7 +2129,7 @@
       "titulo": "O Desdobrador de Papel Toalha",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2140,7 +2140,7 @@
       "titulo": "Fatiando Abobrinha Cozida",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2151,7 +2151,7 @@
       "titulo": "O Mágico dos Potes",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2162,7 +2162,7 @@
       "titulo": "Escavando o Abacate",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2173,7 +2173,7 @@
       "titulo": "Abrindo o Sachê",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2184,7 +2184,7 @@
       "titulo": "O Confeiteiro Real",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2195,7 +2195,7 @@
       "titulo": "O Descascador de Fita Banana",
       "dimensao": "Autocuidado",
       "habilidade": "Realiza tarefas simples de manuseio de alimentos, como cortar comidas macias com faca ou abrir embalagens de leite.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2206,7 +2206,7 @@
       "titulo": "Restaurante Infantil",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2217,7 +2217,7 @@
       "titulo": "Circuito da Autonomia",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2228,7 +2228,7 @@
       "titulo": "O Desafio do Antes e Depois",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2239,7 +2239,7 @@
       "titulo": "Canção da Mesinha",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2250,7 +2250,7 @@
       "titulo": "Painel de Tarefas",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2261,7 +2261,7 @@
       "titulo": "Oficina Mecânica",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2272,7 +2272,7 @@
       "titulo": "Laboratório do Cientista",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2283,7 +2283,7 @@
       "titulo": "Canteiro de Obras",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2294,7 +2294,7 @@
       "titulo": "Piquenique na Sala",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2305,7 +2305,7 @@
       "titulo": "O Dia do Ajudante",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2316,7 +2316,7 @@
       "titulo": "Jogo da Memória de Lugares",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2327,7 +2327,7 @@
       "titulo": "O Relógio da Rotina",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2338,7 +2338,7 @@
       "titulo": "Mestre Zen",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2349,7 +2349,7 @@
       "titulo": "O Ciclo da Água",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2360,7 +2360,7 @@
       "titulo": "O Especialista em Superfícies",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2371,7 +2371,7 @@
       "titulo": "Batalha Contra a Bagunça",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2382,7 +2382,7 @@
       "titulo": "O Guardião da Ordem",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2393,7 +2393,7 @@
       "titulo": "Troca de Turno",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2404,7 +2404,7 @@
       "titulo": "O Contador de Passos",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2415,7 +2415,7 @@
       "titulo": "O Construtor e o Demolidor",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2426,7 +2426,7 @@
       "titulo": "Arremesso ao Cesto",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2437,7 +2437,7 @@
       "titulo": "O Trem do Guarda-Guarda",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2448,7 +2448,7 @@
       "titulo": "Caçador de Migalhas",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2459,7 +2459,7 @@
       "titulo": "O Super-Herói da Limpeza",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2470,7 +2470,7 @@
       "titulo": "Operação Resgate de Brinquedos",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2481,7 +2481,7 @@
       "titulo": "O Detetive de Manchas",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2492,7 +2492,7 @@
       "titulo": "O Colecionador de Lápis",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2503,7 +2503,7 @@
       "titulo": "O Monstro Come-Lixo",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2514,7 +2514,7 @@
       "titulo": "A Casa dos Objetos",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2525,7 +2525,7 @@
       "titulo": "O Empilhador Mestre",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2536,7 +2536,7 @@
       "titulo": "Corrida do Pano Úmido",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2547,7 +2547,7 @@
       "titulo": "O Fechador de Tampas",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2558,7 +2558,7 @@
       "titulo": "O Agrupador de Peças",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2569,7 +2569,7 @@
       "titulo": "A Despedida dos Pratos",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2580,7 +2580,7 @@
       "titulo": "O Inspetor Final",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2591,7 +2591,7 @@
       "titulo": "O Mapa do Tesouro da Mesa",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2602,7 +2602,7 @@
       "titulo": "O Kit de Atividade",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2613,7 +2613,7 @@
       "titulo": "Garçom Estrela",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2624,7 +2624,7 @@
       "titulo": "O Desbravador da Mesa Limpa",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2635,7 +2635,7 @@
       "titulo": "O Apagador de Nuvens",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2646,7 +2646,7 @@
       "titulo": "Torre de Pratos",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2657,7 +2657,7 @@
       "titulo": "Estacionamento de Copos",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2668,7 +2668,7 @@
       "titulo": "O Desfile dos Talheres",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2679,7 +2679,7 @@
       "titulo": "Checagem do Piloto",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2690,7 +2690,7 @@
       "titulo": "O Mágico dos Jogos Americanos",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2701,7 +2701,7 @@
       "titulo": "O Entregador de Ferramentas",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2712,7 +2712,7 @@
       "titulo": "Qual Falta?",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2723,7 +2723,7 @@
       "titulo": "O Organizador de Cores",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2734,7 +2734,7 @@
       "titulo": "O Som do Preparo",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2745,7 +2745,7 @@
       "titulo": "O Guardião do Forro de Mesa",
       "dimensao": "Autocuidado",
       "habilidade": "Arruma a mesa antes e depois das atividades.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2756,7 +2756,7 @@
       "titulo": "Checklist do Astronauta",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2767,7 +2767,7 @@
       "titulo": "A Toca do Esquilo",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2778,7 +2778,7 @@
       "titulo": "Quebra-cabeça da Mochila",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2789,7 +2789,7 @@
       "titulo": "Detetive de Materiais",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2800,7 +2800,7 @@
       "titulo": "A Cama dos Materiais",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2811,7 +2811,7 @@
       "titulo": "O Carteiro",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2822,7 +2822,7 @@
       "titulo": "Jogo da Memória de Objetos",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2833,7 +2833,7 @@
       "titulo": "Mochila Monstruosa",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2844,7 +2844,7 @@
       "titulo": "O Desafio do Zíper",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2855,7 +2855,7 @@
       "titulo": "Caça ao Tesouro Colorido",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2866,7 +2866,7 @@
       "titulo": "Ordem de Tamanho",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2877,7 +2877,7 @@
       "titulo": "O Som do Guarda-Guarda",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2888,7 +2888,7 @@
       "titulo": "Mochila de Ponta-Cabeça",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2899,7 +2899,7 @@
       "titulo": "O Inspetor de Qualidade",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2910,7 +2910,7 @@
       "titulo": "Corrida Contra o Tempo Lúdico",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2921,7 +2921,7 @@
       "titulo": "Super Força!",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2932,7 +2932,7 @@
       "titulo": "A Lagarta no Trilho",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2943,7 +2943,7 @@
       "titulo": "Simulador de Mochila",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2954,7 +2954,7 @@
       "titulo": "Ajudante do Professor",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2965,7 +2965,7 @@
       "titulo": "Onde Está o Estojo?",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2976,7 +2976,7 @@
       "titulo": "O Organizador Mestre",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2987,7 +2987,7 @@
       "titulo": "O Mergulhador",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -2998,7 +2998,7 @@
       "titulo": "Mochila Leve vs. Mochila Pesada",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3009,7 +3009,7 @@
       "titulo": "O Construtor",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3020,7 +3020,7 @@
       "titulo": "A Garagem dos Materiais",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3031,7 +3031,7 @@
       "titulo": "O Túnel Secreto",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3042,7 +3042,7 @@
       "titulo": "Foto-Guia",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3053,7 +3053,7 @@
       "titulo": "Mímica do Material",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3064,7 +3064,7 @@
       "titulo": "O Chamado dos Objetos",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3075,7 +3075,7 @@
       "titulo": "O Guardião do Zíper",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3086,7 +3086,7 @@
       "titulo": "O Cheiro da Ordem",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3097,7 +3097,7 @@
       "titulo": "O Toque Mágico",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3108,7 +3108,7 @@
       "titulo": "O Sussurro Secreto",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3119,7 +3119,7 @@
       "titulo": "O Ímã Invisível",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3130,7 +3130,7 @@
       "titulo": "Repita o Mestre",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3141,7 +3141,7 @@
       "titulo": "O Visto de Saída",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3152,7 +3152,7 @@
       "titulo": "O Eco da Palavra",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3163,7 +3163,7 @@
       "titulo": "O Desafio de um Bolso",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3174,7 +3174,7 @@
       "titulo": "O Passageiro do Dia",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3185,7 +3185,7 @@
       "titulo": "O Encaixe Perfeito",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3196,7 +3196,7 @@
       "titulo": "O Guardião da Agenda",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3207,7 +3207,7 @@
       "titulo": "A Mochila que Pisca",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3218,7 +3218,7 @@
       "titulo": "O Contorcionista",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3229,7 +3229,7 @@
       "titulo": "O Desempilhador",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3240,7 +3240,7 @@
       "titulo": "O Time da Mochila",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3251,7 +3251,7 @@
       "titulo": "O Fechamento Duplo",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3262,7 +3262,7 @@
       "titulo": "A Entrega Final",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3273,7 +3273,7 @@
       "titulo": "O Teste de Som",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3284,7 +3284,7 @@
       "titulo": "O Desenhista de Rotinas",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3295,7 +3295,7 @@
       "titulo": "O Capitão da Ordem",
       "dimensao": "Autocuidado",
       "habilidade": "Organiza a mochila (coloca caderno, estojo, agenda).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3306,7 +3306,7 @@
       "titulo": "Detetive de Pertences",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3317,7 +3317,7 @@
       "titulo": "O Desfile de Casacos",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3328,7 +3328,7 @@
       "titulo": "Estacionamento de Garrafinhas",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3339,7 +3339,7 @@
       "titulo": "Jogo da Memória com Fotos",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3350,7 +3350,7 @@
       "titulo": "O Trocador de Coisas",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3361,7 +3361,7 @@
       "titulo": "Operação Identidade Secreta",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3372,7 +3372,7 @@
       "titulo": "Saco Surpresa Tátil",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3383,7 +3383,7 @@
       "titulo": "Onde se Escondeu?",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3394,7 +3394,7 @@
       "titulo": "O Espelho dos Pertences",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3405,7 +3405,7 @@
       "titulo": "Caça ao Tesouro Pessoal",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3416,7 +3416,7 @@
       "titulo": "O Guardião dos Objetos",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3427,7 +3427,7 @@
       "titulo": "Torre de Lancheiras",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3438,7 +3438,7 @@
       "titulo": "Foto-Identificação",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3449,7 +3449,7 @@
       "titulo": "Adivinhe o Dono",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3460,7 +3460,7 @@
       "titulo": "Corrida de Cores",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3471,7 +3471,7 @@
       "titulo": "Etiqueta Especial",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3482,7 +3482,7 @@
       "titulo": "O que está na minha mão?",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3493,7 +3493,7 @@
       "titulo": "O Canto dos Pertences",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3504,7 +3504,7 @@
       "titulo": "O Casaco Viajante",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3515,7 +3515,7 @@
       "titulo": "Meu, Seu ou Nosso?",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3526,7 +3526,7 @@
       "titulo": "Lanterna Mágica",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3537,7 +3537,7 @@
       "titulo": "O Chamado do Lanche",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3548,7 +3548,7 @@
       "titulo": "Agrupamento por Dono",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3559,7 +3559,7 @@
       "titulo": "A História do Meu Casaco",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3570,7 +3570,7 @@
       "titulo": "Qual é o Par?",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3581,7 +3581,7 @@
       "titulo": "O Cheirinho da Minha Lancheira",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3592,7 +3592,7 @@
       "titulo": "O Som do Meu Casaco",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3603,7 +3603,7 @@
       "titulo": "O Jogo do \"Simão Mandou\"",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3614,7 +3614,7 @@
       "titulo": "Desenhe Seu Pertence",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3625,7 +3625,7 @@
       "titulo": "O Quebra-Cabeça da Lancheira",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3636,7 +3636,7 @@
       "titulo": "A Fila dos Objetos",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3647,7 +3647,7 @@
       "titulo": "O Laço da Amizade",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3658,7 +3658,7 @@
       "titulo": "Quem sou eu?",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3669,7 +3669,7 @@
       "titulo": "O Mapa do Tesouro Pessoal",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3680,7 +3680,7 @@
       "titulo": "O Porteiro da Sala",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3691,7 +3691,7 @@
       "titulo": "Treinamento de Ajudante",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3702,7 +3702,7 @@
       "titulo": "O Ímã de Pertences",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3713,7 +3713,7 @@
       "titulo": "O Cesto dos Achados e Perdidos",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3724,7 +3724,7 @@
       "titulo": "A Canção dos Meus Tesouros",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3735,7 +3735,7 @@
       "titulo": "O Mestre das Sombras",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3746,7 +3746,7 @@
       "titulo": "Exposição de Arte",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3757,7 +3757,7 @@
       "titulo": "O Guardião da Mochila",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3768,7 +3768,7 @@
       "titulo": "O Jogo das Diferenças",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3779,7 +3779,7 @@
       "titulo": "Troca de Etiqueta",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3790,7 +3790,7 @@
       "titulo": "O Campeão de Leveza",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3801,7 +3801,7 @@
       "titulo": "A Dança dos Casacos",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3812,7 +3812,7 @@
       "titulo": "O Sussurro Secreto",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3823,7 +3823,7 @@
       "titulo": "O Fotógrafo de Pertences",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3834,7 +3834,7 @@
       "titulo": "O Abraço de Despedida",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3845,7 +3845,7 @@
       "titulo": "O Desafio do Fechamento",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece pertences pessoais (casaco, garrafinha, lancheira).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3856,7 +3856,7 @@
       "titulo": "O Guardião da Luz",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3867,7 +3867,7 @@
       "titulo": "Comandante da Porta",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3878,7 +3878,7 @@
       "titulo": "Agente Secreto Anti-Lixo",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3889,7 +3889,7 @@
       "titulo": "O Mágico da Eletricidade",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3900,7 +3900,7 @@
       "titulo": "A Patrulha do Silêncio",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3911,7 +3911,7 @@
       "titulo": "Caça ao Tesouro de Papel",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3922,7 +3922,7 @@
       "titulo": "O Fechador de Janelas",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3933,7 +3933,7 @@
       "titulo": "O Mensageiro Verde",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3944,7 +3944,7 @@
       "titulo": "DJ do Silêncio",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3955,7 +3955,7 @@
       "titulo": "O Guardião das Cortinas",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3966,7 +3966,7 @@
       "titulo": "Doutor de Plantas",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3977,7 +3977,7 @@
       "titulo": "O Fiscal das Cadeiras",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3988,7 +3988,7 @@
       "titulo": "Chefe dos Paninhos",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -3999,7 +3999,7 @@
       "titulo": "O Resgate dos Lápis",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -4010,7 +4010,7 @@
       "titulo": "Capitão da Fila",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -4021,7 +4021,7 @@
       "titulo": "O Apagador Mestre",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -4032,7 +4032,7 @@
       "titulo": "Alinhador de Almofadas",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -4043,7 +4043,7 @@
       "titulo": "O Herói da Água",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -4054,7 +4054,7 @@
       "titulo": "O Carteiro dos Trabalhos",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -4065,7 +4065,7 @@
       "titulo": "Operação \"Porta Aberta\"",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -4076,7 +4076,7 @@
       "titulo": "Sentinela da Areia",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -4087,7 +4087,7 @@
       "titulo": "O Guardião dos Brinquedos Pequenos",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -4098,7 +4098,7 @@
       "titulo": "O Desligador de Ventilador",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -4109,7 +4109,7 @@
       "titulo": "O Organizador de Livros",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -4120,7 +4120,7 @@
       "titulo": "O Silenciador de Portas",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -4131,7 +4131,7 @@
       "titulo": "O Caçador de Fios",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -4142,7 +4142,7 @@
       "titulo": "O Chefe da Reciclagem",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -4153,7 +4153,7 @@
       "titulo": "O Espalhador de Cheirinho",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -4164,7 +4164,7 @@
       "titulo": "O Amigo dos Sapatos",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -4175,7 +4175,7 @@
       "titulo": "O Ajudante do Giz",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -4186,7 +4186,7 @@
       "titulo": "O Despachante de Mochilas",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -4197,7 +4197,7 @@
       "titulo": "O Guardião do Tapete",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -4208,7 +4208,7 @@
       "titulo": "O Sinalizador de Saída",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -4219,7 +4219,7 @@
       "titulo": "O Detetive de Tampinhas",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -4230,7 +4230,7 @@
       "titulo": "O Mestre do Velcro",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -4241,7 +4241,7 @@
       "titulo": "O Secador de Mãos",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -4252,7 +4252,7 @@
       "titulo": "O Anjo da Guarda dos Colegas",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -4263,7 +4263,7 @@
       "titulo": "O Fechador de Potes de Tinta",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -4274,7 +4274,7 @@
       "titulo": "O Piloto da Vassoura",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -4285,7 +4285,7 @@
       "titulo": "O Controlador de Acesso",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -4296,7 +4296,7 @@
       "titulo": "O Acendedor de Luzes",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -4307,7 +4307,7 @@
       "titulo": "O Desligador de Telas",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -4318,7 +4318,7 @@
       "titulo": "O Coletor de Folhas",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -4329,7 +4329,7 @@
       "titulo": "O Dobrador de Cobertores",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -4340,7 +4340,7 @@
       "titulo": "O Chefe dos Crachás",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -4351,7 +4351,7 @@
       "titulo": "O Guardião do Mural",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -4362,7 +4362,7 @@
       "titulo": "O Inspetor de Torneiras",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -4373,7 +4373,7 @@
       "titulo": "O Mestre Cuca da Ração",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -4384,7 +4384,7 @@
       "titulo": "O Último Olhar",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   },
@@ -4395,7 +4395,7 @@
       "titulo": "O Líder do \"Até Amanhã\"",
       "dimensao": "Autocuidado",
       "habilidade": "Participa do cuidado coletivo da sala (apaga a luz, fecha a porta, recolhe papéis).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "5 a 6 anos"
     }
   }

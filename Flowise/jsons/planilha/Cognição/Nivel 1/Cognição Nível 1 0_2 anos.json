@@ -6,7 +6,7 @@
       "titulo": "Achou o Bebê no Espelho!",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -17,7 +17,7 @@
       "titulo": "Cadê o Cabelo?",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -28,7 +28,7 @@
       "titulo": "Chapéu Divertido",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -39,7 +39,7 @@
       "titulo": "Bolinha Surpresa",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -50,7 +50,7 @@
       "titulo": "Máscara de Feltro",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -61,7 +61,7 @@
       "titulo": "Peek-a-boo com as Mãos",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -72,7 +72,7 @@
       "titulo": "O Fantasminha Amigo",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -83,7 +83,7 @@
       "titulo": "Escondendo o Brinquedo Favorito",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -94,7 +94,7 @@
       "titulo": "Túnel de Pano",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -105,7 +105,7 @@
       "titulo": "Chuva de Penas",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -116,7 +116,7 @@
       "titulo": "Onde está a Mamãe/Papai?",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -127,7 +127,7 @@
       "titulo": "Cesta do Tesouro Facial",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -138,7 +138,7 @@
       "titulo": "Brincando com Fitas",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -149,7 +149,7 @@
       "titulo": "O Coelhinho e a Toca",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -160,7 +160,7 @@
       "titulo": "Adesivo Mágico no Nariz",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -171,7 +171,7 @@
       "titulo": "Bolinha de Sabão no Rosto",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -182,7 +182,7 @@
       "titulo": "Pintura Facial com Iogurte",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -193,7 +193,7 @@
       "titulo": "Toalha na Hora do Banho",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -204,7 +204,7 @@
       "titulo": "Folha de Outono",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -215,7 +215,7 @@
       "titulo": "Pétalas na Brisa",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -226,7 +226,7 @@
       "titulo": "O Macarrão Cozido",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -237,7 +237,7 @@
       "titulo": "Cadê a Luz?",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -248,7 +248,7 @@
       "titulo": "O Cabelo da Boneca",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -259,7 +259,7 @@
       "titulo": "Esponja Molhada",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -270,7 +270,7 @@
       "titulo": "Copo Opaco",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -281,7 +281,7 @@
       "titulo": "Brincadeira com Gelatina",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -292,7 +292,7 @@
       "titulo": "O Avião de Papel",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -303,7 +303,7 @@
       "titulo": "O Beijo Escondido",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -314,7 +314,7 @@
       "titulo": "Cantiga do Pano",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -325,7 +325,7 @@
       "titulo": "Sombra e Luz",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -336,7 +336,7 @@
       "titulo": "Post-it no Espelho",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -347,7 +347,7 @@
       "titulo": "O Carinho da Pelúcia",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -358,7 +358,7 @@
       "titulo": "Gorro de Lã",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -369,7 +369,7 @@
       "titulo": "Algodão Doce (de verdade!)",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -380,7 +380,7 @@
       "titulo": "A Cortina da Janela",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -391,7 +391,7 @@
       "titulo": "O Colar da Mamãe",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -402,7 +402,7 @@
       "titulo": "Cadê a Comida?",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -413,7 +413,7 @@
       "titulo": "Bexiga Murcha",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -424,7 +424,7 @@
       "titulo": "O Papel de Seda",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -435,7 +435,7 @@
       "titulo": "A Gravata do Papai",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -446,7 +446,7 @@
       "titulo": "Cadê meu Pé? com Lenço",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -457,7 +457,7 @@
       "titulo": "A Toalha Mágica",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -468,7 +468,7 @@
       "titulo": "O Sussurro Escondido",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -479,7 +479,7 @@
       "titulo": "Caminho de Pompons",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -490,7 +490,7 @@
       "titulo": "Meu Rosto, Seu Rosto",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -501,7 +501,7 @@
       "titulo": "Chapéu de Espuma",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -512,7 +512,7 @@
       "titulo": "Limpando o \"Suco\"",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -523,7 +523,7 @@
       "titulo": "O Véu da Noiva",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -534,7 +534,7 @@
       "titulo": "Brincando de Cabeleireiro",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -545,7 +545,7 @@
       "titulo": "A Meia-Fantoche",
       "dimensao": "Cognição",
       "habilidade": "Retira de seu rosto qualquer pano ou objeto que esteja atrapalhando a visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -556,7 +556,7 @@
       "titulo": "Cadê o Brinquedo?",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -567,7 +567,7 @@
       "titulo": "A Mágica do Copo",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -578,7 +578,7 @@
       "titulo": "Luz que Some",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -589,7 +589,7 @@
       "titulo": "Peek-a-boo (Cadê? Achou!)",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -600,7 +600,7 @@
       "titulo": "Brinquedo na Caixa",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -611,7 +611,7 @@
       "titulo": "Rolando a Bola",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -622,7 +622,7 @@
       "titulo": "O Fantoche na Janelinha",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -633,7 +633,7 @@
       "titulo": "Som Escondido",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -644,7 +644,7 @@
       "titulo": "Deslizando no Pano",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -655,7 +655,7 @@
       "titulo": "Caiu!",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -666,7 +666,7 @@
       "titulo": "O Biscoito Mágico",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -677,7 +677,7 @@
       "titulo": "Túnel de Pano",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -688,7 +688,7 @@
       "titulo": "Esconde-esconde no Colo",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -699,7 +699,7 @@
       "titulo": "Pessoas que Somem",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -710,7 +710,7 @@
       "titulo": "O Brinquedo Mergulhador",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -721,7 +721,7 @@
       "titulo": "Sombras na Parede",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -732,7 +732,7 @@
       "titulo": "A Meia Perdida",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -743,7 +743,7 @@
       "titulo": "Objetos na Areia",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -754,7 +754,7 @@
       "titulo": "O carro na Garagem",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -765,7 +765,7 @@
       "titulo": "A colher que some no pote",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -776,7 +776,7 @@
       "titulo": "Pendurando no varal",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -787,7 +787,7 @@
       "titulo": "Brinquedo no chapéu",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -798,7 +798,7 @@
       "titulo": "Guardando na gaveta",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -809,7 +809,7 @@
       "titulo": "Papel rasgado",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -820,7 +820,7 @@
       "titulo": "O balão flutuante",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -831,7 +831,7 @@
       "titulo": "A surpresa na sacola",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -842,7 +842,7 @@
       "titulo": "Escondido no cabelo",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -853,7 +853,7 @@
       "titulo": "A semente na terra",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -864,7 +864,7 @@
       "titulo": "O fantoche no palco",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -875,7 +875,7 @@
       "titulo": "O peixinho no aquário de mentira",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -886,7 +886,7 @@
       "titulo": "Cadê meu sapato?",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -897,7 +897,7 @@
       "titulo": "Água que some",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -908,7 +908,7 @@
       "titulo": "O que tem no bolso?",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -919,7 +919,7 @@
       "titulo": "A formiga que se esconde",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -930,7 +930,7 @@
       "titulo": "Folhas ao vento",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -941,7 +941,7 @@
       "titulo": "O trem no túnel de almofadas",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -952,7 +952,7 @@
       "titulo": "Escondendo a luz do sol",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -963,7 +963,7 @@
       "titulo": "O reflexo que pisca",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -974,7 +974,7 @@
       "titulo": "A bolha que estoura",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -985,7 +985,7 @@
       "titulo": "O pássaro que voa",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -996,7 +996,7 @@
       "titulo": "Cadê a minha voz?",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1007,7 +1007,7 @@
       "titulo": "O objeto no pote translúcido",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1018,7 +1018,7 @@
       "titulo": "O zíper que esconde",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1029,7 +1029,7 @@
       "titulo": "A massinha na forminha",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1040,7 +1040,7 @@
       "titulo": "O carro que passa na janela",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1051,7 +1051,7 @@
       "titulo": "Empilhando e derrubando",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1062,7 +1062,7 @@
       "titulo": "O desenho que se apaga",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1073,7 +1073,7 @@
       "titulo": "O adesivo escondido",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1084,7 +1084,7 @@
       "titulo": "Onde está meu nariz?",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1095,7 +1095,7 @@
       "titulo": "Virando a Página",
       "dimensao": "Cognição",
       "habilidade": "Busca com o olhar objetos que desaparecem do seu campo de visão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1106,7 +1106,7 @@
       "titulo": "Tesouros na Cesta",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1117,7 +1117,7 @@
       "titulo": "A Caixa dos Pompons",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1128,7 +1128,7 @@
       "titulo": "Potes de Iogurte Surpresa",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1139,7 +1139,7 @@
       "titulo": "Sacola de Pano Mágica",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1150,7 +1150,7 @@
       "titulo": "Frutas na Bacia",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1161,7 +1161,7 @@
       "titulo": "Resgate dos Bichinhos",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1172,7 +1172,7 @@
       "titulo": "Meias na Gaveta",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1183,7 +1183,7 @@
       "titulo": "Garrafa Sensorial de Grãos",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1194,7 +1194,7 @@
       "titulo": "O Cofrinho Gigante",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1205,7 +1205,7 @@
       "titulo": "Escavação na Areia",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1216,7 +1216,7 @@
       "titulo": "Macarrão na Tigela",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1227,7 +1227,7 @@
       "titulo": "Blocos de Gelo Coloridos",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1238,7 +1238,7 @@
       "titulo": "A Caixa de Lenços",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1249,7 +1249,7 @@
       "titulo": "Pegando Pregadores",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1260,7 +1260,7 @@
       "titulo": "A Cesta de Bolinhas",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1271,7 +1271,7 @@
       "titulo": "Limpando a Banheira",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1282,7 +1282,7 @@
       "titulo": "Potes com Tampas",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1293,7 +1293,7 @@
       "titulo": "Folhas de Outono no Balde",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1304,7 +1304,7 @@
       "titulo": "A Caixa de Ferramentas do Bebê",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1315,7 +1315,7 @@
       "titulo": "Resgate na Gelatina",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1326,7 +1326,7 @@
       "titulo": "O Saco do Papai Noel",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1337,7 +1337,7 @@
       "titulo": "Ovos na Cartela",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1348,7 +1348,7 @@
       "titulo": "Organizador de Talheres",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1359,7 +1359,7 @@
       "titulo": "Forma de Cupcake",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1370,7 +1370,7 @@
       "titulo": "Brinquedos no Escorredor",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1381,7 +1381,7 @@
       "titulo": "Luva Sensorial",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1392,7 +1392,7 @@
       "titulo": "A Bacia de Espuma",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1403,7 +1403,7 @@
       "titulo": "Sementes na Garrafa",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1414,7 +1414,7 @@
       "titulo": "A Caixa de Fitas",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1425,7 +1425,7 @@
       "titulo": "Pegando Conchas",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1436,7 +1436,7 @@
       "titulo": "O Cesto de Roupa Suja",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1447,7 +1447,7 @@
       "titulo": "Despensa do Bebê",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1458,7 +1458,7 @@
       "titulo": "Rolos de Papel no Cesto",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1469,7 +1469,7 @@
       "titulo": "Esponjas na Bacia Seca",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1480,7 +1480,7 @@
       "titulo": "A Caixa Transparente",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1491,7 +1491,7 @@
       "titulo": "Flores no Vaso",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1502,7 +1502,7 @@
       "titulo": "Fruteira de Brinquedo",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1513,7 +1513,7 @@
       "titulo": "Porta-Lápis Gigante",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1524,7 +1524,7 @@
       "titulo": "Carrinhos no Estacionamento",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1535,7 +1535,7 @@
       "titulo": "A Maleta do Médico",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1546,7 +1546,7 @@
       "titulo": "Animais no Celeiro",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1557,7 +1557,7 @@
       "titulo": "Bolas de Algodão",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1568,7 +1568,7 @@
       "titulo": "Pegando Tampinhas",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1579,7 +1579,7 @@
       "titulo": "O Ninho dos Pássaros",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1590,7 +1590,7 @@
       "titulo": "Tirando os Sapatos da Caixa",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1601,7 +1601,7 @@
       "titulo": "A Necessaire do Bebê",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1612,7 +1612,7 @@
       "titulo": "Chaves no Chaveiro",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1623,7 +1623,7 @@
       "titulo": "Guardanapos no Porta-Guardanapo",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1634,7 +1634,7 @@
       "titulo": "Peças de Quebra-Cabeça",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1645,7 +1645,7 @@
       "titulo": "Copos Empilhados",
       "dimensao": "Cognição",
       "habilidade": "Retira objetos de um recipiente ou caixa com a mão.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1656,7 +1656,7 @@
       "titulo": "Sapato no Pé",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1667,7 +1667,7 @@
       "titulo": "Chapéu na Cabeça",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1678,7 +1678,7 @@
       "titulo": "Comida na Colher",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1689,7 +1689,7 @@
       "titulo": "Travesseiro na Cama",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1700,7 +1700,7 @@
       "titulo": "Lixo no Lixo",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1711,7 +1711,7 @@
       "titulo": "Boneco no Carro",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1722,7 +1722,7 @@
       "titulo": "Prendendo no Varal",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1733,7 +1733,7 @@
       "titulo": "Guardanapo no Copo",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1744,7 +1744,7 @@
       "titulo": "Chave na Fechadura",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1755,7 +1755,7 @@
       "titulo": "Luva na Mão",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1766,7 +1766,7 @@
       "titulo": "Cinto na Calça",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1777,7 +1777,7 @@
       "titulo": "Bloco na Janela da Casinha",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1788,7 +1788,7 @@
       "titulo": "Anel no Dedo",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1799,7 +1799,7 @@
       "titulo": "Peixe no Aquário",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1810,7 +1810,7 @@
       "titulo": "Passando pelo Túnel",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1821,7 +1821,7 @@
       "titulo": "Empilhando Mãos",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1832,7 +1832,7 @@
       "titulo": "Colocando o Celular para Carregar",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1843,7 +1843,7 @@
       "titulo": "Empilhando um em mim, um em você",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1854,7 +1854,7 @@
       "titulo": "Cesta de Supermercado",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1865,7 +1865,7 @@
       "titulo": "Blocos no Balde",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1876,7 +1876,7 @@
       "titulo": "Encher e Empilhar Potes",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1887,7 +1887,7 @@
       "titulo": "Torre na Caixa",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1898,7 +1898,7 @@
       "titulo": "Guardando as Argolas",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1909,7 +1909,7 @@
       "titulo": "Torre de Comida",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1920,7 +1920,7 @@
       "titulo": "Torre de Blocos Simples",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1931,7 +1931,7 @@
       "titulo": "Empilhando Argolas",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1942,7 +1942,7 @@
       "titulo": "Potes de Plástico",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1953,7 +1953,7 @@
       "titulo": "Livros de Capa Dura",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1964,7 +1964,7 @@
       "titulo": "Torre de Almofadas",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1975,7 +1975,7 @@
       "titulo": "Esponjas de Banho",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1986,7 +1986,7 @@
       "titulo": "Copos de Plástico",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -1997,7 +1997,7 @@
       "titulo": "Roscas de Cereal",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2008,7 +2008,7 @@
       "titulo": "Pedras Achatadas",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2019,7 +2019,7 @@
       "titulo": "Rolos de Papel",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2030,7 +2030,7 @@
       "titulo": "Guardando os Brinquedos",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2041,7 +2041,7 @@
       "titulo": "Pompons no Pote",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2052,7 +2052,7 @@
       "titulo": "Frutas na Tigela",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2063,7 +2063,7 @@
       "titulo": "Pedras no Balde",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2074,7 +2074,7 @@
       "titulo": "Macarrão no Pote",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2085,7 +2085,7 @@
       "titulo": "Meias no Cesto",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2096,7 +2096,7 @@
       "titulo": "Cartas na Caixa de Correio",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2107,7 +2107,7 @@
       "titulo": "Moedas no Cofrinho",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2118,7 +2118,7 @@
       "titulo": "Ingredientes na Panela",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2129,7 +2129,7 @@
       "titulo": "Bolinhas na Água",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2140,7 +2140,7 @@
       "titulo": "Pregadores na Lata",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2151,7 +2151,7 @@
       "titulo": "Flores no Vaso",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2162,7 +2162,7 @@
       "titulo": "Colher na Tigela",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2173,7 +2173,7 @@
       "titulo": "Tampinhas na Garrafa",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2184,7 +2184,7 @@
       "titulo": "Animais no Celeiro",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2195,7 +2195,7 @@
       "titulo": "Sapatos na Caixa",
       "dimensao": "Cognição",
       "habilidade": "Imita ações de adulto, como colocar objetos em um recipiente e empilhar blocos.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2206,7 +2206,7 @@
       "titulo": "Vamos pegar o ursinho!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2217,7 +2217,7 @@
       "titulo": "Dá a bolinha pra mim!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2228,7 +2228,7 @@
       "titulo": "Bate palminhas!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2239,7 +2239,7 @@
       "titulo": "Vamos guardar o brinquedo!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2250,7 +2250,7 @@
       "titulo": "Cadê a bola?",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2261,7 +2261,7 @@
       "titulo": "Joga o anel no cone!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2272,7 +2272,7 @@
       "titulo": "Coloca a pecinha aqui!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2283,7 +2283,7 @@
       "titulo": "Toca o nariz!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2294,7 +2294,7 @@
       "titulo": "Faz 'tchau' com a mão!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2305,7 +2305,7 @@
       "titulo": "Dá um abraço!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2316,7 +2316,7 @@
       "titulo": "Senta no tapete!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2327,7 +2327,7 @@
       "titulo": "Vamos chutar a bola!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2338,7 +2338,7 @@
       "titulo": "Pega o livrinho!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2349,7 +2349,7 @@
       "titulo": "Cadê o cachorro?",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2360,7 +2360,7 @@
       "titulo": "Vamos empurrar o carrinho!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2371,7 +2371,7 @@
       "titulo": "Olha o passarinho!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2382,7 +2382,7 @@
       "titulo": "Pega o copo!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2393,7 +2393,7 @@
       "titulo": "Vamos enrolar o barbante!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2404,7 +2404,7 @@
       "titulo": "Coloca a bolinha no pote!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2415,7 +2415,7 @@
       "titulo": "Joga a bolinha para mim!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2426,7 +2426,7 @@
       "titulo": "Vamos empilhar os cubos!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2437,7 +2437,7 @@
       "titulo": "Toca a barriga!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2448,7 +2448,7 @@
       "titulo": "Abra a mãozinha!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2459,7 +2459,7 @@
       "titulo": "Fecha o potinho!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2470,7 +2470,7 @@
       "titulo": "Vamos soprar a pena!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2481,7 +2481,7 @@
       "titulo": "Pega o chocalho!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2492,7 +2492,7 @@
       "titulo": "Vamos sacudir o chocalho!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2503,7 +2503,7 @@
       "titulo": "Dá a comidinha para o boneco!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2514,7 +2514,7 @@
       "titulo": "Vamos sentar na cadeira!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2525,7 +2525,7 @@
       "titulo": "Vamos deitar no colchonete!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2536,7 +2536,7 @@
       "titulo": "Vamos pular!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2547,7 +2547,7 @@
       "titulo": "Bate na mesa!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2558,7 +2558,7 @@
       "titulo": "Vamos pegar o carrinho verde!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2569,7 +2569,7 @@
       "titulo": "Coloca a mão na cabeça!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2580,7 +2580,7 @@
       "titulo": "Vamos dançar!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2591,7 +2591,7 @@
       "titulo": "Apague a luz!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2602,7 +2602,7 @@
       "titulo": "Acenda a luz!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2613,7 +2613,7 @@
       "titulo": "Dá a mão para mim!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2624,7 +2624,7 @@
       "titulo": "Vamos imitar o leão!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2635,7 +2635,7 @@
       "titulo": "Pega o brinquedo grande!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2646,7 +2646,7 @@
       "titulo": "Pega o brinquedo pequeno!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2657,7 +2657,7 @@
       "titulo": "Vamos abrir a caixinha!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2668,7 +2668,7 @@
       "titulo": "Feche a porta!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2679,7 +2679,7 @@
       "titulo": "Abre a porta!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2690,7 +2690,7 @@
       "titulo": "Vamos pegar o pano macio!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2701,7 +2701,7 @@
       "titulo": "Vamos rolar a bola!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2712,7 +2712,7 @@
       "titulo": "Faz \"shhh\" com o dedo!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2723,7 +2723,7 @@
       "titulo": "Vamos encontrar a girafa!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2734,7 +2734,7 @@
       "titulo": "Dá o pincel para mim!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2745,7 +2745,7 @@
       "titulo": "Vamos desenhar com o giz!",
       "dimensao": "Cognição",
       "habilidade": "Segue instruções simples (ex.: pegar a bola, jogar a bola, segurar a bola).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2756,7 +2756,7 @@
       "titulo": "Chocalho de Garrafa Pet",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2767,7 +2767,7 @@
       "titulo": "Sinos no Pulso",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2778,7 +2778,7 @@
       "titulo": "Maraca de Pote de Iogurte",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2789,7 +2789,7 @@
       "titulo": "Balão com Sino",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2800,7 +2800,7 @@
       "titulo": "Pandeiro de Brinquedo",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2811,7 +2811,7 @@
       "titulo": "Garrafa de Água com Botões",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2822,7 +2822,7 @@
       "titulo": "Chocalho de Caixinha de Leite",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2833,7 +2833,7 @@
       "titulo": "Boneco com Guizo",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2844,7 +2844,7 @@
       "titulo": "Balde com Pedrinhas",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2855,7 +2855,7 @@
       "titulo": "Sinos de Cortina de Bolinha",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2866,7 +2866,7 @@
       "titulo": "Cilindro Sonoro",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2877,7 +2877,7 @@
       "titulo": "Chocalho de Latas",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2888,7 +2888,7 @@
       "titulo": "Balão com Macarrão",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2899,7 +2899,7 @@
       "titulo": "Sinos Pendurados",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2910,7 +2910,7 @@
       "titulo": "Chocalho de Copo Plástico",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2921,7 +2921,7 @@
       "titulo": "Anel com Guizo",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2932,7 +2932,7 @@
       "titulo": "Balde com Tampinhas",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2943,7 +2943,7 @@
       "titulo": "Chocalho de Caixa de Remédio",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2954,7 +2954,7 @@
       "titulo": "Cilindro de Palito de Picolé",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2965,7 +2965,7 @@
       "titulo": "Tambor com Contas",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2976,7 +2976,7 @@
       "titulo": "Garrafa de Refrigerante com Lantejoulas",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2987,7 +2987,7 @@
       "titulo": "Sino de Argolas",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -2998,7 +2998,7 @@
       "titulo": "Chocalho de Casca de Ovo",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3009,7 +3009,7 @@
       "titulo": "Brinquedo com Sino Escondido",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3020,7 +3020,7 @@
       "titulo": "Chocalho de Balde de Praia",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3031,7 +3031,7 @@
       "titulo": "Copo de Plástico com Grãos",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3042,7 +3042,7 @@
       "titulo": "Garrafa com Clipes de Papel",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3053,7 +3053,7 @@
       "titulo": "Bolsa com Guizos",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3064,7 +3064,7 @@
       "titulo": "Chocalho de Latinha de Sopa",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3075,7 +3075,7 @@
       "titulo": "Sinos na Vassoura",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3086,7 +3086,7 @@
       "titulo": "Cubo com Sino",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3097,7 +3097,7 @@
       "titulo": "Chocalho de Bola de Meia",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3108,7 +3108,7 @@
       "titulo": "Garrafa com Pregos",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3119,7 +3119,7 @@
       "titulo": "Chocalho de Tampinhas de Garrafa",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3130,7 +3130,7 @@
       "titulo": "Caixinha com Moedas",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3141,7 +3141,7 @@
       "titulo": "Sinos no Calçado",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3152,7 +3152,7 @@
       "titulo": "Chocalho de Pote de Creme",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3163,7 +3163,7 @@
       "titulo": "Garrafa com Pedrinhas de Vidro",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3174,7 +3174,7 @@
       "titulo": "Chocalho de Lata de Massa de Tomate",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3185,7 +3185,7 @@
       "titulo": "Copo Plástico com Sinos",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3196,7 +3196,7 @@
       "titulo": "Garrafa com Miçangas",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3207,7 +3207,7 @@
       "titulo": "Chocalho de Caixa de Papelão",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3218,7 +3218,7 @@
       "titulo": "Brinquedo Sonoro Artesanal",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3229,7 +3229,7 @@
       "titulo": "Garrafa de Água com Arroz Cru",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3240,7 +3240,7 @@
       "titulo": "Balão com Botões",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3251,7 +3251,7 @@
       "titulo": "Pote com Pregos e Arroz",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3262,7 +3262,7 @@
       "titulo": "Chocalho de Pote de Manteiga",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3273,7 +3273,7 @@
       "titulo": "Sinos no Carrinho",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3284,7 +3284,7 @@
       "titulo": "Brinquedo de Fita com Sino",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3295,7 +3295,7 @@
       "titulo": "Chocalho de Lata de Refrigerante",
       "dimensao": "Cognição",
       "habilidade": "Balança um brinquedo sonoro para ouvir o som.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3306,7 +3306,7 @@
       "titulo": "Bolinhas na Caixa",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3317,7 +3317,7 @@
       "titulo": "Transferência de Pano",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3328,7 +3328,7 @@
       "titulo": "Cubos Mágicos",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3339,7 +3339,7 @@
       "titulo": "Chocalhos Duplos",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3350,7 +3350,7 @@
       "titulo": "Argolas Coloridas",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3361,7 +3361,7 @@
       "titulo": "Pegar o Ursinho",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3372,7 +3372,7 @@
       "titulo": "Caça aos Potes",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3383,7 +3383,7 @@
       "titulo": "Transferência de Água",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3394,7 +3394,7 @@
       "titulo": "Pegar os Carrinhos",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3405,7 +3405,7 @@
       "titulo": "Passa para o Outro Lado",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3416,7 +3416,7 @@
       "titulo": "Potes com Tampa",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3427,7 +3427,7 @@
       "titulo": "Pegar as Colheres",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3438,7 +3438,7 @@
       "titulo": "Transferência de Papel",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3449,7 +3449,7 @@
       "titulo": "Pegar os Legos",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3460,7 +3460,7 @@
       "titulo": "Bonecos de Pelúcia",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3471,7 +3471,7 @@
       "titulo": "Passa a Bola",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3482,7 +3482,7 @@
       "titulo": "Chaves de Brinquedo",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3493,7 +3493,7 @@
       "titulo": "Transferência de Blocos",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3504,7 +3504,7 @@
       "titulo": "Pegar os Copos",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3515,7 +3515,7 @@
       "titulo": "Transferência de Lenço",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3526,7 +3526,7 @@
       "titulo": "Brinquedos de Morder",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3537,7 +3537,7 @@
       "titulo": "Transferência de Meias",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3548,7 +3548,7 @@
       "titulo": "Pegar as Escovas",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3559,7 +3559,7 @@
       "titulo": "Transferência de Pompom",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3570,7 +3570,7 @@
       "titulo": "Pegar as Frutas",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3581,7 +3581,7 @@
       "titulo": "Transferência de Chaves",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3592,7 +3592,7 @@
       "titulo": "Pegar os Livros",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3603,7 +3603,7 @@
       "titulo": "Transferência de Colher",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3614,7 +3614,7 @@
       "titulo": "Pegar os Potes de Tinta",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3625,7 +3625,7 @@
       "titulo": "Transferência de Boneco",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3636,7 +3636,7 @@
       "titulo": "Pegar as Tampinhas",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3647,7 +3647,7 @@
       "titulo": "Transferência de Fita",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3658,7 +3658,7 @@
       "titulo": "Pegar os Brinquedos de Madeira",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3669,7 +3669,7 @@
       "titulo": "Transferência de Corda",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3680,7 +3680,7 @@
       "titulo": "Pegar as Tampinhas de Pote",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3691,7 +3691,7 @@
       "titulo": "Transferência de Pano de Prato",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3702,7 +3702,7 @@
       "titulo": "Pegar as Sementes",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3713,7 +3713,7 @@
       "titulo": "Transferência de Balão",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3724,7 +3724,7 @@
       "titulo": "Pegar as Conchas",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3735,7 +3735,7 @@
       "titulo": "Transferência de Meias de Bebê",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3746,7 +3746,7 @@
       "titulo": "Pegar os Brinquedos de Banho",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3757,7 +3757,7 @@
       "titulo": "Transferência de Anel de Plástico",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3768,7 +3768,7 @@
       "titulo": "Pegar os Potes de Iogurte",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3779,7 +3779,7 @@
       "titulo": "Transferência de Luvas",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3790,7 +3790,7 @@
       "titulo": "Pegar as Esponjas",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3801,7 +3801,7 @@
       "titulo": "Transferência de Cestinha",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3812,7 +3812,7 @@
       "titulo": "Pegar as Buchas",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3823,7 +3823,7 @@
       "titulo": "Transferência de Frutas de Plástico",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3834,7 +3834,7 @@
       "titulo": "Pegar os Brinquedos de Empilhar",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3845,7 +3845,7 @@
       "titulo": "Transferência de Bola de Pano",
       "dimensao": "Cognição",
       "habilidade": "Segura um objeto em cada mão ou transfere de uma mão para outra.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3856,7 +3856,7 @@
       "titulo": "A Bolinha Caiu!",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3867,7 +3867,7 @@
       "titulo": "O Ursinho no Chão",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3878,7 +3878,7 @@
       "titulo": "Pega o Cubo Azul!",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3889,7 +3889,7 @@
       "titulo": "O Chocalho Sumiu!",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3900,7 +3900,7 @@
       "titulo": "O Anel que Rolou!",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3911,7 +3911,7 @@
       "titulo": "A Colher Mágica!",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3922,7 +3922,7 @@
       "titulo": "O Livro no Chão",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3933,7 +3933,7 @@
       "titulo": "O Carrinho Desceu!",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3944,7 +3944,7 @@
       "titulo": "A Bola de Meia",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3955,7 +3955,7 @@
       "titulo": "O Pote Vazio",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3966,7 +3966,7 @@
       "titulo": "A Fruta de Brinquedo",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3977,7 +3977,7 @@
       "titulo": "O Bloco Sumiu!",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3988,7 +3988,7 @@
       "titulo": "A Chave de Brinquedo",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -3999,7 +3999,7 @@
       "titulo": "A Bola Rolou Longe!",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4010,7 +4010,7 @@
       "titulo": "O Brinquedo de Banho",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4021,7 +4021,7 @@
       "titulo": "O Pano Mágico",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4032,7 +4032,7 @@
       "titulo": "O Boneco Que Caiu",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4043,7 +4043,7 @@
       "titulo": "A Florzinha de Brinquedo",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4054,7 +4054,7 @@
       "titulo": "A Concha no Chão",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4065,7 +4065,7 @@
       "titulo": "O Pompom Colorido",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4076,7 +4076,7 @@
       "titulo": "A Estrela de Plástico",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4087,7 +4087,7 @@
       "titulo": "O Peixe no Chão",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4098,7 +4098,7 @@
       "titulo": "A Esponja Caiu!",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4109,7 +4109,7 @@
       "titulo": "O Patinho de Borracha",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4120,7 +4120,7 @@
       "titulo": "O Copo de Plástico",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4131,7 +4131,7 @@
       "titulo": "A Cestinha Vazia",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4142,7 +4142,7 @@
       "titulo": "O Telefone de Brinquedo",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4153,7 +4153,7 @@
       "titulo": "A Vassourinha de Brinquedo",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4164,7 +4164,7 @@
       "titulo": "A Meia do Boneco",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4175,7 +4175,7 @@
       "titulo": "O Chapéu do Urso",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4186,7 +4186,7 @@
       "titulo": "O Pano de Prato Caiu",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4197,7 +4197,7 @@
       "titulo": "O Chaveiro Desceu!",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4208,7 +4208,7 @@
       "titulo": "A Bucha de Banho",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4219,7 +4219,7 @@
       "titulo": "O Pincel no Chão",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4230,7 +4230,7 @@
       "titulo": "O Livrinho de Plástico",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4241,7 +4241,7 @@
       "titulo": "O Brinquedo de Morder",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4252,7 +4252,7 @@
       "titulo": "O Anel de Encaixe",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4263,7 +4263,7 @@
       "titulo": "O Pote de Tinta Vazio",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4274,7 +4274,7 @@
       "titulo": "A Tampinha de Garrafa",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4285,7 +4285,7 @@
       "titulo": "O Jogo de Peças",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4296,7 +4296,7 @@
       "titulo": "A Luva de Bebê",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4307,7 +4307,7 @@
       "titulo": "A Garrafa de Plástico",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4318,7 +4318,7 @@
       "titulo": "O Rolo de Papel",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4329,7 +4329,7 @@
       "titulo": "O Pote de Iogurte",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4340,7 +4340,7 @@
       "titulo": "O Brinquedo Sonoro",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4351,7 +4351,7 @@
       "titulo": "O Pãozinho de Brinquedo",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4362,7 +4362,7 @@
       "titulo": "O Brinquedo de Madeira",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4373,7 +4373,7 @@
       "titulo": "A Bola com Sino",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4384,7 +4384,7 @@
       "titulo": "O Cubo de Pano",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4395,7 +4395,7 @@
       "titulo": "O Brinquedo de Encaixe",
       "dimensao": "Cognição",
       "habilidade": "Pega o brinquedo que caiu.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4406,7 +4406,7 @@
       "titulo": "Cadê o Nariz?",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4417,7 +4417,7 @@
       "titulo": "Mãos de Palminhas",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4428,7 +4428,7 @@
       "titulo": "Toque a Orelha",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4439,7 +4439,7 @@
       "titulo": "O Pé do Neném",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4450,7 +4450,7 @@
       "titulo": "Pega o Cabelo",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4461,7 +4461,7 @@
       "titulo": "Barriga de Tambor",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4472,7 +4472,7 @@
       "titulo": "O Queixo do Bebê",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4483,7 +4483,7 @@
       "titulo": "Olha os Olhos!",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4494,7 +4494,7 @@
       "titulo": "Toca a Boca",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4505,7 +4505,7 @@
       "titulo": "O Dedinho da Mão",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4516,7 +4516,7 @@
       "titulo": "Cadê o Cotovelo?",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4527,7 +4527,7 @@
       "titulo": "Joelho de Sapo",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4538,7 +4538,7 @@
       "titulo": "Ombro, Joelho e Pé",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4549,7 +4549,7 @@
       "titulo": "Espelho Mágico",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4560,7 +4560,7 @@
       "titulo": "Orelha do Urso",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4571,7 +4571,7 @@
       "titulo": "Nariz de Palhaço",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4582,7 +4582,7 @@
       "titulo": "A Mão do Amiguinho",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4593,7 +4593,7 @@
       "titulo": "Pé de Chulé",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4604,7 +4604,7 @@
       "titulo": "A Barriga do Boneco",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4615,7 +4615,7 @@
       "titulo": "A Cabeça do João!",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4626,7 +4626,7 @@
       "titulo": "O Pescoço da Girafa",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4637,7 +4637,7 @@
       "titulo": "Dedo do Pé",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4648,7 +4648,7 @@
       "titulo": "O Braço Forte",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4659,7 +4659,7 @@
       "titulo": "A Perna Longa",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4670,7 +4670,7 @@
       "titulo": "Mão na Cabeça",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4681,7 +4681,7 @@
       "titulo": "A Ponta do Nariz",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4692,7 +4692,7 @@
       "titulo": "O Dente do Neném",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4703,7 +4703,7 @@
       "titulo": "A Língua do Neném",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4714,7 +4714,7 @@
       "titulo": "O Pulso da Criança",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4725,7 +4725,7 @@
       "titulo": "O Tornozelo da Criança",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4736,7 +4736,7 @@
       "titulo": "O Joelho do Patinho",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4747,7 +4747,7 @@
       "titulo": "O Queixo do Boneco",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4758,7 +4758,7 @@
       "titulo": "As Sobrancelhas",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4769,7 +4769,7 @@
       "titulo": "As Bochechas Fofas",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4780,7 +4780,7 @@
       "titulo": "O Nariz do Cachorro",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4791,7 +4791,7 @@
       "titulo": "A Barriga do Leão",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4802,7 +4802,7 @@
       "titulo": "A Cabeça do Pato",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4813,7 +4813,7 @@
       "titulo": "As Orelhas do Coelho",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4824,7 +4824,7 @@
       "titulo": "Os Olhos do Gato",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4835,7 +4835,7 @@
       "titulo": "O Nariz da Vaca",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4846,7 +4846,7 @@
       "titulo": "Os Pés do Bebê",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4857,7 +4857,7 @@
       "titulo": "As Mãos do Bebê",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4868,7 +4868,7 @@
       "titulo": "Os Dedos das Mãos",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4879,7 +4879,7 @@
       "titulo": "Os Dedos dos Pés",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4890,7 +4890,7 @@
       "titulo": "A Testa da Criança",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4901,7 +4901,7 @@
       "titulo": "A Ponta da Língua",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4912,7 +4912,7 @@
       "titulo": "O Canto da Boca",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4923,7 +4923,7 @@
       "titulo": "Os Lábios",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4934,7 +4934,7 @@
       "titulo": "As Bochechas",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4945,7 +4945,7 @@
       "titulo": "O Queixo",
       "dimensao": "Cognição",
       "habilidade": "Aponta e nomeia parte do corpo.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4956,7 +4956,7 @@
       "titulo": "Rabiscos de Cera",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4967,7 +4967,7 @@
       "titulo": "Desenho com Tinta Dedo",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4978,7 +4978,7 @@
       "titulo": "Pintura com Pincel Grosso",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -4989,7 +4989,7 @@
       "titulo": "Rabiscos no Papelão",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5000,7 +5000,7 @@
       "titulo": "Parede de Rabiscos",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5011,7 +5011,7 @@
       "titulo": "Rabiscos na Caixinha",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5022,7 +5022,7 @@
       "titulo": "Desenho com Giz Molhado",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5033,7 +5033,7 @@
       "titulo": "Rabiscos com Esponja",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5044,7 +5044,7 @@
       "titulo": "Desenho na Lousa Mágica",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5055,7 +5055,7 @@
       "titulo": "Pintura com Bolinhas de Algodão",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5066,7 +5066,7 @@
       "titulo": "Rabiscos de Caneta Grosso",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5077,7 +5077,7 @@
       "titulo": "Desenho com Carimbos Caseiros",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5088,7 +5088,7 @@
       "titulo": "Rabiscos com Marcadores",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5099,7 +5099,7 @@
       "titulo": "Pintura com Cotonetes",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5110,7 +5110,7 @@
       "titulo": "Rabiscos no Chão",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5121,7 +5121,7 @@
       "titulo": "Desenho com Gel de Banho Colorido",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5132,7 +5132,7 @@
       "titulo": "Rabiscos com Água",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5143,7 +5143,7 @@
       "titulo": "Pintura com Brinquedos",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5154,7 +5154,7 @@
       "titulo": "Rabiscos no Papel Kraft",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5165,7 +5165,7 @@
       "titulo": "Desenho em Papelão de Pizza",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5176,7 +5176,7 @@
       "titulo": "Rabiscos em Plástico Bolha",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5187,7 +5187,7 @@
       "titulo": "Pintura com Corda",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5198,7 +5198,7 @@
       "titulo": "Rabiscos em Papel de Lixa",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5209,7 +5209,7 @@
       "titulo": "Desenho com Papel Crepom Molhado",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5220,7 +5220,7 @@
       "titulo": "Pintura com Rolo de Papel Higiênico",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5231,7 +5231,7 @@
       "titulo": "Rabiscos com Carimbos de Batata",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5242,7 +5242,7 @@
       "titulo": "Desenho em Papel de Arroz",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5253,7 +5253,7 @@
       "titulo": "Rabiscos com Pincel de Maquiagem",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5264,7 +5264,7 @@
       "titulo": "Pintura em Plástico Filme",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5275,7 +5275,7 @@
       "titulo": "Rabiscos no Papel de Alumínio",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5286,7 +5286,7 @@
       "titulo": "Desenho com Pincel de Espuma",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5297,7 +5297,7 @@
       "titulo": "Rabiscos de Giz de Cera em Papel Escuro",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5308,7 +5308,7 @@
       "titulo": "Pintura em Caixa de Ovo",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5319,7 +5319,7 @@
       "titulo": "Rabiscos com Bastões de Pintura",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5330,7 +5330,7 @@
       "titulo": "Desenho com Potes de Temperos",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5341,7 +5341,7 @@
       "titulo": "Pintura em Plástico Transparente",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5352,7 +5352,7 @@
       "titulo": "Rabiscos com Barbante",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5363,7 +5363,7 @@
       "titulo": "Desenho com Areia",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5374,7 +5374,7 @@
       "titulo": "Pintura com Legumes",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5385,7 +5385,7 @@
       "titulo": "Rabiscos em Papel Sulfite",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5396,7 +5396,7 @@
       "titulo": "Pintura com Pente",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5407,7 +5407,7 @@
       "titulo": "Rabiscos com Rolo de Textura",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5418,7 +5418,7 @@
       "titulo": "Desenho em Papel Celofane",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5429,7 +5429,7 @@
       "titulo": "Pintura com Conta-Gotas",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5440,7 +5440,7 @@
       "titulo": "Rabiscos de Giz de Lousa",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5451,7 +5451,7 @@
       "titulo": "Desenho em Plástico Bolha com Tinta",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5462,7 +5462,7 @@
       "titulo": "Pintura com Algodão",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5473,7 +5473,7 @@
       "titulo": "Rabiscos com Rolo de Papel",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5484,7 +5484,7 @@
       "titulo": "Desenho com Papelão Ondulado",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5495,7 +5495,7 @@
       "titulo": "Rabiscos com Pote de Massinha",
       "dimensao": "Cognição",
       "habilidade": "Realiza rabiscos em folhas de papel.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5506,7 +5506,7 @@
       "titulo": "Cadê o Bebê?",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5517,7 +5517,7 @@
       "titulo": "Esconde-Esconde no Pano",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5528,7 +5528,7 @@
       "titulo": "Onde Está a Criança?",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5539,7 +5539,7 @@
       "titulo": "Cantando \"Aqui Está!\"",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5550,7 +5550,7 @@
       "titulo": "Sombra na Parede",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5561,7 +5561,7 @@
       "titulo": "Foto do Bebê",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5572,7 +5572,7 @@
       "titulo": "Identificando o Boneco",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5583,7 +5583,7 @@
       "titulo": "Mãos no Rosto",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5594,7 +5594,7 @@
       "titulo": "A Criança na Bola",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5605,7 +5605,7 @@
       "titulo": "Pegadas na Areia",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5616,7 +5616,7 @@
       "titulo": "Espelho de Mão",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5627,7 +5627,7 @@
       "titulo": "Identificando a Voz",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5638,7 +5638,7 @@
       "titulo": "Onde Está o Dedo?",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5649,7 +5649,7 @@
       "titulo": "Sombras de Mão",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5660,7 +5660,7 @@
       "titulo": "A Foto da Família",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5671,7 +5671,7 @@
       "titulo": "Brincando com o Chapéu",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5682,7 +5682,7 @@
       "titulo": "O Brinquedo do Neném",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5693,7 +5693,7 @@
       "titulo": "A Mão na Tinta",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5704,7 +5704,7 @@
       "titulo": "Onde Está a Barriga?",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5715,7 +5715,7 @@
       "titulo": "O Pote de Grão de Bico",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5726,7 +5726,7 @@
       "titulo": "Onde Está o Nariz?",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5737,7 +5737,7 @@
       "titulo": "Onde Está o Pé?",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5748,7 +5748,7 @@
       "titulo": "O Brinquedo Escondido",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5759,7 +5759,7 @@
       "titulo": "Onde Está a Boca?",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5770,7 +5770,7 @@
       "titulo": "A Voz na Canção",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5781,7 +5781,7 @@
       "titulo": "Onde Está o Olho?",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5792,7 +5792,7 @@
       "titulo": "A Criança no Espelho",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5803,7 +5803,7 @@
       "titulo": "Cadê a Mão?",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5814,7 +5814,7 @@
       "titulo": "O Pano de Chão",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5825,7 +5825,7 @@
       "titulo": "A Brincadeira da Sombra",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5836,7 +5836,7 @@
       "titulo": "Onde Está a Orelha?",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5847,7 +5847,7 @@
       "titulo": "A Criança no Pano",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5858,7 +5858,7 @@
       "titulo": "Identificando o Reflexo",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5869,7 +5869,7 @@
       "titulo": "Onde Está o Cabelo?",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5880,7 +5880,7 @@
       "titulo": "Onde Está o Bebê Gigante?",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5891,7 +5891,7 @@
       "titulo": "Onde Está o Pé de Gato?",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5902,7 +5902,7 @@
       "titulo": "A Brincadeira de Desaparecer",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5913,7 +5913,7 @@
       "titulo": "Onde Está o Dedo do Pé?",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5924,7 +5924,7 @@
       "titulo": "Onde Está o Joelho?",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5935,7 +5935,7 @@
       "titulo": "Brincando de Esconder o Rosto",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5946,7 +5946,7 @@
       "titulo": "A Criança na Bola de Sabão",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5957,7 +5957,7 @@
       "titulo": "Onde Está o Braço?",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5968,7 +5968,7 @@
       "titulo": "Onde Está a Mão?",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5979,7 +5979,7 @@
       "titulo": "Brincando com o Boneco",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -5990,7 +5990,7 @@
       "titulo": "Onde Está o Nariz do Urso?",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6001,7 +6001,7 @@
       "titulo": "A Criança no Piquenique",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6012,7 +6012,7 @@
       "titulo": "Onde Está a Testa?",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6023,7 +6023,7 @@
       "titulo": "A Criança no Cesto",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6034,7 +6034,7 @@
       "titulo": "Onde Está o Queixo?",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6045,7 +6045,7 @@
       "titulo": "A Criança no Túnel",
       "dimensao": "Cognição",
       "habilidade": "Aponta para si quando perguntam: “Onde está?”.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6056,7 +6056,7 @@
       "titulo": "Pares de Ursinhos",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6067,7 +6067,7 @@
       "titulo": "Combinando Bolinhas",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6078,7 +6078,7 @@
       "titulo": "Ache a Meia",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6089,7 +6089,7 @@
       "titulo": "Juntando Blocos",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6100,7 +6100,7 @@
       "titulo": "Casal de Carrinhos",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6111,7 +6111,7 @@
       "titulo": "Pares de Chocalhos",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6122,7 +6122,7 @@
       "titulo": "Identificando Frutas",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6133,7 +6133,7 @@
       "titulo": "Onde Está a Chave?",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6144,7 +6144,7 @@
       "titulo": "Pares de Livrinhos",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6155,7 +6155,7 @@
       "titulo": "Combinando Copos",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6166,7 +6166,7 @@
       "titulo": "Pares de Bonecos",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6177,7 +6177,7 @@
       "titulo": "Ache o Pato",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6188,7 +6188,7 @@
       "titulo": "Figuras Iguais",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6199,7 +6199,7 @@
       "titulo": "Pareamento de Animais",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6210,7 +6210,7 @@
       "titulo": "Achando a Boneca",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6221,7 +6221,7 @@
       "titulo": "Juntando Legos",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6232,7 +6232,7 @@
       "titulo": "Pares de Bolinhas de Pano",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6243,7 +6243,7 @@
       "titulo": "Achando a Estrela",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6254,7 +6254,7 @@
       "titulo": "Combinando Flores",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6265,7 +6265,7 @@
       "titulo": "Pares de Colheres",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6276,7 +6276,7 @@
       "titulo": "Achando o Telefone",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6287,7 +6287,7 @@
       "titulo": "Combinando Pentes",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6298,7 +6298,7 @@
       "titulo": "Pares de Buchas",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6309,7 +6309,7 @@
       "titulo": "Achando o Pincel",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6320,7 +6320,7 @@
       "titulo": "Combinando Esponjas",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6331,7 +6331,7 @@
       "titulo": "Pares de Livros",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6342,7 +6342,7 @@
       "titulo": "Achando o Pano",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6353,7 +6353,7 @@
       "titulo": "Combinando Tampinhas",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6364,7 +6364,7 @@
       "titulo": "Pares de Conchas",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6375,7 +6375,7 @@
       "titulo": "Achando o Pote",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6386,7 +6386,7 @@
       "titulo": "Combinando Chaves",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6397,7 +6397,7 @@
       "titulo": "Pares de Colheres",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6408,7 +6408,7 @@
       "titulo": "Achando o Chocalho",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6419,7 +6419,7 @@
       "titulo": "Combinando Panos de Prato",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6430,7 +6430,7 @@
       "titulo": "Pares de Argolas",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6441,7 +6441,7 @@
       "titulo": "Achando o Chapéu",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6452,7 +6452,7 @@
       "titulo": "Combinando Copos",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6463,7 +6463,7 @@
       "titulo": "Pares de Carrinhos",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6474,7 +6474,7 @@
       "titulo": "Achando a Bola",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6485,7 +6485,7 @@
       "titulo": "Combinando Bonecos",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6496,7 +6496,7 @@
       "titulo": "Pares de Blocos",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6507,7 +6507,7 @@
       "titulo": "Achando o Pato",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6518,7 +6518,7 @@
       "titulo": "Combinando Chaves",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6529,7 +6529,7 @@
       "titulo": "Pares de Bonecos de Pelúcia",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6540,7 +6540,7 @@
       "titulo": "Achando o Telefone",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6551,7 +6551,7 @@
       "titulo": "Combinando Cestinhas",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6562,7 +6562,7 @@
       "titulo": "Pares de Brinquedos de Madeira",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6573,7 +6573,7 @@
       "titulo": "Achando a Fruta",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6584,7 +6584,7 @@
       "titulo": "Combinando Potes",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6595,7 +6595,7 @@
       "titulo": "Pares de Copos",
       "dimensao": "Cognição",
       "habilidade": "Junta objetos e figuras de mesmo nome.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6606,7 +6606,7 @@
       "titulo": "Folheando o Livro de Pano",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6617,7 +6617,7 @@
       "titulo": "Encontre o Cachorro",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6628,7 +6628,7 @@
       "titulo": "Onde Está a Bola?",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6639,7 +6639,7 @@
       "titulo": "Folheando o Livro de Plástico",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6650,7 +6650,7 @@
       "titulo": "Encontre a Maçã",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6661,7 +6661,7 @@
       "titulo": "Ache a Flor",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6672,7 +6672,7 @@
       "titulo": "Folheando o Livro do Bebê",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6683,7 +6683,7 @@
       "titulo": "Encontre o Gato",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6694,7 +6694,7 @@
       "titulo": "Onde Está o Carro?",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6705,7 +6705,7 @@
       "titulo": "Folheando o Livro da Fazenda",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6716,7 +6716,7 @@
       "titulo": "Encontre a Família",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6727,7 +6727,7 @@
       "titulo": "Ache o Sol",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6738,7 +6738,7 @@
       "titulo": "Folheando o Livro dos Brinquedos",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6749,7 +6749,7 @@
       "titulo": "Encontre a Árvore",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6760,7 +6760,7 @@
       "titulo": "Onde Está a Casa?",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6771,7 +6771,7 @@
       "titulo": "Folheando o Livro das Cores",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6782,7 +6782,7 @@
       "titulo": "Encontre a Lua",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6793,7 +6793,7 @@
       "titulo": "Ache a Estrela",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6804,7 +6804,7 @@
       "titulo": "Folheando o Livro de Sons",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6815,7 +6815,7 @@
       "titulo": "Encontre o Telefone",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6826,7 +6826,7 @@
       "titulo": "Folheando o Livro dos Números",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6837,7 +6837,7 @@
       "titulo": "Encontre a Borboleta",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6848,7 +6848,7 @@
       "titulo": "Ache o Pato",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6859,7 +6859,7 @@
       "titulo": "Folheando o Livro da Escola",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6870,7 +6870,7 @@
       "titulo": "Encontre o Avião",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6881,7 +6881,7 @@
       "titulo": "Onde Está a Colher?",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6892,7 +6892,7 @@
       "titulo": "Folheando o Livro de Rimas",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6903,7 +6903,7 @@
       "titulo": "Encontre o Boneco",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6914,7 +6914,7 @@
       "titulo": "Ache a Bola de Futebol",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6925,7 +6925,7 @@
       "titulo": "Folheando o Livro de Texturas",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6936,7 +6936,7 @@
       "titulo": "Encontre o Pássaro",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6947,7 +6947,7 @@
       "titulo": "Onde Está o Peixe?",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6958,7 +6958,7 @@
       "titulo": "Folheando o Livro das Formas",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6969,7 +6969,7 @@
       "titulo": "Encontre a Lâmpada",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6980,7 +6980,7 @@
       "titulo": "Ache o Urso",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -6991,7 +6991,7 @@
       "titulo": "Folheando o Livro dos Sentimentos",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -7002,7 +7002,7 @@
       "titulo": "Encontre o Trevo",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -7013,7 +7013,7 @@
       "titulo": "Onde Está o Balão?",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -7024,7 +7024,7 @@
       "titulo": "Folheando o Livro do Banho",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -7035,7 +7035,7 @@
       "titulo": "Encontre o Coelho",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -7046,7 +7046,7 @@
       "titulo": "Ache a Estrela do Mar",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -7057,7 +7057,7 @@
       "titulo": "Folheando o Livro de Instrumentos",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -7068,7 +7068,7 @@
       "titulo": "Encontre o Trem",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -7079,7 +7079,7 @@
       "titulo": "Onde Está a Sopa?",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -7090,7 +7090,7 @@
       "titulo": "Folheando o Livro de Gelo",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -7101,7 +7101,7 @@
       "titulo": "Encontre o Pente",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -7112,7 +7112,7 @@
       "titulo": "Ache a Seta",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -7123,7 +7123,7 @@
       "titulo": "Folheando o Livro dos Pés",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -7134,7 +7134,7 @@
       "titulo": "Encontre a Coroa",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   },
@@ -7145,7 +7145,7 @@
       "titulo": "Onde Está o Bebê?",
       "dimensao": "Cognição",
       "habilidade": "Folheia páginas de livros para localizar a figura solicitada.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "0 a 2 anos"
     }
   }

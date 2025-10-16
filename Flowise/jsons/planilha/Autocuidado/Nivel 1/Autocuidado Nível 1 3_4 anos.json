@@ -6,7 +6,7 @@
       "titulo": "O Jogo do Espelho",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -17,7 +17,7 @@
       "titulo": "O Esconde-Esconde na Toalha",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -28,7 +28,7 @@
       "titulo": "A Toalha Quentinha",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -39,7 +39,7 @@
       "titulo": "O Banho do Boneco",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -50,7 +50,7 @@
       "titulo": "A Mão Guia",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -61,7 +61,7 @@
       "titulo": "O Monstro das Gotinhas",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -72,7 +72,7 @@
       "titulo": "O \"Chefe Mandou\"",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -83,7 +83,7 @@
       "titulo": "O Mapa do Rosto",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -94,7 +94,7 @@
       "titulo": "O Carimbo de Mão Seca",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -105,7 +105,7 @@
       "titulo": "A Toalha com Cheirinho",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -116,7 +116,7 @@
       "titulo": "A Música do \"Seca-Seca\"",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -127,7 +127,7 @@
       "titulo": "A Escolha da Toalha",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -138,7 +138,7 @@
       "titulo": "O Apoio no Pulso",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -149,7 +149,7 @@
       "titulo": "O Começo da Tarefa",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -160,7 +160,7 @@
       "titulo": "O Fim da Tarefa",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -171,7 +171,7 @@
       "titulo": "O \"Toca Aqui\" com a Toalha",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -182,7 +182,7 @@
       "titulo": "O Desenho que Some",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -193,7 +193,7 @@
       "titulo": "O Resgate do Gelo",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -204,7 +204,7 @@
       "titulo": "A Janela Embaçada",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -215,7 +215,7 @@
       "titulo": "O \"Pintinho\" no Rosto",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -226,7 +226,7 @@
       "titulo": "O Super-Herói da Toalha",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -237,7 +237,7 @@
       "titulo": "O Fantoche que se Seca",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -248,7 +248,7 @@
       "titulo": "A Toalha de Bichinho",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -259,7 +259,7 @@
       "titulo": "O \"Enrola-Enrola\"",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -270,7 +270,7 @@
       "titulo": "O Quadro de Rotina Visual",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -281,7 +281,7 @@
       "titulo": "O Guardião da Toalha",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -292,7 +292,7 @@
       "titulo": "O \"Abraço\" nas Mãos",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -303,7 +303,7 @@
       "titulo": "A Toalha Falante",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -314,7 +314,7 @@
       "titulo": "A Contagem das Batidinhas",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -325,7 +325,7 @@
       "titulo": "O Desafio da Gota Única",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -336,7 +336,7 @@
       "titulo": "O \"Antes e Depois\" no Papel",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -347,7 +347,7 @@
       "titulo": "A Toalha Avião",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -358,7 +358,7 @@
       "titulo": "O \"Lava-Rápido\" de Mãos",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -369,7 +369,7 @@
       "titulo": "O \"Parabéns\" no Espelho",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -380,7 +380,7 @@
       "titulo": "O Jogo das Texturas",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -391,7 +391,7 @@
       "titulo": "A Toalha que Vira Cama",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -402,7 +402,7 @@
       "titulo": "O Caçador de Gotas Frias",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -413,7 +413,7 @@
       "titulo": "A \"Pintura\" Invisível",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -424,7 +424,7 @@
       "titulo": "O Tambor de Toalha",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -435,7 +435,7 @@
       "titulo": "O Chefe da Secagem",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -446,7 +446,7 @@
       "titulo": "O \"Sol\" na Toalha",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -457,7 +457,7 @@
       "titulo": "- Título: A Toalha Mágica que Esconde",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -468,7 +468,7 @@
       "titulo": "O \"Sanduíche\" de Mãos",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -479,7 +479,7 @@
       "titulo": "O Vídeo-Modelo",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -490,7 +490,7 @@
       "titulo": "A Recompensa Imediata",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -501,7 +501,7 @@
       "titulo": "A Toalha que Vira Cobra",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -512,7 +512,7 @@
       "titulo": "O \"Tchau\" para a Água",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -523,7 +523,7 @@
       "titulo": "O Desafio do Papel",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -534,7 +534,7 @@
       "titulo": "A \"Cabana\" de Toalha",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -545,7 +545,7 @@
       "titulo": "A Celebração da Independência",
       "dimensao": "Autocuidado",
       "habilidade": "Enxuga as mãos e o rosto com toalha, primeiro com ajuda e depois de forma independente.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -556,7 +556,7 @@
       "titulo": "A Mágica do Casaco (Coat Flip)",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -567,7 +567,7 @@
       "titulo": "O Jogo do Espelho",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -578,7 +578,7 @@
       "titulo": "O Desafio do Boneco",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -589,7 +589,7 @@
       "titulo": "A Etiqueta Secreta",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -600,7 +600,7 @@
       "titulo": "O Super-Herói Voador",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -611,7 +611,7 @@
       "titulo": "O Casaco Quentinho",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -622,7 +622,7 @@
       "titulo": "A Música do Veste-Roupa",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -633,7 +633,7 @@
       "titulo": "A Transformação do Monstro",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -644,7 +644,7 @@
       "titulo": "O Passaporte para o Parque",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -655,7 +655,7 @@
       "titulo": "O Túnel da Manga",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -666,7 +666,7 @@
       "titulo": "A Manga com Surpresa",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -677,7 +677,7 @@
       "titulo": "O Começo da Tarefa",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -688,7 +688,7 @@
       "titulo": "A Ajuda Mão-sobre-Mão",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -699,7 +699,7 @@
       "titulo": "O \"Chefe Mandou\"",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -710,7 +710,7 @@
       "titulo": "O Casaco de Duas Cores",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -721,7 +721,7 @@
       "titulo": "O Fantoche que Ajuda",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -732,7 +732,7 @@
       "titulo": "O Desfile de Moda",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -743,7 +743,7 @@
       "titulo": "O \"Acampamento\" de Casacos",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -754,7 +754,7 @@
       "titulo": "O Quadro de Rotina Visual",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -765,7 +765,7 @@
       "titulo": "O \"Achou!\" da Cabeça",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -776,7 +776,7 @@
       "titulo": "A Casa do Caracol",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -787,7 +787,7 @@
       "titulo": "O Desafio do Braço Robô",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -798,7 +798,7 @@
       "titulo": "A Etiqueta pra Fora",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -809,7 +809,7 @@
       "titulo": "O Casaco do Papai/Mamãe",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -820,7 +820,7 @@
       "titulo": "A Recompensa na Manga",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -831,7 +831,7 @@
       "titulo": "O Sinal no Chão",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -842,7 +842,7 @@
       "titulo": "O Vestiário do Atleta",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -853,7 +853,7 @@
       "titulo": "O \"Toca Aqui\" Final",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -864,7 +864,7 @@
       "titulo": "A Escolha da Roupa",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -875,7 +875,7 @@
       "titulo": "O Vídeo da Conquista",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -886,7 +886,7 @@
       "titulo": "A Gola Gigante",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -897,7 +897,7 @@
       "titulo": "A Dança da Minhoca",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -908,7 +908,7 @@
       "titulo": "O Casaco que Vira Monstro",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -919,7 +919,7 @@
       "titulo": "O Sinal no Pulso",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -930,7 +930,7 @@
       "titulo": "A Ajuda Parcial",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -941,7 +941,7 @@
       "titulo": "O \"Chefe\" do Guarda-Roupa",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -952,7 +952,7 @@
       "titulo": "O Casaco de Fantasia",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -963,7 +963,7 @@
       "titulo": "O \"Abraço\" do Casaco",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -974,7 +974,7 @@
       "titulo": "O Desafio sem Olhar",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -985,7 +985,7 @@
       "titulo": "A Corrida para Sair",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -996,7 +996,7 @@
       "titulo": "O Casaco de Chuva",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1007,7 +1007,7 @@
       "titulo": "A Troca de Papéis",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1018,7 +1018,7 @@
       "titulo": "O \"Pronto para a Foto\"",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1029,7 +1029,7 @@
       "titulo": "O Casaco Leve e Pesado",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1040,7 +1040,7 @@
       "titulo": "O Lançamento do Capuz",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1051,7 +1051,7 @@
       "titulo": "O Quebra-Cabeça do Corpo",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1062,7 +1062,7 @@
       "titulo": "O \"Esconderijo\" da Etiqueta",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1073,7 +1073,7 @@
       "titulo": "A \"Puxada\" Final",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1084,7 +1084,7 @@
       "titulo": "O Vestiário da Piscina",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1095,7 +1095,7 @@
       "titulo": "A Celebração da Tentativa",
       "dimensao": "Autocuidado",
       "habilidade": "Consegue vestir casaco, malha ou camisa sozinho(a).",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1106,7 +1106,7 @@
       "titulo": "O Detetive da Etiqueta",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1117,7 +1117,7 @@
       "titulo": "O Super-Herói da Barriga",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1128,7 +1128,7 @@
       "titulo": "O Adesivo Mágico",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1139,7 +1139,7 @@
       "titulo": "O Jogo do \"Certo e Errado\"",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1150,7 +1150,7 @@
       "titulo": "O Bolso do Tesouro",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1161,7 +1161,7 @@
       "titulo": "O Desfile da Roupa Certa",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1172,7 +1172,7 @@
       "titulo": "O Carimbo da Mãozinha",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1183,7 +1183,7 @@
       "titulo": "A História do Zíper",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1194,7 +1194,7 @@
       "titulo": "O Jogo do Espelho",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1205,7 +1205,7 @@
       "titulo": "A \"Cosquinha\" das Costas",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1216,7 +1216,7 @@
       "titulo": "O Botão Solitário",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1227,7 +1227,7 @@
       "titulo": "O \"Chefe Mandou\"",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1238,7 +1238,7 @@
       "titulo": "O \"Parabéns\" para a Estampa",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1249,7 +1249,7 @@
       "titulo": "A Fita da Frente",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1260,7 +1260,7 @@
       "titulo": "O Fantoche Confuso",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1271,7 +1271,7 @@
       "titulo": "O Cheiro da Frente",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1282,7 +1282,7 @@
       "titulo": "O Quebra-Cabeça da Roupa",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1293,7 +1293,7 @@
       "titulo": "A Lanterna do Detetive",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1304,7 +1304,7 @@
       "titulo": "A Corrida da Roupa Certa",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1315,7 +1315,7 @@
       "titulo": "O \"Toca Aqui\" no Desenho",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1326,7 +1326,7 @@
       "titulo": "O Sinal no Cabide",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1337,7 +1337,7 @@
       "titulo": "A \"Janela\" da Camisa",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1348,7 +1348,7 @@
       "titulo": "O Casaco de Duas Caras",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1359,7 +1359,7 @@
       "titulo": "O Jogo das Dobras",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1370,7 +1370,7 @@
       "titulo": "A Textura Secreta",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1381,7 +1381,7 @@
       "titulo": "O \"Caminhão\" da Barriga",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1392,7 +1392,7 @@
       "titulo": "A \"Foto\" da Roupa Certa",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1403,7 +1403,7 @@
       "titulo": "O \"Mapa\" da Calça",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1414,7 +1414,7 @@
       "titulo": "A \"Casa\" dos Botões",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1425,7 +1425,7 @@
       "titulo": "O Jogo do \"Certo ou Esquisito?\"",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1436,7 +1436,7 @@
       "titulo": "A \"Coroa\" da Gola",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1447,7 +1447,7 @@
       "titulo": "O \"GPS\" da Roupa",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1458,7 +1458,7 @@
       "titulo": "O Desafio da Pilha",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1469,7 +1469,7 @@
       "titulo": "O \"Carimbo\" do Polegar",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1480,7 +1480,7 @@
       "titulo": "A \"Conversa\" das Roupas",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1491,7 +1491,7 @@
       "titulo": "O Vestiário de Atleta",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1502,7 +1502,7 @@
       "titulo": "O \"Alvo\" do Umbigo",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1513,7 +1513,7 @@
       "titulo": "O \"Contorno\" da Roupa",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1524,7 +1524,7 @@
       "titulo": "A \"Sombra\" da Frente",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1535,7 +1535,7 @@
       "titulo": "O \"Guardião\" do Desenho",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1546,7 +1546,7 @@
       "titulo": "O \"Antes e Depois\"",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1557,7 +1557,7 @@
       "titulo": "A \"Bússola\" da Gola",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1568,7 +1568,7 @@
       "titulo": "O \"Encontre o Par\"",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1579,7 +1579,7 @@
       "titulo": "O \"Prêmio\" por Verificar",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1590,7 +1590,7 @@
       "titulo": "A \"Festa\" das Roupas",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1601,7 +1601,7 @@
       "titulo": "O \"Túnel\" do Corpo",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1612,7 +1612,7 @@
       "titulo": "O \"Cheiro\" das Costas",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1623,7 +1623,7 @@
       "titulo": "O \"Disfarce\" da Roupa",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1634,7 +1634,7 @@
       "titulo": "A \"Passarela\" da Roupa Certa",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1645,7 +1645,7 @@
       "titulo": "A Celebração da Autonomia",
       "dimensao": "Autocuidado",
       "habilidade": "Reconhece a frente das roupas ao se vestir.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1656,7 +1656,7 @@
       "titulo": "O Chefe da Mesa",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1667,7 +1667,7 @@
       "titulo": "O Cardápio do Dia",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1678,7 +1678,7 @@
       "titulo": "O Jogo do \"Eu Primeiro\"",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1689,7 +1689,7 @@
       "titulo": "A Escavação Arqueológica",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1700,7 +1700,7 @@
       "titulo": "O Cronômetro Visual",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1711,7 +1711,7 @@
       "titulo": "O Piquenique dos Independentes",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1722,7 +1722,7 @@
       "titulo": "O Jantar dos Bonecos",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1733,7 +1733,7 @@
       "titulo": "O Prato de Etapas",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1744,7 +1744,7 @@
       "titulo": "O \"Self-Service\" Assistido",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1755,7 +1755,7 @@
       "titulo": "A Conquista da Montanha",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1766,7 +1766,7 @@
       "titulo": "A Música da Refeição",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1777,7 +1777,7 @@
       "titulo": "O Desafio do Garfo",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1788,7 +1788,7 @@
       "titulo": "O Livro do \"Eu Como Sozinho\"",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1799,7 +1799,7 @@
       "titulo": "O Sinal de \"Satisfeito\"",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1810,7 +1810,7 @@
       "titulo": "O Guardanapo Mágico",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1821,7 +1821,7 @@
       "titulo": "O Resgate da Comida",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1832,7 +1832,7 @@
       "titulo": "O Brinde da Independência",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1843,7 +1843,7 @@
       "titulo": "O Cientista de Alimentos",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1854,7 +1854,7 @@
       "titulo": "A Comida em Formatos",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1865,7 +1865,7 @@
       "titulo": "O \"Check-list\" do Prato Limpo",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1876,7 +1876,7 @@
       "titulo": "A Escolha do Ajudante",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1887,7 +1887,7 @@
       "titulo": "O \"Restaurante\" em Casa",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1898,7 +1898,7 @@
       "titulo": "A Torre de Comida",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1909,7 +1909,7 @@
       "titulo": "A \"Gasolina\" para Brincar",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1920,7 +1920,7 @@
       "titulo": "O \"Fotógrafo\" da Refeição",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1931,7 +1931,7 @@
       "titulo": "O Jogo do Silêncio",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1942,7 +1942,7 @@
       "titulo": "O \"Termômetro\" da Fome",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1953,7 +1953,7 @@
       "titulo": "O Ajudante dos Outros",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1964,7 +1964,7 @@
       "titulo": "O Desafio da Última Garfada",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1975,7 +1975,7 @@
       "titulo": "O Pote da Sorte",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1986,7 +1986,7 @@
       "titulo": "A \"Pausa\" Estratégica",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -1997,7 +1997,7 @@
       "titulo": "O \"Piloto\" e o \"Co-piloto\"",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2008,7 +2008,7 @@
       "titulo": "A Refeição em Capítulos",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2019,7 +2019,7 @@
       "titulo": "O \"Tchau\" para o Prato",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2030,7 +2030,7 @@
       "titulo": "O \"Prato Surpresa\"",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2041,7 +2041,7 @@
       "titulo": "A \"Comida que Canta\"",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2052,7 +2052,7 @@
       "titulo": "O Jogo da Memória Alimentar",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2063,7 +2063,7 @@
       "titulo": "A \"Ferramenta\" Certa",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2074,7 +2074,7 @@
       "titulo": "O \"Super-Herói da Autonomia\"",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2085,7 +2085,7 @@
       "titulo": "O \"Chef\" Avaliador",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2096,7 +2096,7 @@
       "titulo": "O \"Encha o Tanque\"",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2107,7 +2107,7 @@
       "titulo": "O \"Piquenique na Varanda\"",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2118,7 +2118,7 @@
       "titulo": "A \"Conquista\" da Sede",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2129,7 +2129,7 @@
       "titulo": "O \"Diploma\" de Bom Garfo",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2140,7 +2140,7 @@
       "titulo": "O \"Treino\" com Massinha",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2151,7 +2151,7 @@
       "titulo": "O \"Guardião\" do Prato",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2162,7 +2162,7 @@
       "titulo": "O \"Contador\" de Mordidas",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2173,7 +2173,7 @@
       "titulo": "A \"Refeição dos Campeões\"",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2184,7 +2184,7 @@
       "titulo": "O \"Prato Limpo, Brinquedo à Vista\"",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2195,7 +2195,7 @@
       "titulo": "A Celebração da Tentativa",
       "dimensao": "Autocuidado",
       "habilidade": "Alimenta-se de forma independente durante toda a refeição.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2206,7 +2206,7 @@
       "titulo": "O Alvo Flutuante",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2217,7 +2217,7 @@
       "titulo": "A Mágica das Cores",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2228,7 +2228,7 @@
       "titulo": "O \"Apaga-Velas\" de Brinquedo",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2239,7 +2239,7 @@
       "titulo": "O Super-Herói no Vaso",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2250,7 +2250,7 @@
       "titulo": "A Canção do \"Pé no Chão\"",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2261,7 +2261,7 @@
       "titulo": "O Banquinho do Capitão",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2272,7 +2272,7 @@
       "titulo": "O Jogo do Espelho",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2283,7 +2283,7 @@
       "titulo": "O Desafio do Boneco",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2294,7 +2294,7 @@
       "titulo": "A Corrida para o Banheiro",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2305,7 +2305,7 @@
       "titulo": "O \"Tchau\" para o Xixi",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2316,7 +2316,7 @@
       "titulo": "O Regador de Plantas",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2327,7 +2327,7 @@
       "titulo": "O \"Ponto Vermelho\"",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2338,7 +2338,7 @@
       "titulo": "O \"Chefe Mandou\"",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2349,7 +2349,7 @@
       "titulo": "O Jogo do \"Certo e Errado\"",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2360,7 +2360,7 @@
       "titulo": "A Pista de Pouso",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2371,7 +2371,7 @@
       "titulo": "O \"Rio\" no Vaso",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2382,7 +2382,7 @@
       "titulo": "A Prática com a Garrafa",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2393,7 +2393,7 @@
       "titulo": "O \"Guardião\" da Tampa",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2404,7 +2404,7 @@
       "titulo": "A Roupa de Super-Herói",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2415,7 +2415,7 @@
       "titulo": "O \"Splash\" Divertido",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2426,7 +2426,7 @@
       "titulo": "O Quadro de Conquistas",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2437,7 +2437,7 @@
       "titulo": "O \"Xixi de Cachorrinho\"",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2448,7 +2448,7 @@
       "titulo": "O Livro Social do Banheiro",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2459,7 +2459,7 @@
       "titulo": "O \"Time do Xixi em Pé\"",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2470,7 +2470,7 @@
       "titulo": "O \"Check-list\" Visual",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2481,7 +2481,7 @@
       "titulo": "O \"Segura Firme\"",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2492,7 +2492,7 @@
       "titulo": "O \"Balanço\" Final",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2503,7 +2503,7 @@
       "titulo": "A \"Cachoeira\" de Espuma",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2514,7 +2514,7 @@
       "titulo": "A Recompensa Imediata",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2525,7 +2525,7 @@
       "titulo": "O \"GPS\" do Xixi",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2536,7 +2536,7 @@
       "titulo": "O Jogo da Sombra",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2547,7 +2547,7 @@
       "titulo": "A \"Limpeza\" dos Campeões",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2558,7 +2558,7 @@
       "titulo": "O \"Olhe para Baixo\"",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2569,7 +2569,7 @@
       "titulo": "O \"Poder\" da Descarga",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2580,7 +2580,7 @@
       "titulo": "O \"Professor\" do Boneco",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2591,7 +2591,7 @@
       "titulo": "O \"Silvo\" da Serpente",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2602,7 +2602,7 @@
       "titulo": "O Alvo que Gira",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2613,7 +2613,7 @@
       "titulo": "A Roupa Fácil de Tirar",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2624,7 +2624,7 @@
       "titulo": "O \"Xixi de Bombeiro\"",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2635,7 +2635,7 @@
       "titulo": "A Conversa com o \"Willy\"",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2646,7 +2646,7 @@
       "titulo": "O Desafio da Distância",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2657,7 +2657,7 @@
       "titulo": "O \"Gelo\" Mágico",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2668,7 +2668,7 @@
       "titulo": "O \"Diploma\" de Mira Certa",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2679,7 +2679,7 @@
       "titulo": "O Jogo do \"Quanto Falta?\"",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2690,7 +2690,7 @@
       "titulo": "O \"Barco\" de Folha",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2701,7 +2701,7 @@
       "titulo": "A \"Limpeza\" do Pincel",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2712,7 +2712,7 @@
       "titulo": "O Sinal de \"Pronto\"",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2723,7 +2723,7 @@
       "titulo": "O \"Gol\" no Vaso",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2734,7 +2734,7 @@
       "titulo": "O \"Esguicho\" do Elefante",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2745,7 +2745,7 @@
       "titulo": "A Celebração da Tentativa",
       "dimensao": "Autocuidado",
       "habilidade": "Para meninos, urina em pé no vaso sanitário.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2756,7 +2756,7 @@
       "titulo": "A Corrida do Algodão",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2767,7 +2767,7 @@
       "titulo": "O Espelho Embaçado",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2778,7 +2778,7 @@
       "titulo": "O Fantasminha de Lenço",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2789,7 +2789,7 @@
       "titulo": "O Jogo do Espelho \"Limpa-Limpa\"",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2800,7 +2800,7 @@
       "titulo": "O Boneco Resfriado",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2811,7 +2811,7 @@
       "titulo": "A Música do \"Adeus, Meleca\"",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2822,7 +2822,7 @@
       "titulo": "O Apaga-Velas de Nariz",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2833,7 +2833,7 @@
       "titulo": "O Lixo Monstrinho",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2844,7 +2844,7 @@
       "titulo": "O Lenço com Cheirinho Bom",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2855,7 +2855,7 @@
       "titulo": "O \"Chefe Mandou\"",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2866,7 +2866,7 @@
       "titulo": "A Caixa de Lenços Divertida",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2877,7 +2877,7 @@
       "titulo": "O \"Som do Elefante\"",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2888,7 +2888,7 @@
       "titulo": "O \"Pintor\" de Nariz",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2899,7 +2899,7 @@
       "titulo": "O Jogo do \"Certo e Errado\"",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2910,7 +2910,7 @@
       "titulo": "O Quadro de Rotina da Limpeza",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2921,7 +2921,7 @@
       "titulo": "A Corrida do Papel Picado",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2932,7 +2932,7 @@
       "titulo": "O Lenço Macio e o Áspero",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2943,7 +2943,7 @@
       "titulo": "O \"Aperta e Sopra\"",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2954,7 +2954,7 @@
       "titulo": "O \"Tchau\" no Espelho",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2965,7 +2965,7 @@
       "titulo": "O \"Antes e Depois\"",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2976,7 +2976,7 @@
       "titulo": "O \"Barco\" a Sopro",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2987,7 +2987,7 @@
       "titulo": "A Mágica do Lenço",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -2998,7 +2998,7 @@
       "titulo": "A \"Estação de Limpeza\"",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3009,7 +3009,7 @@
       "titulo": "O \"Cheirinho\" de Comida",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3020,7 +3020,7 @@
       "titulo": "A Recompensa Imediata",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3031,7 +3031,7 @@
       "titulo": "O \"Doutor\" de Narizes",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3042,7 +3042,7 @@
       "titulo": "O Carimbo de Nariz Limpo",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3053,7 +3053,7 @@
       "titulo": "O Jogo da Imitação Animal",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3064,7 +3064,7 @@
       "titulo": "O \"Alvo\" no Lixo",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3075,7 +3075,7 @@
       "titulo": "O \"Super-Herói do Sopro\"",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3086,7 +3086,7 @@
       "titulo": "O Lenço que Vira Fantasia",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3097,7 +3097,7 @@
       "titulo": "A Mão Guia",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3108,7 +3108,7 @@
       "titulo": "O Começo da Tarefa",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3119,7 +3119,7 @@
       "titulo": "O Fim da Tarefa",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3130,7 +3130,7 @@
       "titulo": "O \"Aperto\" Engraçado",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3141,7 +3141,7 @@
       "titulo": "O Vídeo-Modelo",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3152,7 +3152,7 @@
       "titulo": "O \"Termômetro\" do Nariz",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3163,7 +3163,7 @@
       "titulo": "O \"Segredo\" do Assobio",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3174,7 +3174,7 @@
       "titulo": "A \"Limpeza\" dos Óculos",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3185,7 +3185,7 @@
       "titulo": "O \"Cheirinho\" Pós-Limpeza",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3196,7 +3196,7 @@
       "titulo": "A \"Pista\" no Nariz",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3207,7 +3207,7 @@
       "titulo": "O Lenço Umedecido",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3218,7 +3218,7 @@
       "titulo": "O \"Aviso\" do Espirro",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3229,7 +3229,7 @@
       "titulo": "A Dança do Nariz",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3240,7 +3240,7 @@
       "titulo": "O \"Tesouro\" na Caixa",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3251,7 +3251,7 @@
       "titulo": "O \"Exército\" da Limpeza",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3262,7 +3262,7 @@
       "titulo": "A Troca de Papéis",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3273,7 +3273,7 @@
       "titulo": "O \"Mapa\" do Rosto",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3284,7 +3284,7 @@
       "titulo": "O Lembrete do Amigo",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3295,7 +3295,7 @@
       "titulo": "A Celebração da Tentativa",
       "dimensao": "Autocuidado",
       "habilidade": "Limpa ou assoa o nariz quando lembrado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3306,7 +3306,7 @@
       "titulo": "A Loja de Roupas",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3317,7 +3317,7 @@
       "titulo": "O Vestiário do Super-Herói",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3328,7 +3328,7 @@
       "titulo": "O Jogo do \"Pesca-Cabides\"",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3339,7 +3339,7 @@
       "titulo": "A Mão Guia",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3350,7 +3350,7 @@
       "titulo": "O Desafio do Boneco",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3361,7 +3361,7 @@
       "titulo": "O Cabide da Cor Certa",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3372,7 +3372,7 @@
       "titulo": "A Música da Arrumação",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3383,7 +3383,7 @@
       "titulo": "O \"Chefe Mandou\"",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3394,7 +3394,7 @@
       "titulo": "O Desafio do \"Último Passo\"",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3405,7 +3405,7 @@
       "titulo": "O Desafio do \"Primeiro Passo\"",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3416,7 +3416,7 @@
       "titulo": "O \"Alvo\" no Varão",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3427,7 +3427,7 @@
       "titulo": "O Armário Acessível",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3438,7 +3438,7 @@
       "titulo": "A Etiqueta do Cabide",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3449,7 +3449,7 @@
       "titulo": "O Fantoche Organizador",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3460,7 +3460,7 @@
       "titulo": "O Jogo do Espelho",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3471,7 +3471,7 @@
       "titulo": "O \"Guardião\" das Roupas Limpas",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3482,7 +3482,7 @@
       "titulo": "A Torre de Camisetas",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3493,7 +3493,7 @@
       "titulo": "O Dobrador Mágico",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3504,7 +3504,7 @@
       "titulo": "A Gaveta das Cores",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3515,7 +3515,7 @@
       "titulo": "O Jogo do \"Leve e Pesado\"",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3526,7 +3526,7 @@
       "titulo": "O \"Passaporte\" para Brincar",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3537,7 +3537,7 @@
       "titulo": "O \"Encaixe\" do Quebra-cabeça",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3548,7 +3548,7 @@
       "titulo": "O \"Banho de Sol\" das Roupas",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3559,7 +3559,7 @@
       "titulo": "O \"Antes e Depois\"",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3570,7 +3570,7 @@
       "titulo": "O \"Trenzinho\" da Lavanderia",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3581,7 +3581,7 @@
       "titulo": "O Desafio com Uma Mão",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3592,7 +3592,7 @@
       "titulo": "O \"Equilibrista\" de Cabides",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3603,7 +3603,7 @@
       "titulo": "A \"Entrega\" Especial",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3614,7 +3614,7 @@
       "titulo": "O Quadro de Rotina Visual",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3625,7 +3625,7 @@
       "titulo": "O \"Cheirinho\" de Roupa Limpa",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3636,7 +3636,7 @@
       "titulo": "O Jogo das Argolas",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3647,7 +3647,7 @@
       "titulo": "A \"Casa\" da Roupa",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3658,7 +3658,7 @@
       "titulo": "O \"Mistério\" da Gaveta",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3669,7 +3669,7 @@
       "titulo": "O \"Parabéns\" para o Cabide",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3680,7 +3680,7 @@
       "titulo": "O \"Acampamento\" de Roupas",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3691,7 +3691,7 @@
       "titulo": "A Troca de Papéis",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3702,7 +3702,7 @@
       "titulo": "O \"Super-Herói da Ordem\"",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3713,7 +3713,7 @@
       "titulo": "O Desafio do Zíper",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3724,7 +3724,7 @@
       "titulo": "O Cabideiro Giratório",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3735,7 +3735,7 @@
       "titulo": "O \"Guarda-Costas\" do Armário",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3746,7 +3746,7 @@
       "titulo": "O \"Segredo\" da Dobra",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3757,7 +3757,7 @@
       "titulo": "O \"Encaixe\" na Cadeira",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3768,7 +3768,7 @@
       "titulo": "O \"Parceiro\" de Arrumação",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3779,7 +3779,7 @@
       "titulo": "A \"Ponte\" do Cabide",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3790,7 +3790,7 @@
       "titulo": "O \"Carimbo\" de Tarefa Concluída",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3801,7 +3801,7 @@
       "titulo": "A \"Escalada\" da Roupa",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3812,7 +3812,7 @@
       "titulo": "O \"Antes\" da História",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3823,7 +3823,7 @@
       "titulo": "O \"Silêncio\" da Arrumação",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3834,7 +3834,7 @@
       "titulo": "O \"Adeus\" à Cadeira",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3845,7 +3845,7 @@
       "titulo": "A Celebração da Ajuda",
       "dimensao": "Autocuidado",
       "habilidade": "Pendura e guarda roupas no armário quando solicitado.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3856,7 +3856,7 @@
       "titulo": "O Mestre Mandou",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3867,7 +3867,7 @@
       "titulo": "O Quadro de Comandos Visuais",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3878,7 +3878,7 @@
       "titulo": "A Caça aos Germes",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3889,7 +3889,7 @@
       "titulo": "A Música com Instruções",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3900,7 +3900,7 @@
       "titulo": "O Robô Obediente",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3911,7 +3911,7 @@
       "titulo": "As Cartas da Missão",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3922,7 +3922,7 @@
       "titulo": "O Dentista de Bonecos",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3933,7 +3933,7 @@
       "titulo": "O Mapa do Tesouro da Boca",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3944,7 +3944,7 @@
       "titulo": "O Jogo do \"Siga a Lanterna\"",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3955,7 +3955,7 @@
       "titulo": "O Eco da Escova",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3966,7 +3966,7 @@
       "titulo": "A Limpeza do Castelo",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3977,7 +3977,7 @@
       "titulo": "O \"Alarme\" da Troca",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3988,7 +3988,7 @@
       "titulo": "O Super-Herói do Sorriso",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -3999,7 +3999,7 @@
       "titulo": "O Jogo do \"O Que Falta?\"",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4010,7 +4010,7 @@
       "titulo": "A Escolha Premiada",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4021,7 +4021,7 @@
       "titulo": "O Fantoche Instrutor",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4032,7 +4032,7 @@
       "titulo": "O \"Trenzinho\" e a \"Bolinha\"",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4043,7 +4043,7 @@
       "titulo": "A Limpeza dos Legos",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4054,7 +4054,7 @@
       "titulo": "A Surpresa na Escova",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4065,7 +4065,7 @@
       "titulo": "O Desafio da Espuma",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4076,7 +4076,7 @@
       "titulo": "O \"Parabéns\" Específico",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4087,7 +4087,7 @@
       "titulo": "A \"Pintura\" com a Pasta",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4098,7 +4098,7 @@
       "titulo": "O Sinal de \"Próximo\"",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4109,7 +4109,7 @@
       "titulo": "O \"Detetive\" do Sorriso",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4120,7 +4120,7 @@
       "titulo": "O \"Bocão de Jacaré\"",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4131,7 +4131,7 @@
       "titulo": "A Escovação por Cores",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4142,7 +4142,7 @@
       "titulo": "O Comando em Duas Etapas",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4153,7 +4153,7 @@
       "titulo": "A \"Varredura\" da Língua",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4164,7 +4164,7 @@
       "titulo": "O \"Chefe da Espuma\"",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4175,7 +4175,7 @@
       "titulo": "O Jogo do \"Quente ou Frio\"",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4186,7 +4186,7 @@
       "titulo": "A Ajuda Mão-sobre-Mão Guiada",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4197,7 +4197,7 @@
       "titulo": "O \"Gravador\"",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4208,7 +4208,7 @@
       "titulo": "O \"Despertador\" dos Dentes",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4219,7 +4219,7 @@
       "titulo": "A \"Comida\" da Escova",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4230,7 +4230,7 @@
       "titulo": "A Troca de Papéis",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4241,7 +4241,7 @@
       "titulo": "O \"Concerto\" da Boca",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4252,7 +4252,7 @@
       "titulo": "O \"Prêmio\" no Espelho",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4263,7 +4263,7 @@
       "titulo": "A Instrução Secreta",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4274,7 +4274,7 @@
       "titulo": "O \"Desliga\" da Sujeira",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4285,7 +4285,7 @@
       "titulo": "A Escovação Temática",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4296,7 +4296,7 @@
       "titulo": "O \"Show do Sorriso\"",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4307,7 +4307,7 @@
       "titulo": "A \"Limpeza\" da Garagem",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4318,7 +4318,7 @@
       "titulo": "O \"Ok, Chefe!\"",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4329,7 +4329,7 @@
       "titulo": "A Sequência com os Dedos",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4340,7 +4340,7 @@
       "titulo": "A \"Escova-Robô\"",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4351,7 +4351,7 @@
       "titulo": "O \"Calendário\" de Instruções",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4362,7 +4362,7 @@
       "titulo": "O \"Adeus\" à Comida",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4373,7 +4373,7 @@
       "titulo": "O \"Desafio\" do Bochecho",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4384,7 +4384,7 @@
       "titulo": "A \"Foto\" da Instrução",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4395,7 +4395,7 @@
       "titulo": "A Celebração da Audição",
       "dimensao": "Autocuidado",
       "habilidade": "Escova os dentes seguindo instruções.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4406,7 +4406,7 @@
       "titulo": "O Cofrinho de Botões",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4417,7 +4417,7 @@
       "titulo": "O Monstro Come-Botão",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4428,7 +4428,7 @@
       "titulo": "O Quadro de Botões Gigantes",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4439,7 +4439,7 @@
       "titulo": "A Fuga dos Animais (Desabotoar)",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4450,7 +4450,7 @@
       "titulo": "A Centopeia de Botões",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4461,7 +4461,7 @@
       "titulo": "A Flor que Abre e Fecha",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4472,7 +4472,7 @@
       "titulo": "O Tesouro Escondido",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4483,7 +4483,7 @@
       "titulo": "A Música do \"Empurra e Puxa\"",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4494,7 +4494,7 @@
       "titulo": "O Desafio do Boneco",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4505,7 +4505,7 @@
       "titulo": "A Ajuda Mão-sobre-Mão",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4516,7 +4516,7 @@
       "titulo": "O Jogo do Espelho",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4527,7 +4527,7 @@
       "titulo": "O Botão Tímido",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4538,7 +4538,7 @@
       "titulo": "O \"Empurra\" com Um Dedo",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4549,7 +4549,7 @@
       "titulo": "O \"Puxa\" Final",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4560,7 +4560,7 @@
       "titulo": "A Pista de Botões",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4571,7 +4571,7 @@
       "titulo": "O Fantoche Alfaiate",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4582,7 +4582,7 @@
       "titulo": "O \"Chefe Mandou\"",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4593,7 +4593,7 @@
       "titulo": "O Sanduíche de Feltro",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4604,7 +4604,7 @@
       "titulo": "A Força da Massinha",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4615,7 +4615,7 @@
       "titulo": "A Casa de Botão Rígida",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4626,7 +4626,7 @@
       "titulo": "O Desafio do Punho",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4637,7 +4637,7 @@
       "titulo": "A \"Garagem\" do Botão",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4648,7 +4648,7 @@
       "titulo": "O Botão na Vertical vs. Horizontal",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4659,7 +4659,7 @@
       "titulo": "O Jogo das Cores",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4670,7 +4670,7 @@
       "titulo": "A Recompensa Imediata",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4681,7 +4681,7 @@
       "titulo": "O Uniforme do Bombeiro",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4692,7 +4692,7 @@
       "titulo": "O Jaleco do Doutor",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4703,7 +4703,7 @@
       "titulo": "O \"Último Botão\"",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4714,7 +4714,7 @@
       "titulo": "O \"Primeiro Botão\"",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4725,7 +4725,7 @@
       "titulo": "A \"Libertação\" do Colar",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4736,7 +4736,7 @@
       "titulo": "O Jogo da Memória de Botões",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4747,7 +4747,7 @@
       "titulo": "O \"Segredo\" do Pijama",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4758,7 +4758,7 @@
       "titulo": "O \"Puxador\" de Elástico",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4769,7 +4769,7 @@
       "titulo": "O Contraste de Cores",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4780,7 +4780,7 @@
       "titulo": "O \"Trem\" de Vagões",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4791,7 +4791,7 @@
       "titulo": "O Vídeo-Modelo",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4802,7 +4802,7 @@
       "titulo": "O \"Esconde-Esconde\" de Botões",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4813,7 +4813,7 @@
       "titulo": "O \"Enrola-Enrola\" de Tiras",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4824,7 +4824,7 @@
       "titulo": "O Desafio da Almofada",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4835,7 +4835,7 @@
       "titulo": "A Troca de Papéis",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4846,7 +4846,7 @@
       "titulo": "A \"Chave\" e a \"Fechadura\"",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4857,7 +4857,7 @@
       "titulo": "O \"Carimbo\" de Botão",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4868,7 +4868,7 @@
       "titulo": "O \"Calendário\" de Feltro",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4879,7 +4879,7 @@
       "titulo": "O \"Cinto\" do Boneco",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4890,7 +4890,7 @@
       "titulo": "O Jogo da Sequência",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4901,7 +4901,7 @@
       "titulo": "A \"Mágica\" da Casa Vazia",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4912,7 +4912,7 @@
       "titulo": "O \"Fotógrafo\" de Botões",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4923,7 +4923,7 @@
       "titulo": "O \"Guardião\" dos Botões",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4934,7 +4934,7 @@
       "titulo": "O \"Saco de Dormir\" do Boneco",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   },
@@ -4945,7 +4945,7 @@
       "titulo": "A Celebração da Tentativa",
       "dimensao": "Autocuidado",
       "habilidade": "Desabotoa e abotoa botões.",
-      "nivel": "Nível 1",
+      "nivel_autismo": "Nível 1",
       "idade": "3 a 4 anos"
     }
   }
