@@ -24,8 +24,8 @@ Linguagem - Nivel 3: Feito
 // Até aqui o Total de Chunks foi de 35140 (até agora tava tudo certo)
 
 Socialização - Nivel 1: Feito
-Socialização - Nivel 2: 
-Socialização - Nivel 3:  
+Socialização - Nivel 2: Feito
+Socialização - Nivel 3: Feito
+8700 Chunks
 
-
-Total de Chunks previsto: 
+Total de Chunks previsto: 43840 Chunks
