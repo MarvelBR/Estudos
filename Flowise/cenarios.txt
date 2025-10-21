@@ -1,0 +1,49 @@
+Cenário 1 - Aluno sem Histórico
+
+Sou um professor do ensino infantil e tenho um aluno com TEA nível 1 e idade entre 0 a 2 anos.
+O objetivo é trabalhar a dimensão Socialização, com foco na habilidade específica: Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por ao menos 5 minutos.
+Com base nessas informações, crie 2 atividades diferentes, criativas, lúdicas e adequadas à faixa etária infantil, que expandam o desenvolvimento do aluno.
+Evite repetições e garanta coerência com o nível de TEA e o histórico apresentado.
+
+
+Cenário 2 - Protocolo + histórico com avaliações POSITIVAS (nova dimensão)
+
+Sou um professor do ensino infantil e tenho um aluno com TEA nível 1 e idade entre 0 a 2 anos.
+O objetivo anterior era trabalhar a dimensão Socializaçã, com foco na habilidade específica: Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por ao menos 5 minutos, e as seguintes atividades foram realizadas com avaliação positiva:
+
+Atividade 1: Brincar de “pique-esconde” adaptado, estimulando o contato visual e o riso.
+
+Atividade 2: Rodinha de músicas infantis, incentivando a imitação de gestos e o engajamento em grupo.
+
+Diante do progresso observado, quero planejar novas atividades em uma dimensão diferente, como Cognição, para expandir as habilidades do aluno.
+Sugira 2 novas atividades criativas, lúdicas e adequadas à faixa etária, que favoreçam o desenvolvimento da comunicação, levando em conta o sucesso das atividades anteriores e o nível de TEA do aluno.
+
+
+Cenário 3 - Protocolo + histórico com avaliações NEGATIVAS (mesma dimensão)
+
+Sou um professor do ensino infantil e tenho um aluno com TEA nível 1 e idade entre 0 a 2 anos.
+O objetivo é trabalhar a dimensão Socialização, com foco na habilidade específica: Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por ao menos 5 minutos.
+Foram realizadas as seguintes atividades, mas os resultados não foram positivos:
+
+Atividade 1: Brincar de “passe o brinquedo”, esperando a vez para receber um objeto.
+
+Atividade 2: Montar blocos em dupla, incentivando o compartilhamento e cooperação.
+
+O aluno apresentou dificuldade em permanecer engajado e interagir com o colega.
+Crie 2 novas atividades voltadas à mesma dimensão (Socialização), mas com abordagens mais graduais e adaptadas ao nível de engajamento atual do aluno, de forma que permitam continuar a observação e favorecer avanços no mesmo objetivo.
+As atividades devem ser criativas, lúdicas e apropriadas para crianças de 0 a 2 anos.
+
+
+Cenário X - Modelo Geral de Prompt
+
+Sou um professor do ensino infantil e tenho um aluno com TEA nível [X] e idade entre [Y] a [Z] anos.
+O objetivo é trabalhar a dimensão [Nome da dimensão], com foco na habilidade específica: [Descrição da habilidade].
+
+Histórico:
+
+[Breve descrição de atividades anteriores e resultados positivos/negativos].
+
+Com base nessas informações, crie [N] atividades diferentes, criativas, lúdicas e adequadas à faixa etária infantil, que [continuem / expandam / reforcem] o desenvolvimento do aluno.
+Evite repetições e garanta coerência com o nível de TEA e o histórico apresentado.
+
+https://docs.google.com/spreadsheets/d/1p2LZmTDuMuVS1f1U5sU37W9GkJMGzlyfEkY3_9qAwRA/edit?gid=0#gid=0
