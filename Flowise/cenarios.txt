@@ -9,11 +9,11 @@ Evite repetições e garanta coerência com o nível de TEA e o histórico apres
 Cenário 2 - Protocolo + histórico com avaliações POSITIVAS (nova dimensão)
 
 Sou um professor do ensino infantil e tenho um aluno com TEA nível 1 e idade entre 0 a 2 anos.
-O objetivo anterior era trabalhar a dimensão Socializaçã, com foco na habilidade específica: Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por ao menos 5 minutos, e as seguintes atividades foram realizadas com avaliação positiva:
+O objetivo anterior era trabalhar a dimensão Socialização, com foco na habilidade específica: Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por ao menos 5 minutos, e as seguintes atividades foram realizadas com avaliação positiva:
 
-Atividade 1: Brincar de “pique-esconde” adaptado, estimulando o contato visual e o riso.
+Atividade 1: Título: O Jogo do Pote Mágico; Descrição: Dê à criança um pote transparente com uma fenda na tampa. Ofereça objetos coloridos, como pompons ou botões grandes, para que ela os coloque um a um na fenda.
 
-Atividade 2: Rodinha de músicas infantis, incentivando a imitação de gestos e o engajamento em grupo.
+Atividade 2: Título: O Painel de Água; Descrição: Coloque uma folha de papel para desenho dentro de uma bandeja. Ofereça um pincel molhado para a criança "pintar" a folha, vendo a cor escurecer.
 
 Diante do progresso observado, quero planejar novas atividades em uma dimensão diferente, como Cognição, para expandir as habilidades do aluno.
 Sugira 2 novas atividades criativas, lúdicas e adequadas à faixa etária, que favoreçam o desenvolvimento da comunicação, levando em conta o sucesso das atividades anteriores e o nível de TEA do aluno.
@@ -25,9 +25,9 @@ Sou um professor do ensino infantil e tenho um aluno com TEA nível 1 e idade en
 O objetivo é trabalhar a dimensão Socialização, com foco na habilidade específica: Fica sentado(a) à mesa brincando ou fazendo atividades preferidas por ao menos 5 minutos.
 Foram realizadas as seguintes atividades, mas os resultados não foram positivos:
 
-Atividade 1: Brincar de “passe o brinquedo”, esperando a vez para receber um objeto.
+Atividade 1: Título: O Jogo do Pote Mágico; Descrição: Dê à criança um pote transparente com uma fenda na tampa. Ofereça objetos coloridos, como pompons ou botões grandes, para que ela os coloque um a um na fenda.
 
-Atividade 2: Montar blocos em dupla, incentivando o compartilhamento e cooperação.
+Atividade 2: Título: O Painel de Água; Descrição: Coloque uma folha de papel para desenho dentro de uma bandeja. Ofereça um pincel molhado para a criança "pintar" a folha, vendo a cor escurecer.
 
 O aluno apresentou dificuldade em permanecer engajado e interagir com o colega.
 Crie 2 novas atividades voltadas à mesma dimensão (Socialização), mas com abordagens mais graduais e adaptadas ao nível de engajamento atual do aluno, de forma que permitam continuar a observação e favorecer avanços no mesmo objetivo.
