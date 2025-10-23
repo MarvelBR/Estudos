@@ -5,7 +5,6 @@ O objetivo é trabalhar a dimensão Socialização, com foco na habilidade espec
 Com base nessas informações, crie 2 atividades diferentes, criativas, lúdicas e adequadas à faixa etária infantil, que expandam o desenvolvimento do aluno.
 Evite repetições e garanta coerência com o nível de TEA e o histórico apresentado.
 
-
 Cenário 2 - Protocolo + histórico com avaliações POSITIVAS (nova dimensão)
 
 Sou um professor do ensino infantil e tenho um aluno com TEA nível 1 e idade entre 0 a 2 anos.
@@ -17,7 +16,7 @@ Atividade 2: Título: O Painel de Água; Descrição: Coloque uma folha de papel
 
 Diante do progresso observado, quero planejar novas atividades em uma dimensão diferente, como Cognição, para expandir as habilidades do aluno.
 Sugira 2 novas atividades criativas, lúdicas e adequadas à faixa etária, que favoreçam o desenvolvimento da comunicação, levando em conta o sucesso das atividades anteriores e o nível de TEA do aluno.
-
+Evite repetições e garanta coerência com o nível de TEA e o histórico apresentado.
 
 Cenário 3 - Protocolo + histórico com avaliações NEGATIVAS (mesma dimensão)
 
@@ -32,6 +31,7 @@ Atividade 2: Título: O Painel de Água; Descrição: Coloque uma folha de papel
 O aluno apresentou dificuldade em permanecer engajado e interagir com o colega.
 Crie 2 novas atividades voltadas à mesma dimensão (Socialização), mas com abordagens mais graduais e adaptadas ao nível de engajamento atual do aluno, de forma que permitam continuar a observação e favorecer avanços no mesmo objetivo.
 As atividades devem ser criativas, lúdicas e apropriadas para crianças de 0 a 2 anos.
+Evite repetições e garanta coerência com o nível de TEA e o histórico apresentado.
 
 
 Cenário X - Modelo Geral de Prompt
