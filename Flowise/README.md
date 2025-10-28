@@ -30,14 +30,14 @@
         * Deu tudo certo!
     3. Acesse: **[Flowise](http://localhost:3000)**, para verificar se o **$\textcolor{teal}{\textnormal{Flowise}}$** está funcionando.
         * Caso apareça uma tela semelhante a essa: 
-            * ![Flowise Login Page](imagens/flowise.png)
+          ![Flowise Login Page](imagens/flowise.png)
         * Deu tudo certo!
             * Caso você tenha setado um **username** e uma **password** no docker, coloque eles no `Existing Username` e `Existing Password` (caso não tenha colocado, esses campos nem irão aparecer).
             * O resto das informações preencha como é pedido.
 
 ---
 
-5. Depois de logar no **[Flowise](http://localhost:3000)**, vá até a aba **AgentFlow** e clique em **$\textcolor{royalblue}{\textnormal{+ Add New}}$**.
+1. Depois de logar no **[Flowise](http://localhost:3000)**, vá até a aba **AgentFlow** e clique em **$\textcolor{royalblue}{\textnormal{+ Add New}}$**.
     1. Nessa nova tela você verá que existe o botão **$\textcolor{seagreen}{\textnormal{Start}}$**, usaremos ele logo.
     2. No canto superiror esquerdo, você verá que existe um botão de **+**.
     3. Clicando nele, você arrastará a node **$\textcolor{royalblue}{\textnormal{Agent}}$** para tela, do lado do **$\textcolor{seagreen}{\textnormal{Start}}$**.
