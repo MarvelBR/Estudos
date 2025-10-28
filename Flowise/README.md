@@ -29,8 +29,7 @@
         * Caso apareça uma tela semelhante a essa: ![Qdrant Home Page](imagens/qdrant.png)
         * Deu tudo certo!
     3. Acesse: **[Flowise](http://localhost:3000)**, para verificar se o **$\textcolor{teal}{\textnormal{Flowise}}$** está funcionando.
-        * Caso apareça uma tela semelhante a essa: 
-          ![Flowise Login Page](imagens/flowise.png)
+        * Caso apareça uma tela semelhante a essa: ![Flowise Login Page](imagens/flowise.png)
         * Deu tudo certo!
             * Caso você tenha setado um **username** e uma **password** no docker, coloque eles no `Existing Username` e `Existing Password` (caso não tenha colocado, esses campos nem irão aparecer).
             * O resto das informações preencha como é pedido.
