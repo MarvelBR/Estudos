@@ -13,7 +13,7 @@
 
 ---
 
-1. Baixe os modelos no **Ollama**:
+3. Baixe os modelos no **Ollama**:
     1. Entre no container do **Ollama** digitando: `docker exec -it ollama bash`.
     2. Escolha o **modelo de linguagem** (no meu caso testei o llama3.2:3b), então dentro do container: `ollama pull llama3.2:3b`.
     3. Escolha o **modelo de embedding** (no meu caso foi o nomic-embed-text), ainda dentro do container: `ollama pull nomic-embed-text`.
@@ -36,7 +36,7 @@
 
 ---
 
-1. Depois de logar no **[Flowise](http://localhost:3000)**, vá até a aba **AgentFlow** e clique em **+ Add New**.
+5. Depois de logar no **[Flowise](http://localhost:3000)**, vá até a aba **AgentFlow** e clique em **+ Add New**.
     1. Nessa nova tela você verá que existe o botão **Start**, usaremos ele logo.
     2. No canto superiror esquerdo, você verá que existe um botão de **+**.
     3. Clicando nele, você arrastará a node **Agent** para tela, do lado do **Start**.
@@ -59,7 +59,7 @@
 
 ---
 
-1. Volte para a tela inicial do **Flowise**, e vá para a aba **Document Store** para aplicar o **<ins>RAG</ins>**.
+7. Volte para a tela inicial do **Flowise**, e vá para a aba **Document Store** para aplicar o **<ins>RAG</ins>**.
     1. Clique em **+ Add New** e dê um nome para esse armazenamento de documentos.
     2. Entrando nesse armazenamento clicamos em **+ Add Document Loader**. 
         1. Agora selecione o **Document Loader** específico do tipo de arquivo que você quer utilizar.
@@ -89,7 +89,7 @@
 
 ---
 
-1.  Volte para o **Document Loader** do **Flowise**:
+9.  Volte para o **Document Loader** do **Flowise**:
     1. Onde está o Loader do documento salvo, existe o campo `Actions` com um **Options** clicável, clique nele.
     2. Depois clique em `Upsert Chunks`.
         1. Onde está escrito **Select Embeddings** selecione a opção escolhida no início (no meu caso foi o embedding do **Ollama**)
@@ -120,7 +120,7 @@
 
 ---
 
-1.  Verificar se tudo deu certo:
+11.  Verificar se tudo deu certo:
     1. Abra o **chat** e pergunte algo sobre o que você o ensinou.
     2. Caso apareça o nome da base de dados que você criou e em seguida algum texto, significa que deu certo.
     3. Exemplo: 

@@ -102,9 +102,7 @@ def txt_para_json(caminho_txt, fonte="", titulo="Documento"):
 
     print(f"✅ JSON gerado: {caminho_json} ({len(chunks)} chunks)")
 
-# -------------------------
 # Exemplo de uso
-# -------------------------
 if __name__ == "__main__":
     txt_arquivo = "artigos/Secretaria_Desenvolvimento_Social.txt"
 
