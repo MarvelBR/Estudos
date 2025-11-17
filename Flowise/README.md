@@ -54,7 +54,6 @@
             * Explicando rapidamente, quanto maior **temperatura**, mais **"criatividade"** o agente vai ter, mas com isso ele pode acabar inventando informações.
             * Eu recomendaria um **0.3** ou **0.4** normalmente.
         4. Os parâmetros `Top P` e `Top K` também trabalham nessa ideia de criatividade ou conservadorismo, mas não mexi neles.
-        5. Os outros parâmetros não são tão relevantes, mas caso queria dar uma olhada melhor: ![Parâmetros Ollama](https://github.com/ollama/ollama/blob/main/docs/modelfile.md#valid-parameters-and-values).
     4. Podemos testar ele clicando no **ícone** de **chat** no canto superior direito da aba, caso ele responda algo, deu certo!
 
 ---
